@@ -20,3 +20,5 @@ And, while with silent, lifting mind I’ve trod
 The high untrespassed sanctity of space,
 Put out my hand, and touched the face of God.
 ```
+
+I first read this poem as a freshman in California. Few things have been as powerful as the experience of reading it.
