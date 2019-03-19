@@ -87,8 +87,7 @@ Unicorns become possible again.
 Not a poem, strictly speaking, but a poetic quote that always comes to mind. 
 
 ```markdown
-Deep time is something that even geologists and their generalist peers, 
-the earth and planetary scientists, can never fully grow accustomed to. 
+Deep time is something that even geologists and their generalist peers, the earth and planetary scientists, can never fully grow accustomed to. 
 
 The sight of a fossilized form, perhaps the outline of a trilobite, a leaf, 
 or a saurian footfall can still send a shiver through their bones, or 
