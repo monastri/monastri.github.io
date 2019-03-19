@@ -67,9 +67,9 @@ ones and zeroes. Our job is to build something interesting out of those ones and
 not solve this problem any more than quantum electrodynamics tells us how to build a bicycle; knowing the abstract 
 fact that a bicycle is built from atoms doesn’t tell you how to build a bicycle out of atoms—which atoms to use and 
 where to put them. Similarly, the abstract knowledge that biological neurons implement human intelligence does not 
-explain human intelligence. The classical hype of early neural networks, that they used “the same parallel architecture 
-as the human brain,” should, at most, have been a claim of using the same parallel architecture as an earthworm’s 
-brain. (And given the complexity of biological neurons, the claim would still have been wrong.)
+explain human intelligence. The classical hype of early neural networks, that they used “the same parallel 
+architecture as the human brain,” should, at most, have been a claim of using the same parallel architecture as an 
+earthworm’s brain. (And given the complexity of biological neurons, the claim would still have been wrong.)
 ```
 
 Or as Tooby and Cosmides (1992) put it:
@@ -77,21 +77,21 @@ Or as Tooby and Cosmides (1992) put it:
 ```markdown
 The science of understanding living organization is very different from physics or chemistry, where parsimony makes 
 sense as a theoretical criterion. The study of organisms is more like reverse engineering, where one may be dealing 
-with a large array of very different components whose heterogenous organization is explained by the way in which they 
-interact to produce a functional outcome. Evolution, the constructor of living organisms, has no privileged tendency 
-to build into designs principles of operation that are simple and general.
+with a large array of very different components whose heterogenous organization is explained by the way in which 
+they interact to produce a functional outcome. Evolution, the constructor of living organisms, has no privileged 
+tendency to build into designs principles of operation that are simple and general.
 ```
 
 Here’s the more obvious kind of “physics envy” in AI:
 
 ```markdown
 The field of Artificial Intelligence suffers from a heavy, lingering dose of genericity and black-box, blank-slate, 
-tabula-rasa concepts seeping in from the Standard Social Sciences Model (SSSM) identified by Tooby and Cosmides (1992). 
-The general project of liberating AI from the clutches of the SSSM is more work than I wish to undertake in this paper, 
-but one problem that must be dealt with immediately is physics envy. The development of physics over the last few 
-centuries has been characterized by the discovery of unifying equations which neatly underlie many complex phenomena. 
-Most of the past fifty years in AI might be described as the search for a similar unifying principle believed to 
-underlie the complex phenomenon of intelligence.
+tabula-rasa concepts seeping in from the Standard Social Sciences Model (SSSM) identified by Tooby and Cosmides 
+(1992). The general project of liberating AI from the clutches of the SSSM is more work than I wish to undertake in 
+this paper, but one problem that must be dealt with immediately is physics envy. The development of physics over the 
+last few centuries has been characterized by the discovery of unifying equations which neatly underlie many complex 
+phenomena. Most of the past fifty years in AI might be described as the search for a similar unifying principle 
+believed to underlie the complex phenomenon of intelligence.
 
 Physics envy in AI is the search for a single, simple underlying process, with the expectation that this one discovery 
 will lay bare all the secrets of intelligence. The tendency to treat new approaches to AI as if they were new theories 
@@ -110,15 +110,189 @@ the one true essence of intelligence was tested and discarded.
 
 Douglas Lenat’s AM and Eurisko programs (Lenat 1983)—though the results were controversial and may have been mildly 
 exaggerated (Ritchie and Hanna 1984)—used nonetheless very intriguing and fundamental design patterns to deliver 
-significant and unprecedented results. Despite this, the design patterns of Eurisko, such as self-modifying decomposable 
-heuristics, have seen almost no reuse in later AIs. Even Lenat’s subsequent Cyc project (Lenat, Prakash, and Shepherd 
-1985) apparently does not reuse the ideas developed in Eurisko.
+significant and unprecedented results. Despite this, the design patterns of Eurisko, such as self-modifying 
+decomposable heuristics, have seen almost no reuse in later AIs. Even Lenat’s subsequent Cyc project (Lenat, Prakash, 
+and Shepherd 1985) apparently does not reuse the ideas developed in Eurisko.
 
 From the perspective of a modern-day programmer, accustomed to hoarding design patterns and code libraries, the 
 lack of crossfertilization is a surprising anomaly. One would think that self-optimizing heuristics would be useful 
 as an external tool, e.g. for parameter tuning, even if the overall cognitive architecture did not allow for the 
 internal use of such heuristics.
 ```
+
+A related point:
+
+```markdown
+Leaving out key design elements, without replacement, on the basis of the mistaken belief that they are not 
+relevant to general intelligence, is an error that displays a terrifying synergy with “physics envy.” In extreme 
+cases—and most historical cases have been extreme—the design ignores everything about the human mind except one 
+characteristic (logic, distributed parallelism, fuzziness, etc.), which is held to be “the key to intelligence.” 
+(On my more pessimistic days I sometimes wonder if successive fads are the only means by which knowledge of a 
+given feature of human intelligence becomes widespread in AI.)
+```
+
+On the importance of emphasizing (the right kind of) “supersystem design” in developing general intelligence:
+
+```markdown
+I argue strongly for “supersystems,” but I do not believe that “supersystems” are the necessary and sufficient 
+Key to AI. General intelligence requires the right supersystem, with the right cognitive subsystems, doing the 
+right things in the right way. Humans are not intelligent by virtue of being “supersystems,” but by virtue of 
+being a particular supersystem which implements human intelligence. I emphasize supersystem design because I 
+believe that the field of AI has been crippled by the wrong kind of simplicity—a simplicity which, as a design 
+constraint, rules out workable designs for intelligence; a simplicity which, as a methodology, rules out 
+incremental progress toward an understanding of general intelligence; a simplicity which, as a viewpoint, renders 
+most of the mind invisible except for whichever single aspect is currently promoted as the Key to AI.
+```
+
+On the need to focus on, not design simplicity, but “sufficiently complex explanations” and “usefully deep designs”:
+
+```markdown
+If the quest for design simplicity is to be “considered harmful,” what should replace it? I believe that rather 
+than simplicity, we should pursue sufficiently complex explanations and usefully deep designs. In ordinary 
+programming, there is no reason to assume a priori that the task is enormously large. In AI the rule should be 
+that the problem is always harder and deeper than it looks, even after you take this rule into account.
+
+Knowing that the task is large does not enable us to meet the challenge just by making our designs larger or more 
+complicated; certain specific complexity is required, and complexity for the sake of complexity is worse than 
+useless. Nonetheless, the presumption that we are more likely to underdesign than overdesign implies a different 
+attitude towards design, in which victory is never declared, and even after a problem appears to be solved, we go 
+on trying to solve it.
+
+If this creed were to be summed up in a single phrase, it would be: “Necessary but not sufficient.” In accordance 
+with this creed, it should be emphasized that supersystems thinking is only one part of a larger paradigm, and that 
+an open-ended design process is itself “necessary but not sufficient.” These are first steps toward AI, but not 
+the only first steps, and certainly not the last steps.
+```
+
+On his candidate for “the most debilitating mistake in AI”:
+
+```markdown
+If I had to pick one single mistake that has been the most debilitating in AI, it would be implementing a process 
+too close to the token level—trying to implement a high-level process without implementing the underlying layers 
+of organization. Many proverbial AI pathologies result at least partially from omitting lower levels of 
+organization from the design.
+
+Take, for example, that version of the “frame problem”—sometimes also considered a form of the “commonsense 
+problem”—in which intelligent reasoning appears to require knowledge of an infinite number of special cases. 
+Consider a CPU which adds two 32-bit numbers. The higher level consists of two integers which are added to produce 
+a third integer. On a lower level, the computational objects are not regarded as opaque “integers,” but as ordered 
+structures of 32 bits. When the CPU performs an arithmetic operation, two structures of 32 bits collide, under 
+certain rules which govern the local interactions between bits, and the result is a new structure of 32 bits. Now 
+consider the woes of a research team, with no knowledge of the CPU’s underlying implementation, that tries to 
+create an arithmetic “expert system” by encoding a vast semantic network containing the “knowledge” that two and 
+two make four, twenty-one and sixteen make thirty-seven, and so on. This giant lookup table requires eighteen 
+billion billion entries for completion. 
+
+In this hypothetical world where the lower-level process of addition is not 
+understood, we can imagine the “common-sense” problem for addition; the launching of distributed Internet projects 
+to “encode all the detailed knowledge necessary for addition”; the frame problem for addition; the philosophies of 
+formal semantics under which the LISP token thirty-seven is meaningful because it refers to thirty-seven objects in 
+the external world; the design principle that the token thirty-seven has no internal complexity and is rather given 
+meaning by its network of relations to other tokens; the “number grounding problem”; the hopeful futurists arguing 
+that past projects to create Artificial Addition failed because of inadequate computing power; and so on.
+```
+
+On the difference between human-written programs and computation in neurons:
+
+```markdown
+Another class of problem stems from “porting” across the extremely different programming styles of evolution 
+versus human coding. Human-written programs typically involve a long series of chained dependencies that intersect 
+at single points of failure— “crystalline” is a good term to describe most human code. Computation in neurons 
+has a different character. Over time our pictures of biological neurons have evolved from simple integrators of 
+synaptic inputs that fire when a threshold input level is reached, to sophisticated biological processors with 
+mixed analog-digital logics, adaptive plasticity, dendritic computing, and functionally relevant dendritic and 
+synaptic morphologies (Koch and Segev 2000). What remains true is that, from an algorithmic perspective, neural 
+computing uses roughly arithmetical operations14 that proceed along multiple intertwining channels in which 
+information is represented redundantly and processed stochastically. Hence, it is easier to “train” neural 
+networks—even nonbiological connectionist networks—than to train a piece of human-written code. Flipping a random 
+bit inside the state of a running program, or flipping a random bit in an assembly-language instruction, has a 
+much greater effect than a similar perturbation of a neural network. For neural networks the fitness landscapes 
+are smoother. Why is this? Biological neural networks need to tolerate greater environmental noise (data error) 
+and processor noise (computational error), but this is only the beginning of the explanation.
+
+Smooth fitness landscapes are a useful, necessary, and fundamental outcome of evolution. Every evolutionary 
+success starts as a mutation—an error—or as a novel genetic combination. A modern organism, powerfully adaptive 
+with a large reservoir of genetic complexity, necessarily possesses a very long evolutionary history; that is, 
+the genotype has necessarily passed through a very large number of successful mutations and recombinations along 
+the road to its current form… “Smooth fitness landscapes” imply, among other things, that a small perturbation in 
+the program code (genetic noise), in the input (environmental noise), or in the state of the executing program 
+(processor noise), is likely to produce at most a small degradation in output quality. In most human-written code, 
+a small perturbation of any kind usually causes a crash. Genomes are built by a cumulative series of point 
+mutations and random recombinations. Human-written programs start out as high-level goals which are translated, 
+by an extended serial thought process, into code. A perturbation to human-written code perturbs the code’s final 
+form, rather than its first cause, and the code’s final form has no history of successful mutation. The thoughts 
+that gave rise to the code probably have a smooth fitness metric, in the sense that a slight perturbation to the 
+programmer’s state of mind will probably produce code that is at most a little worse, and possibly a little better. 
+Human thoughts, which are the original source of human-written code, are resilient; the code itself is fragile.
+```
+
+On why we’re trichromats, and not (say) tetrachromats like mantis shrimp (I honestly thought this was one of those unanswerable anthropic-style questions, so it was pretty surprising to find a naturalistic non-anthropic-flavored explanation):
+
+```markdown
+Among other questions, Roger Shepard’s truly elegant paper “The Perceptual Organization of Colors” seeks to answer 
+the question of trichromancy: Why are there three kinds of cones in the human retina, and not two, or four? Why is 
+human visual perception organized into a three-dimensional color space? Historically, it was often theorized that 
+trichromancy represented an arbitrary compromise between chromatic resolution and spatial resolution; that is, 
+between the number of colors perceived and the grain size of visual resolution. As it turns out, there is a more 
+fundamental reason why three color channels are needed.
+
+To clarify the question, consider that surfaces possess a potentially infinite number of spectral reflectance 
+distributions. We will focus on spectral reflectance distributions, rather than spectral power distributions, 
+because adaptively relevant objects that emit their own light are environmentally rare. Hence the physically 
+constant property of most objects is the spectral reflectance distribution, which combines with the spectral power 
+distribution of light impinging on the object to give rise to the spectral power distribution received by the human 
+eye. The spectral reflectance distribution is defined over the wavelengths from 400 nm to 700 nm (the visible range), 
+and since wavelength is a continuum, the spectral reflectance distribution can theoretically require an unlimited 
+number of quantities to specify. Hence, it is not possible to exactly constrain a spectral reflectance distribution 
+using only three quantities, which is the amount of information transduced by human cones.
+
+The human eye is not capable of discriminating among all physically possible reflecting surfaces. However, it is 
+possible that for “natural” surfaces—surfaces of the kind commonly encountered in the ancestral environment—reflectance 
+for each pure frequency does not vary independently of reflectance for all other frequencies. For example, there might 
+exist some set of basis reflectance functions, such that the reflectance distributions of almost all natural surfaces 
+could be expressed as a weighted sum of the basis vectors. If so, one possible explanation for the trichromancy of 
+human vision would be that three color channels are just enough to perform adequate discrimination in a “natural” color 
+space of limited dimensionality.
+
+The ability to discriminate between all natural surfaces would be the design recommended by the “environmental 
+regularity” philosophy of sensory modalities. The dimensionality of the internal model would mirror the dimensionality 
+of the environment. As it turns out, natural surfaces have spectral reflectance distributions that vary along roughly 
+five to seven dimensions (Maloney 1986). There thus exist natural surfaces that, although appearing to trichromatic 
+viewers as “the same color,” nonetheless possess different spectral reflectance distributions.
+
+Shepard (1992) instead asks how many color channels are needed to ensure that the color we perceive is the same color 
+each time the surface is viewed under different lighting conditions. The amount of ambient light can also potentially 
+vary along an unlimited number of dimensions, and the actual light reaching the eye is the product of the spectral 
+power distribution and the spectral reflectance distribution. A reddish object in bluish light may reflect the same 
+number of photons of each wavelength as a bluish object in reddish light. Similarly, a white object in reddish light 
+may reflect mostly red photons, while the same white object in bluish light may reflect mostly blue photons. And yet 
+the human visual system manages to maintain the property of color constancy; the same object will appear to be the 
+same color under different lighting conditions.
+
+Judd et al. (1964) measured 622 spectral power distributions for natural lighting, under 622 widely varying natural 
+conditions of weather and times of day, and found that variations in natural lighting reduce to three degrees of 
+freedom. Furthermore, these three degrees of freedom bear a close correspondence to the three dimensions of color 
+opponency that were proposed for the human visual system based on experimental examination (Hurvich and Jameson 1957). 
+The three degrees of freedom are:
+
+1. The light-dark variation, which depends on the total light reaching the object.
+
+2. The yellow-blue variation, which depends on whether a surface is illuminated by direct sunlight or is in shade. In 
+shade the surface is illuminated by the Raleigh-scattered blue light of the sky, but is not directly illuminated by the 
+sun. The corresponding yellow extreme occurs when an object is illuminated only by direct sunlight; e.g., if sunlight 
+enters through a small channel and skylight is cut off.
+
+3. The red-green variation, which depends on both the elevation of the sun (how much atmosphere the sun travels through), 
+and the amount of atmospheric water vapor. E.g., illumination by a red sunset versus illumination at midday. Red 
+wavelengths are the wavelengths least scattered by dust and most absorbed by water.
+
+The three color channels of the human visual system are precisely the number of channels needed in order to maintain 
+color constancy under natural lighting conditions.18 Three color channels are not enough to discriminate between all
+natural surface reflectances, but three color channels are the exact number required to compensate for ambient natural 
+lighting and thereby ensure that the same surface is perceptually the “same color” on any two occasions. This 
+simplifies the adaptively important task of recognizing a previously experienced object on future encounters.
+```
+
 
 ## Miscellaneous
 
