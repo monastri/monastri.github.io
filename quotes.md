@@ -81,7 +81,7 @@ affairs of logical analysis. If anomalies are approached with white gloves, it i
 seem to tell us only that there is an error somewhere and that they are silent about its source. We have 
 to become shrewd inquisitors of errors, interact with them, simulate them (with models and computers), 
 amplify them: we have to learn to make them talk.
-```markdown
+```
 
 Cosma Shalizi again, this time on an interesting argument for how “good statistics” should be defined (cf. [Properties versus Principles debate](http://bactra.org/notebooks/properties-vs-principles-for-statistics.html)):
 
@@ -101,7 +101,7 @@ reasons why a given procedure is reliable, and the ways we find them, are many a
 the Neyman-Pearson lemma, we directly minimize error probabilities; but sometimes we maximize likelihood, 
 sometimes we use conditioning to update prior probability distributions, etc. None of these --- particularly 
 the last --- *defines* a reliable way of learning from data.
-```markdown
+```
 
 Carl Shulman's [Research advice](https://docs.google.com/document/d/1_yuuheVqp1quDfkuRcpoW_HO7jPaI7QnRjF1zl_VovU/edit) has the following bit on statistical literacy which I feel really strongly about and wholeheartedly endorse:
 
