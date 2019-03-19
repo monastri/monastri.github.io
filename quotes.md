@@ -70,3 +70,34 @@ overqualified ragpicker are that children are entitled to treat their mothers’
 that you can make the world a better place by destroying economic value, and that the moral worth of 
 an action should be measured by the conspicuousness of the sacrifice rather than the gain to the beneficiary.
 ```
+
+Douglas Hofstadter on the necessary strangeness of scientific explanations:
+
+```markdown
+It is no accident, I would maintain, that quantum mechanics is so wildly counterintuitive. Part of the 
+nature of explanation is that it must eventually hit some point where further probing only increases 
+opacity rather than decreasing it. 
+
+Consider the problem of understanding the nature of solids. You might wonder where solidity comes form. 
+What if someone said to you, "The ultimate basis of this brick's solidity is that it is composed of a 
+stupendous number of eensy weensy bricklike objects that themselves are rock-solid"? You might be 
+interested to learn that bricks are composed of micro-bricks, but the initial question - "What accounts 
+for solidity?" - has been thoroughly begged. What we ultimately want is for solidity to vanish, to 
+dissolve, to disintegrate into some totally different kind of phenomenon with which we have no experience. 
+Only then, when we have reached some completely novel, alien level will we feel that we have really made 
+progress in explaining the top-level phenomenon.
+
+...
+
+I first saw this thought expressed in the stimulating book Patterns of Discovery by Norwood Russell 
+Hanson. Hanson attributes it to a number of thinkers, such as Isaac Newton, who wrote, in his famous 
+work Opticks: "The parts of all homogeneal hard Bodies which fully touch one another, stick together 
+very strongly. And for explaining how this may be, some have invented hooked Atoms, which is begging 
+the Question." Hanson also quotes James Clerk Maxwell (from an article entitled "Atom"): "We may 
+indeed suppose the atom elastic, but this is to endow it with the very property for the explanation 
+of which... the atomic constitution was originally assumed." Finally, here is a quote Hanson provides 
+from Werner Heisenberg himself: "If atoms are really to explain the origin of color and smell of 
+visible material bodies, then they cannot possess properties like color and smell." 
+
+So, although it is not an original thought, it is useful to bear in mind that "greenness disintegrates".
+```
