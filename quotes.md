@@ -8,7 +8,7 @@ I've sorted the quotes below into the following provisional categories:
 
 1. [Morality](#morality)
 2. [Statistics](#statistics)
-2. [Mathematical maturity](#mathematical-maturity)
+2. [Math](#math)
 2. [General intelligence](#general-intelligence) 
 2. [Miscellaneous](#miscellaneous)
 
@@ -17,7 +17,7 @@ Have fun reading them! I certainly did.
 <a name="#morality"></a>
 
 ## Morality
-([overview](#overview))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
 Scott Alexander on the distinction between axiology, morality, and law, from [this essay](https://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets/):
 
@@ -132,7 +132,7 @@ my friend, and f@$k whatever social trust or community cohesion would be lost by
 <a name="#statistics"></a>
 
 ## Statistics
-([overview](#overview))([morality](#morality))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))([morality](#morality))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
 Piet Hein:
 
@@ -240,8 +240,67 @@ explicit claims, use of evidence, and argument.
 
 <a name="#mathematical-maturity"></a>
 
-## Mathematical maturity
+## Math
 ([overview](#overview))([morality](#morality))([statistics](#statistics))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+
+### How famous open problems get solved
+
+From Terry Tao's post [Be sceptical of your own work](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/):
+
+```markdown
+Actual solutions to a major problem tend to be arrived at by a process more like the following (often 
+involving several mathematicians over a period of years or decades, with many of the intermediate steps 
+described here being significant publishable papers in their own right):
+
+1. Isolate a toy model case x of major problem X.
+2. Solve model case x using method A.
+3. Try using method A to solve the full problem X.
+4. This does not succeed, but method A can be extended to handle a few more model cases of X, such as 
+x’ and x”.
+5. Eventually, it is realised that method A relies crucially on a property P being true; this property is 
+known for x, x’, and x”, thus explaining the current progress so far.
+6. Conjecture that P is true for all instances of problem X.
+7. Discover a family of counterexamples y, y’, y”, … to this conjecture. This shows that either method A 
+has to be adapted to avoid reliance on P, or that a new method is needed.
+8. Take the simplest counterexample y in this family, and try to prove X for this special case. Meanwhile, 
+try to see whether method A can work in the absence of P.
+9. Discover several counterexamples in which method A fails, in which the cause of failure can be 
+definitively traced back to P. Abandon efforts to modify method A.
+10. Realise that special case y is related to (or at least analogous to) a problem z in another field 
+of mathematics. Look up the literature on z, and ask experts in that field for the latest perspectives on 
+that problem.
+11. Learn that z has been successfully attacked in that field by use of method B. Attempt to adapt method 
+B to solve y.
+12. After much effort, an adapted method B’ is developed to solve y.
+13. Repeat the above steps 1-12 with A replaced by B’ (the outcome will of course probably be a little different 
+from the sample storyline presented above). Continue doing this for a few years, until all model special cases 
+can be solved by one method or another.
+14. Eventually, one possesses an array of methods that can give partial results on X, each of having their 
+strengths and weaknesses. Considerable intuition is gained as to the circumstances in which a given method 
+is likely to yield something non-trivial or not.
+15. Begin combining the methods together, simplifying the execution of these methods, locating new model 
+problems, and/or finding a unified and clarifying framework in which many previous methods, insights, 
+results, etc. become special cases.
+16. Eventually, one realises that there is a family of methods A^* (of which A was the first to be discovered) 
+which, roughly speaking, can handle all cases in which property P^* (a modern generalisation of property P) 
+occurs. There is also a rather different family of methods B^* which can handle all cases in which Q^* occurs.
+17. From all the prior work on this problem, all known model examples are known to obey either P^* or Q^*. 
+Formulate Conjecture C: all cases of problem X obey either P^* or Q*^.
+18. Verify that Conjecture C in fact implies the problem. This is a major reduction!
+Repeat steps 1-18, but with problem X replaced by Conjecture C. (Again, the storyline may be different from 
+that presented above.) This procedure itself may iterate a few times.
+19. Finally, the problem has been boiled down to its most purified essence: a key conjecture K which (morally, 
+at least) provides the decisive input into the known methods A^*, B^*, etc. which will settle conjecture C 
+and hence problem X.
+20. A breakthrough: a new method Z is introduced to solve an important special case of K.
+21. The endgame: method Z is rapidly developed and extended, using the full power of all the intuition, experience, 
+and past results, to fully settle K, then C, and then at last X.
+21. The technology developed to solve major problem X is adapted to solve other related problems in the 
+field. But now a natural successor question X’ to X arises, which lies just outside of the reach of the 
+newly developed tools… and we go back to Step 1.
+```
+
+### Mathematical maturity
 
 From Redditor [man_after_midnight](https://www.reddit.com/user/man_after_midnight), answering Mathematicians of Reddit: [Is there some point where you see a big picture and everything "clicks"?](https://www.reddit.com/r/math/comments/1mtian/mathematicians_of_reddit_is_there_some_point/):
 
@@ -376,7 +435,7 @@ the math was not that hard. But the concept took a while to sink in.
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-([overview](#overview))([morality](#morality))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([miscellaneous](#miscellaneous))
+([overview](#overview))([morality](#morality))([statistics](#statistics))([math](#math))([miscellaneous](#miscellaneous))
 
 ### *Levels of Organization in General Intelligence*
 
@@ -698,7 +757,7 @@ discount rate when exchanging the paper currency of incremental optimization for
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
-([overview](#overview))([morality](#morality))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))
+([overview](#overview))([morality](#morality))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
