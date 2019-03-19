@@ -1,3 +1,21 @@
+Terry Pratchett, *Unseen Academicals*:
+
+```markdown
+The Patrician took a sip of his beer. "I have told this to few people, gentlemen, and I suspect I never 
+will again, but one day when I was a young boy on holiday in Uberwald I was walking along the bank of a 
+stream when I saw a mother otter with her cubs. A very endearing sight, I'm sure you will agree, and even 
+as I watched, the mother otter dived into the water and came up with a plump salmon, which she subdued 
+and dragged onto a half-submerged log. As she ate it, while of course it was still alive, the body split 
+and I remember to its day the sweet pinkness of its roes as they spilled out, much to the delight of the 
+baby otters who scrambled over themselves to feed on the delicacy. 
+
+One of nature's wonders, gentlemen: mother and children dining upon mother and children. 
+
+And that's when I first learned about evil. It is built in to the very nature of the universe. Every world 
+spins in pain. If there is any kind of supreme being, I told myself, it is up to all of us to become his 
+moral superior."
+```
+
 Sarah Constantin is one of my favorite writers. She has a blog, [Otium](https://srconstantin.wordpress.com/), and goes by 
 celandine13 on LiveJournal. This quote on the _error vs bug model of learning_ comes from her LJ essay 
 [Errors vs Bugs and the End of Stupidity](https://celandine13.livejournal.com/33599.html).
