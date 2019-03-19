@@ -1,3 +1,28 @@
+Razib Khan, [Reification is alright by me](http://blogs.discovermagazine.com/gnxp/2012/05/reification-is-alright-by-me/):
+
+```markdown
+The categories and classes we construct are simply the semantic sugar which makes the reality go down 
+easier. They should never get confused for the reality that is, the reality which we perceive but darkly 
+and with biased lenses. The hyper-relativists and subjectivists who are moderately fashionable in some 
+humane studies today are correct to point out that science is a human construction and endeavor. Where 
+they go wrong is that they are often ignorant of the fact that the orderliness of many facets of nature 
+is such that even human ignorance and stupidity can be overcome with adherence to particular methods and 
+institutional checks and balances. The predictive power of modern science, giving rise to modern 
+engineering, is the proof of its validity. No talk or argumentation is needed. Boot up your computer. 
+Drive your car.
+```
+
+Paul Graham, [A student's guide to startups](http://www.paulgraham.com/mit.html):
+
+```markdown
+The market doesn't give a shit how hard you worked. Users just want your software to do what they need, 
+and you get a zero otherwise. That is one of the most distinctive differences between school and the 
+real world: there is no reward for putting in a good effort. In fact, the whole concept of a "good effort" 
+is a fake idea adults invented to encourage kids. It is not found in nature. 
+```
+
+Brandon Watson, [The Success and Failure of Arguments](http://branemrys.blogspot.com/2010/09/success-and-failure-of-arguments.html):
+
 ```markdown
 Sometimes you hear philosophers bemoaning the fact that philosophers tend not to form consensuses 
 like certain other disciplines do (sciences in particular). 
