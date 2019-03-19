@@ -1,3 +1,125 @@
+### Overview
+
+I've sorted the quotes below into the following provisional categories:
+
+1. General intelligence
+2. Miscellaneous
+
+## General intelligence
+
+Here are some interesting passages from Eliezer Yudkowsky’s paper [Levels of Organization in General Intelligence](https://intelligence.org/files/LOGI.pdf).
+
+On the what and why of intelligence:
+
+```markdown
+Intelligence is an evolutionary advantage because it enables us to model, predict, and manipulate reality. 
+Evolutionary problems are not limited to stereotypical ancestral contexts such as fleeing lions or chipping 
+spears; our intelligence includes the ability to model social realities consisting of other humans, and the 
+ability to predict and manipulate the internal reality of the mind.
+
+Philosophers of the mind sometimes define “knowledge” as cognitive patterns that map to external reality 
+(Newell 1980), but a surface mapping has no inherent evolutionary utility. Intelligence requires more than 
+passive correspondence between internal representations and sensory data, or between sensory data and reality. 
+Cognition goes beyond passive denotation; it can predict future sensory data from past experience. Intelligence 
+requires correspondences strong enough for the organism to choose between futures by choosing actions on the 
+basis of their future results.
+
+Intelligence in the fully human sense requires the ability to manipulate the world by reasoning backward from a 
+mental image of the desired outcome to create a mental image of the necessary actions. (In Section 2, these 
+ascending tests of ability are formalized as sensory, predictive, decisive, and manipulative bindings between a 
+model and a referent.)
+```
+
+On the evolution of complex adaptations in general, and of intelligence in particular:
+
+```markdown
+A new adaptation requiring the presence of a previous adaptation cannot spread unless the prerequisite 
+adaptation is present in the genetic environment with sufficient statistical regularity to make the new 
+adaptation a recurring evolutionary advantage. Evolution uses existing genetic complexity to build new genetic 
+complexity, but evolution exhibits no foresight. Evolution does not construct genetic complexity unless it 
+is an immediate advantage, and this is a fundamental constraint on accounts of the evolution of complex systems.
+
+Complex functional adaptations—adaptations that require multiple genetic features to build a complex 
+interdependent system in the phenotype—are usually, and necessarily, universal within a species. Independent 
+variance in each of the genes making up a complex interdependent system would quickly reduce to insignificance 
+the probability of any phenotype possessing a full functioning system. To give an example in a simplified world, 
+if independent genes for “retina,” “lens,” “cornea,” “iris,” and “optic nerve” each had an independent 20% 
+frequency in the genetic population, the random-chance probability of any individual being born with a complete 
+eyeball would be 3125:1.
+
+…Because evolution lacks foresight, complex functions cannot evolve unless their prerequisites are evolutionary 
+advantages for other reasons. The human evolutionary line did not evolve toward general intelligence; rather, 
+the hominid line evolved smarter and more complex systems that lacked general intelligence, until finally the 
+cumulative store of existing complexity contained all the tools and subsystems needed for evolution to stumble 
+across general intelligence. Even this is too anthropocentric; we should say rather that primate evolution 
+stumbled across a fitness gradient whose path includes the subspecies Homo sapiens sapiens, which subspecies 
+exhibits one particular kind of general intelligence.
+```
+
+On AI being “not like” physics:
+
+```markdown
+I am admittedly biased against the search for a “single essence” of intelligence; I believe that the search for 
+a single essence of intelligence lies at the center of AI’s previous failures. Simplicity is the grail of physics, 
+not AI. Physicists win Nobel Prizes when they discover a previously unknown underlying layer and explain its 
+behaviors. We already know what the ultimate bottom layer of an Artificial Intelligence looks like; it looks like 
+ones and zeroes. Our job is to build something interesting out of those ones and zeroes. The Turing formalism does 
+not solve this problem any more than quantum electrodynamics tells us how to build a bicycle; knowing the abstract 
+fact that a bicycle is built from atoms doesn’t tell you how to build a bicycle out of atoms—which atoms to use and 
+where to put them. Similarly, the abstract knowledge that biological neurons implement human intelligence does not 
+explain human intelligence. The classical hype of early neural networks, that they used “the same parallel architecture 
+as the human brain,” should, at most, have been a claim of using the same parallel architecture as an earthworm’s 
+brain. (And given the complexity of biological neurons, the claim would still have been wrong.)
+```
+
+Or as Tooby and Cosmides (1992) put it:
+
+```markdown
+The science of understanding living organization is very different from physics or chemistry, where parsimony makes 
+sense as a theoretical criterion. The study of organisms is more like reverse engineering, where one may be dealing 
+with a large array of very different components whose heterogenous organization is explained by the way in which they 
+interact to produce a functional outcome. Evolution, the constructor of living organisms, has no privileged tendency 
+to build into designs principles of operation that are simple and general.
+```
+
+Here’s the more obvious kind of “physics envy” in AI:
+
+```markdown
+The field of Artificial Intelligence suffers from a heavy, lingering dose of genericity and black-box, blank-slate, 
+tabula-rasa concepts seeping in from the Standard Social Sciences Model (SSSM) identified by Tooby and Cosmides (1992). 
+The general project of liberating AI from the clutches of the SSSM is more work than I wish to undertake in this paper, 
+but one problem that must be dealt with immediately is physics envy. The development of physics over the last few 
+centuries has been characterized by the discovery of unifying equations which neatly underlie many complex phenomena. 
+Most of the past fifty years in AI might be described as the search for a similar unifying principle believed to 
+underlie the complex phenomenon of intelligence.
+
+Physics envy in AI is the search for a single, simple underlying process, with the expectation that this one discovery 
+will lay bare all the secrets of intelligence. The tendency to treat new approaches to AI as if they were new theories 
+of physics may at least partially explain AI’s past history of overpromise and oversimplification. Attributing all 
+the vast functionality of human intelligence to some single descriptive facet—that brains are “parallel,” or 
+“distributed,” or “stochastic”; that minds use “deduction” or “induction”— results in a failure (an overhyped failure) 
+as the project promises that all the functionality of human intelligence will slide out from some simple principle.
+```
+
+And here’s the more subtle one:
+
+```markdown
+The effects of physics envy can be more subtle; they also appear in the lack of interaction between AI projects. 
+Physics envy has given rise to a series of AI projects that could only use one idea, as each new hypothesis for 
+the one true essence of intelligence was tested and discarded.
+
+Douglas Lenat’s AM and Eurisko programs (Lenat 1983)—though the results were controversial and may have been mildly 
+exaggerated (Ritchie and Hanna 1984)—used nonetheless very intriguing and fundamental design patterns to deliver 
+significant and unprecedented results. Despite this, the design patterns of Eurisko, such as self-modifying decomposable 
+heuristics, have seen almost no reuse in later AIs. Even Lenat’s subsequent Cyc project (Lenat, Prakash, and Shepherd 
+1985) apparently does not reuse the ideas developed in Eurisko.
+
+From the perspective of a modern-day programmer, accustomed to hoarding design patterns and code libraries, the 
+lack of crossfertilization is a surprising anomaly. One would think that self-optimizing heuristics would be useful 
+as an external tool, e.g. for parameter tuning, even if the overall cognitive architecture did not allow for the 
+internal use of such heuristics.
+```
+
 ## Miscellaneous
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
