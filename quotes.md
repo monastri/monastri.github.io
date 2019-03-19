@@ -101,3 +101,24 @@ visible material bodies, then they cannot possess properties like color and smel
 
 So, although it is not an original thought, it is useful to bear in mind that "greenness disintegrates".
 ```
+
+From Scott Aaronson's [Quantum Computing Since Democritus](https://slatestarcodex.com/2014/09/01/book-review-and-highlights-quantum-computing-since-democritus/):
+
+```markdown
+The third thing that annoys me about the Chinese Room argument is the way it gets so much mileage from 
+a possibly misleading choice of imagery, or, one might say, by trying to sidestep the entire issue of 
+computational complexity purely through clever framing. We’re invited to imagine someone pushing around 
+slips of paper with zero understanding or insight, much like the doofus freshmen who write 
+(a + b)^2 = a^2 + b^2 on their math tests. 
+
+But how many slips of paper are we talking about! How big would the rule book have to be, and how 
+quickly would you have to consult it, to carry out an intelligent Chinese conversation in anything 
+resembling real time? If each page of the rule book corresponded to one neuron of a native speaker’s 
+brain, then probably we’d be talking about a “rule book” at leas the size of the Earth, its pages 
+searchable by a swarm of robots traveling at close to the speed of light. When you put it that way, 
+maybe it’s not so hard to imagine this enormous Chinese-speaking entity that we’ve brought into being 
+might have something we’d be prepared to call understanding or insight.
+
+Philosophers are so good at pure qualitative distinctions that it’s easy to slip the difference between 
+“guy in a room” and “planet being processed by lightspeed robots” under the rug.
+```
