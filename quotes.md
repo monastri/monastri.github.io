@@ -300,6 +300,7 @@ simplifies the adaptively important task of recognizing a previously experienced
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
+([back](#back))
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
