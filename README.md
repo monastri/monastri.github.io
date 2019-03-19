@@ -13,6 +13,9 @@ Currently available posts, still in experimental stage.
 ### Fiction, poetry, and writing in general
 
 1. [Poetry](monastri.github.io/poetry.md), favorite poems and poetic quotes
+2. [Favorite quotes](
+        monastri.github.io/quotes.md
+      )
 2. [Böttger on why modern poetry sucks](https://github.com/monastri/monastri.github.io/blob/master/B%C3%B6ttger-why-modern-poetry-sucks), basically because it's trapped in an inadequate equilibrium
 
 ### Expository notes
