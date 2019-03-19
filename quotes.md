@@ -14,6 +14,7 @@ I've sorted the quotes below into the following provisional categories:
 2. [Math](#math)
    1. [Solving famous open problems](#solving-famous-open-problems)
    2. [Mathematical maturity](#mathematical-maturity)
+   3. [Good mathematics](#good-mathematics)
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
 2. [Miscellaneous](#miscellaneous)
@@ -413,6 +414,75 @@ field. But now a natural successor question X’ to X arises, which lies just ou
 newly developed tools… and we go back to Step 1.
 ```
 
+Greg Kuperberg stresses Terry’s point regarding “personal fallibility in the face of open problems”:
+
+```markdown
+If you think that you have solved an open problem, you should keep trying to understand it better for a 
+while, because there is a good chance that you will find a mistake. This is still good advice even if it’s 
+a run-of-the-mill open problem, not an incredibly hard open problem like Fermat’s Last Theorem.
+
+Here is the sort of intuitive fallacy that can come up in a geometry argument: “If I lengthen all three 
+sides of a triangle, its area will go up.” It sounds believable, and it even works in a few examples — but 
+it’s not always true for obtuse triangles. Of course if you view this example in isolation, it seems 
+boneheaded. But when working on an open problem, most people have to make intuitive leaps of this sort. If 
+you think that you have a new result, that’s a great time to go back and debug your intuition at each step.
+
+Terry also makes the more specific point that you should know the difference between climbing the mountain 
+and marching around it. Restating a problem several times, or reducing it to another problem, is actually 
+very good practice. But solving an open problem usually takes more than that. A few problems can be solved 
+that way. Also, a few people have at times brilliantly transformed a broad set of problems by generalizing 
+and restating them — this was Grothendieck’s work philosophy. But a more common outcome is that if you
+restate a question too many times, eventually you will make it “easier” by restating it erroneously.
+
+An example problem that can be solved almost entirely with restatement: Counting problems where the answer 
+is the Catalan numbers, for example the number of lists of 2n balanced parentheses. However, this is only
+medium-hard as counting problems go, and the restatements have to be somewhat clever to work.
+
+An example where restatements are not known to work by themselves: Counting alternating-sign matrices, or 
+ASMs. There are a dozen or so interesting-looking encodings of alternating-sign matrices. You can spend ages
+rummaging through them in search of a simple counting principle to count ASMs. In fact, restatements of the
+ASM problem have been important, for instance the description of ASMs in terms of square ice. But even the
+important restatements do not solve this problem; rather they only give you access to substantive methods 
+such as the Yang-Baxter equation.
+```
+
+(Tangent: I half-remember a discrete math HW assignment, a counting problem, regarding the number of lists of balanced parentheses. Puzzled for hours over that one until I thought of viewing it from (yet) another angle, after which it became much more tractable, if not exactly trivial. Point of view, as Alan Kay will tell you, is worth 80 IQ points; in this case the restatement I found was probably worth more like 10, but that was enough.)
+
+Qiaochu asks:
+
+```markdown
+I’m quite curious – can you give an example where that process actually occurred, preferably multiple 
+times? I’m not really aware of any resources for finding out the full story behind how a conjecture – 
+especially not a particularly well-known, but still important, one – was proven, so I (and I hope others 
+as well) would find such an example quite valuable.
+
+Really the only good example I know of is the writeup of the Polymath project!
+```
+
+Terry’s response:
+
+```markdown
+Dear Qiaochu,
+
+Actually most solutions to major problems (e.g. Poincare conjecture, Fermat’s last theorem, etc.) have 
+this sort of history – a painstaking series of explorations, conjectures, setbacks, steady accumulation
+of intuition and insights, realisation of the naivete of earlier approaches, etc. It is indeed difficult
+though to find a coherent narrative for any given one of these problems (except perhaps at conference 
+talks, or an advanced survey article); usually the story is spread throughout a dozen papers, and one has
+to have a fair amount of familiarity with the problem to really appreciate the unfolding of progress.
+
+For some problems, though, there are some good surveys that focus on exactly this sort of narrative, e.g.
+Goldston-Pintz-Yildirim’s “The path to recent progress on small gaps between primes”. Milnor’s Clay article 
+on the Poincare conjecture covers the topological phase of the attacks on that problem fairly well, and 
+the important discovery of the geometrisation conjecture, though it is rather light on the Ricci flow approach 
+which is of course at the heart of Perelman’s solution (but it is fair to say that this geometric approach 
+would only have been seriously attempted after it became abundantly clear that the topological methods had 
+fallen quite short of what was needed to settle the conjecture). Morgan’s BAMS survey article on the subject 
+covers the latter quite thoroughly, though the focus is more on the technical details than on the development
+of ideas. Finally, I discuss the narrative surrounding Szemeredi’s theorem in my article “What is good 
+mathematics?” (linked to on the sidebar of this blog).
+```
+
 <a name="#mathematical-maturity"></a>
 
 ### Mathematical maturity
@@ -547,6 +617,84 @@ jumped a level and did not really realize it.
 Later when I went back for grad school in Materials Engineering, the Thermo seemed so easy, I was surprised 
 at what I was so hard now seemed so clear. I could explain almost anything with Gibbs Free Energy, and 
 the math was not that hard. But the concept took a while to sink in.
+```
+
+<a name="#good-mathematics"></a>
+
+### Good mathematics
+([overview](#overview))
+
+From Terry Tao's paper [What is good mathematics?](https://arxiv.org/pdf/math/0702396.pdf):
+
+```markdown
+There are many different types of mathematics which could be designated “good”. For instance, “good 
+mathematics” could refer (in no particular order) to
+
+(i) Good mathematical problem-solving (e.g. a major breakthrough on an important mathematical problem);
+(ii) Good mathematical technique (e.g. a masterful use of existing methods, or the development of 
+new tools);
+(iii) Good mathematical theory (e.g. a conceptual framework or choice of notation which systematically 
+unifies and generalises an existing body of results);
+(iv) Good mathematical insight (e.g. a major conceptual simplification, or the realisation of a unifying
+principle, heuristic, analogy, or theme);
+(v) Good mathematical discovery (e.g. the revelation of an unexpected and intriguing new mathematical 
+phenomenon, connection, or counterexample);
+(vi) Good mathematical application (e.g. to important problems in physics, engineering, computer science,
+statistics, etc., or from one field of mathematics to another);
+(vii) Good mathematical exposition (e.g. a detailed and informative survey on a timely mathematical topic,
+or a clear and well-motivated argument);
+(viii) Good mathematical pedagogy (e.g. a lecture or writing style which enables others to learn and do
+mathematics more effectively, or contributions to mathematical education);
+(ix) Good mathematical vision (e.g. a long-range and fruitful program or set of conjectures);
+(x) Good mathematical taste (e.g. a research goal which is inherently interesting and impacts important
+topics, themes, or questions);
+(xi) Good mathematical public relations (e.g. an effective showcasing of a mathematical achievement to 
+non-mathematicians, or from one field of mathematics to another);
+(xii) Good meta-mathematics (e.g. advances in the foundations, philosophy, history, scholarship, or
+practice of mathematics);
+(xiii) Rigorous mathematics (with all details correctly and carefully given in full);
+(xiv) Beautiful mathematics (e.g. the amazing identities of Ramanujan; results which are easy (and pretty) 
+to state but not to prove);
+(xv) Elegant mathematics (e.g. Paul Erd˝os’ concept of “proofs from the Book”; achieving a difficult 
+result with a minimum of effort);
+(xvi) Creative mathematics (e.g. a radically new and original technique, viewpoint, or species of result);
+(xvii) Useful mathematics (e.g. a lemma or method which will be used repeatedly in future work on the subject);
+(xviii) Strong mathematics (e.g. a sharp result that matches the known counterexamples, or a result 
+which deduces an unexpectedly strong conclusion from a seemingly weak hypothesis);
+(xix) Deep mathematics (e.g. a result which is manifestly non-trivial, for instance by
+capturing a subtle phenomenon beyond the reach of more elementary tools);
+(xx) Intuitive mathematics (e.g. an argument which is natural and easily visualisable);
+(xxi) Definitive mathematics (e.g. a classification of all objects of a certain type; the final word on
+a mathematical topic); etc.
+
+As the above list demonstrates, the concept of mathematical quality is a highdimensional one, and lacks an
+obvious canonical total ordering. I believe this is because mathematics is itself complex and high-dimensional,
+and evolves in unexpected and adaptive ways; each of the above qualities represents a different way in which we
+as a community improve our understanding and usage of the subject. There does not appear to be universal
+agreement as to the relative importance or weight of each of the above qualities. This is partly due to tactical
+considerations: a field of mathematics at a given stage of development may be more receptive to one approach to 
+mathematics than another. It is also partly due to cultural considerations: any given field or school of
+mathematics tends to attract like-minded mathematicians who prefer similar approaches to a subject. It also 
+reflects the diversity of mathematical ability; different mathematicians tend to excel in different mathematical 
+styles, and are thus well suited for different types of mathematical challenges.
+```
+
+This multifaceted nature of "good math" is healthy for math as a whole, since desirable traits can be detrimental to a field if pursued at the expense of others, per the following (made up) scenarios:
+
+```markdown
+• A field which becomes increasingly ornate and baroque, in which individual
+results are generalised and refined for their own sake, but the subject as a
+whole drifts aimlessly without any definite direction or sense of progress;
+• A field which becomes filled with many astounding conjectures, but with no
+hope of rigorous progress on any of them;
+• A field which now consists primarily of using ad hoc methods to solve a collection
+of unrelated problems, which have no unifying theme, connections, or purpose;
+• A field which has become overly dry and theoretical, continually recasting and
+unifying previous results in increasingly technical formal frameworks, but not
+generating any exciting new breakthroughs as a consequence; or
+• A field which reveres classical results, and continually presents shorter, simpler,
+and more elegant proofs of these results, but which does not generate any truly
+original and new results beyond the classical literature.
 ```
 
 <a name="#general-intelligence"></a>
