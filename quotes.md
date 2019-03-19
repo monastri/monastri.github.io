@@ -1,7 +1,53 @@
+Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
+
+```markdown
+Often a person uses some folk proverb to explain a behavioral event even though, on an earlier occasion, this 
+same person used a directly contradictory folk proverb to explain the same type of event. For example, most of 
+us have heard or said, “look before you leap.” Now there’s a useful, straightforward bit of behavioral advice—
+except that I vaguely remember admonishing on occasion, “he who hesitates is lost.” And “absence makes the heart 
+grow fonder” is a pretty clear prediction of an emotional reaction to environmental events. But then what about 
+“out of sight, out of mind”? And if “haste makes waste,” why do we sometimes hear that “time waits for no man”? 
+How could the saying “two heads are better than one” not be true? Except that “too many cooks spoil the broth.” 
+If I think “it’s better to be safe than sorry,” why do I also believe “nothing ventured, nothing gained”? And if 
+“opposites attract,” why do “birds of a feather flock together”? I have counseled many students to “never to put 
+off until tomorrow what you can do today.” But I hope my last advisee has never heard me say this, because I just 
+told him, “cross that bridge when you come to it.”
+
+The enormous appeal of clichés like these is that, taken together as implicit “explanations” of behavior, they 
+cannot be refuted. No matter what happens, one of these explanations will be cited to cover it. No wonder we all 
+think we are such excellent judges of human behavior and personality. We have an explanation for anything and 
+everything that happens. Folk wisdom is cowardly in the sense that it takes no risk that it might be refuted.
+
+That folk wisdom is “after the fact” wisdom, and that it actually is useless in a truly predictive sense, is why 
+sociologist Duncan Watts titled one of his books: Everything Is Obvious—Once You Know the Answer (2011). Watts 
+discusses a classic paper by Lazarsfeld (1949) in which, over 60 years ago, he was dealing with the common 
+criticism that “social science doesn’t tell us anything that we don’t already know.” Lazarsfeld listed a series 
+of findings from a massive survey of 600,000 soldiers who had served during World War II; for example, that men 
+from rural backgrounds were in better spirits during their time of service than soldiers from city backgrounds. 
+People tend to find all of the survey results to be pretty obvious. In this example, for instance, people tend 
+to think it obvious that rural men would have been used to harsher physical conditions and thus would have 
+adapted better to the conditions of military life. It is likewise with all of the other findings—people find them 
+pretty obvious. Lazarsfeld then reveals his punchline: All of the findings were the opposite of what was originally 
+stated. For example, it was actually the case that men from city backgrounds were in better spirits during their 
+time of service than soldiers from rural backgrounds. The last part of the learning exercise is for people to 
+realize how easily they would have explained just the opposite finding. In the case of the actual outcome, people 
+tend to explain it (when told of it first) by saying that they expected it because city men are used to working 
+in crowded conditions and under hierarchical authority. They never realize how easily they would have concocted an 
+explanation for exactly the opposite finding.
+```markdown
+
 From [Marc Andreessen gives the career advice that nobody wants to hear](https://www.businessinsider.com/andreessen-whatever-you-do-dont-follow-your-passion-2014-5/?IR=T):
 
 ```markdown
-"Do what you love" / "Follow your passion" is dangerous and destructive career advice. We tend to hear it from (a) Highly successful people who (b) Have become successful doing what they love. The problem is that we do NOT hear from people who have failed to become successful by doing what they love. Particularly pernicious problem in tournament-style fields with a few big winners lots of losers: media, athletics, startups. Better career advice may be "Do what contributes" -- focus on the beneficial value created for other people vs just one's own ego. People who contribute the most are often the most satisfied with what they do -- and in fields with high renumeration, make the most $. Perhaps difficult advice since requires focus on others vs oneself -- perhaps bad fit with endemic narcissism in modern culture? Requires delayed gratification -- may toil for many years to get the payoff of contributing value to the world, vs short-term happiness.
+"Do what you love" / "Follow your passion" is dangerous and destructive career advice. We tend to hear it 
+from (a) Highly successful people who (b) Have become successful doing what they love. The problem is that 
+we do NOT hear from people who have failed to become successful by doing what they love. Particularly pernicious 
+problem in tournament-style fields with a few big winners lots of losers: media, athletics, startups. Better 
+career advice may be "Do what contributes" -- focus on the beneficial value created for other people vs just 
+one's own ego. People who contribute the most are often the most satisfied with what they do -- and in fields 
+with high renumeration, make the most $. Perhaps difficult advice since requires focus on others vs oneself -- 
+perhaps bad fit with endemic narcissism in modern culture? Requires delayed gratification -- may toil for many 
+years to get the payoff of contributing value to the world, vs short-term happiness.
 ```
 
 Razib Khan:
