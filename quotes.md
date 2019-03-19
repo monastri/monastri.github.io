@@ -1,3 +1,5 @@
+## Miscellaneous
+
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
 ```markdown
@@ -34,7 +36,7 @@ realize how easily they would have explained just the opposite finding. In the c
 tend to explain it (when told of it first) by saying that they expected it because city men are used to working 
 in crowded conditions and under hierarchical authority. They never realize how easily they would have concocted an 
 explanation for exactly the opposite finding.
-```markdown
+```
 
 From [Marc Andreessen gives the career advice that nobody wants to hear](https://www.businessinsider.com/andreessen-whatever-you-do-dont-follow-your-passion-2014-5/?IR=T):
 
