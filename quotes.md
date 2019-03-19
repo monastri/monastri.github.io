@@ -15,6 +15,7 @@ I've sorted the quotes below into the following provisional categories:
    1. [Solving famous open problems](#solving-famous-open-problems)
    2. [Mathematical maturity](#mathematical-maturity)
    3. [Good mathematics](#good-mathematics)
+   4. [What every mathematician should know](#what-every-mathematician-should-know)
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
 2. [Miscellaneous](#miscellaneous)
@@ -695,6 +696,139 @@ generating any exciting new breakthroughs as a consequence; or
 • A field which reveres classical results, and continually presents shorter, simpler,
 and more elegant proofs of these results, but which does not generate any truly
 original and new results beyond the classical literature.
+```
+
+<a name="#what-every-mathematician-should-know"></a>
+
+### What every mathematician should know
+([overview](#overview))
+
+Timothy Chow is well worth reading. Here's his answer to the MO question [How has "what every mathematician should know" changed?](https://mathoverflow.net/questions/19356/how-has-what-every-mathematician-should-know-changed?rq=1):
+
+```markdown
+I believe that one shift is that "what every mathematician should know" is nowadays much less a 
+specific body of mathematical facts and much more a facility with navigating the ocean of mathematical
+knowledge.
+
+For example, I might not need to have advanced computer programming skills, but I do need to have some
+sense of what kinds of computations are feasible and when it is appropriate for me to do a computation.
+
+I might not need to hold in my head everything that is known about a certain topic, even if that topic 
+is close to my area of specialization, but I definitely need to have the ability to search the literature,
+assess what is in a certain paper that my search turns up, and know when I should ask an expert and how 
+to formulate a targeted question to ask.
+
+Similarly, I might not need detailed knowledge of fields (seemingly) distant from my own, but I do need 
+to be able to discern when those distant fields might provide relevant tools for my own work.
+
+So far I have been focusing on what a mathematician needs to know in order to be an effective researcher.
+However, the phrase "what every mathematician should know" carries overtones of what one should know if 
+one wants to earn a reputation for being an educated, knowledgeable, respectable, and attractive 
+representative of the profession. In my opinion this is quite a different question. For this, you need to
+be fluent in the language of the hot topics du jour, and au courantwith flashy announcements of big
+breakthroughs in all areas of mathematics. While there's some correlation between this kind of knowledge
+and the knowledge I discussed above, I find it questionable whether, literally speaking, every 
+mathematician should have it.
+```
+
+Here he echoes Barry Mazur, whose [writing on the subject](http://www.math.harvard.edu/~mazur/preprints/math_ed_2.pdf) is so beautiful and fulfilling I can't help but reproduce large parts of it wholesale here. 
+
+Lingua franca, unifiers, ubiquitous:
+
+```markdown
+Certain fields of mathematics, at certain times, play the role of lingua franca in the sense that
+mathematics from vastly different fields get formulated in the vocabulary, the terminology, or even 
+more strikingly in the conceptual framework of that specific field. Weierstrass’s theory of functions,
+Cantor’s Set Theory and Group Theory have played (and continue to play) such a role; the vocabulary 
+of Category Theory has permeated disparate disciplines. These are some of the grand forces in mathematics
+that shape our way of communicating to one another. Other fields formulate powerful viewpoints, templates,
+that cross over to distant disciplines–let’s call these fields unifiers. Algebraic Topology has done 
+service as a unifier, as has large aspects of Algebraic Geometry. Other fields are so ubiquitous that 
+they cast light on all other disciplines of mathematics: measure theory, probability and statistics
+come to mind; perhaps aspects of combinatorics.
+
+In any epoch there will be the lingua franca, the unifiers and the ubiquitous of that epoch. A young
+(or an old) mathematician, of no matter what specialty, would do well to be acquainted—at least a tiny
+bit acquainted—with the mathematical goings-on in these fields. So which fields are of that sort these days?
+```
+
+Critical mass of learned info causing phase shift in POV of entire subject:
+
+```markdown
+Before offering a concrete list of good “fields of acquaintance” I want to convey an idea of a friend
+of mine, who is a student of European History. He tells me that at one point in his career studying
+European History, he experienced an abrupt phase shift. Once you’ve achieved—says my friend—a certain 
+critical mass of historical information, all of a sudden your view of the entire subject changes. First,
+your power of simply retaining information increases multifold; but more importantly, your way of thinking 
+about the subject bears no relation to the way you approached things initially. My friend accounted for 
+this surprising moment as a consequence of accumulation, perhaps to overload, of somehow-connected specifics
+that forced him to involuntarily re-configure—in a more meaningful way— his modes of organization, and 
+contemplation, of the entirety of this corpus of knowledge.
+
+Well, it would be interesting if we could put our finger on the critical moments, the phase shifts—if they 
+exist—in our mathematical education. If they do exist they may depend less on our having devoured any 
+specific collection of mathematical ideas, and more on our having exposed ourselves to some un-specifiable
+critical mass. With this in mind, I’ll end, below, with a list that nowadays, in my opinion, stands for 
+“fields of acquaintance” any critical mass of them being a good choice for a good mathematical education.
+```
+
+A broad mathematical education should help a person achieve a predilection for the four (most classical, significantly overlapping) aspects of mathematical thought — Geometry, Algebra, Computation, and The mathematical intuition(s) derived from Physics — which aren’t the same as the traditional subject classifications, but rather should be thought of as highly developed ‘intuitions’:
+
+```markdown
+I say that these are “overlapping,’ but in reality, what makes mathematics one subject is that nothing 
+that we do is entirely contained in one of these categories: they seem to stand for distinct intuitions,
+and have given rise to distinct realms of thought, and yet they are inseparably welded together. These four
+categories have been fused together so substantially in recent times that it may even be misleading to keep
+bringing them up. For there are subjects of great importance such as the theory of modular (or automorphic) 
+forms that defy this categorization completely, since they stretch their substance, their tools, and the 
+intuition they rely on over all four of these items.
+
+Nevertheless, Geometry, Algebra, Computation, and Mathematical Physics represent a recognizable, if wobbly, 
+partition of mathematical sensibilities. Let us consider them as motivating intuitions rather than fixed 
+repositories of knowledge; i.e., as fundamental types of highly developed senses that some mathematicians
+enjoy: there are people with strong geometric intuitions; there are those with strong algebraic intuitions;
+there are those who are very sensitive to various aspects of computation and estimation and then there are 
+the lucky people who also bring into the mix some basic physical intuition. I also think that we all understand
+what it means for some mathematician to have any one of these gifts—whether or not we ourselves possess it.
+
+So, a broad mathematical education should, perhaps, aim to help a person achieve (at least somewhat) a 
+predilection for each of these ways of thinking. I would like to view each of these intuitions as “core” 
+rather than any particular conglomeration of subject matter as core.
+
+In response to an earlier draft, David Mumford asked me where I would put the traditional, and grand, subject 
+of Analysis in this classification, Analysis being a subject dealing with intuitions as fundamental as time, 
+change, and continuity; my feeling is that the subject is so many-dimensional that it derives its inspiration
+and intuitions from every, or any, direction: when you say that someone is a strong analyst, you might mean 
+that this person has a keen sense of a priori estimates in PDE, which I would tag as computation and estimation;
+or you might be talking of a good complex analyst dealing with dynamical systems which I would tag as geometry,
+etc. I would probably want to spread Analysis over all four categories.
+```
+
+The four intuitions, “today’s list” per Mazur:
+
+```markdown
+• Geometry-in the broad sense: This can be experienced in so many different ways that any one person’s 
+“critical mass” will be disjoint from another person’s. Our sense of geometry might go from knot theory
+to differential geometry (and the related analysis; e.g., the spectrum of the Laplacian) to classification
+of n-dimensional manifolds to symplectic geometry to dynamical systems to sphere-packing to fixed point
+theorems to K-theory to systems of elliptic PDE’s in the large to the Index Theorem to Bott periodicity
+to the homotopy groups of spheres. . . and here we would be moving into the more algebraic realms of 
+algebraic topology, which nowadays is also commingling with algebraic geometry.
+
+• Algebra-in the broad sense. This includes the ubiquitous notion of groups (say; finite, finitely presented,
+Lie, algebraic, arithmetic, and adelic) and their linear and projective (finite- and infinite-dimensional)
+representations. It includes elementary aspects of any of the subjects with “algebraic” as an adjective in
+their name: algebraic topology, algebraic geometry, and algebraic number theory. It includes the entire 
+basic vocabulary of very general languages such as category theory and more specific languages of use in 
+traditional functional analysis such as the theory of Hilbert and Banach spaces.
+
+• Computation–in the broad sense. This stretches from machine computation, algorithms, numerical analysis, 
+estimation, and statistics, to combinatorics, analysis and probability; i.e., ways of dealing with data,
+practically and/or theoretically.
+
+• Mathematics related to Physics. Newtonian Mechanics, Optics, Maxwell’s Equations, Relativity, some Quantum
+Mechanics and some physics related to field theories and string theory; and—of course—the mathematics that 
+connects to this.
 ```
 
 <a name="#general-intelligence"></a>
