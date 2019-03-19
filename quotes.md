@@ -1,5 +1,3 @@
-<a name="#back"></a>
-
 ### Overview
 
 I've sorted the quotes below into the following provisional categories:
@@ -722,3 +720,5 @@ might have something we’d be prepared to call understanding or insight.
 Philosophers are so good at pure qualitative distinctions that it’s easy to slip the difference between 
 “guy in a room” and “planet being processed by lightspeed robots” under the rug.
 ```
+
+<a name="#back"></a>
