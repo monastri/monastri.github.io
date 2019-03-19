@@ -6,7 +6,8 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [Philosophy](#philosophy)
+1. [Psychology](#psychology)
+2. [Philosophy](#philosophy)
    1. [Diseased philosophy](#diseased-philosophy)
    2. [Morality](#morality)
 2. [Statistics](#statistics)
@@ -19,14 +20,78 @@ I've sorted the quotes below into the following provisional categories:
 
 Have fun reading them! I certainly did.
 
+<a name="#psychology"></a>
+
+## Psychology
+([overview](#overview))
+
+Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
+
+```markdown
+Often a person uses some folk proverb to explain a behavioral event even though, on an earlier occasion, this 
+same person used a directly contradictory folk proverb to explain the same type of event. For example, most of 
+us have heard or said, “look before you leap.” Now there’s a useful, straightforward bit of behavioral advice—
+except that I vaguely remember admonishing on occasion, “he who hesitates is lost.” And “absence makes the heart 
+grow fonder” is a pretty clear prediction of an emotional reaction to environmental events. But then what about 
+“out of sight, out of mind”? And if “haste makes waste,” why do we sometimes hear that “time waits for no man”? 
+How could the saying “two heads are better than one” not be true? Except that “too many cooks spoil the broth.” 
+If I think “it’s better to be safe than sorry,” why do I also believe “nothing ventured, nothing gained”? And if 
+“opposites attract,” why do “birds of a feather flock together”? I have counseled many students to “never to put 
+off until tomorrow what you can do today.” But I hope my last advisee has never heard me say this, because I just 
+told him, “cross that bridge when you come to it.”
+
+The enormous appeal of clichés like these is that, taken together as implicit “explanations” of behavior, they 
+cannot be refuted. No matter what happens, one of these explanations will be cited to cover it. No wonder we all 
+think we are such excellent judges of human behavior and personality. We have an explanation for anything and 
+everything that happens. Folk wisdom is cowardly in the sense that it takes no risk that it might be refuted.
+
+That folk wisdom is “after the fact” wisdom, and that it actually is useless in a truly predictive sense, is why 
+sociologist Duncan Watts titled one of his books: Everything Is Obvious—Once You Know the Answer (2011). Watts 
+discusses a classic paper by Lazarsfeld (1949) in which, over 60 years ago, he was dealing with the common 
+criticism that “social science doesn’t tell us anything that we don’t already know.” Lazarsfeld listed a series 
+of findings from a massive survey of 600,000 soldiers who had served during World War II; for example, that men 
+from rural backgrounds were in better spirits during their time of service than soldiers from city backgrounds. 
+People tend to find all of the survey results to be pretty obvious. In this example, for instance, people tend 
+to think it obvious that rural men would have been used to harsher physical conditions and thus would have 
+adapted better to the conditions of military life. It is likewise with all of the other findings—people find them 
+pretty obvious. Lazarsfeld then reveals his punchline: All of the findings were the opposite of what was originally 
+stated. For example, it was actually the case that men from city backgrounds were in better spirits during their 
+time of service than soldiers from rural backgrounds. The last part of the learning exercise is for people to 
+realize how easily they would have explained just the opposite finding. In the case of the actual outcome, people 
+tend to explain it (when told of it first) by saying that they expected it because city men are used to working 
+in crowded conditions and under hierarchical authority. They never realize how easily they would have concocted an 
+explanation for exactly the opposite finding.
+```
+
 <a name="#philosophy"></a>
 
 ## Philosophy
-([overview](#overview))([morality](#morality))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))
 
 <a name="#diseased-philosophy"></a>
 
 ### Diseased philosophy
+
+From Scott Aaronson's [Quantum Computing Since Democritus](https://slatestarcodex.com/2014/09/01/book-review-and-highlights-quantum-computing-since-democritus/):
+
+```markdown
+The third thing that annoys me about the Chinese Room argument is the way it gets so much mileage from 
+a possibly misleading choice of imagery, or, one might say, by trying to sidestep the entire issue of 
+computational complexity purely through clever framing. We’re invited to imagine someone pushing around 
+slips of paper with zero understanding or insight, much like the doofus freshmen who write 
+(a + b)^2 = a^2 + b^2 on their math tests. 
+
+But how many slips of paper are we talking about! How big would the rule book have to be, and how 
+quickly would you have to consult it, to carry out an intelligent Chinese conversation in anything 
+resembling real time? If each page of the rule book corresponded to one neuron of a native speaker’s 
+brain, then probably we’d be talking about a “rule book” at leas the size of the Earth, its pages 
+searchable by a swarm of robots traveling at close to the speed of light. When you put it that way, 
+maybe it’s not so hard to imagine this enormous Chinese-speaking entity that we’ve brought into being 
+might have something we’d be prepared to call understanding or insight.
+
+Philosophers are so good at pure qualitative distinctions that it’s easy to slip the difference between 
+“guy in a room” and “planet being processed by lightspeed robots” under the rug.
+```
 
 Brandon Watson, [The Success and Failure of Arguments](http://branemrys.blogspot.com/2010/09/success-and-failure-of-arguments.html):
 
@@ -178,7 +243,7 @@ my friend, and f@$k whatever social trust or community cohesion would be lost by
 <a name="#statistics"></a>
 
 ## Statistics
-([overview](#overview))([philosophy](#philosophy))([morality](#morality))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))
 
 Piet Hein:
 
@@ -287,7 +352,7 @@ explicit claims, use of evidence, and argument.
 <a name="#mathematical-maturity"></a>
 
 ## Math
-([overview](#overview))([philosophy](#philosophy))([morality](#morality))([statistics](#statistics))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))
 
 <a name="#solving-famous-open-problems"></a>
 
@@ -487,7 +552,7 @@ the math was not that hard. But the concept took a while to sink in.
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-([overview](#overview))([philosophy](#philosophy))([morality](#morality))([statistics](#statistics))([math](#math))([miscellaneous](#miscellaneous))
+([overview](#overview))
 
 <a name="#logi"></a>
 
@@ -811,45 +876,7 @@ discount rate when exchanging the paper currency of incremental optimization for
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
-([overview](#overview))([philosophy](#philosophy))([morality](#morality))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))
-
-Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
-
-```markdown
-Often a person uses some folk proverb to explain a behavioral event even though, on an earlier occasion, this 
-same person used a directly contradictory folk proverb to explain the same type of event. For example, most of 
-us have heard or said, “look before you leap.” Now there’s a useful, straightforward bit of behavioral advice—
-except that I vaguely remember admonishing on occasion, “he who hesitates is lost.” And “absence makes the heart 
-grow fonder” is a pretty clear prediction of an emotional reaction to environmental events. But then what about 
-“out of sight, out of mind”? And if “haste makes waste,” why do we sometimes hear that “time waits for no man”? 
-How could the saying “two heads are better than one” not be true? Except that “too many cooks spoil the broth.” 
-If I think “it’s better to be safe than sorry,” why do I also believe “nothing ventured, nothing gained”? And if 
-“opposites attract,” why do “birds of a feather flock together”? I have counseled many students to “never to put 
-off until tomorrow what you can do today.” But I hope my last advisee has never heard me say this, because I just 
-told him, “cross that bridge when you come to it.”
-
-The enormous appeal of clichés like these is that, taken together as implicit “explanations” of behavior, they 
-cannot be refuted. No matter what happens, one of these explanations will be cited to cover it. No wonder we all 
-think we are such excellent judges of human behavior and personality. We have an explanation for anything and 
-everything that happens. Folk wisdom is cowardly in the sense that it takes no risk that it might be refuted.
-
-That folk wisdom is “after the fact” wisdom, and that it actually is useless in a truly predictive sense, is why 
-sociologist Duncan Watts titled one of his books: Everything Is Obvious—Once You Know the Answer (2011). Watts 
-discusses a classic paper by Lazarsfeld (1949) in which, over 60 years ago, he was dealing with the common 
-criticism that “social science doesn’t tell us anything that we don’t already know.” Lazarsfeld listed a series 
-of findings from a massive survey of 600,000 soldiers who had served during World War II; for example, that men 
-from rural backgrounds were in better spirits during their time of service than soldiers from city backgrounds. 
-People tend to find all of the survey results to be pretty obvious. In this example, for instance, people tend 
-to think it obvious that rural men would have been used to harsher physical conditions and thus would have 
-adapted better to the conditions of military life. It is likewise with all of the other findings—people find them 
-pretty obvious. Lazarsfeld then reveals his punchline: All of the findings were the opposite of what was originally 
-stated. For example, it was actually the case that men from city backgrounds were in better spirits during their 
-time of service than soldiers from rural backgrounds. The last part of the learning exercise is for people to 
-realize how easily they would have explained just the opposite finding. In the case of the actual outcome, people 
-tend to explain it (when told of it first) by saying that they expected it because city men are used to working 
-in crowded conditions and under hierarchical authority. They never realize how easily they would have concocted an 
-explanation for exactly the opposite finding.
-```
+([overview](#overview))
 
 From [Marc Andreessen gives the career advice that nobody wants to hear](https://www.businessinsider.com/andreessen-whatever-you-do-dont-follow-your-passion-2014-5/?IR=T):
 
@@ -1179,27 +1206,6 @@ from Werner Heisenberg himself: "If atoms are really to explain the origin of co
 visible material bodies, then they cannot possess properties like color and smell." 
 
 So, although it is not an original thought, it is useful to bear in mind that "greenness disintegrates".
-```
-
-From Scott Aaronson's [Quantum Computing Since Democritus](https://slatestarcodex.com/2014/09/01/book-review-and-highlights-quantum-computing-since-democritus/):
-
-```markdown
-The third thing that annoys me about the Chinese Room argument is the way it gets so much mileage from 
-a possibly misleading choice of imagery, or, one might say, by trying to sidestep the entire issue of 
-computational complexity purely through clever framing. We’re invited to imagine someone pushing around 
-slips of paper with zero understanding or insight, much like the doofus freshmen who write 
-(a + b)^2 = a^2 + b^2 on their math tests. 
-
-But how many slips of paper are we talking about! How big would the rule book have to be, and how 
-quickly would you have to consult it, to carry out an intelligent Chinese conversation in anything 
-resembling real time? If each page of the rule book corresponded to one neuron of a native speaker’s 
-brain, then probably we’d be talking about a “rule book” at leas the size of the Earth, its pages 
-searchable by a swarm of robots traveling at close to the speed of light. When you put it that way, 
-maybe it’s not so hard to imagine this enormous Chinese-speaking entity that we’ve brought into being 
-might have something we’d be prepared to call understanding or insight.
-
-Philosophers are so good at pure qualitative distinctions that it’s easy to slip the difference between 
-“guy in a room” and “planet being processed by lightspeed robots” under the rug.
 ```
 
 <a name="#back"></a>
