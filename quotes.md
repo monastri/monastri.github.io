@@ -17,6 +17,7 @@ Have fun reading them! I certainly did.
 <a name="#morality"></a>
 
 ## Morality
+([overview](#overview))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
 Scott Alexander on the distinction between axiology, morality, and law, from [this essay](https://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets/):
 
