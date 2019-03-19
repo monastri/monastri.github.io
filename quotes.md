@@ -1,3 +1,25 @@
+Patrick McKenzie, "Some Perspective on the Japan Earthquake":
+
+```markdown
+The story of Japanese railways during the earthquake and tsunami is the story of an unceasing drumbeat 
+of everything going right [...] The overwhelming response of Japanese engineering to the challenge posed 
+by an earthquake larger than any in the last century was to function exactly as designed. Millions of 
+people are alive right now because the system worked and the system worked and the system worked.
+
+That this happened was, I say with no hint of exaggeration, one of the triumphs of human civilization. 
+Every engineer in this country should be walking a little taller this week. We can’t say that too loudly, 
+because it would be inappropriate with folks still missing and many families in mourning, but it doesn’t 
+make it any less true.
+```
+
+Bruce Schneier:
+
+```markdown
+In our large, anonymous society, it's easy to forget moral and reputational pressures and concentrate on 
+legal pressure and security systems. This is a mistake; even though our informal social pressures fade 
+into the background, they're still responsible for most of the cooperation in society.
+```
+
 Razib Khan, [Reification is alright by me](http://blogs.discovermagazine.com/gnxp/2012/05/reification-is-alright-by-me/):
 
 ```markdown
