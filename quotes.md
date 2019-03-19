@@ -57,3 +57,16 @@ analytical skills to attempt even a basic understanding of the people who disagr
 
 In short, “I’m stupid.” Something that few people would ever post so starkly on their Facebook feeds.
 ```
+
+From a BBC interview with a retiring Oxford Don. This personally keeps me up at night. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;A skilled professional I know had to turn down an important freelance assignment because 
+&nbsp;&nbsp;&nbsp;&nbsp;of a recurring commitment to chauffeur her son to a resumé-building “social action” 
+&nbsp;&nbsp;&nbsp;&nbsp;assignment required by his high school. This involved driving the boy for 45 minutes to a 
+&nbsp;&nbsp;&nbsp;&nbsp;community center, cooling her heels while he sorted used clothing for charity, and driving 
+&nbsp;&nbsp;&nbsp;&nbsp;him back—forgoing income which, judiciously donated, could have fed, clothed, and inoculated 
+&nbsp;&nbsp;&nbsp;&nbsp;an African village. The dubious “lessons” of this forced labor as an overqualified ragpicker 
+&nbsp;&nbsp;&nbsp;&nbsp;are that children are entitled to treat their mothers’ time as worth nothing, that you can 
+&nbsp;&nbsp;&nbsp;&nbsp;make the world a better place by destroying economic value, and that the moral worth of an 
+&nbsp;&nbsp;&nbsp;&nbsp;action should be measured by the conspicuousness of the sacrifice rather than the gain to 
+&nbsp;&nbsp;&nbsp;&nbsp;the beneficiary.
