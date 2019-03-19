@@ -7,7 +7,8 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Philosophy](#philosophy)
-2. [Morality](#morality)
+   1. [Diseased philosophy](#diseased-philosophy)
+   2. [Morality](#morality)
 2. [Statistics](#statistics)
 2. [Math](#math)
    1. [Solving famous open problems](#solving-famous-open-problems)
@@ -23,12 +24,46 @@ Have fun reading them! I certainly did.
 ## Philosophy
 ([overview](#overview))([morality](#morality))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
+<a name="#diseased-philosophy"></a>
 
+### Diseased philosophy
+
+Brandon Watson, [The Success and Failure of Arguments](http://branemrys.blogspot.com/2010/09/success-and-failure-of-arguments.html):
+
+```markdown
+Sometimes you hear philosophers bemoaning the fact that philosophers tend not to form consensuses 
+like certain other disciplines do (sciences in particular). 
+
+But there is no great mystery to this. The sciences reward consensus-forming as long as certain 
+procedures are followed: agreements through experimental verification, processes of peer review, etc. 
+Philosophy has nothing like this. Philosophers are rewarded for coming up with creative reasons not to 
+agree with other people. The whole thrust of professional philosophy is toward inventing ways to regard 
+opposing arguments as failure, as long as those ways don't exhibit any obvious flaws. However much 
+philosophers are interested in the truth, philosophy as a profession is not structured so as to converge 
+on it; it is structured so as to have the maximal possible divergence that can be sustained given common 
+conventions. 
+
+We are not trained to find ways to come to agree with each other; we are trained to find ways to 
+disagree with each other.
+```
+
+John Perry, from the introduction to *Identity, Personal Identity, and the Self*:
+
+```markdown
+There is something about practical things that knocks us off our philosophical high horses. Perhaps Heraclitus 
+really thought he couldn't step in the same river twice. Perhaps he even received tenure for that contribution 
+to philosophy. But suppose some other ancient had claimed to have as much right as Heraclitus did to an ox 
+Heraclitus had bought, on the grounds that since the animal had changed, it wasn't the same one he had bought 
+and so was up for grabs. Heraclitus would have quickly come up with some ersatz, watered-down version of 
+identity of practical value for dealing with property rights, oxen, lyres, vineyards, and the like. And then 
+he might have wondered if that watered-down vulgar sense of identity might be a considerably more valuable 
+concept than a pure and philosophical sort of identity that nothing has.
+```
 
 <a name="#morality"></a>
 
-## Morality
-([overview](#overview))([philosophy](#philosophy))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+### Morality
+([overview](#overview))
 
 Scott Alexander on the distinction between axiology, morality, and law, from [this essay](https://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets/):
 
@@ -926,25 +961,6 @@ real world: there is no reward for putting in a good effort. In fact, the whole 
 is a fake idea adults invented to encourage kids. It is not found in nature. 
 ```
 
-Brandon Watson, [The Success and Failure of Arguments](http://branemrys.blogspot.com/2010/09/success-and-failure-of-arguments.html):
-
-```markdown
-Sometimes you hear philosophers bemoaning the fact that philosophers tend not to form consensuses 
-like certain other disciplines do (sciences in particular). 
-
-But there is no great mystery to this. The sciences reward consensus-forming as long as certain 
-procedures are followed: agreements through experimental verification, processes of peer review, etc. 
-Philosophy has nothing like this. Philosophers are rewarded for coming up with creative reasons not to 
-agree with other people. The whole thrust of professional philosophy is toward inventing ways to regard 
-opposing arguments as failure, as long as those ways don't exhibit any obvious flaws. However much 
-philosophers are interested in the truth, philosophy as a profession is not structured so as to converge 
-on it; it is structured so as to have the maximal possible divergence that can be sustained given common 
-conventions. 
-
-We are not trained to find ways to come to agree with each other; we are trained to find ways to 
-disagree with each other.
-```
-
 From *Cryptonomicon*, by Neal Stephenson:
 
 ```markdown
@@ -991,19 +1007,6 @@ In fact, people who talk about the infinite value of human life do not live in e
 consume far more than they need to support life. They may well have cigarettes in their drawer and a sports 
 car in the garage. They recognize in their actions, if not in their words, that physical survival is only 
   one value, albeit a very important one, among many.
-```
-
-John Perry, from the introduction to *Identity, Personal Identity, and the Self*:
-
-```markdown
-There is something about practical things that knocks us off our philosophical high horses. Perhaps Heraclitus 
-really thought he couldn't step in the same river twice. Perhaps he even received tenure for that contribution 
-to philosophy. But suppose some other ancient had claimed to have as much right as Heraclitus did to an ox 
-Heraclitus had bought, on the grounds that since the animal had changed, it wasn't the same one he had bought 
-and so was up for grabs. Heraclitus would have quickly come up with some ersatz, watered-down version of 
-identity of practical value for dealing with property rights, oxen, lyres, vineyards, and the like. And then 
-he might have wondered if that watered-down vulgar sense of identity might be a considerably more valuable 
-concept than a pure and philosophical sort of identity that nothing has.
 ```
 
 Peter Watts, *Blindsight*:
