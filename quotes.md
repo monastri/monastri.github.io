@@ -2,7 +2,7 @@ I like a lot of quotes.
 
 <a name="#overview"></a>
 
-### Overview
+## Overview
 
 I've sorted the quotes below into the following provisional categories:
 
@@ -14,6 +14,8 @@ I've sorted the quotes below into the following provisional categories:
 ## General intelligence
 
 ([overview](#overview))([miscellaneous](#miscellaneous))
+
+### *Levels of Organization in General Intelligence*
 
 Here are some interesting passages from Eliezer Yudkowsky’s paper [Levels of Organization in General Intelligence](https://intelligence.org/files/LOGI.pdf).
 
@@ -299,6 +301,35 @@ color constancy under natural lighting conditions.18 Three color channels are no
 natural surface reflectances, but three color channels are the exact number required to compensate for ambient natural 
 lighting and thereby ensure that the same surface is perceptually the “same color” on any two occasions. This 
 simplifies the adaptively important task of recognizing a previously experienced object on future encounters.
+```
+
+On evolution vs deliberative design (“intelligent design” would be preferable if it weren’t already so loaded), featuring a notion new to me — the “evolution of evolvability” (Wagner and Altenberg 1996):
+
+```markdown
+There is a fundamental rift between evolutionary design and deliberative design. From the perspective of a 
+deliberative intelligence—a human, for instance—evolution is the degenerate case of design-and-test where 
+intelligence equals zero. Mutations are atomic; recombinations are random; changes are made on the genotype’s 
+lowest level of organization (flipping genetic bits); the grain size of the component tested is the whole 
+organism; and the goodness metric operates solely through induction on historically encountered cases, without 
+deductive reasoning about which contextual factors may later change.
+
+The evolution of evolvability (Wagner and Altenberg 1996) improves this picture somewhat. There is a tendency 
+for low-level genetic bits to exert control over highlevel complexity, so that changes to those genes can 
+create high-level changes. Blind selection pressures can create self-wiring and self-repairing systems that 
+turn out to be highly evolvable because of their ability to phenotypically adapt to genotypical changes.
+
+Evolution never refactors its code. It is far easier for evolution to stumble over a thousand individual 
+optimizations than for evolution to stumble over two simultaneous changes which are together beneficial and 
+separately harmful. The genetic code that specifies the mapping between codons (a codon is three DNA bases) and 
+the 20 amino acids is inefficient; it maps 64 possible codons to 20 amino acids plus the stop code. Why hasn’t 
+evolution shifted one of the currently redundant codons to a new amino acid, thus expanding the range of possible 
+proteins? Because for any complex organism, the smallest change to the behavior of DNA—the lowest level of genetic 
+organization— would destroy virtually all higher levels of adaptive complexity, unless the change were accompanied 
+by millions of other simultaneous changes throughout the genome to shift every suddenly-nonstandard codon to one 
+of its former equivalents. Evolution simply cannot handle simultaneous dependencies, unless individual changes can 
+be deployed incrementally, or multiple phenotypical effects occur as the consequence of a single genetic change. 
+For humans, planning coordinated changes is routine; for evolution, impossible. Evolution is hit with an enormous 
+discount rate when exchanging the paper currency of incremental optimization for the hard coin of complex design.
 ```
 
 <a name="#miscellaneous"></a>
