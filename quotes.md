@@ -12,7 +12,6 @@ I've sorted the quotes below into the following provisional categories:
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-
 ([overview](#overview))([miscellaneous](#miscellaneous))
 
 ### *Levels of Organization in General Intelligence*
