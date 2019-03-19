@@ -8,7 +8,7 @@ See [here](https://listsofnotes.quora.com/About-me-1).
 
 ## Content
 
-Currently available posts, still in experimental stage.
+It turns out that writing here is simply far more effortful than on Quora, so only content I want to remember long-term gets a spot here.
 
 ### Fiction, poetry, and writing in general
 
