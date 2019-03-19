@@ -6,19 +6,29 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [Morality](#morality)
+1. [Philosophy](#philosophy)
+2. [Morality](#morality)
 2. [Statistics](#statistics)
 2. [Math](#math)
-   1. [Mathematical maturity](#mathematical-maturity)
+   1. [Solving famous open problems](#solving-famous-open-problems)
+   2. [Mathematical maturity](#mathematical-maturity)
 2. [General intelligence](#general-intelligence) 
+   1. [LOGI](#logi)
 2. [Miscellaneous](#miscellaneous)
 
 Have fun reading them! I certainly did.
 
+<a name="#philosophy"></a>
+
+## Philosophy
+([overview](#overview))([morality](#morality))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+
+
+
 <a name="#morality"></a>
 
 ## Morality
-([overview](#overview))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))([philosophy](#philosophy))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
 Scott Alexander on the distinction between axiology, morality, and law, from [this essay](https://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets/):
 
@@ -133,7 +143,7 @@ my friend, and f@$k whatever social trust or community cohesion would be lost by
 <a name="#statistics"></a>
 
 ## Statistics
-([overview](#overview))([morality](#morality))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))([philosophy](#philosophy))([morality](#morality))([math](#math))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
 Piet Hein:
 
@@ -242,7 +252,9 @@ explicit claims, use of evidence, and argument.
 <a name="#mathematical-maturity"></a>
 
 ## Math
-([overview](#overview))([morality](#morality))([statistics](#statistics))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))([philosophy](#philosophy))([morality](#morality))([statistics](#statistics))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+
+<a name="#solving-famous-open-problems"></a>
 
 ### How famous open problems get solved
 
@@ -440,7 +452,9 @@ the math was not that hard. But the concept took a while to sink in.
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-([overview](#overview))([morality](#morality))([statistics](#statistics))([math](#math))([miscellaneous](#miscellaneous))
+([overview](#overview))([philosophy](#philosophy))([morality](#morality))([statistics](#statistics))([math](#math))([miscellaneous](#miscellaneous))
+
+<a name="#logi"></a>
 
 ### *Levels of Organization in General Intelligence*
 
@@ -762,7 +776,7 @@ discount rate when exchanging the paper currency of incremental optimization for
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
-([overview](#overview))([morality](#morality))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))
+([overview](#overview))([philosophy](#philosophy))([morality](#morality))([statistics](#statistics))([math](#math))([general intelligence](#general-intelligence))
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
