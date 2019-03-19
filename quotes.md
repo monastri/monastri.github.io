@@ -7,9 +7,9 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Morality](#morality)
-   1. test
 2. [Statistics](#statistics)
 2. [Math](#math)
+   1. [Mathematical maturity](#mathematical-maturity)
 2. [General intelligence](#general-intelligence) 
 2. [Miscellaneous](#miscellaneous)
 
@@ -301,7 +301,11 @@ field. But now a natural successor question X’ to X arises, which lies just ou
 newly developed tools… and we go back to Step 1.
 ```
 
+<a name="#mathematical-maturity"></a>
+
 ### Mathematical maturity
+
+([overview](#overview))
 
 From Redditor [man_after_midnight](https://www.reddit.com/user/man_after_midnight), answering Mathematicians of Reddit: [Is there some point where you see a big picture and everything "clicks"?](https://www.reddit.com/r/math/comments/1mtian/mathematicians_of_reddit_is_there_some_point/):
 
