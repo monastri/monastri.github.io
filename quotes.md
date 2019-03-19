@@ -7,6 +7,7 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Morality](#morality)
+   1. test
 2. [Statistics](#statistics)
 2. [Math](#math)
 2. [General intelligence](#general-intelligence) 
@@ -287,15 +288,15 @@ occurs. There is also a rather different family of methods B^* which can handle 
 17. From all the prior work on this problem, all known model examples are known to obey either P^* or Q^*. 
 Formulate Conjecture C: all cases of problem X obey either P^* or Q*^.
 18. Verify that Conjecture C in fact implies the problem. This is a major reduction!
-Repeat steps 1-18, but with problem X replaced by Conjecture C. (Again, the storyline may be different from 
+19. Repeat steps 1-18, but with problem X replaced by Conjecture C. (Again, the storyline may be different from 
 that presented above.) This procedure itself may iterate a few times.
-19. Finally, the problem has been boiled down to its most purified essence: a key conjecture K which (morally, 
+20. Finally, the problem has been boiled down to its most purified essence: a key conjecture K which (morally, 
 at least) provides the decisive input into the known methods A^*, B^*, etc. which will settle conjecture C 
 and hence problem X.
-20. A breakthrough: a new method Z is introduced to solve an important special case of K.
-21. The endgame: method Z is rapidly developed and extended, using the full power of all the intuition, experience, 
+21. A breakthrough: a new method Z is introduced to solve an important special case of K.
+22. The endgame: method Z is rapidly developed and extended, using the full power of all the intuition, experience, 
 and past results, to fully settle K, then C, and then at last X.
-21. The technology developed to solve major problem X is adapted to solve other related problems in the 
+23. The technology developed to solve major problem X is adapted to solve other related problems in the 
 field. But now a natural successor question X’ to X arises, which lies just outside of the reach of the 
 newly developed tools… and we go back to Step 1.
 ```
