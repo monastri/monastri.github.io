@@ -49,8 +49,8 @@ posts around the same core statement: “I don’t understand how anyone could (
 a carbon tax/sympathize with the Palestinians over the Israelis/want to privatize Social Security/insert 
 your pet issue here)." It’s such an interesting statement, because it has three layers of meaning.
 
-The first layer is the literal meaning of the words: *I lack the knowledge and understanding to figure this 
-out*. But the second, intended meaning is the opposite: *I am such a superior moral being that I cannot even 
+The first layer is the literal meaning of the words: <em>I lack the knowledge and understanding to figure this 
+out<\em>. But the second, intended meaning is the opposite: *I am such a superior moral being that I cannot even 
 imagine the cognitive errors or moral turpitude that could lead someone to such obviously wrong conclusions*. 
 And yet, the third, true meaning is actually more like the first: *I lack the empathy, moral imagination or 
 analytical skills to attempt even a basic understanding of the people who disagree with me*.
