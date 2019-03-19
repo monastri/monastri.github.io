@@ -1,3 +1,13 @@
+From *Cryptonomicon*, by Neal Stephenson:
+
+```markdown
+Your younger nerd takes offense quickly when someone near him begins to utter declarative sentences, because he reads into it an assertion that he, the nerd, does not already know the information being imparted. 
+
+But your older nerd has more self-confidence, and besides, understands that frequently people need to think out loud. 
+
+And highly advanced nerds will furthermore understand that uttering declarative sentences whose contents are already known to all present is part of the social process of making conversation and therefore should not be construed as aggression under any circumstances.
+```
+
 Hastie Dawes, *Rational Choice in an Uncertain World*, pp. 67-8:
 
 ```markdown
