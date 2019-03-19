@@ -6,17 +6,132 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [Statistics](#statistics)
+1. [Morality](#morality)
+2. [Statistics](#statistics)
 2. [Mathematical maturity](#mathematical-maturity)
 2. [General intelligence](#general-intelligence) 
 2. [Miscellaneous](#miscellaneous)
 
 Have fun reading them! I certainly did.
 
+<a name="#morality"></a>
+
+## Morality
+
+Scott Alexander on the distinction between axiology, morality, and law, from [this essay](https://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets/):
+
+```markdown
+Axiology is the study of what’s good. If you want to get all reductive, think of it as comparing the 
+values of world-states. A world-state where everybody is happy seems better than a world-state where 
+everybody is sad. A world-state with lots of beautiful art is better than a world-state containing only 
+featureless concrete cubes. Maybe some people think a world-state full of people living in harmony with
+nature is better than a world-state full of gleaming domed cities, and other people believe the opposite; 
+when they debate the point, they’re debating axiology.
+
+Morality is the study of what the right thing to do is. If someone says “don’t murder”, they’re making a 
+moral commandment. If someone says “Pirating music is wrong”, they’re making a moral claim. Maybe some 
+people believe you should pull the lever on the trolley problem, and other people believe you shouldn’t; 
+when they debate the point, they’re debating morality.
+
+(this definition elides a complicated distinction between individual conscience and social pressure; 
+fixing that would be really hard and I’m going to keep eliding it)
+
+Law is – oh, come on, you know this one. If someone says “Don’t go above the speed limit, there’s a 
+cop car behind that corner”, that’s law. If someone says “my state doesn’t allow recreational marijuana,
+but it will next year”, that’s law too. Maybe some people believe that zoning restrictions should ban 
+skyscrapers in historic areas, and other people believe they shouldn’t; when they debate the point, 
+they’re debating law.
+
+These three concepts are pretty similar; they’re all about some vague sense of what is or isn’t desirable. 
+But most societies stop short of making them exactly the same. Only the purest act-utilitarianesque 
+consequentialists say that axiology exactly equals morality, and I’m not sure there is anybody quite that
+pure. And only the harshest of Puritans try to legislate the state law to be exactly identical to the moral
+one. To bridge the whole distance – to directly connect axiology to law and make it illegal to do anything 
+other than the most utility-maximizing action at any given time – is such a mind-bogglingly bad idea that 
+I don’t think anyone’s even considered it in all of human history.
+
+These concepts stay separate because they each make different compromises between goodness, implementation, 
+and coordination.
+
+One example: axiology can’t distinguish between murdering your annoying neighbor vs. not donating money to 
+savea child dying of parasitic worms in Uganda. To axiology, they’re both just one life snuffed out of the 
+world beforeits time. If you forced it to draw some distinction, it would probably decide that saving the
+child dying of parasitic worms was more important, since they have a longer potential future lifespan.
+
+But morality absolutely draws this distinction: it says not-murdering is obligatory, but donating money to
+Ugandais supererogatory. Even utilitarians who deny this distinction in principle will use it in everyday 
+life: if theirfriend was considering not donating money, they would be a little upset; if their friend was
+considering murder, they would be horrified. If they themselves forgot to donate money, they’d feel a little
+bad; if they committedmurder in the heat of passion, they’d feel awful.
+
+A final example: axiology tells us a world without alcohol would be better than our current world: ending
+alcoholism could avert millions of deaths, illnesses, crimes, and abusive relationships. Morality only tells
+us that we should be careful drinking and stop if we find ourselves becoming alcoholic or ruining our
+relationships. And the law protests that it tried banning alcohol once, but it turned out to be unenforceable
+and gave too many new opportunities to organized crime, so it’s going to stay out of this one except to say
+you shouldn’t drink and drive.
+
+So fundamentally, what is the difference between axiology, morality, and law?
+
+Axiology is just our beliefs about what is good. If you defy axiology, you make the world worse.
+
+At least from a rule-utilitarianesque perspective, morality is an attempt to triage the infinite demands 
+of axiology, in order to make them implementable by specific people living in specific communities. It 
+makes assumptions like “people have limited ability to predict the outcome of their actions”, “people 
+are only going to do a certain amount and then get tired”, and “people do better with bright-line rules
+than with vague gradients of goodness”. It also admits that it’s important that everyone living in a 
+community is on at least kind of the same page morally, both in order to create social pressure to follow 
+the rules, and in order to build the social trust that allows the community to keep functioning. If you 
+defy morality, you still make the world worse. And you feel guilty. And you betray the social trust that
+lets your community function smoothly. And you get ostracized as a bad person.
+
+Law is an attempt to formalize the complicated demands of morality, in order to make them implementable
+by a state with police officers and law courts. It makes assumptions like “people’s vague intuitive moral 
+judgments can sometimes give different results on the same case”, “sometimes police officers and
+legislators are corrupt or wrong”, and “we need to balance the benefits of laws against the cost of
+enforcing them”. It also tries to avert civil disorder or civil war by assuring everybody that it’s in 
+their best interests to appeal to a fair universal law code rather than try to solve their disagreements
+directly. If you defy law, you still get all the problems with defying axiology and morality. And you 
+make your country less peaceful and stable. And you go to jail.
+
+In a healthy situation, each of these systems reinforces and promotes the other. Morality helps you 
+implement axiology from your limited human perspective, but also helps prevent you from feeling guilty
+for not being God and not being able to save everybody. The law helps enforce the most important moral
+and axiological rules but also leaves people free enough to use their own best judgment on how to pursue
+the others. And axiology and morality help resolve disputes about what the law should be, and then lend
+the support of the community, the church, and the individual conscience in keeping people law-abiding.
+
+In these healthy situations, the universally-agreed priority is that law trumps morality, and morality
+trumps axiology. First, because you can’t keep your obligations to your community from jail, and you 
+can’t work to make the world a better place when you’re a universally-loathed social outcast. But also,
+because you can’t work to build strong communities and relationships in the middle of a civil war, and
+you can’t work to make the world a better place from within a low-trust defect-defect equilibrium. But
+also, because in a just society, axiology wants you to be moral (because morality is just a 
+more-effective implementation of axiology), and morality wants you to be law-abiding (because law is 
+just a more-effective way of coordinating morality). So first you do your legal duty, then your moral 
+duty, and then if you have energy left over, you try to make the world a better place.
+
+In unhealthy situations, you can get all sorts of weird conflicts. Most “moral dilemmas” are 
+philosophers trying to create perverse situations where axiology and morality give opposite answers.
+For example, the fat man version of the trolley problem sets axiology (“it’s obviously better to 
+have a world where one person dies than a world where five people die”) against morality (“it’s a
+useful rule that people generally shouldn’t push other people to their deaths”). And when morality 
+and state law disagree, you get various acts of civil disobedience, from people hiding Jews from the
+Nazis all the way down to Kentucky clerks refusing to perform gay marriages.
+
+I don’t have any special insight into these. My intuition (most authoritative source! is never wrong!)
+says that we should be very careful reversing the usual law-trumps-morality-trumps-axiology order, 
+since the whole point of having more than one system is that we expect the systems to disagree and we 
+want to suppress those disagreements in order to solve important implementation and coordination problems.
+But I also can’t deny that for enough gain, I’d reverse the order in a heartbeat. If someone told me 
+that by breaking a promise to my friend (morality) I could cure all cancer forever (axiology), then f@$k 
+my friend, and f@$k whatever social trust or community cohesion would be lost by the transaction.
+```
+
 <a name="#statistics"></a>
 
 ## Statistics
-([overview](#overview))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))([morality](#morality))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
 Piet Hein:
 
@@ -125,7 +240,7 @@ explicit claims, use of evidence, and argument.
 <a name="#mathematical-maturity"></a>
 
 ## Mathematical maturity
-([overview](#overview))([statistics](#statistics))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))([morality](#morality))([statistics](#statistics))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
 From Redditor [man_after_midnight](https://www.reddit.com/user/man_after_midnight), answering Mathematicians of Reddit: [Is there some point where you see a big picture and everything "clicks"?](https://www.reddit.com/r/math/comments/1mtian/mathematicians_of_reddit_is_there_some_point/):
 
@@ -260,7 +375,7 @@ the math was not that hard. But the concept took a while to sink in.
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-([overview](#overview))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([miscellaneous](#miscellaneous))
+([overview](#overview))([morality](#morality))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([miscellaneous](#miscellaneous))
 
 ### *Levels of Organization in General Intelligence*
 
@@ -582,7 +697,7 @@ discount rate when exchanging the paper currency of incremental optimization for
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
-([overview](#overview))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))
+([overview](#overview))([morality](#morality))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
