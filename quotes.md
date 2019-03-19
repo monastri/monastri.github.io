@@ -10,6 +10,8 @@ I've sorted the quotes below into the following provisional categories:
 2. [General intelligence](#general-intelligence) 
 2. [Miscellaneous](#miscellaneous)
 
+Have fun reading them! I certainly did.
+
 <a name="#math-mature"></a>
 
 ## Mathematical maturity
