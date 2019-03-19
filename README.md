@@ -13,3 +13,4 @@ quick summary of an introductory article by Michael Nielsen explaining the basic
 4. [A quick summary of Nerst's narratives as partial derivatives metaphor](https://github.com/monastri/monastri.github.io/blob/master/nerst-narratives-as-derivatives.md), 
 reality being represented by a complicated multivariable function with partial derivatives that look nothing alike 
 (signifying ostensibly incompatible narratives)
+5. [Böttger on why modern poetry sucks](https://github.com/monastri/monastri.github.io/blob/master/B%C3%B6ttger-why-modern-poetry-sucks), basically because it's trapped in an inadequate equilibrium
