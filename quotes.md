@@ -103,6 +103,25 @@ sometimes we use conditioning to update prior probability distributions, etc. No
 the last --- *defines* a reliable way of learning from data.
 ```markdown
 
+Carl Shulman's [Research advice](https://docs.google.com/document/d/1_yuuheVqp1quDfkuRcpoW_HO7jPaI7QnRjF1zl_VovU/edit) has the following bit on statistical literacy which I feel really strongly about and wholeheartedly endorse:
+
+```markdown
+Use basic arithmetic and statistics frequently and briefly as part of thinking rather than as occasional or 
+separate exercises. … Try to convert qualitative claims into quantitative Fermi estimates whenever possible.
+
+In my experience people almost never do enough Fermis with look-ups from Wiki//government sources. And 
+especially they have too high a barrier to doing it and won't do it in casual conversation or exploration.
+
+Sometimes it's because talking is not about information and other things are shinier. Some people are afraid 
+they'll be wrong, and don't trust their ability to do it (and don't test that). Sometimes it’s because of a 
+lack of affordance/habit/knowing about the bigger and standard resources or the basic toolkits of Fermis: 
+prices, populations, sales. Sometimes it’s issues with arithmetic and basic statistics fluency/aversion. 
+Sometimes because it gives an unwelcome answer.
+
+Worked examples with numbers and realistic figures erode plausible deniability and attractive lies, and force 
+explicit claims, use of evidence, and argument.
+```
+
 <a name="#mathematical-maturity"></a>
 
 ## Mathematical maturity
