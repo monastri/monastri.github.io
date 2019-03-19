@@ -1,3 +1,7 @@
+I like a lot of quotes.
+
+<a name="#overview"></a>
+
 ### Overview
 
 I've sorted the quotes below into the following provisional categories:
@@ -8,6 +12,8 @@ I've sorted the quotes below into the following provisional categories:
 <a name="#general-intelligence"></a>
 
 ## General intelligence
+
+([overview](#overview))([miscellaneous](#miscellaneous))
 
 Here are some interesting passages from Eliezer Yudkowsky’s paper [Levels of Organization in General Intelligence](https://intelligence.org/files/LOGI.pdf).
 
@@ -298,7 +304,7 @@ simplifies the adaptively important task of recognizing a previously experienced
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
-([back](#back))([general intelligence](#general-intelligence))
+([overview](#overview))([general intelligence](#general-intelligence))
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
