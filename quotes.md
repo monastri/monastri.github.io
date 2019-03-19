@@ -4,6 +4,7 @@ I've sorted the quotes below into the following provisional categories:
 
 1. General intelligence
 2. Miscellaneous
+3. [link](#misc)
 
 ## General intelligence
 
@@ -29,6 +30,8 @@ mental image of the desired outcome to create a mental image of the necessary ac
 ascending tests of ability are formalized as sensory, predictive, decisive, and manipulative bindings between a 
 model and a referent.)
 ```
+
+<a name="misc"></a>
 
 On the evolution of complex adaptations in general, and of intelligence in particular:
 
