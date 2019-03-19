@@ -87,36 +87,29 @@ Unicorns become possible again.
 Not a poem, strictly speaking, but a poetic quote that always comes to mind. 
 
 ```markdown
-Deep time is something that even geologists and their generalist peers, the earth and planetary scientists, can never fully grow accustomed to. 
+Deep time is something that even geologists and their generalist peers, the earth and planetary scientists, can 
+never fully grow accustomed to. 
 
-The sight of a fossilized form, perhaps the outline of a trilobite, a leaf, 
-or a saurian footfall can still send a shiver through their bones, or 
-excavate a trembling hollow in the chest that breath cannot fill. They 
-can measure celestial motions and list Earth’s lithic annals, and they 
-can map that arcane knowledge onto familiar scales, but the humblest do 
-not pretend that minds summoned from and returned to dust in a century’s 
-span can truly comprehend the solemn eons in their passage. 
+The sight of a fossilized form, perhaps the outline of a trilobite, a leaf, or a saurian footfall can still send 
+a shiver through their bones, or excavate a trembling hollow in the chest that breath cannot fill. They can measure 
+celestial motions and list Earth’s lithic annals, and they can map that arcane knowledge onto familiar scales, but 
+the humblest do not pretend that minds summoned from and returned to dust in a century’s span can truly comprehend 
+the solemn eons in their passage. 
 
-Instead, they must in a way learn to stand outside of time, to become 
-momentarily eternal. Their world acquires dual, overlapping dimensions— 
-one ephemeral and obvious, the other enduring and hidden in plain view. 
-A planet becomes a vast machine, or an organism, pursuing some impenetrable 
-purpose through its continental collisions and volcanic outpourings. A man 
-becomes a protein-sheathed splash of ocean raised from rock to breathe the 
-sky, an eater of sun whose atoms were forged on an anvil of stars. 
+Instead, they must in a way learn to stand outside of time, to become momentarily eternal. Their world acquires dual, 
+overlapping dimensions — one ephemeral and obvious, the other enduring and hidden in plain view. A planet becomes a 
+vast machine, or an organism, pursuing some impenetrable purpose through its continental collisions and volcanic 
+outpourings. A man becomes a protein-sheathed splash of ocean raised from rock to breathe the sky, an eater of sun 
+whose atoms were forged on an anvil of stars. 
 
-Beholding the long evolutionary succession of Earthly empires that have 
-come and gone, capped by a sliver of human existence that seems so easily 
-shaved away, they perceive the breathtaking speed with which our species 
-has stormed the world. Humanity’s ascent is a sudden explosion, kindled 
-in some sapient spark of self-reflection, bursting forth from savannah 
-and cave to blaze through the biosphere and scatter technological shrapnel 
-across the planet, then the solar system, bound for parts unknown. From the 
-giant leap of consciousness alongside some melting glacier, it proved only 
-a small step to human footprints on the Moon. The modern era, luminous and 
-fleeting, flashes like lightning above the dark, abyssal eons of the 
-abiding Earth. 
+Beholding the long evolutionary succession of Earthly empires that have come and gone, capped by a sliver of human 
+existence that seems so easily shaved away, they perceive the breathtaking speed with which our species has stormed 
+the world. Humanity’s ascent is a sudden explosion, kindled in some sapient spark of self-reflection, bursting forth 
+from savannah and cave to blaze through the biosphere and scatter technological shrapnel across the planet, then the 
+solar system, bound for parts unknown. From the giant leap of consciousness alongside some melting glacier, it proved 
+only a small step to human footprints on the Moon. The modern era, luminous and fleeting, flashes like lightning 
+above the dark, abyssal eons of the abiding Earth. 
 
-Immersed in a culture unaware of its own transience, students of geologic 
-time see all this and wonder whether the human race will somehow abide, too.
+Immersed in a culture unaware of its own transience, students of geologic time see all this and wonder whether the 
+human race will somehow abide, too.
 ```
