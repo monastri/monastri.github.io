@@ -1,3 +1,49 @@
+Hastie Dawes, *Rational Choice in an Uncertain World*, pp. 67-8:
+
+```markdown
+A lot of outcomes about which we care deeply are not very predictable. For example, it is not comforting 
+to members of a graduate school admissions committee to know that only 23% of the variance in later 
+faculty ratings of a student can be predicted by a unit weighting of the student's undergraduate GPA, 
+his or her GRE score, and a measure of the student's undergraduate institution selectivity -- but that 
+is opposed to 4% based on those committee members' global ratings of the applicant. We want to predict 
+outcomes important to us. It is only rational to conclude that if one method (a linear model) does not 
+predict well, something else may do better. What is not rational -- in fact, it's irrational -- is to 
+conclude that this "something else" necessarily exists and, in the absence of any positive supporting 
+evidence, is intuitive global judgment.
+```
+
+David Friedman, *The Machinery of Freedom*:
+
+```markdown
+The person who says, as almost everyone does say, that human life is of infinite value, not to be measured 
+in mere material terms, is talking palpable, if popular, nonsense. If he believed that of his own life, he 
+would never cross the street, save to visit his doctor or to earn money for things necessary to physical 
+survival. He would eat the cheapest, most nutritious food he could find and live in one small room, saving 
+his income for frequent visits to the best possible doctors. He would take no risks, consume no luxuries, 
+and live a long life. If you call it living. If a man really believed that other people's lives were 
+infinitely valuable, he would live like an ascetic, earn as much money as possible, and spend everything 
+not absolutely necessary for survival on CARE packets, research into presently incurable diseases, and 
+similar charities.
+
+In fact, people who talk about the infinite value of human life do not live in either of these ways. They 
+consume far more than they need to support life. They may well have cigarettes in their drawer and a sports 
+car in the garage. They recognize in their actions, if not in their words, that physical survival is only 
+  one value, albeit a very important one, among many.
+```
+
+John Perry, from the introduction to *Identity, Personal Identity, and the Self*:
+
+```markdown
+There is something about practical things that knocks us off our philosophical high horses. Perhaps Heraclitus 
+really thought he couldn't step in the same river twice. Perhaps he even received tenure for that contribution 
+to philosophy. But suppose some other ancient had claimed to have as much right as Heraclitus did to an ox 
+Heraclitus had bought, on the grounds that since the animal had changed, it wasn't the same one he had bought 
+and so was up for grabs. Heraclitus would have quickly come up with some ersatz, watered-down version of 
+identity of practical value for dealing with property rights, oxen, lyres, vineyards, and the like. And then 
+he might have wondered if that watered-down vulgar sense of identity might be a considerably more valuable 
+concept than a pure and philosophical sort of identity that nothing has.
+```
+
 Peter Watts, *Blindsight*:
 
 ```markdown
