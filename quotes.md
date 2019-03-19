@@ -6,13 +6,13 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [Mathematical maturity](#math-mature)
+1. [Mathematical maturity](#mathematical-maturity)
 2. [General intelligence](#general-intelligence) 
 2. [Miscellaneous](#miscellaneous)
 
 Have fun reading them! I certainly did.
 
-<a name="#math-mature"></a>
+<a name="#mathematical-maturity"></a>
 
 ## Mathematical maturity
 ([overview](#overview))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
@@ -150,7 +150,7 @@ the math was not that hard. But the concept took a while to sink in.
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-([overview](#overview))([math maturity](#math-mature))([miscellaneous](#miscellaneous))
+([overview](#overview))([mathematical maturity](#mathematical-maturity))([miscellaneous](#miscellaneous))
 
 ### *Levels of Organization in General Intelligence*
 
@@ -472,7 +472,7 @@ discount rate when exchanging the paper currency of incremental optimization for
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
-([overview](#overview))([math maturity](#math-mature))([general intelligence](#general-intelligence))
+([overview](#overview))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
