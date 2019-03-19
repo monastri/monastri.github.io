@@ -1,3 +1,60 @@
+From [Marc Andreessen gives the career advice that nobody wants to hear](https://www.businessinsider.com/andreessen-whatever-you-do-dont-follow-your-passion-2014-5/?IR=T):
+
+```markdown
+"Do what you love" / "Follow your passion" is dangerous and destructive career advice. We tend to hear it from (a) Highly successful people who (b) Have become successful doing what they love. The problem is that we do NOT hear from people who have failed to become successful by doing what they love. Particularly pernicious problem in tournament-style fields with a few big winners lots of losers: media, athletics, startups. Better career advice may be "Do what contributes" -- focus on the beneficial value created for other people vs just one's own ego. People who contribute the most are often the most satisfied with what they do -- and in fields with high renumeration, make the most $. Perhaps difficult advice since requires focus on others vs oneself -- perhaps bad fit with endemic narcissism in modern culture? Requires delayed gratification -- may toil for many years to get the payoff of contributing value to the world, vs short-term happiness.
+```
+
+Razib Khan:
+
+```markdown
+But, there's another problem, and that is the fact that statistical and probabilistic thinking is a real 
+damper on "intellectual" conversation. By this, I mean that there are many individuals who wish to make 
+inferences about the world based on data which they observe, or offer up general typologies to frame a 
+subsequent analysis. These individuals tend to be intelligent and have college degrees. Their discussion 
+ranges over topics such as politics, culture and philosophy. But, introduction of questions about the 
+moments about the distribution, or skepticism as to the representativeness of their sample, and so on, tends 
+to have a chilling affect on the regular flow of discussion. While the average human being engages mostly 
+in gossip and interpersonal conversation of some sort, the self-consciously intellectual interject a bit of 
+data and abstraction (usually in the form of jargon or pithy quotations) into the mix. But the raison d'etre 
+of the intellectual discussion is basically signaling and cuing; in other words, social display. No one 
+really cares about the details and attempting to generate a rigorous model is really beside the point. Trying 
+to push the N much beyond 2 or 3 (what you would see in a college essay format) will only elicit eye-rolling 
+and irritation.
+```
+
+David Wong:
+
+```markdown
+It's not that clean energy will never happen -- it totally will. It's just that it won't come from a 
+wild-haired scientist running out of his basement screaming, "Eureka! I've discovered how to get limitless 
+clean energy from common seawater!" Instead, it will come from thousands of scientists publishing unreadable 
+studies with titles like "Assessing Effectiveness and Costs of Asymmetrical Methods of Beryllium Containment 
+in Gen 4 Liquid Fluoride Thorium Reactors When Factoring for Cromulence Decay." The world will be saved by a 
+series of boring, incremental advances that chip away at those technical challenges one tedious step at a time.
+
+But nobody wants to read about that in their morning Web browsing. We want to read that while we were sleeping, 
+some unlikely hero saved the world. Or at least cured cancer.
+```
+
+William T. Powers:
+
+```markdown
+One thing I have advocated, without much success, is that children be taught social rules (when they are 
+ready) in exactly the same way they are taught and teach each other games. The point is not whether the 
+rules are right or wrong. Are the rules of 5-card stud poker or hopscotch right or wrong? It's that we're 
+playing a certain game here, and there are rules to this game just as in any other game. If you want to 
+be in the game, then you have to learn how to play it. Different groups of people play different games 
+(different rules = different game), so if you want to play in different groups, you have to learn the 
+games they play. When you develop the levels of understanding above the rule level, you'll be able to 
+understand all games, and be able to join in anywhere. You won't be stuck knowing how to play only one game.
+
+My problem with selling this idea is that people tend to think that their game is the only right one. 
+In fact, being told that they are playing a game with arbitrary rules is insulting or frightening. They 
+want to believe that the rules they know are the ones that everyone ought to play by; they even set 
+up systems of punishment and reward to make sure that nobody tries to play a different game. They turn 
+the game into something that is deadly serious, and so my idea simply seems frivolous instead of liberating.
+```
+
 Patrick McKenzie, "Some Perspective on the Japan Earthquake":
 
 ```markdown
