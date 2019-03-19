@@ -1,14 +1,15 @@
+<a name="#back"></a>
 ### Overview
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [General intelligence](#general-intelligence) <a name="#general-intelligence"></a>
+1. [General intelligence](#general-intelligence) 
 2. [Miscellaneous](#miscellaneous)
 
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-[back](#general-intelligence)
+([back](#back))
 
 Here are some interesting passages from Eliezer Yudkowsky’s paper [Levels of Organization in General Intelligence](https://intelligence.org/files/LOGI.pdf).
 
