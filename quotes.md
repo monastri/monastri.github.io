@@ -1,11 +1,33 @@
+```markdown
+Sometimes you hear philosophers bemoaning the fact that philosophers tend not to form consensuses 
+like certain other disciplines do (sciences in particular). 
+
+But there is no great mystery to this. The sciences reward consensus-forming as long as certain 
+procedures are followed: agreements through experimental verification, processes of peer review, etc. 
+Philosophy has nothing like this. Philosophers are rewarded for coming up with creative reasons not to 
+agree with other people. The whole thrust of professional philosophy is toward inventing ways to regard 
+opposing arguments as failure, as long as those ways don't exhibit any obvious flaws. However much 
+philosophers are interested in the truth, philosophy as a profession is not structured so as to converge 
+on it; it is structured so as to have the maximal possible divergence that can be sustained given common 
+conventions. 
+
+We are not trained to find ways to come to agree with each other; we are trained to find ways to 
+disagree with each other.
+```
+
 From *Cryptonomicon*, by Neal Stephenson:
 
 ```markdown
-Your younger nerd takes offense quickly when someone near him begins to utter declarative sentences, because he reads into it an assertion that he, the nerd, does not already know the information being imparted. 
+Your younger nerd takes offense quickly when someone near him begins to utter declarative sentences, 
+because he reads into it an assertion that he, the nerd, does not already know the information being 
+imparted. 
 
-But your older nerd has more self-confidence, and besides, understands that frequently people need to think out loud. 
+But your older nerd has more self-confidence, and besides, understands that frequently people need to 
+think out loud. 
 
-And highly advanced nerds will furthermore understand that uttering declarative sentences whose contents are already known to all present is part of the social process of making conversation and therefore should not be construed as aggression under any circumstances.
+And highly advanced nerds will furthermore understand that uttering declarative sentences whose contents 
+are already known to all present is part of the social process of making conversation and therefore 
+should not be construed as aggression under any circumstances.
 ```
 
 Hastie Dawes, *Rational Choice in an Uncertain World*, pp. 67-8:
