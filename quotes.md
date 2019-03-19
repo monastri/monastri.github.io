@@ -6,16 +6,62 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [Mathematical maturity](#mathematical-maturity)
+1. [Statistics](#stats)
+2. [Mathematical maturity](#mathematical-maturity)
 2. [General intelligence](#general-intelligence) 
 2. [Miscellaneous](#miscellaneous)
 
 Have fun reading them! I certainly did.
 
+<a name="#stats"></a>
+
+## Statistics
+([overview](#overview))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+
+Peter Medawar:
+
+```markdown
+Most scientists receive no tuition in scientific method, but those who have been instructed perform 
+no better as scientists than those who have not. Of what other branch of learning can it be said that 
+it gives its proficients no advantage; that it need not be taught or, if taught, need not be learned?
+```
+
+Cosma Shalizi:
+
+```markdown
+It’s much easier to get rid of wrong notions than it is to find correct ones, if the latter is 
+possible at all.
+```
+
+This quote from Cosma's [book review](http://bactra.org/reviews/error/) of Deborah Mayo's *Error and the Growth of Experimental Knowledge* contains the most inventive and *original* description of Popperian falsification I’ve ever seen:
+
+```markdown
+In our own time, Medawar's friend Karl Popper achieved (fully deserved) eminence by tenacious 
+insistence on the importance of this point, becoming a sort of Lenin of the philosophy of science. 
+Instead of conferring patents of epistemic nobility, lawdoms and theoryhoods, on certain hypotheses, 
+Popper hauled them all before an Anglo-Austrian Tribunal of Revolutionary Empirical Justice.
+
+The procedure of the court was as follows: the accused was blindfolded, and the magistrates then formed 
+a firing squad, shooting at it with every piece of possibly-refuting observational evidence they could 
+find. Conjectures who refused to present themselves might lead harmless lives as metaphysics without 
+scientific aspirations; conjectures detected peaking out from under the blindfold, so as to dodge the 
+Tribunal's attempts at refutation, were declared pseudo-scientific and exiled from the Open Society of 
+Science. Our best scientific theories, those Stakhanovites of knowledge, consisted of those conjectures 
+which had survived harsh and repeated sessions before the Tribunal, demonstrated their loyalty to the 
+Open Society by appearing before it again and again and offering the largest target to refutation that 
+they could, and so retained their place in the revolutionary vanguard until they succumbed, or were 
+displaced by another conjecture with even greater zeal for the Great Purge.
+
+As Popper famously said, better our hypotheses die for our errors than ourselves... It's an answer with 
+nice, clean lines, and makes lots of sense to the scientist-at-the-bench, like Medawar.
+
+Alas, the Revolution runs into trouble on several fronts, for instance statistics.
+```
+
 <a name="#mathematical-maturity"></a>
 
 ## Mathematical maturity
-([overview](#overview))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))([statistics](#stats))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
 From Redditor [man_after_midnight](https://www.reddit.com/user/man_after_midnight), answering Mathematicians of Reddit: [Is there some point where you see a big picture and everything "clicks"?](https://www.reddit.com/r/math/comments/1mtian/mathematicians_of_reddit_is_there_some_point/):
 
@@ -150,7 +196,7 @@ the math was not that hard. But the concept took a while to sink in.
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-([overview](#overview))([mathematical maturity](#mathematical-maturity))([miscellaneous](#miscellaneous))
+([overview](#overview))([statistics](#stats))([mathematical maturity](#mathematical-maturity))([miscellaneous](#miscellaneous))
 
 ### *Levels of Organization in General Intelligence*
 
@@ -472,7 +518,7 @@ discount rate when exchanging the paper currency of incremental optimization for
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
-([overview](#overview))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))
+([overview](#overview))([statistics](#stats))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
