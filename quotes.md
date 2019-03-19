@@ -18,6 +18,20 @@ Have fun reading them! I certainly did.
 ## Statistics
 ([overview](#overview))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
+Piet Hein:
+
+```markdown
+The road to wisdom? --- Well, it's plain
+and simple to express:
+
+ Err
+ and err
+ and err again
+ but less
+ and less
+ and less.
+```
+
 Peter Medawar:
 
 ```markdown
@@ -57,6 +71,37 @@ nice, clean lines, and makes lots of sense to the scientist-at-the-bench, like M
 
 Alas, the Revolution runs into trouble on several fronts, for instance statistics.
 ```
+
+Deborah Mayo on Popper being too soft with conjectures:
+
+```markdown
+Although Popper's work is full of exhortations to put hypotheses through the wringer, to make them "suffer 
+in our stead in the struggle for the survival of the fittest," the tests Popper sets out are white-glove 
+affairs of logical analysis. If anomalies are approached with white gloves, it is little wonder that they 
+seem to tell us only that there is an error somewhere and that they are silent about its source. We have 
+to become shrewd inquisitors of errors, interact with them, simulate them (with models and computers), 
+amplify them: we have to learn to make them talk.
+```markdown
+
+Cosma Shalizi again, this time on an interesting argument for how “good statistics” should be defined (cf. [Properties versus Principles debate](http://bactra.org/notebooks/properties-vs-principles-for-statistics.html)):
+
+```markdown
+In his book The Theory of Literary Criticism, John Ellis argues that it's a mistake to try to define 
+many categories in terms of criteria which are applicable to the objects of the categories in themselves; 
+they are rather defined (in large part) by their relations to us and to our purposes. The really persuasive 
+(to me) example is "weed": a weed is simply an obnoxious plant. Plants may be obnoxious because they are 
+fast-growing, hardy, perennial, etc., etc., but none of these properties, or any Boolean combination 
+thereof, *defines* weeds; their relation to our purposes in gardening does. It's perfectly sensible to say 
+"kudzu is a weed, and one of the reasons why is that it grows so fast", but fast growth doesn't define weeds. 
+The quest for criteria or defining principles of weed-hood is (if I may put it this way) fruitless.
+
+I wonder if one can't say something similar about good statistics? What makes something a good method of 
+statistical inference is that it gives us a reliable, low-error way of drawing conclusions from data. The 
+reasons why a given procedure is reliable, and the ways we find them, are many and various. In the case of 
+the Neyman-Pearson lemma, we directly minimize error probabilities; but sometimes we maximize likelihood, 
+sometimes we use conditioning to update prior probability distributions, etc. None of these --- particularly 
+the last --- *defines* a reliable way of learning from data.
+```markdown
 
 <a name="#mathematical-maturity"></a>
 
