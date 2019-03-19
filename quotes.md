@@ -6,14 +6,14 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [Statistics](#stats)
+1. [Statistics](#statistics)
 2. [Mathematical maturity](#mathematical-maturity)
 2. [General intelligence](#general-intelligence) 
 2. [Miscellaneous](#miscellaneous)
 
 Have fun reading them! I certainly did.
 
-<a name="#stats"></a>
+<a name="#statistics"></a>
 
 ## Statistics
 ([overview](#overview))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
@@ -61,7 +61,7 @@ Alas, the Revolution runs into trouble on several fronts, for instance statistic
 <a name="#mathematical-maturity"></a>
 
 ## Mathematical maturity
-([overview](#overview))([statistics](#stats))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+([overview](#overview))([statistics](#statistics))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
 
 From Redditor [man_after_midnight](https://www.reddit.com/user/man_after_midnight), answering Mathematicians of Reddit: [Is there some point where you see a big picture and everything "clicks"?](https://www.reddit.com/r/math/comments/1mtian/mathematicians_of_reddit_is_there_some_point/):
 
@@ -196,7 +196,7 @@ the math was not that hard. But the concept took a while to sink in.
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-([overview](#overview))([statistics](#stats))([mathematical maturity](#mathematical-maturity))([miscellaneous](#miscellaneous))
+([overview](#overview))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([miscellaneous](#miscellaneous))
 
 ### *Levels of Organization in General Intelligence*
 
@@ -518,7 +518,7 @@ discount rate when exchanging the paper currency of incremental optimization for
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
-([overview](#overview))([statistics](#stats))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))
+([overview](#overview))([statistics](#statistics))([mathematical maturity](#mathematical-maturity))([general intelligence](#general-intelligence))
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
