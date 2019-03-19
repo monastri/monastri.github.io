@@ -38,3 +38,22 @@ failing but a causal necessity. Anyone who never understood limits will flunk ca
 
 It's not you, it's the bug.
 ```
+
+The rest of the linked article is _fantastic_. I had trouble quoting it because I felt like quoting everything.
+
+Megan McArdle, [Only stupid people call people stupid](https://www.bloomberg.com/opinion/articles/2014-08-12/only-stupid-people-call-people-stupid):
+
+```markdown
+I’m always fascinated by the number of people who proudly build columns, tweets, blog posts or Facebook 
+posts around the same core statement: “I don’t understand how anyone could (oppose legal abortion/support 
+a carbon tax/sympathize with the Palestinians over the Israelis/want to privatize Social Security/insert 
+your pet issue here)." It’s such an interesting statement, because it has three layers of meaning.
+
+The first layer is the literal meaning of the words: _I lack the knowledge and understanding to figure this 
+out_. But the second, intended meaning is the opposite: _I am such a superior moral being that I cannot even 
+imagine the cognitive errors or moral turpitude that could lead someone to such obviously wrong conclusions_. 
+And yet, the third, true meaning is actually more like the first: _I lack the empathy, moral imagination or 
+analytical skills to attempt even a basic understanding of the people who disagree with me_.
+
+In short, “I’m stupid.” Something that few people would ever post so starkly on their Facebook feeds.
+```
