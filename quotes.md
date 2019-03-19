@@ -1,4 +1,4 @@
-I like a lot of quotes.
+I like a lot of quotes. 
 
 <a name="#overview"></a>
 
@@ -6,13 +6,149 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [General intelligence](#general-intelligence) 
+1. [Mathematical maturity](#math-mature)
+2. [General intelligence](#general-intelligence) 
 2. [Miscellaneous](#miscellaneous)
+
+<a name="#math-mature"></a>
+
+## Mathematical maturity
+([overview](#overview))([general intelligence](#general-intelligence))([miscellaneous](#miscellaneous))
+
+From Redditor [man_after_midnight](https://www.reddit.com/user/man_after_midnight), answering Mathematicians of Reddit: [Is there some point where you see a big picture and everything "clicks"?](https://www.reddit.com/r/math/comments/1mtian/mathematicians_of_reddit_is_there_some_point/):
+
+```markdown
+The way it was described to me when I was in high school was in terms of 'levels'.
+
+Sometimes, in your mathematics career, you find that your slow progress, and careful accumulation of tools 
+and ideas, has suddenly allowed you to do a bunch of new things that you couldn't possibly do before. Even 
+though you were learning things that were useless by themselves, when they've all become second nature, a 
+whole new world of possibility appears. You have "leveled up", if you will. Something clicks, but now there 
+are new challenges, and now, things you were barely able to think about before suddenly become critically 
+important.
+
+It's usually obvious when you're talking to somebody a level above you, because they see lots of things 
+instantly when those things take considerable work for you to figure out. These are good people to learn 
+from, because they remember what it's like to struggle in the place where you're struggling, but the things 
+they do still make sense from your perspective (you just couldn't do them yourself).
+
+Talking to somebody two or levels above you is a different story. They're barely speaking the same language, 
+and it's almost impossible to imagine that you could ever know what they know. You can still learn from them, 
+if you don't get discouraged, but the things they want to teach you seem really philosophical, and you don't 
+think they'll help you—but for some reason, they do.
+
+Somebody three levels above is actually speaking a different language. They probably seem less impressive to 
+you than the person two levels above, because most of what they're thinking about is completely invisible to 
+you. From where you are, it is not possible to imagine what they think about, or why. You might think you can, 
+but this is only because they know how to tell entertaining stories. Any one of these stories probably contains 
+enough wisdom to get you halfway to your next level if you put in enough time thinking about it.
+
+What follows is my rough opinion on how this looks in a typical path towards a Ph.D. in math. Obviously this 
+is rather subjective, and makes math look too linear, but I think it's a useful thought experiment.
+
+Consider the change that a person undergoes in first mastering elementary algebra. Let's say that that's one 
+level. This student is now comfortable with algebraic manipulation and the idea of variables.
+
+The next level may come somewhere during a first calculus course. The student now understands the concept of 
+the infinitely small, of slope at a point, and can reason about areas, physical motion, and optimization.
+
+Many stop here, believing that they have finally learned math. Those who do not stop, might proceed through 
+multivariable calculus and perhaps a basic linear algebra course with the tools they currently possess. Their 
+next level comes when they find themselves suffering through an abstract algebra course, and have to once 
+again reshape their whole thought process just to squeak by with a C.
+
+Once this student masters all of that, the rest of the undergraduate curriculum at their university might be a 
+breeze. But not so with graduate school. They gain a level their first year. They gain another their third year. 
+And they are horrified to discover that they are expected to gain a third level before they graduate. This 
+level is the hardest of them all, because it is the first one that consists in mastering material that has been 
+created largely by the student.
+
+I don't know how many levels there are after that. At least three.
+
+So, the bad news is, you never do see the whole picture (though you see the old picture shrink down to a tiny 
+point), and you can't really explain what you do see. But the good news is that the world of mathematics is so 
+rich and exciting and wonderful that even your wildest dreams about it cannot possibly compare. It is not like 
+seeing the Matrix—it is like seeing the Matrix within the Matrix within the Matrix within the Matrix within the
+Matrix.
+```
+
+John Baez shared it on Google+ and [added](https://plus.google.com/+johncbaez999/posts/36g9jx54nni):
+
+```markdown
+As he points out, this talk of 'levels' is too linear. You can be much better at algebraic geometry than 
+your friend, but way behind them in probability theory. Or even within a field like algebraic geometry, 
+you might be able to understand sheaf cohomology better than your friend, yet still way behind in some 
+classical topic like elliptic curves.
+
+To have worthwhile conversations with someone who is not evenly matched with you in some subject, it's 
+often good for one of you to play 'student' while the other plays 'teacher'. Playing teacher is an ego 
+boost, and it helps organize your thoughts - but playing student is a great way to amass knowledge and 
+practice humility... and a good student can help the teacher think about things in new ways.
+
+Taking turns between who is teacher and who is student helps keep things from becoming unbalanced. And it's 
+especially fun when some subject can only be understood with the combined knowledge of both players.
+
+I have a feeling good mathematicians spend a lot of time playing these games - we often hear of famous 
+teams like Atiyah, Bott and Singer, or even bigger ones like the French collective called 'Bourbaki'. For 
+about a decade, I played teacher/student games with James Dolan, and it was really productive. I should 
+probably find a new partner to learn the new kinds of math I'm working on now. Trying to learn things by 
+yourself is a huge disadvantage if you want to quickly rise to higher 'levels'.
+```
+
+I also found Baez’s comment on how this relates to his experience ‘preaching’ category theory to ‘the masses’ interesting:
+
+```markdown
+To me category theory seems like a great branch of math for seeing how people climb up levels. Perhaps 
+this because I've studied it a bunch and know a lot of people who think about it. But perhaps it's also 
+because category theory is extremely conceptual, so lots of things of things seem obvious when you 
+understand them, with no need for calculation to prove them - just a verbal argument will do - while the 
+same verbal arguments seem cryptic and baffling before you understand them.
+
+The point is that one needs to really understand the concepts used in these verbal arguments. One puts 
+in a lot of sweat to understand them, but after one has, one can often use them with an ease that seems 
+magical to people at lower levels. This is probably why lots of people get annoyed with category 
+theorists, calling them 'too abstract'.
+
+But it's also good to remember that category theory is just one portion of math, so people at a high 
+level in category theory can still be embarrassingly clueless and awkward in other branches of math.
+```
+
+And to Toby Bartels’ suggestion that these ‘levels’ consist mostly of increasing abstraction:
+
+```markdown
+There are importantly different levels of competence in doing mathematics other than levels of 
+abstraction: for example, levels of skill in devising proofs, levels of skill in inventing research 
+program, and levels of understanding the 'big picture' of mathematics: what the big problems are and 
+why they're interesting.
+
+I often run into freshly-minted category theory postdocs who initially impress me with their ability 
+to throw around (infinity,1)-categories, stacks, topoi and the like... but then amuse me because they 
+don't know enough math to apply these concepts in powerful ways, or even understand where they fit into 
+the grand scheme of things. They just haven't had time to learn the logic, algebra, topology, geometry, 
+analysis, physics, and so on that these abstract concepts were designed to help us with. So they may 
+seem superficially to be at a 'high level', but in a lot of ways they're not. (I don't think 'level' is 
+quite the right word for what I mean, since it's too linear.)
+```
+
+Gary Ray R on how it pertains to engineering:
+
+```markdown
+I think the idea of levels also applies to Mechanical Engineering. I remember really having difficulty 
+with Thermodynamics. I spent hours and hours on the homework, and never though I got any better, I was 
+so happy with a B-. At the end of the course the instructor asked if I wanted to be his TA and grader 
+for the next year. I was flummoxed, me, I just barely got this stuff. He said, you can do it. Well the 
+next year I graded Thermo and that was one of the very hardest things in my engineering studies. But I 
+jumped a level and did not really realize it.
+
+Later when I went back for grad school in Materials Engineering, the Thermo seemed so easy, I was surprised 
+at what I was so hard now seemed so clear. I could explain almost anything with Gibbs Free Energy, and 
+the math was not that hard. But the concept took a while to sink in.
+```
 
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-([overview](#overview))([miscellaneous](#miscellaneous))
+([overview](#overview))([math maturity](#math-mature))([miscellaneous](#miscellaneous))
 
 ### *Levels of Organization in General Intelligence*
 
@@ -334,7 +470,7 @@ discount rate when exchanging the paper currency of incremental optimization for
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
-([overview](#overview))([general intelligence](#general-intelligence))
+([overview](#overview))([math maturity](#math-mature))([general intelligence](#general-intelligence))
 
 Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
 
