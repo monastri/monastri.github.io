@@ -9,7 +9,6 @@ I've sorted the quotes below into the following provisional categories:
 <a name="#general-intelligence"></a>
 
 ## General intelligence
-([back](#back))
 
 Here are some interesting passages from Eliezer Yudkowsky’s paper [Levels of Organization in General Intelligence](https://intelligence.org/files/LOGI.pdf).
 
