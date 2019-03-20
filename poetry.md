@@ -5,7 +5,7 @@
 Poems and quotes listed in order below.
 
 1. [High Flight, by John Gillespie Magee, Jr](#high-flight)
-2. [Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity, by John Tobias](#reflections-on)
+2. [Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity, by John Tobias](#reflections-on-a-gift-of-watermelon-pickle-received-from-a-friend-called-felicity)
 3. [A sunset glimpse of deep time, by Lee Billings](#a-sunset-glimpse-of-deep-time)
 
 <a name="#high-flight"></a>
@@ -36,7 +36,7 @@ Put out my hand, and touched the face of God.
 
 I first read this poem as a freshman in California. Few things have been as powerful as the experience of reading it.
 
-<a name="#reflections-on"></a>
+<a name="#reflections-on-a-gift-of-watermelon-pickle-received-from-a-friend-called-felicity"></a>
 
 ## Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity
 ### by John Tobias
