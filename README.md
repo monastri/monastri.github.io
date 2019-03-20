@@ -13,10 +13,10 @@ It turns out that writing here is simply far more effortful than on Quora, so on
 ### Fiction, poetry, and writing in general
 
 1. [Poetry](
-        monastri.github.io/poetry.md
+        https://github.com/monastri/monastri.github.io/blob/master/poetry.md
       ), favorite poems and poetic quotes
 2. [Favorite quotes](
-        monastri.github.io/quotes.md
+        https://github.com/monastri/monastri.github.io/blob/master/quotes.md
       )
 
 ### Expository notes
