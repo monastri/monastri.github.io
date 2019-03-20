@@ -480,8 +480,6 @@ one. My guess would be that science ultimately benefits from both the “pro-phi
 “anti-philosophical” temperaments, and even from the friction between them.
 ```
 
-<a name="#making-progress-on-big-problems"></a>
-
 Making progress on big problems:
 
 ```markdown
