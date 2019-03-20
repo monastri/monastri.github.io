@@ -10,6 +10,7 @@ I've sorted the quotes below into the following provisional categories:
 2. [Philosophy](#philosophy)
    1. [Diseased philosophy](#diseased-philosophy)
    2. [Morality](#morality)
+   3. [Slack](#slack) and deliberate mediocrity
 2. [Statistics](#statistics)
 2. [Math](#math)
    1. [Solving famous open problems](#solving-famous-open-problems)
@@ -240,6 +241,229 @@ want to suppress those disagreements in order to solve important implementation 
 But I also can’t deny that for enough gain, I’d reverse the order in a heartbeat. If someone told me 
 that by breaking a promise to my friend (morality) I could cure all cancer forever (axiology), then f@$k 
 my friend, and f@$k whatever social trust or community cohesion would be lost by the transaction.
+```
+
+<a name="#slack"></a>
+
+### Slack and deliberate mediocrity
+([overview](#overview))
+
+The basic idea of Slack comes from the [eponymous LW post](https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack). Quotes I liked, or that made sense to me:
+
+```markdown
+Definition: Slack. The absence of binding constraints on behavior.
+Poor is the person without Slack. Lack of Slack compounds and traps.
+
+Slack means margin for error. You can relax.
+
+Slack allows pursuing opportunities. You can explore. You can trade.
+
+Slack prevents desperation. You can avoid bad trades and wait for better spots. You can be efficient.
+
+Slack permits planning for the long term. You can invest.
+
+Slack enables doing things for your own amusement. You can play games. You can have fun.
+
+Slack enables doing the right thing. Stand by your friends. Reward the worthy. Punish the wicked. 
+You can have a code.
+
+Slack presents things as they are without concern for how things look or what others think. You can 
+be honest. ...
+
+Slack in project management is the time a task can be delayed without causing a delay to either 
+subsequent tasks or project completion time. The amount of time before a constraint binds.
+
+A slacker is one who has a lazy work ethic or otherwise does not exert maximum effort. They slack off. 
+They refuse to be bound by what others view as hard constraints.
+```
+
+On things being Out To Get You:
+
+```markdown
+Many things in this world are Out to Get You. Often they are Out to Get You for a lot, usually 
+but not always your time, attention and money.
+
+If you Get Got for compact amounts too often, it will add up and the constraints will bind.
+
+If you Get Got even once for a non-compact amount, the cost expands until the you have no Slack 
+left. The constraints bind you.
+
+You might spend every spare minute and/or dollar on politics, advocacy or charity. You might think 
+of every dollar as a fraction of a third-world life saved. Racing to find a cure for your daughter’s
+cancer, you already work around the clock. You could have an all-consuming job or be a soldier 
+marching off to war. It could be a quest for revenge, for glory, for love. Or you might spend every
+spare minute mindlessly checking Facebook or obsessed with your fantasy football league.
+
+You cannot relax. Your life is not your own.
+
+It might even be the right choice! Especially for brief periods. When about to be run over by a truck
+or evicted from your house, Slack is a luxury you cannot afford. Extraordinary times call for 
+extraordinary effort.
+
+Most times are ordinary. Make an ordinary effort.
+```
+
+Can you afford to lose Slack?
+
+```markdown
+No, you can’t. This is the most famous attack on Slack. Few words make me angrier.
+
+The person who says “You Can Afford It” is saying to ignore constraints that do not bind you. If you 
+do, all constraints soon bind you.
+
+Those who do not value Slack soon lose it. Slack matters. Fight to keep yours!
+
+Ask not whether you can afford it. Ask if it is Worth It.
+
+Unless you can’t afford it. Affordability is invaluable negative selection. Never positive selection.
+
+The You Can Afford It tax on Slack quickly approaches 100% if unchecked.
+
+If those with extra resources are asked to share the whole surplus, all are poor or hide their wealth.
+Wealth is a burden and makes you a target. Those visibly flush rush to spend their bounty.
+
+Where those with free time are given extra work, all are busy or look busy. Those with copious free time
+seek out relatively painless time sinks they can point to.
+
+When looking happy means you deal with everything unpleasant, no one looks happy for long.
+```
+
+Venkat Rao's Maya Millennial is an example of someone who lacks Slack:
+
+```markdown
+Constraints bind her every action. Her job in life is putting up a front of the person she wants to 
+show people that she wants to be. If her constraints noticeably failed to bind the illusion would fail.
+
+Every action is being watched. If no one is around to watch her, the job falls to her. She must post 
+all to Facebook, to Snapchat, to Instagram. Each action and choice signals who she is and her loyalty
+to the system. Not doing that this time could mean missing her one chance to make it big.
+
+Maya never has free time. There is signaling to do! At a minimum, she must spend such time on alert and
+on her phone lest she miss something.
+
+Maya never has spare cash. All must be spent to advance and fit her profile.
+
+Maya lacks free speech, free association, free taste and free thought. All must serve.
+
+Maya is in a world where she must signal she has no Slack. Slack means insufficient dedication and 
+loyalty. Slack cannot be trusted. Slack now means slack later, which means failure. Future failure means 
+no opportunity.
+```
+
+G Gordon Worley III comments on how Slack relates to distributed systems:
+
+```markdown
+If you work with distributed systems, by which I mean any system that must pass information between
+multiple, tightly integrated subsystems, there is a well understood concept of maximum sustainable load
+and we know that number to be roughly 60% of maximum possible load for all systems.
+
+I don't have a link handy to show you the math, but the basic idea is that the probability that one 
+subsystem will have to wait on another increases exponentially with the total load on the system and 
+the load level that maximizes throughput (total amount of work done by the system over some period of
+time) comes in just above 60%. If you do less work you are wasting capacity (in terms of throughput);
+if you do more work you will gum up the works and waste time waiting even if all the subsystems are
+always busy.
+
+We normally deal with this in engineering contexts, but as is so often the case this property will hold 
+for basically anything that looks sufficiently like a distributed system. Thus the "operate at 60% 
+capacity" rule of thumb will maximize throughput in lots of scenarios: assembly lines, service-oriented
+architecture software, coordinated work within any organization, an individual's work (since it is 
+normally made up of many tasks that information must be passed between with the topology being spread
+out over time rather than space), and perhaps most surprisingly an individual's mind-body.
+
+"Slack" is a decent way of putting this, but we can be pretty precise and say you need ~40% slack to
+optimize throughput: more and you tip into being "lazy", less and you become "overworked".
+```
+
+Some things that give Slack also take it away, per commenter elizabeth:
+
+```markdown
+The obvious example is cell phones. Especially at first they gave slack by letting you leave the house 
+while you were waiting for an important phone call, but eventually ate it by creating an expectation 
+that you'd always be available.
+```
+
+ialdabaoth contends that "this is because social structures strive to keep slack homeostatic at your level. As soon as you have more slack than you need to service your superiors in the social hierarchy, they will take that slack for themselves" but I'm not convinced of this argument. 
+
+It's possible to have too much Slack -- I relate to this, as someone who's always subconsciously optimized for Slack myself. Per JacekLach:
+
+```markdown
+I often find myself with free time, and 'waste it away'. I don't really do anything on most weekends.
+Having more constraints as guidance for behaviour in free time could likely remediate that; but I seem 
+to be very good at talking myself out of any recurrent commitments, saying that they would reduce my 
+freedom/flexibility/slack.
+
+At the same time, it seems to me that I'm happiest, most 'alive', most in the 'flow', in situations with
+exactly the kind of binding constraints this post talks of avoiding. The constraints focus you on the 
+present, on the very moment, on being. For me this is clearest in sailing regattas - a clear purpose that
+acts as a binding constraint (to go as fast as possible while staying safe - a safety margin does not for 
+slack make, since you are not willing to ignore crossing it), consuming all your attention (at least during
+the time you're responsible for the ship, and often more).
+
+I suppose one can stretch the metaphor and say that having no slack on too many dimensions is likely to 
+squash you; but having slack everywhere leaves you floating around aimlessly. Keeping most constraints 
+slack and choosing only a couple aligned ones to bind against is possibly a way to find purpose.
+```
+
+Frustrated-demiurge talks about the same concept in her post [Affordance widths](https://frustrateddemiurge.tumblr.com/post/144927712238/affordance-widths). I *think* Venkat Rao talks about this same thing too in [this post](https://www.ribbonfarm.com/2019/03/07/mediocratopia-3/), except he comes at it from a different angle. 
+
+```markdown
+There is a paradox at the heart of mediocrity studies: excellence is not actually exceptional. If 
+you see an excellent behavior or thing, it’s likely to be a middling instance at its level. The 
+perception of exceptionalism is an illusion caused by inappropriate comparisons: you think it is a
+99 percentile example of Level 3 performance, but it’s really a median example of Level 4 performance.
+
+Changing levels of performance is self-disruption. The moment you hit, say, the 60% performance 
+point on the current S-curve of learning, you start looking for ways to level up. This is the basic 
+point in Daniel F. Chambliss’ classic paper, The Mundanity of Excellence. People who rise through 
+the levels of a competitive sport do so by making discrete qualitative changes to level up before 
+they hit diminishing returns from the current level. This process of leveling up, has less to do 
+with striving for excellence in the sense of exceptional performance, and more to do with repeatedly
+growing past limits. The visibly excellent are never at a local optimum.
+
+In Age of Speed, skier Vince Poscente claims he won primarily by practicing his skills at a level 
+above the one he was competing at. So during actual competition, he could win with less than 100% 
+effort.
+
+Making winning a habit is about making sure you’re always operating at a level where you have slack;
+where you are in fact mediocre. If you’re being pushed towards excellence, it’s time to find a new 
+level.
+```
+
+"Leveling up before hitting diminishing returns reminds me of another great essay I recently read, Eugene Wei's [Invisible Asymptotes](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes) post from his blog [Remains of the Day](https://www.eugenewei.com/). It's pretty long, but full of great stuff. The relevant part is this:
+
+```markdown
+Every successful business goes through the famous S-curve, and most companies, and their investors,
+spend a lot of time looking for that inflection point towards hockey-stick growth. But just as 
+important, and perhaps less well studied, is that unhappy point later in the S-curve, when you hit
+a shoulder and experience a flattening of growth. ...
+
+For so many startups and even larger tech incumbents, the point at which they hit the shoulder in
+the S-curve is a mystery, and I suspect the failure to see it occurs much earlier. The good thing is
+that identifying the enemy sooner allows you to address it. We focus so much on product-market fit,
+but once companies have achieved some semblance of it, most should spend much more time on the 
+problem of product-market unfit.
+
+For me, in strategic planning, the question in building my forecast was to flush out what I call the
+invisible asymptote: a ceiling that our growth curve would bump its head against if we continued down
+our current path. It's an important concept to understand for many people in a company, whether a CEO, 
+a product person, or, as I was back then, a planner in finance. ...
+
+An obvious problem for many companies, however, is that they are creating new types of businesses and 
+services that don't lend themselves to easily identifying such invisible asymptotes. Many are not like
+Amazon where there are readily tracked metrics like the size of the global book market with which to
+peg their TAM (total addressable market).
+
+Some of the limits to their growth are easier to spot than others. For messaging and some more general
+social networking apps, for example, in many cases network effects are geographical. Since these apps 
+build on top of real-world social graphs, and many of those are geographically clustered, there are 
+winner-take-all dynamics such that in many countries one messaging app dominates, like Kakao in Korea 
+or Line in Taiwan. There can be geo-political considerations, too, that help ensure that that WeChat 
+will dominate in China to the exclusion of all competitors, for example.
+
+For others, though, it takes a bit more product insight, and some might say intuition, to see the 
+ceiling before you bump into it. For both employees and investors, understanding product-market unfit 
+follows very closely on identifying product-market fit as an existential challenge.
 ```
 
 <a name="#statistics"></a>
