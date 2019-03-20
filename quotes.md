@@ -1030,7 +1030,7 @@ explicit claims, use of evidence, and argument.
 ### Solving famous open problems
 ([overview](#overview))
 
-(See also Scott Aaronson on [making progress on big problems](#making-progress-on-big-problems) in philosophy.)
+(See also Scott Aaronson on [making progress on big problems](#general-philosophy) in philosophy.)
 
 From Terry Tao's post [Be sceptical of your own work](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/):
 
