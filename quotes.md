@@ -6,11 +6,12 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [Erisology](#erisology)
+1. [Research](#research)
+   1. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
+2. [Erisology](#erisology)
    1. [Argumentative charity](#argumentative-charity)
 2. [Teaching and learning](#teaching-and-learning)
    1. [Errors vs bugs](#errors-vs-bugs)
-   2. [Distillation](#distillation-and-research-debt)
    2. [Polymathy](#polymathy)
 2. [Psychology](#psychology)
 2. [Philosophy](#philosophy)
@@ -34,112 +35,8 @@ Have fun reading them! I certainly did.
 
 <a name="#erisology"></a>
 
-## Erisology
-([overview](#overview))
-
-<a name="#argumentative-charity"></a>
-
-### Argumentative charity
-([overview](#overview))
-
-My go-to text for charity is Scott Alexander's [founding post](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/) for his blog SSC. Here's the part I liked, which is pretty much all of the 'transferable' part:
-
-```markdown
-Absurdity is the natural human tendency to dismiss anything you disagree with as so stupid it doesn’t
-even deserve consideration. In fact, you are virtuous for not considering it, maybe even heroic! You’re
-refusing to dignify the evil peddlers of bunkum by acknowledging them as legitimate debate partners.
-
-Charity is the ability to override that response. To assume that if you don’t understand how someone
-could possibly believe something as stupid as they do, that this is more likely a failure of understanding 
-on your part than a failure of reason on theirs.
-```
-
-Charity should be thought of like Chesterton's fence:
-
-```markdown
-There are many things charity is not. Charity is not a fuzzy-headed caricature-pomo attempt to say no one 
-can ever be sure they’re right or wrong about anything. Once you understand the reasons a belief is 
-attractive to someone, you can go ahead and reject it as soundly as you want. Nor is it an obligation to
-spend time researching every crazy belief that might come your way. Time is valuable, and the less of it
-you waste on intellectual wild goose chases, the better.
-
-It’s more like Chesterton’s Fence. G.K. Chesterton gave the example of a fence in the middle of nowhere. A
-traveller comes across it, thinks “I can’t think of any reason to have a fence out here, it sure was dumb 
-to build one” and so takes it down. She is then gored by an angry bull who was being kept on the other side
-of the fence.
-
-Chesterton’s point is that “I can’t think of any reason to have a fence out here” is the worst reason to 
-remove a fence. Someone had a reason to put a fence up here, and if you can’t even imagine what it was, it
-probably means there’s something you’re missing about the situation and that you’re meddling in things you
-don’t understand. None of this precludes the traveller who knows that this was historically a cattle farming
-area but is now abandoned – ie the traveller who understands what’s going on – from taking down the fence.
-
-As with fences, so with arguments. If you have no clue how someone could believe something, and so you decide
-it’s stupid, you are much like Chesterton’s traveler dismissing the fence (and philosophers, like travelers, 
-are at high risk of stumbling across bull.)
-```
-
-Charity as default, because even when it's uncalled for or ostensibly unnecessary it can be advantageous:
-
-```markdown
-The most effective way to learn any subject is to try to figure out exactly why a wrong position is wrong. 
-And sometimes even a complete disaster of a theory will have a few salvageable pearls of wisdom that can’t 
-be found anywhere else. The rationalist forum Less Wrong teaches the idea of steelmanning, rebuilding a 
-stupid position into the nearest intelligent position and then seeing what you can learn from it.
-```
-
-<a name="#teaching-and-learning"></a>
-
-## Teaching and learning
-([overview](#overview))
-
-<a name="#errors-vs-bugs"></a>
-
-## Errors vs bugs
-([overview](#overview))
-
-Sarah Constantin is one of my favorite writers. She has a blog, [Otium](https://srconstantin.wordpress.com/), and goes by 
-celandine13 on LiveJournal. This quote on the _error vs bug model of learning_ comes from her LJ essay 
-[Errors vs Bugs and the End of Stupidity](https://celandine13.livejournal.com/33599.html).
-
-```markdown
-A common mental model for performance is what I'll call the "error model."  In the error model, a person's 
-performance of a musical piece (or performance on a test) is a perfect performance plus some random error.  
-You can literally think of each note, or each answer, as x + c times epsilon_i, where x is the correct note 
-/ answer, and epsilon_i is a random variable, iid Gaussian or something.  Better performers have a lower 
-error rate c.  Improvement is a matter of lowering your error rate.  This, or something like it, is the model 
-that underlies school grades and test scores. Your grade is based on the percent you get correct.  Your 
-performance is defined by a single continuous parameter, your accuracy.
-
-But we could also consider the "bug model" of errors.  A person taking a test or playing a piece of music is 
-executing a program, a deterministic procedure.  If your program has a bug, then you'll get a whole class of 
-problems wrong, consistently.  Bugs, unlike error rates, can't be quantified along a single axis as less or 
-more severe.  A bug gets everything that it affects wrong.  And fixing bugs doesn't improve your performance 
-in a continuous fashion; you can fix a "little" bug and immediately go from getting everything wrong to 
-everything right.  You can't really describe the accuracy of a buggy program by the percent of questions it 
-gets right; if you ask it to do something different, it could suddenly go from 99% right to 0% right.  You 
-can only define its behavior by isolating what the bug does.
-
-Often, I think mistakes are more like bugs than errors.  My clinkers weren't random; they were in specific 
-places, because I had sub-optimal fingerings in those places.  A kid who gets arithmetic questions wrong 
-usually isn't getting them wrong at random; there's something missing in their understanding, like not 
-getting the difference between multiplication and addition.  Working generically "harder" doesn't fix bugs 
-(though fixing bugs does require work). 
-
-Once you start to think of mistakes as deterministic rather than random, as caused by "bugs" (incorrect 
-understanding or incorrect procedures) rather than random inaccuracy, a curious thing happens.
-
-You stop thinking of people as "stupid."
-
-Tags like "stupid," "bad at X", "sloppy," and so on, are ways of saying "You're performing badly and I 
-don't know why." Once you move it to "you're performing badly because you have the wrong fingerings," or 
-"you're performing badly because you don't understand what a limit is," it's no longer a vague personal 
-failing but a causal necessity. Anyone who never understood limits will flunk calculus. 
-
-It's not you, it's the bug.
-```
-
-The rest of the linked article is _fantastic_. I had trouble quoting it because I felt like quoting everything.
+## Research
+([overview](#research))
 
 <a name="#distillation-and-research-debt"></a>
 
@@ -275,6 +172,115 @@ who read them. This created a high entry barrier: I think many graduate students
 and mathematicians were discouraged that it was hard to learn and understand the
 proofs of key theorems.
 ```
+
+<a name="#erisology"></a>
+
+## Erisology
+([overview](#overview))
+
+<a name="#argumentative-charity"></a>
+
+### Argumentative charity
+([overview](#overview))
+
+My go-to text for charity is Scott Alexander's [founding post](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/) for his blog SSC. Here's the part I liked, which is pretty much all of the 'transferable' part:
+
+```markdown
+Absurdity is the natural human tendency to dismiss anything you disagree with as so stupid it doesn’t
+even deserve consideration. In fact, you are virtuous for not considering it, maybe even heroic! You’re
+refusing to dignify the evil peddlers of bunkum by acknowledging them as legitimate debate partners.
+
+Charity is the ability to override that response. To assume that if you don’t understand how someone
+could possibly believe something as stupid as they do, that this is more likely a failure of understanding 
+on your part than a failure of reason on theirs.
+```
+
+Charity should be thought of like Chesterton's fence:
+
+```markdown
+There are many things charity is not. Charity is not a fuzzy-headed caricature-pomo attempt to say no one 
+can ever be sure they’re right or wrong about anything. Once you understand the reasons a belief is 
+attractive to someone, you can go ahead and reject it as soundly as you want. Nor is it an obligation to
+spend time researching every crazy belief that might come your way. Time is valuable, and the less of it
+you waste on intellectual wild goose chases, the better.
+
+It’s more like Chesterton’s Fence. G.K. Chesterton gave the example of a fence in the middle of nowhere. A
+traveller comes across it, thinks “I can’t think of any reason to have a fence out here, it sure was dumb 
+to build one” and so takes it down. She is then gored by an angry bull who was being kept on the other side
+of the fence.
+
+Chesterton’s point is that “I can’t think of any reason to have a fence out here” is the worst reason to 
+remove a fence. Someone had a reason to put a fence up here, and if you can’t even imagine what it was, it
+probably means there’s something you’re missing about the situation and that you’re meddling in things you
+don’t understand. None of this precludes the traveller who knows that this was historically a cattle farming
+area but is now abandoned – ie the traveller who understands what’s going on – from taking down the fence.
+
+As with fences, so with arguments. If you have no clue how someone could believe something, and so you decide
+it’s stupid, you are much like Chesterton’s traveler dismissing the fence (and philosophers, like travelers, 
+are at high risk of stumbling across bull.)
+```
+
+Charity as default, because even when it's uncalled for or ostensibly unnecessary it can be advantageous:
+
+```markdown
+The most effective way to learn any subject is to try to figure out exactly why a wrong position is wrong. 
+And sometimes even a complete disaster of a theory will have a few salvageable pearls of wisdom that can’t 
+be found anywhere else. The rationalist forum Less Wrong teaches the idea of steelmanning, rebuilding a 
+stupid position into the nearest intelligent position and then seeing what you can learn from it.
+```
+
+<a name="#teaching-and-learning"></a>
+
+## Teaching and learning
+([overview](#overview))
+
+<a name="#errors-vs-bugs"></a>
+
+## Errors vs bugs
+([overview](#overview))
+
+Sarah Constantin is one of my favorite writers. She has a blog, [Otium](https://srconstantin.wordpress.com/), and goes by 
+celandine13 on LiveJournal. This quote on the _error vs bug model of learning_ comes from her LJ essay 
+[Errors vs Bugs and the End of Stupidity](https://celandine13.livejournal.com/33599.html).
+
+```markdown
+A common mental model for performance is what I'll call the "error model."  In the error model, a person's 
+performance of a musical piece (or performance on a test) is a perfect performance plus some random error.  
+You can literally think of each note, or each answer, as x + c times epsilon_i, where x is the correct note 
+/ answer, and epsilon_i is a random variable, iid Gaussian or something.  Better performers have a lower 
+error rate c.  Improvement is a matter of lowering your error rate.  This, or something like it, is the model 
+that underlies school grades and test scores. Your grade is based on the percent you get correct.  Your 
+performance is defined by a single continuous parameter, your accuracy.
+
+But we could also consider the "bug model" of errors.  A person taking a test or playing a piece of music is 
+executing a program, a deterministic procedure.  If your program has a bug, then you'll get a whole class of 
+problems wrong, consistently.  Bugs, unlike error rates, can't be quantified along a single axis as less or 
+more severe.  A bug gets everything that it affects wrong.  And fixing bugs doesn't improve your performance 
+in a continuous fashion; you can fix a "little" bug and immediately go from getting everything wrong to 
+everything right.  You can't really describe the accuracy of a buggy program by the percent of questions it 
+gets right; if you ask it to do something different, it could suddenly go from 99% right to 0% right.  You 
+can only define its behavior by isolating what the bug does.
+
+Often, I think mistakes are more like bugs than errors.  My clinkers weren't random; they were in specific 
+places, because I had sub-optimal fingerings in those places.  A kid who gets arithmetic questions wrong 
+usually isn't getting them wrong at random; there's something missing in their understanding, like not 
+getting the difference between multiplication and addition.  Working generically "harder" doesn't fix bugs 
+(though fixing bugs does require work). 
+
+Once you start to think of mistakes as deterministic rather than random, as caused by "bugs" (incorrect 
+understanding or incorrect procedures) rather than random inaccuracy, a curious thing happens.
+
+You stop thinking of people as "stupid."
+
+Tags like "stupid," "bad at X", "sloppy," and so on, are ways of saying "You're performing badly and I 
+don't know why." Once you move it to "you're performing badly because you have the wrong fingerings," or 
+"you're performing badly because you don't understand what a limit is," it's no longer a vague personal 
+failing but a causal necessity. Anyone who never understood limits will flunk calculus. 
+
+It's not you, it's the bug.
+```
+
+The rest of the linked article is _fantastic_. I had trouble quoting it because I felt like quoting everything.
 
 <a name="#polymathy"></a>
 
