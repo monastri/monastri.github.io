@@ -508,6 +508,7 @@ need to do, what theorems one would need to prove, etc.
 <a name="#diseased-philosophy"></a>
 
 ### Diseased philosophy
+([overview](#overview))
 
 From Scott Aaronson's [Quantum Computing Since Democritus](https://slatestarcodex.com/2014/09/01/book-review-and-highlights-quantum-computing-since-democritus/):
 
@@ -1019,14 +1020,14 @@ Worked examples with numbers and realistic figures erode plausible deniability a
 explicit claims, use of evidence, and argument.
 ```
 
-<a name="#mathematical-maturity"></a>
+<a name="#math"></a>
 
 ## Math
 ([overview](#overview))
 
 <a name="#solving-famous-open-problems"></a>
 
-### How famous open problems get solved
+### Solving famous open problems
 
 (See also [Scott Aaronson on making progress on big problems in philosophy](#making-progress-on-big-problems-in-philosophy).)
 
