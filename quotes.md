@@ -480,6 +480,8 @@ one. My guess would be that science ultimately benefits from both the “pro-phi
 “anti-philosophical” temperaments, and even from the friction between them.
 ```
 
+<a name="#making-progress-on-big-problems-in-philosophy"></a>
+
 Scott on making progress on big problems:
 
 ```markdown
@@ -1025,6 +1027,8 @@ explicit claims, use of evidence, and argument.
 <a name="#solving-famous-open-problems"></a>
 
 ### How famous open problems get solved
+
+(See also [Scott Aaronson on making progress on big problems in philosophy](#making-progress-on-big-problems-in-philosophy).)
 
 From Terry Tao's post [Be sceptical of your own work](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/):
 
