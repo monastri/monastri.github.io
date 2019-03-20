@@ -6,7 +6,9 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [Teaching and learning](#teaching-and-learning)
+1. [Erisology](#erisology)
+   1. [Argumentative-charity](#argumentative-charity)
+2. [Teaching and learning](#teaching-and-learning)
    1. [Errors vs bugs](#errors-vs-bugs)
    2. [Distillation](#distillation-and-research-debt)
    2. [Polymathy](#polymathy)
@@ -28,6 +30,62 @@ I've sorted the quotes below into the following provisional categories:
 2. [Miscellaneous](#miscellaneous)
 
 Have fun reading them! I certainly did.
+
+<a name="#erisology"></a>
+
+## Erisology
+([overview](#overview))
+
+<a name="#argumentative-charity"></a>
+
+### Argumentative charity
+([overview](#overview))
+
+My go-to text for charity is Scott Alexander's [founding post](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/) for his blog SSC. Here's the part I liked, which is pretty much all of the 'transferable' part:
+
+```markdown
+Absurdity is the natural human tendency to dismiss anything you disagree with as so stupid it doesn’t
+even deserve consideration. In fact, you are virtuous for not considering it, maybe even heroic! You’re
+refusing to dignify the evil peddlers of bunkum by acknowledging them as legitimate debate partners.
+
+Charity is the ability to override that response. To assume that if you don’t understand how someone
+could possibly believe something as stupid as they do, that this is more likely a failure of understanding 
+on your part than a failure of reason on theirs.
+```
+
+Charity should be thought of like Chesterton's fence:
+
+```markdown
+There are many things charity is not. Charity is not a fuzzy-headed caricature-pomo attempt to say no one 
+can ever be sure they’re right or wrong about anything. Once you understand the reasons a belief is 
+attractive to someone, you can go ahead and reject it as soundly as you want. Nor is it an obligation to
+spend time researching every crazy belief that might come your way. Time is valuable, and the less of it
+you waste on intellectual wild goose chases, the better.
+
+It’s more like Chesterton’s Fence. G.K. Chesterton gave the example of a fence in the middle of nowhere. A
+traveller comes across it, thinks “I can’t think of any reason to have a fence out here, it sure was dumb 
+to build one” and so takes it down. She is then gored by an angry bull who was being kept on the other side
+of the fence.
+
+Chesterton’s point is that “I can’t think of any reason to have a fence out here” is the worst reason to 
+remove a fence. Someone had a reason to put a fence up here, and if you can’t even imagine what it was, it
+probably means there’s something you’re missing about the situation and that you’re meddling in things you
+don’t understand. None of this precludes the traveller who knows that this was historically a cattle farming
+area but is now abandoned – ie the traveller who understands what’s going on – from taking down the fence.
+
+As with fences, so with arguments. If you have no clue how someone could believe something, and so you decide
+it’s stupid, you are much like Chesterton’s traveler dismissing the fence (and philosophers, like travelers, 
+are at high risk of stumbling across bull.)
+```
+
+Charity as default, because even when it's uncalled for or ostensibly unnecessary it can be advantageous:
+
+```markdown
+The most effective way to learn any subject is to try to figure out exactly why a wrong position is wrong. 
+And sometimes even a complete disaster of a theory will have a few salvageable pearls of wisdom that can’t 
+be found anywhere else. The rationalist forum Less Wrong teaches the idea of steelmanning, rebuilding a 
+stupid position into the nearest intelligent position and then seeing what you can learn from it.
+```
 
 <a name="#teaching-and-learning"></a>
 
