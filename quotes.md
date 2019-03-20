@@ -7,7 +7,8 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Teaching and learning](#teaching-and-learning)
-   1. [Distillation](#distillation-and-research-debt)
+   1. [Errors vs bugs](#errors-vs-bugs)
+   2. [Distillation](#distillation-and-research-debt)
    2. [Polymathy](#polymathy)
 2. [Psychology](#psychology)
 2. [Philosophy](#philosophy)
@@ -32,6 +33,54 @@ Have fun reading them! I certainly did.
 
 ## Teaching and learning
 ([overview](#overview))
+
+<a name="#errors-vs-bugs"></a>
+
+## Errors vs bugs
+([overview](#overview))
+
+Sarah Constantin is one of my favorite writers. She has a blog, [Otium](https://srconstantin.wordpress.com/), and goes by 
+celandine13 on LiveJournal. This quote on the _error vs bug model of learning_ comes from her LJ essay 
+[Errors vs Bugs and the End of Stupidity](https://celandine13.livejournal.com/33599.html).
+
+```markdown
+A common mental model for performance is what I'll call the "error model."  In the error model, a person's 
+performance of a musical piece (or performance on a test) is a perfect performance plus some random error.  
+You can literally think of each note, or each answer, as x + c times epsilon_i, where x is the correct note 
+/ answer, and epsilon_i is a random variable, iid Gaussian or something.  Better performers have a lower 
+error rate c.  Improvement is a matter of lowering your error rate.  This, or something like it, is the model 
+that underlies school grades and test scores. Your grade is based on the percent you get correct.  Your 
+performance is defined by a single continuous parameter, your accuracy.
+
+But we could also consider the "bug model" of errors.  A person taking a test or playing a piece of music is 
+executing a program, a deterministic procedure.  If your program has a bug, then you'll get a whole class of 
+problems wrong, consistently.  Bugs, unlike error rates, can't be quantified along a single axis as less or 
+more severe.  A bug gets everything that it affects wrong.  And fixing bugs doesn't improve your performance 
+in a continuous fashion; you can fix a "little" bug and immediately go from getting everything wrong to 
+everything right.  You can't really describe the accuracy of a buggy program by the percent of questions it 
+gets right; if you ask it to do something different, it could suddenly go from 99% right to 0% right.  You 
+can only define its behavior by isolating what the bug does.
+
+Often, I think mistakes are more like bugs than errors.  My clinkers weren't random; they were in specific 
+places, because I had sub-optimal fingerings in those places.  A kid who gets arithmetic questions wrong 
+usually isn't getting them wrong at random; there's something missing in their understanding, like not 
+getting the difference between multiplication and addition.  Working generically "harder" doesn't fix bugs 
+(though fixing bugs does require work). 
+
+Once you start to think of mistakes as deterministic rather than random, as caused by "bugs" (incorrect 
+understanding or incorrect procedures) rather than random inaccuracy, a curious thing happens.
+
+You stop thinking of people as "stupid."
+
+Tags like "stupid," "bad at X", "sloppy," and so on, are ways of saying "You're performing badly and I 
+don't know why." Once you move it to "you're performing badly because you have the wrong fingerings," or 
+"you're performing badly because you don't understand what a limit is," it's no longer a vague personal 
+failing but a causal necessity. Anyone who never understood limits will flunk calculus. 
+
+It's not you, it's the bug.
+```
+
+The rest of the linked article is _fantastic_. I had trouble quoting it because I felt like quoting everything.
 
 <a name="#distillation-and-research-debt"></a>
 
@@ -1864,49 +1913,6 @@ And that's when I first learned about evil. It is built in to the very nature of
 spins in pain. If there is any kind of supreme being, I told myself, it is up to all of us to become his 
 moral superior."
 ```
-
-Sarah Constantin is one of my favorite writers. She has a blog, [Otium](https://srconstantin.wordpress.com/), and goes by 
-celandine13 on LiveJournal. This quote on the _error vs bug model of learning_ comes from her LJ essay 
-[Errors vs Bugs and the End of Stupidity](https://celandine13.livejournal.com/33599.html).
-
-```markdown
-A common mental model for performance is what I'll call the "error model."  In the error model, a person's 
-performance of a musical piece (or performance on a test) is a perfect performance plus some random error.  
-You can literally think of each note, or each answer, as x + c times epsilon_i, where x is the correct note 
-/ answer, and epsilon_i is a random variable, iid Gaussian or something.  Better performers have a lower 
-error rate c.  Improvement is a matter of lowering your error rate.  This, or something like it, is the model 
-that underlies school grades and test scores. Your grade is based on the percent you get correct.  Your 
-performance is defined by a single continuous parameter, your accuracy.
-
-But we could also consider the "bug model" of errors.  A person taking a test or playing a piece of music is 
-executing a program, a deterministic procedure.  If your program has a bug, then you'll get a whole class of 
-problems wrong, consistently.  Bugs, unlike error rates, can't be quantified along a single axis as less or 
-more severe.  A bug gets everything that it affects wrong.  And fixing bugs doesn't improve your performance 
-in a continuous fashion; you can fix a "little" bug and immediately go from getting everything wrong to 
-everything right.  You can't really describe the accuracy of a buggy program by the percent of questions it 
-gets right; if you ask it to do something different, it could suddenly go from 99% right to 0% right.  You 
-can only define its behavior by isolating what the bug does.
-
-Often, I think mistakes are more like bugs than errors.  My clinkers weren't random; they were in specific 
-places, because I had sub-optimal fingerings in those places.  A kid who gets arithmetic questions wrong 
-usually isn't getting them wrong at random; there's something missing in their understanding, like not 
-getting the difference between multiplication and addition.  Working generically "harder" doesn't fix bugs 
-(though fixing bugs does require work). 
-
-Once you start to think of mistakes as deterministic rather than random, as caused by "bugs" (incorrect 
-understanding or incorrect procedures) rather than random inaccuracy, a curious thing happens.
-
-You stop thinking of people as "stupid."
-
-Tags like "stupid," "bad at X", "sloppy," and so on, are ways of saying "You're performing badly and I 
-don't know why." Once you move it to "you're performing badly because you have the wrong fingerings," or 
-"you're performing badly because you don't understand what a limit is," it's no longer a vague personal 
-failing but a causal necessity. Anyone who never understood limits will flunk calculus. 
-
-It's not you, it's the bug.
-```
-
-The rest of the linked article is _fantastic_. I had trouble quoting it because I felt like quoting everything.
 
 Megan McArdle, [Only stupid people call people stupid](https://www.bloomberg.com/opinion/articles/2014-08-12/only-stupid-people-call-people-stupid):
 
