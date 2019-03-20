@@ -33,10 +33,10 @@ I've sorted the quotes below into the following provisional categories:
 
 Have fun reading them! I certainly did.
 
-<a name="#erisology"></a>
+<a name="#research"></a>
 
 ## Research
-([overview](#research))
+([overview](#overview))
 
 <a name="#distillation-and-research-debt"></a>
 
@@ -1028,8 +1028,9 @@ explicit claims, use of evidence, and argument.
 <a name="#solving-famous-open-problems"></a>
 
 ### Solving famous open problems
+([overview](#overview))
 
-(See also [Scott Aaronson on making progress on big problems in philosophy](#making-progress-on-big-problems-in-philosophy).)
+(See also Scott Aaronson on [making progress on big problems in philosophy](#making-progress-on-big-problems-in-philosophy).)
 
 From Terry Tao's post [Be sceptical of your own work](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/):
 
