@@ -7,7 +7,8 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Research](#research)
-   1. [Tactics](#research-tactics)
+   1. [Tactics and advice](#research-tactics)
+   2. [Mindset](#research-mindset)
    2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
 2. [Erisology](#erisology)
    1. [Argumentative charity](#argumentative-charity)
@@ -43,6 +44,117 @@ Have fun reading them! I certainly did.
 
 ### Research tactics
 ([overview](#overview))
+
+Carl Shulman's [research advice](https://docs.google.com/document/d/1_yuuheVqp1quDfkuRcpoW_HO7jPaI7QnRjF1zl_VovU/edit) Google doc is great stuff. Here's some stuff I liked. 
+
+Thinking habits:
+
+```markdown
+Frequently imagine what someone you respect, thinking you were wrong, would say/try to make the 
+best argument against what you are currently thinking.
+
+Pay attention to the use of contradictory epistemic standards and premises on different arguments/pattern
+recognize them. Reconcile them or adjust your confidence in them.
+
+I have gotten a fair amount out of trying to understand the epistemology and basic worldview of multiple
+movements. I like ideological turing tests, mainly because they will highlight the best evidence for the
+things they like, and against the things they hate, which helps in identifying areas to look into.
+
+Make a habit of checking factual claims that you hear with a short Google search, and/or Wikipedia.
+
+Use basic arithmetic and statistics frequently and briefly as part of thinking rather than as occasional
+or separate exercises.
+
+Try to convert qualitative claims into quantitative Fermi estimates whenever possible. Fermi calculations
+with quick Wikipedia/Google/Wolfram/standard sources go far, and one can get into the habit and see how 
+they typically evolve with different levels of depth.
+```
+
+Research management:
+
+```markdown
+Make a bookmarks folder to note critical arguments against positions you hold, and read it, so you don't
+get isolated from different views.
+
+Write casual thoughts up in explicit emails or blog posts to get feedback from people.
+
+Have a giant folder of hundreds of blog post drafts to throw interesting ideas, citations, and links to.
+I may not have published anything about X, but I have a draft in my blogging folder where I have stored 
+assorted information about it.
+
+Write down your views and check against your old views to see when you were wrong and when you were right.
+
+Offer and accept bets about observables or change your predictions.
+```
+
+Information exposure:
+
+```markdown
+Reading broadly using multiple separate quality filters, that are independent, at least partially so, to
+escape systematic biases of one or the other. For example, use multiple good link aggregation sites with
+different authors and biases.
+
+Look up expert opinion data (favoring subject expertise, science, IQ, incentives, track records), with an 
+emphasis on trends as one looks at more elite groups (one has to go famous scientists to find really low 
+belief in religion and psychic powers, so I try to predict what a better expert class would believe when 
+there is a consistent trend).
+
+Try to get datasets (Wikipedia lists, World Bank info, USDA, etc.) as a primary step in thinking about a 
+question.
+
+Use Google Scholar, and especially the ability to search for papers citing influential papers in a field.
+```
+
+Process for research project:
+
+```markdown
+You can quickly generate ideas by explaining to a questioner (GW style conversation notes, online 
+conversations.)
+
+I also like making hopefully-comprehensive taxonomies that one can work through in full to avoid selection
+biases, e.g. looking through all the sectors of the economy, or all the major categories of philanthropy,
+or all the major academic fields or think tanks. These are tools for hypothesis generation, and hitting 
+on low-hanging fruit knowledge sources.
+
+Thinking about end-goals and back-chaining to see things that would be relevant, rather than just using 
+vague correlational criteria.
+
+Look for high order bits, the biggest effects, as first priority, then incrementally add lower order 
+refinements in accord with value of information.
+
+Don't be too easily satisfied with cluster thinking.
+```
+
+<a name="#research-mindset"></a>
+
+### Research mindset
+([overview](#overview))
+
+Research mindset:
+
+```markdown
+Don't dismiss ideas as unthinkable (rather than actions as subject to strong injunctions): things that
+people are afraid of thinking about (because it might make them look bad, might imply bad news, is 
+unpopular) have an elevated chance of offering low-hanging fruit for thinking.
+
+Have a strong emotional revulsion to self-delusion and sloppy reasoning/research, including people 
+Wrong on the Internet within communities you have some affiliation with.
+
+Listen to yourself if something seems troubling, and try articulating, exploring, and steel-manning 
+that intuition in multiple ways until it makes sense in a way that can be integrated with other knowledge 
+(with whatever updates/revisions follow) or goes away. Don't just run roughshod over 'system 1' feelings.
+
+Being comfortable with your own personality, emotions, and desires can help with being willing to do that 
+kind of analysis, by making fewer conclusions unacceptable to you (empirical ones in particular).
+
+Rigid ideological systems in a lot of tension with your real goals can be a problem there. E.g. in
+Mormonism or utilitarianism or social justice, various empirical conclusions combine with the ideology
+to recommend ruining your life, and people are strongly conditioned to avoid them. 
+
+Recognizing partial, as opposed to impartial, motives (personal projects, selfishness, family, tribalism) 
+and not trying to rationalize everything with a 100% impartial facade, can help more comfortably think
+about questions like average well-being, or the real trade-off between burnout and effort, etc.
+```
 
 Scott Aaronson, in response to Luke Muehlhauser's interview question "what are some object-level research tactics you use (more specific than your general “bait and switch” strategy)?" in the [MIRI Conversations series](https://intelligence.org/2013/12/13/aaronson/):
 
