@@ -15,6 +15,8 @@ I've sorted the quotes below into the following provisional categories:
    2. [Morality](#morality)
    3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity) 
 2. [Statistics](#statistics)
+   1. [General stats](#general-stats)
+   2. [Statistical literacy](#statistical-literacy)
 2. [Math](#math)
    1. [Solving famous open problems](#solving-famous-open-problems)
    2. [Mathematical maturity](#mathematical-maturity)
@@ -714,6 +716,11 @@ follows very closely on identifying product-market fit as an existential challen
 ## Statistics
 ([overview](#overview))
 
+<a name="#general-stats"></a>
+
+### General stats
+([overview](#overview))
+
 Piet Hein:
 
 ```markdown
@@ -798,6 +805,11 @@ the Neyman-Pearson lemma, we directly minimize error probabilities; but sometime
 sometimes we use conditioning to update prior probability distributions, etc. None of these --- particularly 
 the last --- *defines* a reliable way of learning from data.
 ```
+
+<a name="#statistical-literacy"></a>
+
+### Statistical literacy
+([overview](#overview))
 
 Carl Shulman's [Research advice](https://docs.google.com/document/d/1_yuuheVqp1quDfkuRcpoW_HO7jPaI7QnRjF1zl_VovU/edit) has the following bit on statistical literacy which I feel really strongly about and wholeheartedly endorse:
 
