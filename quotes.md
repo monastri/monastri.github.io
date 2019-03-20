@@ -7,14 +7,15 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Erisology](#erisology)
-   1. [Argumentative-charity](#argumentative-charity)
+   1. [Argumentative charity](#argumentative-charity)
 2. [Teaching and learning](#teaching-and-learning)
    1. [Errors vs bugs](#errors-vs-bugs)
    2. [Distillation](#distillation-and-research-debt)
    2. [Polymathy](#polymathy)
 2. [Psychology](#psychology)
 2. [Philosophy](#philosophy)
-   1. [Diseased philosophy](#diseased-philosophy)
+   1. [General philosophy](#general-philosophy)
+   2. [Diseased philosophy](#diseased-philosophy)
    2. [Morality](#morality)
    3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity) 
 2. [Statistics](#statistics)
@@ -422,6 +423,79 @@ explanation for exactly the opposite finding.
 
 ## Philosophy
 ([overview](#overview))
+
+<a name="#general-philosophy"></a>
+
+### General philosophy
+([overview](#overview))
+
+Scott Aaronson, in response to Luke Muehlhauser's interview question "why be interested in philosophy?" in the [MIRI Conversations series](https://intelligence.org/2013/12/13/aaronson/):
+
+```markdown
+I’ve always been reflexively drawn to the biggest, most general questions that it seemed possible to 
+ask. You know, like are we living in a computer simulation? if not, could we upload our consciousnesses
+into one? are there discrete “pixels” of spacetime? why does it seem impossible to change the past? 
+could there be different laws of physics where 2+2 equaled 5? are there objective facts about morality?
+what does it mean to be rational? is there an explanation for why I’m alive right now, rather than some
+other time? What are explanations, anyway? In fact, what really perplexes me is when I meet a smart, 
+inquisitive person—let’s say a mathematician or scientist—who claims NOT to be obsessed with these huge
+issues! I suspect many MIRI readers might feel drawn to such questions the same way I am, in which case
+there’s no need to belabor the point.
+
+From my perspective, then, the best way to frame the question is not: “why be interested in philosophy?” 
+Rather it’s: “why be interested in anything else?”
+
+But I think the latter question has an excellent answer. A crucial thing humans learned, starting around 
+Galileo’s time, is that even if you’re interested in the biggest questions, usually the only way to make
+progress on them is to pick off smaller subquestions: ideally, subquestions that you can attack using 
+math, empirical observation, or both. For again and again, you find that the subquestions aren’t nearly
+as small as they originally looked! Much like with zooming in to the Mandelbrot set, each subquestion has 
+its own twists and tendrils that could occupy you for a lifetime, and each one gives you a new perspective 
+on the big questions. And best of all, you can actually answer a few of the subquestions, and be the first
+person to do so: you can permanently move the needle of human knowledge, even if only by a minuscule amount.
+As I once put it, progress in math and science — think of natural selection, Godel’s and Turing’s theorems,
+relativity and quantum mechanics — has repeatedly altered the terms of philosophical discussion, as
+philosophical discussion itself has rarely altered them! (Of course, this is completely leaving aside math
+and science’s “fringe benefit” of enabling our technological civilization, which is not chickenfeed either.)
+
+
+On this view, philosophy is simply too big and too important to be confined to philosophy departments! Of 
+course, the word “philosophy” used to mean the entire range of fundamental inquiry, from epistemology and
+metaphysics to physics and biology (which were then called “natural philosophy”), rather than just close
+textual analysis, or writing papers with names like “A Kripkean Reading of Wittgenstein’s Reading of Frege’s
+Reading of Kant.” And it seems clear to me that there’s enormous scope today for “philosophy” in the former 
+sense — and in particular, for people who love working on the subquestions, on pushing the frontiers of
+neuroscience or computer science or physics or whatever else, but who also like to return every once in a
+while to the “deep” philosophical mysteries that motivated them as children or teenagers. Admittedly, there
+have been many great scientists who didn’t care at all about philosophy, or who were explicitly anti-philosophy.
+But there were also scientists like Einstein, Schrodinger, Godel, Turing, or Bell, who not only read lots of
+philosophy but (I would say) used it as a sort of springboard into science — in their cases, a wildly successful
+one. My guess would be that science ultimately benefits from both the “pro-philosophical” and the
+“anti-philosophical” temperaments, and even from the friction between them.
+```
+
+Scott on making progress on big problems:
+
+```markdown
+Pick off smaller subquestions: ideally, subquestions that you can attack using math, empirical observation, 
+or both.
+
+whenever it’s been possible to make definite progress on ancient philosophical problems, such progress has 
+almost always involved a [kind of] “bait-and-switch.” In other words: one replaces an unanswerable
+philosophical riddle Q by a “merely” scientific or mathematical question Q′, which captures part of what 
+people have wanted to know when they’ve asked Q. Then, with luck, one solves Q′.
+
+Of course, even if Q′ is solved, centuries later philosophers might still be debating the exact relation 
+between Q and Q′! And further exploration might lead to other scientific or mathematical questions — Q′′, Q′′′,
+and so on — which capture aspects of Q that Q′ left untouched. But from my perspective, this process of 
+“breaking oﬀ” answerable parts of unanswerable riddles, then trying to answer those parts, is the closest thing
+to philosophical progress that there is.
+
+…A good replacement question Q′ should satisfy two properties: (a) Q′ should capture some aspect of the original
+question Q — so that an answer to Q′ would be hard to ignore in any subsequent discussion of Q, [and] (b) Q′
+should be precise enough that one can see what it would mean to make progress on Q′: what experiments one would
+need to do, what theorems one would need to prove, etc.
+```
 
 <a name="#diseased-philosophy"></a>
 
