@@ -10,7 +10,7 @@ I've sorted the quotes below into the following provisional categories:
 2. [Philosophy](#philosophy)
    1. [Diseased philosophy](#diseased-philosophy)
    2. [Morality](#morality)
-   3. [Slack](#slack) 
+   3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity) 
 2. [Statistics](#statistics)
 2. [Math](#math)
    1. [Solving famous open problems](#solving-famous-open-problems)
@@ -243,7 +243,7 @@ that by breaking a promise to my friend (morality) I could cure all cancer forev
 my friend, and f@$k whatever social trust or community cohesion would be lost by the transaction.
 ```
 
-<a name="#slack"></a>
+<a name="#slack-and-deliberate-mediocrity"></a>
 
 ### Slack and deliberate mediocrity
 ([overview](#overview))
