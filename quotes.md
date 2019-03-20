@@ -7,7 +7,8 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Teaching and learning](#teaching-and-learning)
-   1. [Polymathy](#polymathy)
+   1. [Distillation](#distillation)
+   2. [Polymathy](#polymathy)
 2. [Psychology](#psychology)
 2. [Philosophy](#philosophy)
    1. [Diseased philosophy](#diseased-philosophy)
@@ -30,9 +31,145 @@ Have fun reading them! I certainly did.
 ## Teaching and learning
 ([overview](#overview))
 
+<a name="#distillation"></a>
+
+### Distillation and research debt
+([overview](#overview))
+
+I keep coming back to Chris Olah and Shan Carter's essay [Research debt](https://distill.pub/2017/research-debt/), which in my eyes makes it an all-time great. The key terms are 'research debt', 'interpretive labor', and 'distillation'.
+
+What is research debt? First, a parable:
+
+```markdown
+Achieving a research-level understanding of most topics is like climbing a mountain. Aspiring 
+researchers must struggle to understand vast bodies of work that came before them, to learn 
+techniques, and to gain intuition. Upon reaching the top, the new researcher begins doing novel
+work, throwing new stones onto the top of the mountain and making it a little taller for whoever 
+comes next.
+
+Mathematics is a striking example of this. For centuries, countless minds have climbed the mountain 
+range of mathematics and laid new boulders at the top. Over time, different peaks formed, built on
+top of particularly beautiful results. Now the peaks of mathematics are so numerous and steep that
+no person can climb them all. Even with a lifetime of dedicated effort, a mathematician may only
+enjoy some of their vistas.
+
+People expect the climb to be hard. It reflects the tremendous progress and cumulative effort that’s
+gone into mathematics. The climb is seen as an intellectual pilgrimage, the labor a rite of passage.
+But the climb could be massively easier. It’s entirely possible to build paths and staircases into 
+these mountains. The climb isn’t something to be proud of.
+
+The climb isn’t progress: the climb is a mountain of debt.
+```
+
+On to research debt, analogizing to programming and management:
+
+```markdown
+Programmers talk about technical debt: there are ways to write software that are faster in the short 
+run but problematic in the long run. Managers talk about institutional debt: institutions can grow 
+quickly at the cost of bad practices creeping in. Both are easy to accumulate but hard to get rid of.
+
+Research can also have debt. It comes in several forms:
+
+Poor Exposition – Often, there is no good explanation of important ideas and one has to struggle to
+understand them. This problem is so pervasive that we take it for granted and don’t appreciate how 
+much better things could be.
+Undigested Ideas – Most ideas start off rough and hard to understand. They become radically easier
+as we polish them, developing the right analogies, language, and ways of thinking.
+Bad abstractions and notation – Abstractions and notation are the user interface of research, shaping
+how we think and communicate. Unfortunately, we often get stuck with the first formalisms to develop
+even when they’re bad. For example, an object with extra electrons is negative. 
+Noise – Being a researcher is like standing in the middle of a construction site. Countless papers 
+scream for your attention and there’s no easy way to filter or summarize them. 2 We think noise is 
+the main way experts experience research debt.
+
+The insidious thing about research debt is that it’s normal. Everyone takes it for granted, and 
+doesn’t realize that things could be different. For example, it’s normal to give very mediocre 
+explanations of research, and people perceive that to be the ceiling of explanation quality. On the
+rare occasions that truly excellent explanations come along, people see them as one-off miracles
+rather than a sign that we could systematically be doing better.
+```
+
+Research debt is the accumulation of missing interpretive labor:
+
+```markdown
+There’s a tradeoff between the energy put into explaining an idea, and the energy needed to understand
+it. On one extreme, the explainer can painstakingly craft a beautiful explanation, leading their
+audience to understanding without even realizing it could have been difficult. On the other extreme,
+the explainer can do the absolute minimum and abandon their audience to struggle. This energy is called
+interpretive labor.
+
+Many explanations are not one-to-one. People give lectures, write books, or communicate online. In these
+one-to-many cases, each member of the audience pays the cost of understanding, even though the cost of 
+explaining stays the same. 3 As a result, the cost of understanding has a multiplier in the interpretive
+labor tradeoff — sometimes a huge multiplier.
+
+In research, we often have a group of researchers all trying to understand each other. Just like before,
+the cost of explaining stays constant as the group grows, but the cost of understanding increases with 
+each new member. At some size, the effort to understand everyone else becomes too much. As a defense 
+mechanism, people specialize, focusing on a narrower area of interest. The maintainable size of the field
+is controlled by how its members trade off the energy between communicating and understanding.
+
+Research debt is the accumulation of missing interpretive labor. It’s extremely natural for young ideas to
+go through a stage of debt, like early prototypes in engineering. The problem is that we often stop at that
+point. Young ideas aren’t ending points for us to put in a paper and abandon. When we let things stop there
+the debt piles up. It becomes harder to understand and build on each other’s work and the field fragments.
+```
+
+The importance of good 'user interfaces' for ideas:
+
+```markdown
+It’s worth being clear that research debt isn’t just about ideas not being explained well. It’s a lack 
+of digesting ideas – or, at least, a lack of the public version of ideas being digested. It’s a communal
+messiness of thought.
+
+Developing good abstractions, notations, visualizations, and so forth, is improving the user interfaces
+for ideas. This helps both with understanding ideas for the first time and with thinking clearly about 
+them. Conversely, if we can’t explain an idea well, that’s often a sign that we don’t understand it as
+well as we could.
+```
+
+A great real-world example of research debt killing a field is Bill Thurston and foliations. Here's his reminiscences in my favorite paper of his, [On proof and progress in mathematics](https://arxiv.org/pdf/math/9404236v1.pdf):
+
+```markdown
+At that time, foliations had become a big center of attention among geometric 
+topologists, dynamical systems people, and differential geometers. I fairly rapidly
+proved some dramatic theorems. I proved a classification theorem for foliations,
+giving a necessary and sufficient condition for a manifold to admit a foliation. I
+proved a number of other significant theorems. I wrote respectable papers and
+published at least the most important theorems. It was hard to find the time to
+write to keep up with what I could prove, and I built up a backlog.
+
+An interesting phenomenon occurred. Within a couple of years, a dramatic evacuation 
+of the field started to take place. I heard from a number of mathematicians that they
+were giving or receiving advice not to go into foliations—they were saying that Thurston
+was cleaning it out. People told me (not as a complaint, but as a compliment) that I was
+killing the field. Graduate students stopped studying foliations, and fairly soon, I turned
+to other interests as well. ...
+
+I do not think that the evacuation occurred because the territory was intellectually exhausted—
+there were (and still are) many interesting questions that remain and that are probably 
+approachable. ... I believe that two ecological effects were much more important in putting a
+damper on the subject than any exhaustion of intellectual resources that occurred.
+
+First, the results I proved (as well as some important results of other people)
+were documented in a conventional, formidable mathematician’s style. They depended heavily on 
+readers who shared certain background and certain insights. 
+The theory of foliations was a young, opportunistic subfield, and the background
+was not standardized. I did not hesitate to draw on any of the mathematics I
+had learned from others. The papers I wrote did not (and could not) spend much
+time explaining the background culture. They documented top-level reasoning and
+conclusions that I often had achieved after much reflection and effort. I also threw
+out prize cryptic tidbits of insight, such as “the Godbillon-Vey invariant measures
+the helical wobble of a foliation”, that remained mysterious to most mathematicans
+who read them. This created a high entry barrier: I think many graduate students
+and mathematicians were discouraged that it was hard to learn and understand the
+proofs of key theorems.
+```
+
 <a name="#polymathy"></a>
 
 ### Polymathy
+([overview](#overview))
 
 Here's Eric Drexler on [how to understand everything](http://metamodern.com/2009/05/17/how-to-understand-everything-and-why/) and [how to learn about everything](http://metamodern.com/2009/05/27/how-to-learn-about-everything/).
 
