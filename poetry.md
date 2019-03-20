@@ -6,7 +6,7 @@ Poems and quotes listed in order below.
 
 1. [High Flight, by John Gillespie Magee, Jr](#high-flight)
 2. [Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity, by John Tobias](#watermelon-felicity)
-3. [A sunset glimpse of deep time, by Lee Billings](#deep-time)
+3. [A sunset glimpse of deep time, by Lee Billings](#a-sunset-glimpse-of-deep-time)
 
 <a name="#high-flight"></a>
 
@@ -97,7 +97,7 @@ And let it linger on our tongue:
 Unicorns become possible again.
 ```
 
-<a name="#deep-time"></a>
+<a name="#a-sunset-glimpse-of-deep-time"></a>
 
 ## A Sunset Glimpse of Deep Time
 ### by Lee Billings, from *Five Billion Years of Solitude*
