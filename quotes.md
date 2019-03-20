@@ -7,7 +7,7 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Teaching and learning](#teaching-and-learning)
-   1. [Distillation](#distillation)
+   1. [Distillation](#distillation-and-research-debt)
    2. [Polymathy](#polymathy)
 2. [Psychology](#psychology)
 2. [Philosophy](#philosophy)
@@ -31,7 +31,7 @@ Have fun reading them! I certainly did.
 ## Teaching and learning
 ([overview](#overview))
 
-<a name="#distillation"></a>
+<a name="#distillation-and-research-debt"></a>
 
 ### Distillation and research debt
 ([overview](#overview))
