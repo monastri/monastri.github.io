@@ -7,7 +7,8 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Research](#research)
-   1. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
+   1. [Tactics](#research-tactics)
+   2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
 2. [Erisology](#erisology)
    1. [Argumentative charity](#argumentative-charity)
 2. [Teaching and learning](#teaching-and-learning)
@@ -15,12 +16,12 @@ I've sorted the quotes below into the following provisional categories:
    2. [Polymathy](#polymathy)
 2. [Psychology](#psychology)
 2. [Philosophy](#philosophy)
-   1. [General philosophy](#general-philosophy)
+   1. [General](#general-philosophy)
    2. [Diseased philosophy](#diseased-philosophy)
    2. [Morality](#morality)
    3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity) 
 2. [Statistics](#statistics)
-   1. [General stats](#general-stats)
+   1. [General](#general-stats)
    2. [Statistical literacy](#statistical-literacy)
 2. [Math](#math)
    1. [Solving famous open problems](#solving-famous-open-problems)
@@ -37,6 +38,117 @@ Have fun reading them! I certainly did.
 
 ## Research
 ([overview](#overview))
+
+<a name="#research-tactics"></a>
+
+### Research tactics
+([overview](#overview))
+
+Scott Aaronson, in response to Luke Muehlhauser's interview question "what are some object-level research tactics you use (more specific than your general “bait and switch” strategy)?" in the [MIRI Conversations series](https://intelligence.org/2013/12/13/aaronson/):
+
+```markdown
+(1) Any time you find yourself in a philosophical disagreement with a fellow scientist, don’t be 
+content just to argue philosophically — even if you’re sure you can win the argument! Instead, think
+hard about whether you can go further, and find a concrete technical question that captures some 
+little piece of what you’re disagreeing about. Then see if you can answer that technical question.
+Of course, any time you do this, you have to be prepared for the possibility that the answer will go 
+your opponent’s way, rather than yours! But what’s nice is that you get to publish a paper even then.
+(One of the best ways to tell whether a given enterprise is scientific at all, rather than ideological,
+is by asking whether the participants will opportunistically “go to bat for the opposing side” whenever
+they find a novel truth on that side.) I’d estimate that up to half the papers I’ve written had their 
+origin in my reading or overhearing some claim — for example, “Grover’s algorithm obviously can’t work
+for searching actual physical databases, since the speed of light is finite,” or “the quantum states 
+arising in Shor’s algorithm are obviously completely different from anything anyone has ever seen in the
+lab,” or “the interactive proof results obviously make oracle separations completely irrelevant” — and 
+getting annoyed, either because I thought the claim was false, or because I simply didn’t think it had
+been adequately justified. The cases where my annoyance paid off are precisely the ones where, rather 
+than just getting mad, I managed to get technical!
+
+(2) Often, the key to research is figuring out how to redefine failure as success. Some stories: when Alan
+Turing published his epochal 1936 paper on Turing machines, he did so with great disappointment: he 
+had recently learned that Alonzo Church had independently arrived at similar results using lambda 
+calculus, and he didn’t know whether anyone would still be interested in his alternative, machine-based
+approach. In the early 1970s, Leonid Levin delayed publishing about NP-completeness for several years:
+apparently, his “real” goal was to prove graph isomorphism was NP-complete (something we now know is 
+almost certainly false), and in his mind, he had failed. Instead, he merely had a few “trivialities,” 
+like the definitions of P, NP, and NP-completeness, and the proof that satisfiability was NP-complete. 
+And Levin’s experience is far from unique: again and again in mathematical research, you’ll find yourself
+saying something like: “goddammit, I’ve been trying for six months to prove Y, but I can only prove the
+different/weaker statement X! And every time I think I can bridge the gap between X and Y, yet another 
+difficulty rears its head!” Any time that happens to you, think hard about whether you can write a 
+compelling paper that begins: “Y has been a longstanding open problem. In this work, we introduce a new 
+idea: to make progress on Y by shifting attention to the more tractable X.” More broadly, experience has 
+shown that scientists are terrible judges of which of their ideas will be interesting or important to 
+others. Pick any scientist’s most cited paper, and there’s an excellent chance that the scientist herself,
+at one point, considered it a “little recreational throwaway project” that was barely worth writing up. 
+After you’ve seen enough examples of that, you learn you should always err on the side of publishing, and 
+let posterity sort out which of your ideas are most important. (Yet another advantage of this approach is
+that, the more ideas you publish, the less emotionally invested you are in any one of them, so the less
+crushed you are when a few turn out to be wrong or trivial or already known.)
+
+(3) Sometimes, when you set out to prove some mathematical conjecture, your first instinct is just to throw
+an arsenal of theory at it. “Hey, what if I try a topological fixed-point theorem? What if I translate the
+problem into a group-theoretic language? If neither of those works, what if I try both at once?” Sometimes, 
+you rise so quickly this way into a stratosphere of generality that the original problem is barely a speck on
+the ground. And yes, some problems can be beaten into submission using high-powered theory. But in my 
+experience, there are two enormous risks with this approach. First, you’re liable to get lost on a wild
+goose chase, where you get so immersed in theory and techniques that you lose sight of your original goal. 
+It’s as if your efforts to break into a computer network lead you to certain complicated questions about 
+the filesystem, which in turn lead you to yet more complicated questions about the kernel… and in the 
+meantime someone else breaks in by guessing people’s birthdays for their passwords. Second, you’re also
+liable to fool yourself this way into thinking you’ve solved the problem when you haven’t. When you let 
+high-powered machinery take the place of hands-on engagement with the problem, a single mistake in applying 
+the machinery can creep in unbelievably easily. These risks are why I’ve learned over time to work in an 
+extremely different way. Rather than looking for “general frameworks,” I look for easy special cases and
+simple sanity checks, for stuff I can try out using high-school algebra or maybe a five-line computer program, 
+just to get a feel for the problem. Even more important, when I’m getting started, I don’t think about proof
+techniques at all: I think instead about obstructions. That is, I ask myself, “what would the world have to 
+be like for the conjecture to be false? what goes wrong if I try to invent a simple counterexample? does 
+anything go wrong? it does? OK then, what obstruction keeps me from proving this conjecture in the simplest,
+dumbest way imaginable?” I find that, after you’ve felt out the full space of obstructions and
+counterexamples, and really honestly convinced yourself of why the conjecture should be true, finding the 
+proof techniques by which to convince everyone else is often a more-or-less routine exercise.
+
+Finally, you ask about tactics that I suspect might be helpful, but that I haven’t used much myself. One that
+springs to mind is to really master a tool like Mathematica, MATLAB, Maple, or Magma — that is, to learn it 
+so well that I can code as fast as I think, and just let it take over all the routine / calculational /
+example-checking parts of my work. As it is, I use pretty much the same antiquated tools that I learned as
+an adolescent, and I rely on students whenever there’s a need for better tools. A large part of the problem
+is that, as a “tenured old geezer,” I no longer have the time or patience to learn new tools just for the 
+sake of learning them: I’m always itching just to solve the problem at hand with whatever tools I know. (The
+same issue has kept me from learning new mathematical tools, like representation theory, even when I can
+clearly see that they’d benefit me.)
+```
+
+Luke himself:
+
+```markdown
+1. When you’re confused about a fuzzy, slippery concept, try to build a simple formal model and push on it 
+with the new tools then available to you. Even if the model doesn’t capture the complexity of the world,
+pushing things into the mathematical realm can lead to progress. E.g. the VNM axioms don’t exactly capture
+“rationality,” but it sure is easier to think clearly about rationality once you have them. Or: we’re 
+confused about how to do principled reflective reasoning within an agent, so even though advanced AIs 
+are unlikely to literally run into a “Löbian obstacle” to self-reflection, setting up the problem that 
+way (in mathematical logic) can lead to some interesting insights in (e.g.) probabilistic metamathematics
+for reflective reasoning.
+
+2. Look for tools from other fields that appear to directly map onto the phenomena you’re studying. E.g. model
+moral judgment as an error process amenable to Bayesian curve fitting.
+
+3. Try to think of how your concept could be instantiated with infinite computing power. If you can’t do that,
+your concept might be fundamentally confused.
+
+4. If you’re pretty familiar with modern psychology, then… When using your intuitions to judge between options,
+try to think about which cognitive algorithms could be generating those intuitions, and whether they are
+cognitive algorithms whose outputs you reflectively endorse.
+
+5. To make the thing you’re studying clearer, look just next to it, and around it. Foer (2009) explains this
+nicely in the context of thinking about one’s values and vegetarianism: “A simple trick from the backyard
+astronomer: if you are having trouble seeing something, look slightly away from it. The most light-sensitive 
+parts of our eyes (those we need to see dim objects) are on the edges of the region we normally use for 
+focusing. Eating animals has an invisible quality. Thinking about dogs, and their relationship to the animals 
+we eat, is one way of looking askance and making something invisible visible.
+```
 
 <a name="#distillation-and-research-debt"></a>
 
