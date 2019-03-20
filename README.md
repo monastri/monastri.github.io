@@ -17,7 +17,7 @@ It turns out that writing here is simply far more effortful than on Quora, so on
       ), favorite poems and poetic quotes
 2. [Favorite quotes](
         https://github.com/monastri/monastri.github.io/blob/master/quotes.md
-      )
+      ). Think of them as my worldview's training dataset. 
 
 ### Expository notes
 
