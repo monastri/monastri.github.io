@@ -10,7 +10,7 @@ I've sorted the quotes below into the following provisional categories:
 2. [Philosophy](#philosophy)
    1. [Diseased philosophy](#diseased-philosophy)
    2. [Morality](#morality)
-   3. [Slack](#slack) and deliberate mediocrity
+   3. [Slack](#slack) 
 2. [Statistics](#statistics)
 2. [Math](#math)
    1. [Solving famous open problems](#solving-famous-open-problems)
