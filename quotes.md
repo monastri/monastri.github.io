@@ -56,7 +56,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Philosophy](#philosophy)
    1. [General](#general-philosophy)
    2. [Diseased philosophy](#diseased-philosophy)
-   2. [Morality](#morality)
+   2. [Morality, axiology, law](#morality-axiology-law)
+   3. [Moral patienthood](#moral-patienthood)
    3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity) 
 2. [Statistics](#statistics)
    1. [General](#general-stats)
@@ -1596,8 +1597,8 @@ he might have wondered if that watered-down vulgar sense of identity might be a 
 concept than a pure and philosophical sort of identity that nothing has.
 ```
 
-<a name="#morality"></a>
-### Morality
+<a name="#morality-axiology-law"></a>
+### Morality, axiology, law
 ([overview](#overview))
 
 Scott Alexander on the distinction between axiology, morality, and law, from [this essay](https://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets/):
@@ -1709,6 +1710,10 @@ But I also can’t deny that for enough gain, I’d reverse the order in a heart
 that by breaking a promise to my friend (morality) I could cure all cancer forever (axiology), then f@$k 
 my friend, and f@$k whatever social trust or community cohesion would be lost by the transaction.
 ```
+
+<a name="#moral-patienthood"></a>
+### Moral patienthood
+([overview](#overview))
 
 <a name="#slack-and-deliberate-mediocrity"></a>
 ### Slack and deliberate mediocrity
