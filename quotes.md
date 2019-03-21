@@ -1,3 +1,5 @@
+[Word count](https://wordcounter.net/): 38,500
+
 ## What is this?
 
 This is a "living document", a "perpetual draft" in [the style of Gwern](https://www.gwern.net/About#long-content). I'm particulary taken by the following quote: 
