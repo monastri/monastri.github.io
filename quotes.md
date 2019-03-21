@@ -27,7 +27,8 @@ I've sorted the quotes below into the following provisional categories:
    1. [General](#general-stats)
    2. [Statistical literacy](#statistical-literacy)
 2. [Math](#math)
-   1. [Solving famous open problems](#solving-famous-open-problems)
+   1. [Asking the right question](#asking-the-right-question)
+   2. [Solving famous open problems](#solving-famous-open-problems)
    2. [Mathematical maturity](#mathematical-maturity)
    3. [Good mathematics](#good-mathematics)
    4. [What every mathematician should know](#what-every-mathematician-should-know)
@@ -1603,6 +1604,73 @@ explicit claims, use of evidence, and argument.
 
 ## Math
 ([overview](#overview))
+
+<a name="#asking-the-right-question"></a>
+
+### Asking the right question
+([overview](#overview))
+
+[Jay Daigle](https://jaydaigle.net/) is an assistant professor of math at Occidental College who received his PhD in number theory at Caltech under Matthias Flach. He’s also jadagul of [Maybe-Mathematical Musings](http://jadagul.tumblr.com/), one of the two really consistently high-quality math-content-producers/commentators I’ve had the pleasure of stumbling across on math Tumblr (the other being Rob Nostalgebraist, who also writes [genuinely great fiction](https://archiveofourown.org/users/nostalgebraist/pseuds/nostalgebraist) and is a [brilliant book reviewer](https://www.goodreads.com/author/show/13933106.nostalgebraist)). He’s sufficiently [differently free from me](https://www.ribbonfarm.com/2014/11/05/dont-surround-yourself-with-smarter-people/) in Venkat Rao’s sense, plus just flat-out smarter, that I always get a lot out of his writings in Alan Kay’s “point of view is worth 80 IQ points” sense, so I always enjoy reading his math #effortposts.
+
+Recently I discovered that he’s collected these effortposts into a standalone blog, [Jay's Blog](https://jaydaigle.net/blog/paradigms-and-priors/), so I’ve had a lot of fun going over his essays. Here are some quotes from one of those essays, [Asking the Right Question](https://jaydaigle.net/blog/asking-the-right-question/), which I’m saving here for quick future reference. (You should Jay’s original essay instead of defaulting to my quotes below! He’s a really enjoyable read, I promise.)
+
+First off: why is asking good questions so important? About four reasons, the last one being the main thrust of this section:
+
+```markdown
+First and most obviously, it’s easier to get help with things and learn things if you can ask better
+questions. 
+
+Second, and maybe more importantly, framing questions well is a lot of what makes you a good 
+mathematician.
+
+The most boring way to ask a bad question is just to not include enough information. Sometimes this
+is just laziness (“I don’t understand how to do this problem, please help”). And I’ve definitely seen 
+questions asked that are thin disguises over “I don’t want to do my homework; can someone do it for me?”
+
+But more often, badly-phrased questions result from deep confusion on the part of the asker. If they 
+understood the material well enough to ask their question clearly and correctly, they wouldn’t need to
+ask it in the first place.
+```
+
+It's important to be able to figure out what question to ask in the first place:
+
+```markdown
+A lot of math is less about answering questions than about figuring out exactly what question you should
+be asking, and how to make it precise. We tend to sweep this under the rug a bit when teaching, in a way 
+that I suspect probably leads to a certain amount of confusion.
+
+When we teach, we often ask a question, and then demonstrate a tool to answer it, without necessarily 
+stopping to explain why that question is a good one, or how people settled on asking exactly that question.
+And this often leaves our students with the sense that what they’re doing doesn’t really mean anything.
+
+This is a major reason students fall back on figuring out what “type of problem” they’re working on, and
+then following “the steps” to get the answer. They see math as a sort of opaque box, and a question asks
+them to perform the correct magical ritual to get the answer. Because if the words you’re using—and your
+questions—don’t have a meaning, that’s all you can really do.
+
+And that’s how you get questions like “how do I find solutions to f(x) = sin(x)+1/2.” I can tell what the
+original question probably was. But because the student doesn’t really understand what a “function” is, 
+they ask a question that is, read literally, completely nonsensical.
+```
+
+An example of a badly-written but actually great question:
+
+```markdown
+Sometimes, you see a question that’s basically “this one thing feels kind of like this other thing, but 
+I can’t tell you how. Can you tell me?”
+
+These people are doing good math. They’re noticing a pattern, and trying to put it into words. They’re 
+maybe not quite there, and sometimes it’s hard to answer the question clearly. But it shows great
+instincts.
+
+And this is how math tends to actually get done! When we teach, we tend to define terms, then state 
+theorems about them, and then prove the theorems. But this is exactly backwards from how math is often
+actually done. First we understand what’s going on; then we figure out what the rule is and write it 
+down; and finally understand what conditions are important and give those conditions names. That is, 
+we formulate a proof, then state the theorem, and then define the terms.
+
+These questions are working on step 1. I want to encourage them.
+```
 
 <a name="#solving-famous-open-problems"></a>
 
