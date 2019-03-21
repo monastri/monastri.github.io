@@ -4,12 +4,71 @@
 
 Poems and quotes listed in order below.
 
-1. [Moloch, by Allen Ginsberg](#moloch)
+1. [Love, by Simon Funk](#love)
+2. [Moloch, by Allen Ginsberg](#moloch)
 2. [High Flight, by John Gillespie Magee, Jr](#high-flight)
 2. [Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity, by John Tobias](#reflections-on-a-gift-of-watermelon-pickle-received-from-a-friend-called-felicity)
 3. [A sunset glimpse of deep time, by Lee Billings](#a-sunset-glimpse-of-deep-time)
 4. [In the beginning were the gametes, by Peter Watts](#in-the-beginning-were-the-gametes)
 4. [The Celestial Emporium of Benevolent Knowledge, by Jorge Luis Borges](#the-celestial-emporium-of-benevolent-knowledge)
+
+<a name="#love"></a>
+## Love
+### by Simon Funk
+([overview](#overview))
+
+From [After Life](http://sifter.org/~simon/AfterLife/) by Simon Funk:
+
+```markdown
+But now she seems quite impervious to the idea that her love for me, too, is mechanical. She insists
+again and again that it is “genuine”. I try to tell her there is nothing ungenuine about the love of
+which I speak, but she cannot make the leap between them, cannot see how they are the same, that her
+plainly evident introspective feelings are the outcome of a mechanistic process.
+
+“Love” is such a slippery word to begin with, like “God”. It is exactly whatever the speaker means by 
+it at the moment, and thus impervious to any challenge. If one drills down too closely to its meaning,
+one finds it has moved and become something else; because when it becomes too clear what you are talking
+about, well, that can’t possibly be love.
+
+As my own mind is progressively shaped by the thoughts of those before me (those who once were me but
+not, and thus my own thoughts, but not) I find the concept of love neatly partitioning itself within my
+mental vocabulary, attaining a new crispness of expert familiarity. As with the many Inuit names for 
+the handful of truly distinct things we just label snow, my mind has a unique name for each facet of 
+love. With this simple arsenal, the slipperiness fades and the matter becomes downright ordinary.
+
+Perhaps I will endeavor to invent spoken words for these distinct concepts, introduce them implicitly 
+to Laura over the course of time, give her mind the same handles that mine has, to see if this enables
+her to grasp it as I do.
+
+Having distinct facets laid out neatly before me also allows me another type of analysis: to see what
+is truly common amongst them all, and thus just what subconscious twinge it is that leads people to
+bind them all under one word–in effect, to see the true meaning of love.
+
+It is, quite simply: to *value*.
+
+Love is the induction of something or someone into our implicit mental list of things which, in service
+of our own ultimate and unseen goals, need to exist. The various feelings of love are the ways in which
+that list perturbs our wants and focus in a given moment, the way each hypothetical action or outcome is
+assigned its emotional color in service of that love.
+
+There are many types of love, and many distinct mechanisms behind them, but the common thread is pain 
+at the thought of an object of that love being removed from our sphere of existence. The converse is
+often true but not always, and this is the source of much confusion over the meaning of love. Not all
+love brings joy or pleasure.
+
+Love comes in many magnitudes, from the love of ice cream to the love of country to the love for one’s
+child. Some do not call it true love until it approaches or even surpasses love of self. And love comes
+from many directions, programmed into us gradually through an integration of emotional associations, or
+suddenly, through genetic imperatives.
+
+Some do not call it true love unless it defies conscious explanation. Indeed, many forms of love 
+explicitly defy the conscious mind, as they must to redefine what matters to us.
+
+Thus love is, in a sense, the very foundation of consciousness, the helm of our will, the spark of purpose
+that turns a calculator into a directed being. A machine without love–and I mean love in the most 
+mechanistic way–is just a machine. A machine with love, now that is a dangerous thing. A spider, a snake,
+a man, a tinc, an avatar, an elder. One must ask of each: what do you love?
+```
 
 <a name="#moloch"></a>
 ## Moloch
