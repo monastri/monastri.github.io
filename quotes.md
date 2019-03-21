@@ -35,6 +35,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 1. [Biology](#biology)
    1. [Evolution](#evolution)
+      1. [Gene-centered view: Dawkins' replicators and vehicles](#gene-centered-view)
    2. [Animals are not like us](#animals-are-not-like-us)
    2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
 2. [Artificial intelligence](#artificial-intelligence)
