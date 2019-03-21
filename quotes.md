@@ -7,7 +7,8 @@ I like a lot of quotes.
 I've sorted the quotes below into the following provisional categories:
 
 1. [Research and academia](#research-and-academia)
-   1. [Why academic writing sucks](#why-academic-writing-sucks)
+   1. [Research in industry](#research-in-industry)
+   2. [Why academic writing sucks](#why-academic-writing-sucks)
    2. [Tactics and advice](#research-tactics)
    2. [Mindset](#research-mindset)
    2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
@@ -40,6 +41,165 @@ Have fun reading them! I certainly did.
 
 ## Research and academia
 ([overview](#overview))
+
+<a name="#research-in-industry"></a>
+
+### Research in industry
+([overview](#overview))
+
+Simon DeDeo is a professor at the Santa Fe Institute, that interdisciplinary haven of complexity science that Cosma Shalizi is affiliated with. Here’s a tweetstorm by Simon on science in large corporate organizations like Google / Facebook, which runs counter to my previous impression (I’d like to see a contrary perspective actually), which I’m crossposting here for ease of personal reference:
+
+```markdown
+I grew up in the Bayesian era—I watched @DavidSpergel and his band of merry scientists change
+our view of the world with a few simple, theoretically-motivated equations.
+
+That's what I brought to the table when I went out to study living and thinking systems. 
+Around 2010, of course, the deep learning revolution became impossible to ignore.
+
+It was exciting stuff. We'd have people visit the Institute and tell us about decision trees, 
+random forests,—all sorts of wonderful things. I tried to get a handle on it but (honestly) 
+there was so much we could do with simple tools that it was never a priority.
+
+When I got to IU, I was hired as a prof in the informatics department, @IUSoICE (informatics==the
+future of CS—i.e., forget quicksort, let's work out what these machines are doing to human life).
+I was on a hiring committee, and we were keen to get a deep learning hire.
+
+I took all the candidates out to breakfast (I was a naughty hire, and skipped meetings and
+committees to spend my time with research students and undergrads, this was the one gap I had).
+
+I tried to work out what deep learning was about. Most of the candidates were too sleep deprived 
+to dissemble. Basic answer: every sexy project we do—flying quadcopters, getting another 0.1% on 
+the MNIST—is basically one graduate student.
+
+You work out the topology of the neural net. Then you find the weights. How? The answer: "graduate
+student descent", a little pun to giggle over floppy croissants at the student cafe—in short, 
+there's no good answer, a human being sits there and twiddles things about.
+
+Machine learning is an amazing accomplishment of engineering. But it's not science. Not even close.
+It's just 1990, scaled up. It has given us literally no more insight than we had twenty years ago.
+
+"Deep learning implements the renormalization group!" Yeah, I heard that too. If you have a system 
+where information is organized spatially, is it really a surprise that the neurons group information
+together spatially?
+
+I'd get invited to meetings at Google Research, or wherever. They had security like crazy—worse than 
+a hedge fund. A security guard would follow you to the bathroom.
+
+Each scientist at my "grade"—i.e., the equivalent of a junior faculty member, someone who should be
+out on the edge of knowledge—was, instead, managing a team of ten people doing graduate student 
+descent.
+
+Google can beat University of Kansas for the sole reason that they can hire ten times more graduate
+students per researcher. The difference, of course, is that a graduate student at UK has the chance
+to do something intellectually significant. Not true at GR.
+
+They had no idea what they were doing. They had the manpower (word chosen advisedly) to apply deep 
+learning to anything, simulating the Schrodinger equation, drug design, anything. Their main goal
+was to find the scientific field they could have the maximum impact on.
+
+I've visited probably fifty Universities. I love it. Everywhere I go, I get new ideas. It's one of
+the best features of my job. There's one exception: commercial "research" labs.
+
+If you want to build machines that monitor people and sell them more ads faster, go for it. If you
+want to find problem where you can take a working-class job, model the man or woman who does it, and
+build a net to put them out of a job without compensation, be my guest.
+
+Have we done science with something Google Research has built? Absolutely. We have a great paper 
+coming out where we use word2vec to help build a theory of puzzle solving.
+
+But we could have built a system of equal utility ourselves. There's zero intellectual contribution
+there. I'm not joking, and I'll go head-to-head with anyone who says I am.
+
+I got a nice cold-call from a top-flight Masters' student in CS, as I do sometimes (please keep them
+coming, I can pay). I flew him out and we started working on a problem in the emergence of social 
+cooperation. He wanted to do DL.
+
+Two weeks in we were a step beyond what Google Brain was doing. I don't mean technically—they had 
+amazing YouTube videos of sprites in a landscape. I do mean intellectually. Their demos were like 
+2018 meets something out of the 1980s.
+
+They said they did social science, but it was nothing of the sort. It was homo economicus spread out
+over 50 GPUs. At best, a devastating proof-by-example of need for academia. Buy a copy of Bowles and
+Ginits, Cooperative Species, and you'll learn more than they did, in a week.
+
+Can you do cool research at Google Brain? Honest answer: no. You will be on the cutting edge of 
+machine learning, yes—an engineering discipline whose basic goals are set by large corporations.
+But you will not be a scientist.
+
+I get that you may need to make money. You can make a lot there, and all the jobs at Renaissance
+Technology are taken. Go for it—you have all my respect. Academia sucks.
+
+But if you want, at some point in your flourishing career, with your mind and your soul, to join
+the two-thousand year old parade of intellectual progress, you are not going to do it at Google.
+Certainly not at Facebook.
+
+If you want to do that, I have a suggestion. It's not the only path, by any means, and I've had 
+amazing fellow-travellers who haven't. But here it is.
+
+Go to graduate school. Do a PhD. With us, here at CMU/SDS, if you like—but we're not the only place
+that does computational social or cognitive science. You won't get paid much, but you will mentors
+who legitimately care about the development of your mind.
+
+It's difficult to overestimate the difference between a good PhD program and industry. It is 
+literally shameful, if you're a good PhD advisor, to interfere with the intellectual development
+of a student. At Google, it's a business plan.
+
+None of this is a joke. This is ten years of experience. Graduate school applications are coming 
+up in the Fall. Think about it. Make sure you're getting a good deal (you shouldn't go into debt
+for a PhD, and you should get healthcare).
+
+In short: corporate "research" is a business proposition. Whatever true intellectual progress 
+comes out of there happens in spite of management. Given how good these companies are at monitoring
+their employees, that gap is now miniscule.
+
+Last anecdote, then I'm done. We visited Google Research, arranged by a contact. The people were
+unbelievably smart. We brainstormed all sorts of wonderful things to work on. The last day of the
+meeting, the academics were like, OK! Let's go to the pub! Let's hash this out!
+
+Their response: this was vacation for us. We're behind on our real work. We have to work this 
+weekend. (Not "we feel guilty", but "we have to".) For the academics in the room, this was work.
+Suddenly, I realized that this was vacation for them.
+```
+
+This happened to generate lots of heated discussion on [the ML subreddit](https://www.reddit.com/r/MachineLearning/comments/8yvlzy/d_debate_about_science_at_organizations_like/). Example counterargument from harharveryfunny:
+
+```markdown
+It's a bit of a straw man attack to complain that Google Brain (an engineering division) isn't doing
+research, while ignoring Google DeepMind - their research division!
+
+The argument that industry is all about money also ignores the grand history of corporate research
+labs such as Bell Labs (thanks for the transistor!), Watson Labs, Xerox Parc (you could hardly
+complain about them being too commercial!). I don't see any reason to suppose that Google, FaceBook
+or Microsoft's research divisions are any less pure.
+```
+
+kendallpark:
+
+```markdown
+I've worn both the "industry" and "researcher" hat. In my particular field (ML + medicine) research,
+we've had a solid 3+ decade parade of "intellectual progress" in the form of academic papers about ML 
++ medicine. You know how many of these promising ideas have made it into the clinic? Pretty much none.
+Why? Well, there are a lot of reasons. But one of the big ones is PRODUCT.
+
+Academic researchers often don't want to deal with nuts and bolts of actual implementation of their
+project into a real system. Academic researchers often lack the software development know-how to 
+implement their project into a real system. (Or at least, this has definitely been what I've witnessed
+during graduate study.)
+
+And you know what? It's totally fine to be a non-translational ML + medicine researcher. Maybe 
+productization isn't their thing. I appreciate the papers; they should keep trying new things and
+writing about their results.
+
+But at the same I see way too many ML + medicine researchers patting themselves on the back for 'making 
+a difference' in medicine when all they're doing is adding another paper to the mountain of "great ideas 
+that could save patient lives but never will because no one will implement them."
+
+I understand that this is not the situation all ML + [some other field] fall into, perhaps not at all for
+pure ML, but this has been my experience in ML + medicine. We have more than enough research. We need more
+product.
+
+For the record: this is my own opinion and not that of any of my current or previous institutions/employers.
+```
 
 <a name="#why-academic-writing-sucks"></a>
 
