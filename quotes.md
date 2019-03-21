@@ -33,7 +33,7 @@ This is my first experiment in that vein. The quotes here have been collected ov
 
 I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring.
 
-1. [Computer science](#computer-science)
+1. [Software development and computer science](#software-development-and-computer-science)
    1. [Practical magic](#practical-magic)
 2. [Feelings](#feelings)
    1. [Love](#love)
@@ -78,8 +78,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
    1. [LOGI](#logi)
 2. [Miscellaneous](#miscellaneous)
 
-<a name="#computer-science"></a>
-## Computer science
+<a name="#software-development-and-computer-science"></a>
+## Software development and computer science
 ([overview](#overview))
 
 <a name="#practical-magic"></a>
