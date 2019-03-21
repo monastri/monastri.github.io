@@ -38,12 +38,12 @@ Have fun reading them! I certainly did.
 
 <a name="#research-and-academia"></a>
 
-## Research
+## Research and academia
 ([overview](#overview))
 
 <a name="#why-academic-writing-sucks"></a>
 
-### Why acedemic writing sucks
+### Why academic writing sucks
 ([overview](#overview))
 
 My favorite academic(ish) writers — like Baez for math, Aaronson for CS, Simler for postrationality, Nerst for erisology — are all guided by the spirit of *“hey, there’s something exciting I wanna show you!”*. Their words *get out of the way*, and you see the distilled essence of the thing that’s taken their breath away, and has now snatched yours too. It’s a tremendously heady experience. A longstanding dream of mine is to write a piece that captures that same spirit in explaining a difficult idea.
