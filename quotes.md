@@ -3,13 +3,26 @@
 This is a "living document", a "perpetual draft" in [the style of Gwern](https://www.gwern.net/About#long-content). I'm particulary taken by the following quote: 
 
 ```markdown
-I have read blogs for many years and most blog posts are the triumph of the hare over the tortoise. They are meant to be read by a few people on a weekday in 2004 and never again, and are quickly abandoned—and perhaps as Assange says, not a moment too soon. (But isn’t that sad? Isn’t it a terrible ROI for one’s time?) On the other hand, the best blogs always seem to be building something: they are rough drafts—works in progress. (EY's early contributions to LW is an example; Robin Hanson's OB blog is the *anti*-example.) 
+I have read blogs for many years and most blog posts are the triumph of the hare over the tortoise.
+They are meant to be read by a few people on a weekday in 2004 and never again, and are quickly
+abandoned—and perhaps as Assange says, not a moment too soon. (But isn’t that sad? Isn’t it a 
+terrible ROI for one’s time?) On the other hand, the best blogs always seem to be building something:
+they are rough drafts—works in progress. (EY's early contributions to LW is an example; Robin 
+Hanson's OB blog is the *anti*-example.) 
 
-I did not wish to write a blog. Then what? More than just “evergreen content”, what would constitute Long Content as opposed to the existing culture of Short Content? How does one live in a Long Now sort of way?
+I did not wish to write a blog. Then what? More than just “evergreen content”, what would constitute 
+Long Content as opposed to the existing culture of Short Content? How does one live in a Long Now 
+sort of way?
 
-My answer is that one uses such a framework to work on projects that are too big to work on normally or too tedious. ...Knowing your site will survive for decades to come gives you the mental wherewithal to tackle long-term tasks like gathering information for years, and such persistence can be useful -- if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like a genius himself. Half the challenge of fighting procrastination is the pain of starting—I find when I actually get into the swing of working on even dull tasks, it’s not so bad. 
+My answer is that one uses such a framework to work on projects that are too big to work on normally
+or too tedious. ...Knowing your site will survive for decades to come gives you the mental wherewithal
+to tackle long-term tasks like gathering information for years, and such persistence can be useful --
+if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like
+a genius himself. Half the challenge of fighting procrastination is the pain of starting—I find when 
+I actually get into the swing of working on even dull tasks, it’s not so bad. 
 
-So this suggests a solution: never start. Merely have perpetual drafts, which one tweaks from time to time. And the rest takes care of itself.
+So this suggests a solution: never start. Merely have perpetual drafts, which one tweaks from time to
+time. And the rest takes care of itself.
 ```
 
 This is my first experiment in that vein. The quotes here have been collected over more than half a decade, albeit in different pages. I intend for them to shape my worldview; doing so like this allows, or so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping.
