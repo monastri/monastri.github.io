@@ -6,8 +6,9 @@ I like a lot of quotes.
 
 I've sorted the quotes below into the following provisional categories:
 
-1. [Research](#research)
-   1. [Tactics and advice](#research-tactics)
+1. [Research and academia](#research-and-academia)
+   1. [Why academic writing sucks](#why-academic-writing-sucks)
+   2. [Tactics and advice](#research-tactics)
    2. [Mindset](#research-mindset)
    2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
 2. [Erisology](#erisology)
@@ -35,10 +36,206 @@ I've sorted the quotes below into the following provisional categories:
 
 Have fun reading them! I certainly did.
 
-<a name="#research"></a>
+<a name="#research-and-academia"></a>
 
 ## Research
 ([overview](#overview))
+
+<a name="#why-academic-writing-sucks"></a>
+
+### Why acedemic writing sucks
+([overview](#overview))
+
+My favorite academic(ish) writers — like Baez for math, Aaronson for CS, Simler for postrationality, Nerst for erisology — are all guided by the spirit of *“hey, there’s something exciting I wanna show you!”*. Their words *get out of the way*, and you see the distilled essence of the thing that’s taken their breath away, and has now snatched yours too. It’s a tremendously heady experience. A longstanding dream of mine is to write a piece that captures that same spirit in explaining a difficult idea.
+
+From Steven Pinker's essay [Why academics stink at writing](https://stevenpinker.com/files/pinker/files/why_academics_stink_at_writing.pdf), which you should read in its entirety for the beautifully clear writing and guffaw-inducing anecdotes. 
+
+Pinker says these answers are wrong, or at least incommensurate with his own experience:
+
+```markdown
+(1) The most popular answer outside the academy is the cynical one:
+Bad writing is a deliberate choice. Scholars in the softer fields
+spout obscure verbiage to hide the fact that they have nothing to
+say. They dress up the trivial and obvious with the trappings of
+scientific sophistication, hoping to bamboozle their audiences
+with highfalutin gobbledygook.
+
+Though no doubt the bamboozlement theory applies to some
+academics some of the time, in my experience it does not ring true.
+I know many scholars who have nothing to hide and no need to
+impress. They do groundbreaking work on important subjects,
+reason well about clear ideas, and are honest, down-to-earth
+people. Still, their writing stinks.
+
+(2) The most popular answer inside the academy is the self-serving
+one: Difficult writing is unavoidable because of the abstractness
+and complexity of our subject matter. Every human pastime—
+music, cooking, sports, art—develops an argot to spare its
+enthusiasts from having to use a long-winded description every
+time they refer to a familiar concept in one another’s company. It
+would be tedious for a biologist to spell out the meaning of the
+term transcription factor every time she used it, and so we should
+not expect the tête-à-tête among professionals to be easily
+understood by amateurs.
+
+But the insider-shorthand theory, too, doesn’t fit my experience. I
+suffer the daily experience of being baffled by articles in my field,
+my subfield, even my sub-sub-subfield. The methods section of an
+experimental paper explains, "Participants read assertions whose
+veracity was either affirmed or denied by the subsequent
+presentation of an assessment word." After some detective work, I
+determined that it meant, "Participants read sentences, each
+followed by the word true or false." The original academese was
+not as concise, accurate, or scientific as the plain English
+translation. So why did my colleague feel compelled to pile up the
+polysyllables?
+
+(3) A third explanation shifts the blame to entrenched authority.
+People often tell me that academics have no choice but to write
+badly because the gatekeepers of journals and university presses
+insist on ponderous language as proof of one’s seriousness. This
+has not been my experience, and it turns out to be a myth. In 
+Stylish Academic Writing (Harvard University Press, 2012), Helen
+Sword masochistically analyzed the literary style in a sample of 500
+scholarly articles and found that a healthy minority in every field
+were written with grace and verve. 
+```
+
+So if bamboozlement, insider-shorthand and journal gatekeeping are wrong, what's really at fault? Pinker’s answer is two-pronged: the self-conscious style, and the curse of knowledge. The latter I’ve covered in previous posts, so the summary below concentrates on the former. 
+
+First, Thomas and Turner on how to understand writing styles -- this is a summary from [my own post](), since Pinker uses a lot of words:
+
+```markdown
+Every style of writing, quoting Francis-Noel Thomas and Mark Turner’s book *Clear and Simple 
+as the Truth*, can be understood as “a model of the communication scenario that an author 
+simulates in lieu of the real-time give-and-take of a conversation”. They distinguish five 
+styles, depending on how the writer imagines themselves to be related to the reader, and what
+the writer is trying to accomplish:
+
+1. romantic
+2. oracular
+3. prophetic
+4. plain
+5. practical
+
+A particular style they single out as an aspiration for writers of expository prose is the 
+*classic style*, its invention credited to 17th-century French essayists such as Descartes 
+and La Rochefoucauld.
+```
+
+The guiding metaphor of classical style is “seeing the world”:
+
+```markdown
+The writer can see something that the reader has not yet noticed, and he orients the reader 
+so she can see for herself. The purpose of writing is presentation, and its motive is disinterested
+truth. It succeeds when it aligns language with truth, the proof of success being clarity and 
+simplicity. The truth can be known and is not the same as the language that reveals it; prose 
+is a window onto the world. The writer knows the truth before putting it into words; he is not
+using the occasion of writing to sort out what he thinks. The writer and the reader are equals:
+The reader can recognize the truth when she sees it, as long as she is given an unobstructed view.
+And the process of directing the reader’s gaze takes the form of a conversation.
+```
+
+Most academic writing is the opposite of classic style. It’s a blend of two styles: *practical* and *self-conscious* (or ironic, postmodern, relativistic).
+
+Practical style:
+
+```markdown
+…the writer’s goal is to satisfy a reader’s need for a particular kind of information, and the form
+of the communication falls into a fixed template, such as the fiveparagraph student essay or the 
+standardized structure of a scientific article.
+```
+
+Self-conscious style:
+
+```markdown
+…the writer’s chief, if unstated, concern is to escape being convicted of philosophical naïveté 
+about his own enterprise.
+
+It’s easy to see why academics fall into self-conscious style. Their goal is not so much 
+communication as self-presentation—an overriding defensiveness against any impression that they
+may be slacker than their peers in hewing to the norms of the guild.
+```
+
+Pinker says that many of the hallmarks of “academese” are symptoms of the self-conscious style. Here's my abridged version of his explanation:
+
+```markdown
+1. Meta-discourse: verbiage about verbiage. Paraphrasing Pinker: “Thoughtless writers think 
+they’re doing the reader a favor by guiding her through the text with stuff like previews, 
+summaries, and signposts. Actually it helps the writer more than the reader: the reader has
+to put more work into understanding the signposts than she saves in seeing what they point to,
+like directions for a shortcut that take longer to figure out than the time the shortcut would
+save. The art of classic prose is to use signposts sparingly, as we do in conversation… Instead 
+of dry metadata: pose a question, co-opt the guiding metaphor behind classic style (vision — 
+“as we have seen”), use we.”
+
+2. Professional narcissism: Pinker: “Academics live in two universes: the world of the thing they
+stud, and the world of their profession. Most of a researcher’s waking hours are spent in the 
+second world, and it’s easy for him to confuse the two. The result is the typical opening of an
+academic paper: ‘In recent years, an increasing number of psychologists and linguists have turned
+their attention to the problem of child language acquisition…’ No offense, but few people are 
+interested in how professors spend their time. Classic style ignores the hired help and looks 
+directly at what they are being paid to study: ‘All children acquire the ability to speak a language
+without explicit lessons. How do they accomplish this feat?’”
+
+3. Apologizing: Pinker: “Self-conscious writers are also apt to kvetch about how what they’re about
+to do is so terribly difficult and complicated and controversial. In the classic style, the writer
+credits the reader with enough intelligence to realize that many concepts aren’t easy to define, 
+and that many controversies aren’t easy to resolve. She is there to see what the writer will do 
+about it.”
+
+4. Shudder quotes: Pinker: “Academics often use quotation marks to distance themselves from a common
+idiom, as in "She is a ‘quick study’ and has been able to educate herself in virtually any area that
+interests her." They seem to be saying, "I couldn’t think of a more dignified way of putting this, 
+but please don’t think I’m a flibbertigibbet who talks this way; I really am a serious scholar." The
+problem goes beyond the nose-holding disdain for idiomatic English: it confuses the reader by 
+introducing ambiguity. Quotation marks have a number of legitimate uses — squeamishness about one’s 
+own choice of words is not among them.”
+
+5. Hedging: Pinker: “Academics mindlessly cushion their prose with wads of fluff that imply they are
+not willing to stand behind what they say, like “apparently” etc. The worst is “I would argue”. 
+Writers use hedges in the vain hope that it will get them off the hook, or at least allow them to
+plead guilty to a lesser charge, should a critic ever try to prove them wrong. A classic writer, in
+contrast, counts on the common sense and ordinary charity of his readers, just as in everyday 
+conversation we know when a speaker means in general or all else being equal — any adversary who is 
+intellectually unscrupulous enough to give the least charitable reading to an unhedged statement will
+find an opening to attack the writer in a thicket of hedged ones anyway. Also instead of hedging, 
+qualify the statement — spell out the circumstances in which it does not hold rather than leaving
+himself an escape hatch or being coy as to whether he really means it. It’s not that good writers 
+never hedge their claims. It’s that their hedging is a choice, not a tic.”
+
+6. Metaconcepts and nominalizations: concepts about concepts, vacuous words that don’t add content.
+Pinker: “It’s easy to see why metaconcepts tumble so easily from the fingers of academics. Professors 
+really do think about "issues" (they can list them on a page), "levels of analysis" (they can argue 
+about which is most appropriate), and "contexts" (they can use them to figure out why something works
+in one place but not in another). But after a while those abstractions become containers in which 
+they store and handle all their ideas, and before they know it they can no longer call anything by 
+its name. "Reducing prejudice" becomes a "prejudice-reduction model"… English grammar is an enabler
+of the bad habit of writing in unnecessary abstractions because it includes a dangerous tool for 
+creating abstract terms. A process called nominalization takes a perfectly spry verb and embalms it
+into a lifeless noun by adding a suffix like –ance, –ment, or –ation. Instead of affirming an idea,
+you effect its affirmation…
+```
+
+Pinker argues that the theory that “academese is the opposite of classic style” explains the following paradox of academic writing:
+
+```markdown
+Many of the most stylish writers who cross over to a general audience are scientists (together with
+some philosophers who are fans of science), while the perennial winners of the Bad Writing Contest 
+are professors of English. That’s because the ideal of classic prose is congenial to the worldview
+of the scientist. Contrary to the common misunderstanding in which Einstein proved that everything
+is relative and Heisenberg proved that observers always affect what they observe, most scientists 
+believe that there are objective truths about the world, and that they can be discovered by a 
+disinterested observer.
+
+By the same token, this guiding image of classic prose could not be farther from the worldview of 
+relativist academic ideologies such as postmodernism, poststructuralism, and literary Marxism, which
+took over many humanities departments in the 1970s. Many of the winning entries in the Dutton contest
+(such as Judith Butler’s "The move from a structuralist account in which capital is understood to
+structure social relations in relatively homologous ways to a view of hegemony in which power relations
+are subject to repetition, convergence, and rearticulation brought the question of temporality into the 
+thinking of structure ….") consist almost entirely of metaconcepts.
+```
 
 <a name="#research-tactics"></a>
 
