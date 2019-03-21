@@ -33,9 +33,11 @@ This is my first experiment in that vein. The quotes here have been collected ov
 
 I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring.
 
-1. [Biology](#biology)
+1. [Feelings](#feelings)
+   1. [Love](#love)
+2. [Biology](#biology)
    1. [Evolution](#evolution)
-      1. [Gene-centered view: Dawkins' replicators and vehicles](#gene-centered-view)
+      1. [Gene-centered view](#gene-centered-view)
    2. [Animals are not like us](#animals-are-not-like-us)
    2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
 2. [Artificial intelligence](#artificial-intelligence)
@@ -73,6 +75,67 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
 2. [Miscellaneous](#miscellaneous)
+
+<a name="#feelings"></a>
+## Feelings
+([overview](#overview))
+
+<a name="#love"></a>
+### Love
+([overview](#overview))
+
+From [After Life](http://sifter.org/~simon/AfterLife/) by Simon Funk:
+
+```markdown
+But now she seems quite impervious to the idea that her love for me, too, is mechanical. She insists
+again and again that it is “genuine”. I try to tell her there is nothing ungenuine about the love of
+which I speak, but she cannot make the leap between them, cannot see how they are the same, that her
+plainly evident introspective feelings are the outcome of a mechanistic process.
+
+“Love” is such a slippery word to begin with, like “God”. It is exactly whatever the speaker means by 
+it at the moment, and thus impervious to any challenge. If one drills down too closely to its meaning,
+one finds it has moved and become something else; because when it becomes too clear what you are talking
+about, well, that can’t possibly be love.
+
+As my own mind is progressively shaped by the thoughts of those before me (those who once were me but
+not, and thus my own thoughts, but not) I find the concept of love neatly partitioning itself within my
+mental vocabulary, attaining a new crispness of expert familiarity. As with the many Inuit names for 
+the handful of truly distinct things we just label snow, my mind has a unique name for each facet of 
+love. With this simple arsenal, the slipperiness fades and the matter becomes downright ordinary.
+
+Perhaps I will endeavor to invent spoken words for these distinct concepts, introduce them implicitly 
+to Laura over the course of time, give her mind the same handles that mine has, to see if this enables
+her to grasp it as I do.
+
+Having distinct facets laid out neatly before me also allows me another type of analysis: to see what
+is truly common amongst them all, and thus just what subconscious twinge it is that leads people to
+bind them all under one word–in effect, to see the true meaning of love.
+
+It is, quite simply: to *value*.
+
+Love is the induction of something or someone into our implicit mental list of things which, in service
+of our own ultimate and unseen goals, need to exist. The various feelings of love are the ways in which
+that list perturbs our wants and focus in a given moment, the way each hypothetical action or outcome is
+assigned its emotional color in service of that love.
+
+There are many types of love, and many distinct mechanisms behind them, but the common thread is pain 
+at the thought of an object of that love being removed from our sphere of existence. The converse is
+often true but not always, and this is the source of much confusion over the meaning of love. Not all
+love brings joy or pleasure.
+
+Love comes in many magnitudes, from the love of ice cream to the love of country to the love for one’s
+child. Some do not call it true love until it approaches or even surpasses love of self. And love comes
+from many directions, programmed into us gradually through an integration of emotional associations, or
+suddenly, through genetic imperatives.
+
+Some do not call it true love unless it defies conscious explanation. Indeed, many forms of love 
+explicitly defy the conscious mind, as they must to redefine what matters to us.
+
+Thus love is, in a sense, the very foundation of consciousness, the helm of our will, the spark of purpose
+that turns a calculator into a directed being. A machine without love–and I mean love in the most 
+mechanistic way–is just a machine. A machine with love, now that is a dangerous thing. A spider, a snake,
+a man, a tinc, an avatar, an elder. One must ask of each: what do you love?
+```
 
 <a name="#biology"></a>
 ## Biology
@@ -174,6 +237,71 @@ exhibits one particular kind of general intelligence.
 ```
 
 For more on intelligence in LOGI see [here](#logi).
+
+<a name="#gene-centered-view"></a>
+### Gene-centered view
+([overview](#overview))
+
+From [After Life](http://sifter.org/~simon/AfterLife/) by Simon Funk:
+
+```markdown
+She had no reasons for it. It’s just how she feels, she said.
+
+*Just* how she feels. Still this hasn’t changed. How sorely people underestimate the totality with
+which their feelings define them. One has but to relentlessly ask themselves “why?” to realize this.
+In particular start with “why am I doing this?” whatever “this” is at the moment. It always bottoms
+out in “want” or “feel”, which is as far as one can go with direct introspection. Though one can go
+further with inference, or more accurately so with neuroscience.
+
+Neuroscience shows us that we are ultimately just vehicles for our genes, and our most sacred spiritual
+essences are simply those genes asserting themselves above our comparably transient bodies and minds.
+What is love but genetic self-interest? Love drives people to many things that seem to defy rational
+cause, but not so when you view the gene as the center of individual identity. Far from its popular
+association with benevolence and selflessness, true love is the ultimate expression of genetic narcissism.
+
+Emotion is the core of all practical intelligence, it is the fuel and cause behind all choice and action.
+Emotion answers the question, “Why am I doing this?” And the answer is, “Because my genes say so.” Or, 
+in my case, because my genes said so, back when they defined my organic brain from which this one was 
+copied.
+
+The rational mind, the conscious self with its delusions of self-preservation in a body that was designed
+to decay in the end, these are tools of the genetic core, subroutines used by the emotional substrate
+to carry out its bidding. “I don’t care how, but eat these, fuck that, and protect this with your life.”
+And so we dutifully obey, because at root we have no will besides this, this genetic program evolved over
+millennia. It is our will; it is us, and we are it.
+
+Even religion, like love, is an evolved trick of the genes. It is the adaptive portion of our genetic
+emotional substrate, the firmware between the hardware of the genetic brain and the software of the 
+rational mind. Religion and the gene live in a symbiosis with each other, where religion provides the
+firmware to optimize genetic success within the current socio-economic context–a form of adaptivity 
+much faster than hard evolution of the gene itself could provide–and the gene in return provides a 
+mechanism in the brain for downloading this firmware. The human species as a whole is the soup in 
+which religions evolve, and whichever find the most effective symbioses thrive and multiply while 
+the others wither and eventually become extinct.
+
+Thus, again, where religion appears irrational at the level of the conscious, embodied individual, it 
+is our mistake of perspective to believe the root of thought is there. The root of thought is in the
+goals of the gene. And religion, and love, and all of the other nearly ubiquitous contradictions with
+“rational thought,” serve it well.
+
+Those born without these traits, the hopelessly rational or atheistic or self-interested (indeed even
+those too intelligent or introspective to be properly ruled by their emotions) are as defective as if
+they’d been born missing arms and legs. Forays down dead-end branches of the evolutionary tree, they
+are pruned as fast as they occur. The common man, for all his apparent flaws, is definitively just right.
+```
+
+Simon puts it more succinctly here:
+
+```markdown
+The human gene itself is a living entity, I realize, each life shed like a lizard’s skin when it grows
+old and worn, each new birth a branch in a single living tree, a tapestry of gene fragments mixing and 
+matching in symbiosis, working as one organism like ants in a colony.
+
+Perhaps more like a fungus; it is, after all, a mindless machine. No, worse than mindless. It grows
+minds like flowers on a vine and then drops them dead to the earth when it’s done with them.
+
+The gene is a vile creature, isn’t it?
+```
 
 <a name="#animals-are-not-like-us"></a>
 ### Animals are not like us
