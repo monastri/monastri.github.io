@@ -58,7 +58,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
    1. [General](#general-stats)
    2. [Statistical literacy](#statistical-literacy)
 2. [Math](#math)
-   1. [Asking the right question](#asking-the-right-question)
+   1. [Why didn't the Tricki take off?](#why-tricki-failed)
+   2. [Asking the right question](#asking-the-right-question)
    2. [Solving famous open problems](#solving-famous-open-problems)
    2. [Mathematical maturity](#mathematical-maturity)
    3. [Good mathematics](#good-mathematics)
@@ -1851,12 +1852,313 @@ explicit claims, use of evidence, and argument.
 ```
 
 <a name="#math"></a>
-
 ## Math
 ([overview](#overview))
 
-<a name="#asking-the-right-question"></a>
+<a name="#why-tricki-failed"></a>
+### Why Tricki failed
+([overview](#overview)
 
+A couple quotes from Tim Gowers’ post [Is the Tricki dead?](https://gowers.wordpress.com/2010/09/24/is-the-tricki-dead/) saved for future personal reference, answering some questions I’ve had in mind for awhile (and many I hadn’t).
+
+What was the Tricki for?
+
+```markdown
+The hope was that after the site had reached some level of completeness, it would be possible to
+take a mathematics research problem (or subproblem) and search efficiently for known techniques 
+that were likely to be relevant.
+
+It would be doing something a little different from Wikipedia mathematics articles, which concentrate
+more on what I like to think of as “things with names”. For instance, if you suspect that discrete 
+Fourier analysis is likely to be a useful tool for your problem, then you can type “discrete Fourier 
+analysis” into Google and find many links, including to a Wikipedia article that contains many of the
+basic facts.
+
+But what if it doesn’t occur to you that discrete Fourier analysis is what you need (even though it in
+fact is)? The idea was that, using easily identifiable features of your problem, you would be able to
+follow links to ever more specific Tricki pages until you would reach a page that explained *when* 
+discrete Fourier analysis was useful and *how* it was used. In general, the whole site would be about how
+to do mathematics rather than about lists of facts.
+```
+
+One of Gowers’ strongest motivations:
+
+```markdown
+the thought that one day the [automated theorem proving] programmers would be able to do all the low-level 
+stuff and the Tricki would be able to tell them how to do the higher-level stuff.
+```
+
+He notes that the ‘activation energy’ required to write a Tricki article is prohibitively high:
+
+```markdown
+I still believe in this general concept, but for a wiki-type site to be successful it must reach the stage
+where people think it is worth contributing. Since writing a good Tricki article takes a bit of work, the 
+motivation to do it has to be particularly high. And it seems that it is not high enough for the site to 
+have taken off.
+```
+
+One-time contributor Emmanuel Kowalski agrees:
+
+```markdown
+I still like the idea of the Tricki a lot. For me, the difficulty in writing more articles is that 
+I feel that a Tricki article should be well-written, in a way which is different from either a blog
+post, or a MathOverflow question or answer. And this means it involves more time — I typically write
+blog posts in one sitting, and would dash off an answer to a MO question as I would a comment to a 
+blog post, but when I wrote the only Tricki article I have done, it was more like writing a short 
+survey paper. Unfortunately, time is difficult to find for such contributions, at least for me…
+```
+
+This is related to the following comment by Joseph Malkevitch:
+
+```markdown
+Unfortunately, for those contributors to Tricki who are academic mathematicians (employees of mathematics
+departments) there is little career incentive to writing or developing materials of this kind.
+
+Perhaps there might be a group of people who would volunteer to be “editors” for certain pieces of Tricki 
+and when these individuals saw a post to MO, journal article, or web article, with content related to the
+area they “supervise,” they could contact the author of that item to modify if for posting on Tricki. The
+fact that there is less work in adapting something nice that has been done already compared with creating
+something new from scratch may encourage more contributions.
+```
+
+The part about lack of career incentive reminds me of Chris Olah’s [Research Debt](https://distill.pub/2017/research-debt/) essay, under ‘Where are the Distillers?’:
+
+```markdown
+Like the theoretician, the experimentalist or the research engineer, the research distiller is an integral 
+role for a healthy research community. Right now, almost no one is filling it.
+
+Why do researchers not work on distillation? One possibility is perverse incentives, like wanting your 
+work to look difficult. Those certainly exist, but we don’t think they’re the main factor.
+
+Another possibility is that they don’t enjoy research distillation. Again, we don’t think that’s what’s
+going on.
+
+Lots of people want to work on research distillation. Unfortunately, it’s very difficult to do so, 
+because we don’t support them.
+
+An aspiring research distiller lacks many things that are easy to take for granted: a career path, places
+to learn, examples and role models. Underlying this is a deeper issue: their work isn’t seen as a real 
+research contribution. We need to fix this.
+```
+
+And then MO came along:
+
+```markdown
+During that time, a new factor has come into play: Mathoverflow. For the Tricki to be successful, it 
+had to do something that Wikipedia doesn’t do. And now, to be successful, it would also have to do 
+something that Mathoverflow doesn’t do. This is a serious point: I used to think that one of the main
+functions of the Tricki would be to make it much easier for people to find out what was known about 
+a problem, but Mathoverflow seems to me to be a better way of doing that. …
+
+Is there, at least in principle, still a niche for the Tricki, or is it squeezed out by Wikipedia on 
+the static side and Mathoverflow on the dynamic side?
+```
+
+What niche might Tricki still occupy that hasn’t been taken by MO?
+
+```markdown
+I’m thinking of questions along the lines of “This problem that has just emerged is of a kind I haven’t
+seen before but it feels as though people ought to have thought about similar things; what should I do
+now?” Obviously Mathoverflow would be useful for some such problems, but sometimes they are a bit too 
+vague, sometimes one might have a subproblem that one does not wish to make public, and sometimes they 
+may be sufficiently easy that one would prefer just to look up the answer rather than bother other 
+people with the question.
+
+[Also] if the Tricki became more complete, then one could browse it more systematically than either 
+Wikipedia or Mathoverflow. One could for example decide to read up on all the standard techniques in
+some subarea.
+```
+
+Some comments by Greg Graviton:
+
+```markdown
+First of all, I think the quality of the articles on the Tricki is excellent and well worth preserving
+in form or another, for instance the discussion of homology as “linear combinations of level lines
+(lines/surfaces where a function is constant)”. Most importantly, you can’t find this stuff elsewhere
+except in informal discussions with other mathematicians. There ought to be a place to make that public.
+
+Concerning the format, I think the current technology of the Tricki fails to deliver your original 
+“promise” of a powerful search function, that somehow helps you from nothing to a trick that applies.
+This is a hard problem, it’s not sure whether it can be solved with computers, and bolting the Tricki 
+on top of a Drupal installation apparently does not really solve anything. (On the technology note, note
+that MathOverflow was programmed from scratch as well, so a fresh start is quite unavoidable, not to 
+mention that even small issues in usability (e.g. sluggish to load) matter a lot.)
+```
+
+I think the Tricki failed for the same reason Arbital failed: [Arbital postmortem](https://www.lesswrong.com/posts/kAgJJa3HLSZxsuSrf/arbital-postmortem). Arbital was much more ambitious in both goal and execution attempt, as you can see from reading the linked postmortem.
+
+Continuing with Greg:
+
+```markdown
+Then, there is the “bandwidth” problem of human communication. The fastest way to convey a
+mathematical concept or trick is to present it to your colleague on the blackboard. It takes 
+very little effort on your part because a lot of information per time is being exchanged: mistakes,
+mnemonics, steps are weighted by difficulty and importance, questions can be asked, etc. etc. 
+In contrast, the amount of information that a written article can transfer is very small and it 
+takes a lot of effort and skill to maximize its utility.
+```
+
+Anytime mathematical communication is brought up I’m always reminded of Bill Thurston’s essay [On proof and progress in mathematics](https://arxiv.org/abs/math/9404236), in particular this quote:
+
+```markdown
+Much of the difficulty has to do with the language and culture of mathematics, which is divided 
+into subfields. Basic concepts used every day within one subfield are often foreign to another 
+subfield. Mathematicians give up on trying to understand the basic concepts even from neighboring 
+subfields, unless they were clued in as graduate students.
+
+In contrast, communication works very well within the subfields of mathematics. Within a subfield,
+people develop a body of common knowledge and known techniques. By informal contact, people learn 
+to understand and copy each other’s ways of thinking, so that ideas can be explained clearly and easily.
+
+Mathematical knowledge can be transmitted amazingly fast within a subfield. When a significant theorem
+is proved, it often (but not always) happens that the solution can be communicated in a matter of 
+minutes from one person to another within the subfield. The same proof would be communicated and
+generally understood in an hour talk to members of the subfield. It would be the subject of a 15- or
+20-page paper, which could be read and understood in a few hours or perhaps days by members of the 
+subfield.
+
+Why is there such a big expansion from the informal discussion to the talk to the paper? One-on-one,
+people use wide channels of communication that go far beyond formal mathematical language. They use 
+gestures, they draw pictures and diagrams, they make sound effects and use body language. Communication
+is more likely to be two-way, so that people can concentrate on what needs the most attention. With 
+these channels of communication, they are in a much better position to convey what’s going on, not
+just in their logical and linguistic facilities, but in their other mental facilities as well.
+
+In talks, people are more inhibited and more formal. Mathematical audiences are often not very good at
+asking the questions that are on most people’s minds, and speakers often have an unrealistic preset 
+outline that inhibits them from addressing questions even when they are asked. In papers, people are
+still more formal. Writers translate their ideas into symbols and logic, and readers try to translate 
+back.
+
+People familiar with ways of doing things in a subfield recognize various patterns of statements or 
+formulas as idioms or circumlocution for certain concepts or mental images. But to people not already 
+familiar with what’s going on the same patterns are not very illuminating; they are often even 
+misleading. The language is not alive except to those who use it.
+```
+
+Back to Greg:
+
+```markdown
+Related is the question of rewards. It’s rewarding to publish a paper (career) or book (fame), and 
+it’s rewarding to talk to other people (see MathOverflow). There is no reward associated with a tricki
+article, also because the appreciation by a reader happens at a different time than when the article 
+is written.
+
+However, I think there is room for the Tricki as a “MathOverflow for intuition questions”. The idea is
+that a Tricki article could be initiated as a discussion between people and then transformed into a
+proper article by volunteers. By the way, this is how the community wiki feature of StackOverflow/
+MathOverflow was originally supposed to work. I think it’s still possible to do that, albeit with a 
+software that encourages the corresponding behavior better than MathOverlfow currently does.
+
+Again, note that building such software and community is a very hardproblem! A simple wiki software
+probably won’t cut it, simply because it doesn’t encourage the right behavior. To get an impression of
+its hardness, remember that Wikipedia’s success could not have been planned, it was just the fittest to
+survive, and that MathOverflow didn’t get the community wiki thing right either. This is not intended to
+discourage, I’d just like to point out that a successful Tricki probably needs more cleverness than is 
+apparent at first.
+```
+
+Xamuel notes that “you almost have to already know what trick you need before you can search for it”:
+
+```markdown
+Take for example the problem “Prove every vector space has a basis”. If you don’t already know how
+to do it, you aren’t likely to know to search for keywords like “make something maximal”, “extend
+something one thing at a time”, much less “Zorn’s Lemma”.
+
+If I were designing the Tricki, I would set it up like this. There would be articles for individual
+problems, and articles about techniques. The former would link to the latter. I would then fill it up
+with as many “stock” problems (mostly from undergrad math) as I could. Essentially it would be like 
+[Example Problems](http://exampleproblems.com/), except, instead of just giving the solutions, it would link to the pages for the 
+techniques used in the solution. As the number of problems grew, this would be much more efficient
+than ultimately writing the same techniques over and over and over (which is what you’d do if you took
+an Example Problems site to its logical conclusion).
+
+So for example it would have a page “Prove every vector space has a basis” which would in turn link to
+“How to use Zorn’s Lemma” as well as maybe “Partially ordering sets by inclusion”, and any other 
+technique pages that might be relevant.
+```
+
+Terry Tao notes that MO takes advantage of [Metcalfe’s law](http://en.wikipedia.org/wiki/Metcalfe's_law), whereas the Tricki doesn’t:
+
+```markdown
+If N people ask questions and N people read [MO] to answer questions, there are O(N^2) opportunities 
+for a question to be answered.
+
+In contrast, to write a Tricki article, one of N people must come up with the idea and then write at 
+least a stub article, and so there are only about O(N) opportunities for such an article to be created.
+```
+
+Gowers notes that MO can help Tricki:
+
+```markdown
+One of the difficulties in writing a Tricki article is that it can be hard to think of examples. 
+For example (!) I know that the trick of making something easier by generalizing it is frequently
+useful. But if I try to think of a good example my mind goes a bit blank, which is part of the reason
+I have not written such an article.
+
+However, the job has just got easier: if I post a big-list question on MO asking for good examples of
+this technique, I can be pretty sure of getting some excellent ones. Then I can base an article on
+people’s answers and include a link to the MO discussion (partly to credit people with their help, and
+partly because the discussion will be different and will therefore offer more than the Tricki article
+on its own).
+```
+
+Vipul Naik contends that what the Tricki needed was at least a handful of super-passionate contributors, probably in the vein of [r/slatestarcodex - Most of What You Read on the Internet is Written by Insane People](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/):
+
+```markdown
+I think there’s a general perception here that what needs to be done is get a large number of 
+contributors. But I think that at this stage, if the Tricki needs to grow, it needs just 2-5 very 
+passionate contributors, who agitate day and night about continually improving the organisation, 
+adding new articles, etc. Large numbers of diffused contributions could take over at a later stage,
+but they won’t do the trick at this stage.
+
+For instance, the psychology wiki here: http://psychology.wikia.com/wiki... was written almost 
+completely by one person at least for the first few years — now there are contributions from large
+numbers of people.
+
+The story is a little different with something like Math Overflow, because it is not primarily an 
+information corpus as a place to ask and answer questions. But even there, it is the dedicated few 
+who monitor the site who made sure that it took off. The need for that “dedicated few” in the case 
+of the Tricki would be substantially more.
+```
+
+Commenter probable trickipedian mentions non-academic mathematicians as potential contributors, due to their specialized domain knowledge:
+
+```markdown
+One likely source of Tricki contributors – not for deep mathematics, but useful applied math “tricks”
+– would be people who use mathematics for our research, but are not necessarily academic mathematicians.
+For instance, I have (over the years) built a collection of definite integrals not found in standard 
+“tables of integrals”; because they occur in (my) somewhat obscure research area, they are generally 
+unknown outside it.
+
+I (obviously) cannot publish such work in the journals of my discipline, and the techniques are too 
+classical and elementary to constitute modern mathematics research, but it would be nice if I could 
+post them on a well-trafficked public venue and someone else found it useful. I could supply (weak) 
+proofs or justifications for them and have verified them to the best of my abilities, though the proofs
+would certainly not meet the standards of rigor required by pure mathematicians. If a mathematician
+could ‘vet’ them, I would be pleased to get a login and contribute.
+```
+
+Phi. Isett argues that the Tricki could be enhanced by integrating it with online, publicly-written math books:
+
+```markdown
+For example, usually a textbook will use a well-known and common trick at some stage in a proof, but 
+will rarely have the opportunity to give much insight into the trick itself, its origins, its limits,
+alternative methods, etc. All too often, the first time you see a trick, it is also much more complicated
+than the most basic example of its use, which makes it harder to digest. Imagine you learned the Fourier
+transform before you ever diagonalized a matrix… You might not know why it has certain magical properties
+when it comes to translations and differentiation — in any event, it’s useful to understand that 
+diagonalizing commuting operators is a truly general trick.
+
+Often the trick appears as an ingenious technical detail in a proof. For example: the proof of Sard’s 
+theorem uses this trick you might call “decomposing the total change into small changes”. ...You may 
+recognize this trick from a proof of the Fundamental Theorem of Calculus, but maybe you didn’t see it
+coming. Or you might find it enlightening to see the same trick in other contexts and in a much more 
+general light. If you can link to the Tricki, then the individual techniques can be explored separately
+and generally without disturbing the flow of the exposition.
+```
+
+<a name="#asking-the-right-question"></a>
 ### Asking the right question
 ([overview](#overview))
 
