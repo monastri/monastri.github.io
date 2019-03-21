@@ -1,12 +1,28 @@
-I like a lot of quotes. 
+## What is this?
+
+This is a "living document", a "perpetual draft" in [the style of Gwern](https://www.gwern.net/About#long-content). I'm particulary taken by the following quote: 
+
+```markdown
+I have read blogs for many years and most blog posts are the triumph of the hare over the tortoise. They are meant to be read by a few people on a weekday in 2004 and never again, and are quickly abandoned—and perhaps as Assange says, not a moment too soon. (But isn’t that sad? Isn’t it a terrible ROI for one’s time?) On the other hand, the best blogs always seem to be building something: they are rough drafts—works in progress. (EY's early contributions to LW is an example; Robin Hanson's OB blog is the *anti*-example.) 
+
+I did not wish to write a blog. Then what? More than just “evergreen content”, what would constitute Long Content as opposed to the existing culture of Short Content? How does one live in a Long Now sort of way?
+
+My answer is that one uses such a framework to work on projects that are too big to work on normally or too tedious. ...Knowing your site will survive for decades to come gives you the mental wherewithal to tackle long-term tasks like gathering information for years, and such persistence can be useful -- if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like a genius himself. Half the challenge of fighting procrastination is the pain of starting—I find when I actually get into the swing of working on even dull tasks, it’s not so bad. 
+
+So this suggests a solution: never start. Merely have perpetual drafts, which one tweaks from time to time. And the rest takes care of itself.
+```
+
+This is my first experiment in that vein. The quotes here have been collected over more than half a decade, albeit in different pages. I intend for them to shape my worldview; doing so like this allows, or so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping.
 
 <a name="#overview"></a>
 
 ## Overview
 
-I've sorted the quotes below into the following provisional categories:
+I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring.
 
-1. [Political science and public policy](#political-science)
+1. [Artificial intelligence](#artificial-intelligence)
+   1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
+2. [Political science and public policy](#political-science)
    1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
 2. [Research and academia](#research-and-academia)
    1. [Research in industry](#research-in-industry)
@@ -38,7 +54,59 @@ I've sorted the quotes below into the following provisional categories:
    1. [LOGI](#logi)
 2. [Miscellaneous](#miscellaneous)
 
-Have fun reading them! I certainly did.
+<a name="#artificial-intelligence"></a>
+## Artificial intelligence
+([overview](#overview))
+
+<a name="#replacing-humans-at-every-step-of-the-economic-chain"></a>
+### Replacing humans at every step of the economic chain
+([overview](#overview)
+
+Scott Alexander’s [Book Review: Age of Em](https://slatestarcodex.com/2016/05/28/book-review-age-of-em/) has a cute little throwaway thought experiment/short story I find myself grasping for a few times already in the last several years. Every time I’ve had to dig around for a while because I keep thinking it’s in the 15,000-word Moloch post, or the ones with Bostrom’s “Disneyland with no children”, but it’s not, it’s in Scott’s review of Robin Hanson’s book. This shouldn’t be surprising since Scott and Robin’s opinions are diametrically opposed when it comes to the latter’s em-run-possible-future, which is the whole motivation behind the thought experiment, but somehow I keep forgetting. So I’m recording it here for my own future reference:
+
+```markdown
+Imagine a company that manufactures batteries for electric cars. The inventor of the batteries 
+might be a scientist who really believes in the power of technology to improve the human race. 
+The workers who help build the batteries might just be trying to earn money to support their 
+families. The CEO might be running the business because he wants to buy a really big yacht. And 
+the whole thing is there to eventually, somewhere down the line, let a suburban mom buy a car to
+take her kid to soccer practice. Like most companies the battery-making company is primarily a 
+profit-making operation, but the profit-making-ness draws on a lot of not-purely-economic actors
+and their not-purely-economic subgoals.
+
+Now imagine the company fires all its employees and replaces them with robots. It fires the
+inventor and replaces him with a genetic algorithm that optimizes battery design. It fires the
+CEO and replaces him with a superintelligent business-running algorithm. All of these are good
+decisions, from a profitability perspective. We can absolutely imagine a profit-driven shareholder-
+value-maximizing company doing all these things. But it reduces the company’s non-masturbatory 
+participation in an economy that points outside itself, limits it to just a tenuous connection 
+with soccer moms and maybe some shareholders who want yachts of their own.
+
+Now take it further. Imagine there are no human shareholders who want yachts, just banks who lend 
+the company money in order to increase their own value. And imagine there are no soccer moms anymore;
+the company makes batteries for the trucks that ship raw materials from place to place. Every 
+non-economic goal has been stripped away from the company; it’s just an appendage of Global 
+Development.
+
+Now take it even further, and imagine this is what’s happened everywhere. There are no humans 
+left; it isn’t economically efficient to continue having humans. Algorithm-run banks lend money 
+to algorithm-run companies that produce goods for other algorithm-run companies and so on ad 
+infinitum. Such a masturbatory economy would have all the signs of economic growth we have today.
+It could build itself new mines to create raw materials, construct new roads and railways to
+transport them, build huge factories to manufacture them into robots, then sell the robots to 
+whatever companies need more robot workers. It might even eventually invent space travel to reach
+new worlds full of raw materials. Maybe it would develop powerful militaries to conquer alien 
+worlds and steal their technological secrets that could increase efficiency. It would be vast, 
+incredibly efficient, and utterly pointless. The real-life incarnation of those strategy games
+where you mine Resources to build new Weapons to conquer new Territories from which you mine 
+more Resources and so on forever.
+
+But this seems to me the natural end of the economic system. Right now it needs humans only as
+laborers, investors, and consumers. But robot laborers are potentially more efficient, companies
+based around algorithmic trading are already pushing out human investors, and most consumers 
+already aren’t individuals – they’re companies and governments and organizations. At each step 
+you can gain efficiency by eliminating humans, until finally humans aren’t involved anywhere.
+```
 
 <a name="#political-science"></a>
 ## Political science
@@ -300,7 +368,6 @@ For the record: this is my own opinion and not that of any of my current or prev
 ```
 
 <a name="#why-academic-writing-sucks"></a>
-
 ### Why academic writing sucks
 ([overview](#overview))
 
@@ -496,7 +563,6 @@ thinking of structure ….") consist almost entirely of metaconcepts.
 ```
 
 <a name="#research-tactics"></a>
-
 ### Research tactics
 ([overview](#overview))
 
@@ -687,7 +753,6 @@ Don't be too easily satisfied with cluster thinking.
 ```
 
 <a name="#research-mindset"></a>
-
 ### Research mindset
 ([overview](#overview))
 
@@ -718,7 +783,6 @@ about questions like average well-being, or the real trade-off between burnout a
 ```
 
 <a name="#distillation-and-research-debt"></a>
-
 ### Distillation and research debt
 ([overview](#overview))
 
@@ -853,12 +917,10 @@ proofs of key theorems.
 ```
 
 <a name="#erisology"></a>
-
 ## Erisology
 ([overview](#overview))
 
 <a name="#argumentative-charity"></a>
-
 ### Argumentative charity
 ([overview](#overview))
 
@@ -909,12 +971,10 @@ stupid position into the nearest intelligent position and then seeing what you c
 ```
 
 <a name="#teaching-and-learning"></a>
-
 ## Teaching and learning
 ([overview](#overview))
 
 <a name="#errors-vs-bugs"></a>
-
 ## Errors vs bugs
 ([overview](#overview))
 
@@ -962,7 +1022,6 @@ It's not you, it's the bug.
 The rest of the linked article is _fantastic_. I had trouble quoting it because I felt like quoting everything.
 
 <a name="#polymathy"></a>
-
 ### Polymathy
 ([overview](#overview))
 
@@ -1062,7 +1121,6 @@ a field you know something about.
 ```
 
 <a name="#psychology"></a>
-
 ## Psychology
 ([overview](#overview))
 
@@ -1105,12 +1163,10 @@ explanation for exactly the opposite finding.
 ```
 
 <a name="#philosophy"></a>
-
 ## Philosophy
 ([overview](#overview))
 
 <a name="#general-philosophy"></a>
-
 ### General philosophy
 ([overview](#overview))
 
@@ -1183,7 +1239,6 @@ need to do, what theorems one would need to prove, etc.
 ```
 
 <a name="#diseased-philosophy"></a>
-
 ### Diseased philosophy
 ([overview](#overview))
 
@@ -1241,7 +1296,6 @@ concept than a pure and philosophical sort of identity that nothing has.
 ```
 
 <a name="#morality"></a>
-
 ### Morality
 ([overview](#overview))
 
@@ -1356,7 +1410,6 @@ my friend, and f@$k whatever social trust or community cohesion would be lost by
 ```
 
 <a name="#slack-and-deliberate-mediocrity"></a>
-
 ### Slack and deliberate mediocrity
 ([overview](#overview))
 
@@ -1579,12 +1632,10 @@ follows very closely on identifying product-market fit as an existential challen
 ```
 
 <a name="#statistics"></a>
-
 ## Statistics
 ([overview](#overview))
 
 <a name="#general-stats"></a>
-
 ### General stats
 ([overview](#overview))
 
@@ -1674,7 +1725,6 @@ the last --- *defines* a reliable way of learning from data.
 ```
 
 <a name="#statistical-literacy"></a>
-
 ### Statistical literacy
 ([overview](#overview))
 
