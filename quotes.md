@@ -33,7 +33,9 @@ This is my first experiment in that vein. The quotes here have been collected ov
 
 I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring.
 
-1. [Feelings](#feelings)
+1. [Computer science](#computer-science)
+   1. [Practical magic](#practical-magic)
+2. [Feelings](#feelings)
    1. [Love](#love)
 2. [Biology](#biology)
    1. [Evolution](#evolution)
@@ -75,6 +77,180 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
 2. [Miscellaneous](#miscellaneous)
+
+<a name="#computer-science"></a>
+## Computer science
+([overview](#overview))
+
+<a name="#practical-magic"></a>
+### Practical magic
+([overview](#overview))
+
+From Steve Yegge's post [Practical magic](https://sites.google.com/site/steveyegge2/practical-magic):
+
+```markdown
+I wrestle with the whole abstraction question, and I'm still not sure where a good engineer these
+days should draw the line — the one below which it's all just magic.
+
+We all have that line somewhere; I encountered mine in school, back in my semiconductors course. 
+We were (ostensibly) learning how semiconductors work, but it was perfectly clear to me that this
+was just magic, and I was never going to understand it — in part, because I didn't want to make 
+what was clearly going to be a HUGE effort to get it. There was all this crap about K-spaces and 
+lattices and who knows what else. Maybe they'd listed the prerequisites wrong, but I did not have
+the math foundations to understand what was going on. ...
+
+It took me an extra year, but I finished in CS instead of CE, which allowed me to conveniently 
+pretend that computer hardware, starting somewhere down at the level of the doping barrier in a 
+silicon semiconductor, is just pure magic. Parts of the hardware above that level are still a little
+murky, but I have a pretty good idea how computers can be made by assembling successively larger 
+components together from smaller ones. Given time and a gun to my head, I could probably start with
+any set of smaller components and derive how to build higher-level abstractions: transistors into 
+logic gates, logic gates into larger assemblies that do arithmetic and boolean computing, those into 
+state machines and ALUs, and so on. I'd suck at it, but I get the general idea, so it's not really 
+"magic".
+
+It's magic when you have absolutely no frigging clue how it works, not the first clue. It just works. 
+That's how it is for me and semiconductors.
+```
+
+Steve says he's okay with that:
+
+```markdown
+I'm OK with treating semiconductors as "atoms" (or axioms, anyway) in our little programming universe
+. Chips are like molecules, CPUs are compounds, and Von Neumann machines can be bricks and mortar.
+Well, I'm sure you could come up with a way better metaphor. Whatever.
+
+The point is, the computers and networks and power supplies and so on are all amazingly complex under
+the hood, but usually I can just pretend they work a certain way, and not worry about how, any more
+than I have to worry about my Amazing Eye in order to pour myself another glass of fine wine, which
+I will doubtless use to polish my keyboard if I don't finish this blog entry soon.
+```
+
+What he's not sure about is when magic itself is okay to a developer:
+
+```markdown
+I don't know. I'd really LIKE to know. I'm constantly trying to find better abstractions for my 
+everyday work as a programmer. You can't build large systems without having some fairly bulletproof 
+abstractions to build on. If you're building an e-commerce system, for instance, you need a 
+transactional data store, and you rely on the semantics of transactionality when you're coding; if 
+you don't, you'll wind up with all this crap in your code that tries to fake transactions.
+
+I'm comfortable relying on certain abstractions working for me — for instance, if I compile with
+optimizations turned on, I know the compiler won't discard correctness in favor of performance, or 
+if it does do that, it'll be documented so I know I shouldn't use that flag. Compiler optimization 
+can be treated like a black box of sorts: I turn it on and see if performance seems any better, but
+I don't expect to need to re-test all my loops to make sure the variables are all still being adjusted 
+in the same order as before.
+
+What I'm NOT sure about is where I'm allowed to forget how things work, or never know in the first 
+place, and start getting by with incantations that seem to work.
+
+For instance, I know that I can type 'ls' in a shell to get a directory listing. How much do I have
+to really know about how unix 'ls' works in order to be an effective developer? 
+```
+
+He sees two arguments for this (actually three) — "so cleanly divided in opinion, in fact, that I can picture which of my friends are marching directly into one camp or the other right now":
+
+```markdown
+One argument is that you DO need to know a lot about how 'ls' works, because there are all sorts of
+situations in which it can fail, and you'll need to figure out how to fix it. It could simply not 
+show up ("command not found", say), or it could stop working on certain of my directories, or it could
+crash every once in a while instead of producing a directory listing, or it could go on a rampage and 
+start deleting files. I think I've seen all of these happen with 'ls' in my time, even the last one,
+when my linux filesystem was corrupted.
+
+Another argument is that you DO NOT need to know much about how 'ls' works. Probably all you need to
+know is that it's a unix command-line tool, a binary that was compiled for your OS, probably written 
+in C, that it lives in a standard place in the filesystem, and that standard binary locations are 
+looked up in an environment variable called PATH. But you don't need to know how it traverses the 
+filesystem inode entries, or whether it's a statically or dynamically linked version of 'ls', or
+whatever else there is to know about 'ls'.
+
+The second camp argues that software development is a community effort, and your community should have
+a Unix Guy Or Gal who knows all the ins and outs of how lses and diffs and their ilk work. A sort of 
+tribal shaman who you go to, and desperately plead with: please help me! There's a bug in qsort! The 
+shaman frowns at your screen, and pokes and prods things a bit, and announces that your pilfer grommit
+is no longer connected to your weasel pins, and that the easiest fix is to reinstall the OS.
+
+A third, possibly even more abstract camp, would argue that 'ls' is way too complicated, and that you
+should be developing on systems in which everything is managed by navigating menus and waiting for your
+Auto Updater to tell you that a new Service Pak is available for download. And for all I know, they 
+might be right. I have no idea how Exchange works, for example, and yet I trust it with my email every
+day. When it's broken, I put in Stupid Remedy Tickets saying I haven't received email in 10 days, and
+I don't feel the least bad about that, since it's not my responsibility; I made all the right incantations,
+and spilled all the right wine, and by golly, I'm not getting email anymore.
+
+The second and third camps want to use J2EE, and they recount with some pride how they've managed just
+fine for years without ever having had to learn a scripting language, or become proficient with some
+cryptic unix editor, or any of that arcane crapola. They didn't see any need, because they were off
+building the FrooSingletonManager service, and it's all finished now, while I'm still mucking around
+with my broken 'ls' command.
+
+Moreover, many of them say they don't see any need to know how to implement an n log(n) sorting algorithm,
+because the damn things are already provided in libraries for every platform in the universe, including 
+programming languages that are deader than Latin or Sanskrit.
+
+And you know, I wonder sometimes whether they're right.
+```
+
+Steve straddles both camps:
+
+```markdown
+One the one hand, I think nobody in their right mind would try to write a gigantic system in C++ now that
+Java has become an obviously far superior way to build large systems. You can argue that in C++ you really 
+have to know what you're doing, or that you love the smell of freshly-brewn pointer arithmetic in the early
+morning, or whatever the hell you like about C++. I'm not arguing that you LIKE it — I know you do. I liked
+assembly language when I was using it daily. I'm just saying that the game has moved on, and if you're using
+C++ to build large systems because you like C++, it's like competing in the Indy 500 with your 1980 5.8-liter
+Pontiac Firebird. It gets you around, and it's fun to tinker with, which is good 'cause it breaks down all the
+time, but you're not going to win any world championships with it.
+
+On the OTHER hand (remember, we were just on the one back there), I think nobody in their right mind would 
+write a huge system in Java without first knowing how the whole thing is implemented, under the covers, in C++
+and (below that) assembly language. As of today, anyway, I don't believe the JVM is allowed to be on the "it's
+magic" side of the line. And as for J2EE, which provides so much abstraction that you can snap together an 
+enterprise architecture with it after one or two introductory programming courses, it's WAY too much magic. 
+I definitely think that (as of today) if your Magic Line stops at the J2EE framework APIs and the Java 
+Programming Language, then you're a wuss.
+```
+
+But these two views are mutually inconsistent! Steve:
+
+```markdown
+1. using abstraction makes you MORE effective, because to build large, interesting things in any 
+reasonable amount of time, you need to work with high-level abstractions and be able to assume that
+they work as advertised.
+
+This part of me believes that someday we'll be programming in purely declarative languages, telling the
+computer what to do, and letting it figure out how.
+
+2. relying too much on abstraction makes you LESS effective, because you're unable to cope when your 
+framework isn't working right, or when you're trying to do something with it that it wasn't designed
+for, or whatever.
+
+This part of me believes that my other belief is on crack if it thinks it'll happen during my lifetime.
+```
+
+Honestly I feel #2 very keenly with Python. It's so ridiculously high-level that stuff is either trivial to do in it or nigh-impossible and requires magic incantations.
+
+Steve's current compromise is "know thy abstractions":
+
+```markdown
+1. you know more or less how it works; i.e. what other abstractions it's built on top of, and approximately
+how it was built.
+
+2. you know where the abstraction leaks: i.e. what the gotchas are, failure modes, what the most common
+incantations are to get it working again.
+
+3. You need at least SOME level of tv-repairman ability for the things you use — you should be able to 
+install any of the software you rely on, for instance. Or you should have a plausible backup plan handy 
+if you need to throw this abstraction away and use another one.
+
+4. you need to be able to reason about the performance characteristics of the abstraction, and understand
+how its performance and reliability degrade as you put pressure on it.
+
+5. you know where to look, or who to ask, if it doesn't seem to be working.
+```
 
 <a name="#feelings"></a>
 ## Feelings
