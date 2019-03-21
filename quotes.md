@@ -43,7 +43,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Tactics and advice](#research-tactics)
    2. [Mindset](#research-mindset)
    2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
-2. [Erisology](#erisology)
+2. [Erisology: the study of disagreement](#erisology)
    1. [Argumentative charity](#argumentative-charity)
 2. [Teaching and learning](#teaching-and-learning)
    1. [Errors vs bugs](#errors-vs-bugs)
@@ -932,6 +932,96 @@ proofs of key theorems.
 <a name="#erisology"></a>
 ## Erisology
 ([overview](#overview))
+
+From John Nerst's [What is erisology?](https://everythingstudies.com/what-is-erisology/), the founding document of the discipline:
+
+```markdown
+“Disagreement” can mean many things, but this is what I have in mind: A lot of online discourse
+is hostile and often needlessly adversarial (I trust no one needs to be convinced of this). 
+Specifically, a lot of this disagreement is dysfunctional, by which I mean that it results from 
+(or is exacerbated by) one or both of the parties, intentionally or unintentionally, misunderstanding
+the other party’s position or the nature of their differences. ...
+
+Erisology is the study of this dysfunction and, theoretically, the attempt to fix some of it by
+making people more aware of how it happens and how it doesn’t always need to happen. 
+
+...a lot of different research paradigms and philosophical frameworks are in play when people talk
+about anything even remotely abstract and/or ambiguous. And behind disagreement on even the most
+concrete things there is often one or several undissolved philosophical issues being discussed by 
+proxy, and at the same time the discussion process itself is disturbed by all kinds of corrupting
+psychological and social influences.
+
+An erisology research program would try to integrate basic insights and models from all these fields.
+It would involve describing and cataloging the kinds of issues that hide under the surface in
+dysfunctional discourse and the processes that make us unaware of them, contributing to the problem.
+Ultimately and hypothetically the goal would be to improve discourse by creating and spreading ideas
+and mental tools that work to defuse unnecessary conflict before it occurs, as well as clarify
+necessary conflict so we know what it’s really about.
+```
+
+Erisology would necessarily be cross-discplinary, which is music to my ears. A sample:
+
+```markdown
+The study of cognitive biases and how they affect our thinking, breaking it in particular predictable
+ways.
+
+Traditional philosophy and its discussion of the nature of categories, objects and properties; a 
+staggering proportion of online verbal conflict concern, at its core, some variety of the question
+of what category something belongs in. The pitfall here is that people act as though such questions
+have true answers when in most cases they don’t – making it possible for two people to both be right
+while contradicting each other.
+
+Data analysis and its understanding of the relationships between models and data, clusters and 
+categories, axes and properties. Statistical modeling and interpretation issues mirror a lot of the
+problems that arise when people use their own particular experiences to build models of how the world
+works (which later clash with those of others).
+
+Cognitive and perceptual psychology, for insights in how we form concepts in the brain and how they
+affect our perceptions and interpretations of what we see, giving rise to differences between people 
+we have a tough time understanding because they are so fundamental to our mental function they slip 
+out of awareness. Also useful is how attitudes and opinions are sometimes the downstream result of 
+ultimately physiological differences in perception and emotion.
+
+Personality psychology, for differences between people that may create hard-to-comprehend, subconscious 
+divisions.
+
+Poststructuralist theory and its conception of language as being inherently slippery and devoid of 
+ultimate, definitive meaning. Our intuitive blindness to this causes us to misinterpret things other
+people say without realizing it.
+
+Rhetoric, the art of persuasion, is partly useful because it’s a practice more than a science and as
+far as I know lack theory that grounds “what works and what doesn’t” in human psychology.
+
+Anthropology and its examination of how many things we take for granted in our societies are non-obvious
+and somewhat arbitrary.
+
+Literary theory and its treatment of narratives, their interpretation and how they cannot be definitive
+or claim absolute truth.
+
+Epistemology, and how people take for granted different approaches to knowledge. I’m not talking so much
+about explicit differences like “personal revelation vs. scientific study” but more underlying differences
+like the balance between personal experience and statistics, empirical data vs. theoretical considerations.
+These differences are sometimes discussed but are present as an important factor in way more contexts than
+they are explicitly talked about.
+
+Sociology and history and their theories of social construction, which are very useful when not overstated
+and used as a political bludgeon. They also have valuable insights about how the design of technology and 
+institutions shape behavior.
+
+Evolutionary psychology and social instincts, especially those related to intra- and intergroup conflict 
+like argumentation, rivalry, social status, identity and dehumanization. An important aspect here is also
+recognizing that modern large-scale societies is an extremely unnatural social structure for humans and
+this gives rise to all kinds of weird effects.
+
+Computer science, specifically insights from attempts to create artificial intelligence and the
+difficulties of modeling human concepts. Writing software also give you good habits, since it often makes
+you understand that accurately modeling reality is way more complicated that you first thought.
+
+Not the purview of any particular field, but understanding reductionism and its discontents are important
+to a lot of erisology covering the often disappointing interactions between academic disciplines. 
+Differing attitudes to reductionism vs. inherent semantics makes people find different kinds of explanations
+satisfactory.
+```
 
 <a name="#argumentative-charity"></a>
 ### Argumentative charity
