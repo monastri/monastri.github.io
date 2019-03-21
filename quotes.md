@@ -33,7 +33,11 @@ This is my first experiment in that vein. The quotes here have been collected ov
 
 I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring.
 
-1. [Artificial intelligence](#artificial-intelligence)
+1. [Biology](#biology)
+   1. [Evolution](#evolution)
+   2. [Animals are not like us](#animals-are-not-like-us)
+   2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
+2. [Artificial intelligence](#artificial-intelligence)
    1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
 2. [Political science and public policy](#political-science)
    1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
@@ -67,6 +71,199 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
 2. [Miscellaneous](#miscellaneous)
+
+<a name="#biology"></a>
+## Biology
+([overview](#overview))
+
+<a name="#evolution"></a>
+### Evolution
+([overview](#overview))
+
+A pretty funny parable from Peter Watts' novel [*Blindsight*](https://rifters.com/real/Blindsight.htm):
+
+```markdown
+In the beginning were the gametes. And though there was sex, lo, there was no gender, and life was in 
+balance.
+
+And God said, "Let there be Sperm": and some seeds did shrivel in size and grow cheap to make, and they 
+did flood the market.
+
+And God said, "Let there be Eggs": and other seeds were afflicted by a plague of Sperm. And yea, few of 
+them bore fruit, for Sperm brought no food for the zygote, and only the largest Eggs could make up the 
+shortfall. And these grew yet larger in the fullness of time.
+
+And God put the Eggs into a womb, and said, "Wait here: for thy bulk has made thee unwieldy, and Sperm 
+must seek thee out in thy chambers. Henceforth shalt thou be fertilized internally." And it was so.
+
+And God said to the gametes, "The fruit of thy fusion may abide in any place and take any shape. It may 
+breathe air or water or the sulphurous muck of hydrothermal vents. But do not forget my one commandment 
+unto you, which has not changed from the beginning of time: spread thy genes."
+
+And thus did Sperm and Egg go into the world. And Sperm said, "I am cheap and plentiful, and if sowed 
+abundantly I will surely fulfill God's plan. I shall forever seek out new mates and then abandon them 
+when they are with child, for there are many wombs and little time."
+
+But Egg said, "Lo, the burden of procreation weighs heavily upon me. I must carry flesh that is but half
+mine, gestate and feed it even when it leaves my chamber" (for by now many of Egg's bodies were warm of 
+blood, and furry besides). "I can have but few children, and must devote myself to those, and protect them 
+at every turn. And I will make Sperm help me, for he got me into this. And though he doth struggle at my 
+side, I shall not let him stray, nor lie with my competitors."
+
+And Sperm liked this not.
+
+And God smiled, for Its commandment had put Sperm and Egg at war with each other, even unto the day they 
+made themselves obsolete.
+```
+
+On evolution vs deliberative design (“intelligent design” would be preferable if it weren’t already so loaded), featuring a notion new to me — the “evolution of evolvability” (Wagner and Altenberg 1996), from Eliezer Yudkowsky's paper [LOGI](https://intelligence.org/files/LOGI.pdf):
+
+```markdown
+There is a fundamental rift between evolutionary design and deliberative design. From the perspective of a 
+deliberative intelligence—a human, for instance—evolution is the degenerate case of design-and-test where 
+intelligence equals zero. Mutations are atomic; recombinations are random; changes are made on the genotype’s 
+lowest level of organization (flipping genetic bits); the grain size of the component tested is the whole 
+organism; and the goodness metric operates solely through induction on historically encountered cases, without 
+deductive reasoning about which contextual factors may later change.
+
+The evolution of evolvability (Wagner and Altenberg 1996) improves this picture somewhat. There is a tendency 
+for low-level genetic bits to exert control over highlevel complexity, so that changes to those genes can 
+create high-level changes. Blind selection pressures can create self-wiring and self-repairing systems that 
+turn out to be highly evolvable because of their ability to phenotypically adapt to genotypical changes.
+
+Evolution never refactors its code. It is far easier for evolution to stumble over a thousand individual 
+optimizations than for evolution to stumble over two simultaneous changes which are together beneficial and 
+separately harmful. The genetic code that specifies the mapping between codons (a codon is three DNA bases) and 
+the 20 amino acids is inefficient; it maps 64 possible codons to 20 amino acids plus the stop code. Why hasn’t 
+evolution shifted one of the currently redundant codons to a new amino acid, thus expanding the range of possible 
+proteins? Because for any complex organism, the smallest change to the behavior of DNA—the lowest level of genetic 
+organization— would destroy virtually all higher levels of adaptive complexity, unless the change were accompanied 
+by millions of other simultaneous changes throughout the genome to shift every suddenly-nonstandard codon to one 
+of its former equivalents. Evolution simply cannot handle simultaneous dependencies, unless individual changes can 
+be deployed incrementally, or multiple phenotypical effects occur as the consequence of a single genetic change. 
+For humans, planning coordinated changes is routine; for evolution, impossible. Evolution is hit with an enormous 
+discount rate when exchanging the paper currency of incremental optimization for the hard coin of complex design.
+```
+
+On the evolution of complex adaptations in general, and of intelligence in particular:
+
+```markdown
+A new adaptation requiring the presence of a previous adaptation cannot spread unless the prerequisite 
+adaptation is present in the genetic environment with sufficient statistical regularity to make the new 
+adaptation a recurring evolutionary advantage. Evolution uses existing genetic complexity to build new genetic 
+complexity, but evolution exhibits no foresight. Evolution does not construct genetic complexity unless it 
+is an immediate advantage, and this is a fundamental constraint on accounts of the evolution of complex systems.
+
+Complex functional adaptations—adaptations that require multiple genetic features to build a complex 
+interdependent system in the phenotype—are usually, and necessarily, universal within a species. Independent 
+variance in each of the genes making up a complex interdependent system would quickly reduce to insignificance 
+the probability of any phenotype possessing a full functioning system. To give an example in a simplified world, 
+if independent genes for “retina,” “lens,” “cornea,” “iris,” and “optic nerve” each had an independent 20% 
+frequency in the genetic population, the random-chance probability of any individual being born with a complete 
+eyeball would be 3125:1.
+
+…Because evolution lacks foresight, complex functions cannot evolve unless their prerequisites are evolutionary 
+advantages for other reasons. The human evolutionary line did not evolve toward general intelligence; rather, 
+the hominid line evolved smarter and more complex systems that lacked general intelligence, until finally the 
+cumulative store of existing complexity contained all the tools and subsystems needed for evolution to stumble 
+across general intelligence. Even this is too anthropocentric; we should say rather that primate evolution 
+stumbled across a fitness gradient whose path includes the subspecies Homo sapiens sapiens, which subspecies 
+exhibits one particular kind of general intelligence.
+```
+
+For more on intelligence in LOGI see [here](#logi).
+
+<a name="#animals-are-not-like-us"></a>
+### Animals are not like us
+([overview](#overview))
+
+An example of so-called "interocular transfer" from Daniel Dennett in a rabbit:
+
+```markdown
+What is it like to be a rabbit? Well you may think that it’s obvious that rabbits have an inner life
+that’s something like ours.
+
+Well, it turns out that if you put a patch over a rabbit’s left eye and train it in a particular 
+circumstance to be (say) afraid of something, and then you move the patch to the right eye, so that… the
+very same circumstance that it has been trained to be afraid of (is now) coming in the other eye, you
+have a naive rabbit (i.e. the rabbit isn’t afraid of the stimulus it had previously learned to be afraid
+of), because in the rabbit brain the connections that are standard in our brains just aren’t there, there
+isn’t that unification.
+
+What is it like to be which rabbit? The rabbit on the left, or the rabbit on the right? The disunity in a
+rabbit’s brain is stunning when you think about it….
+```
+
+<a name="#why-we-are-trichromats"></a>
+## Why we are trichromats
+([overview](#overview))
+
+Why are we trichromats, and not (say) tetrachromats like mantis shrimp? I honestly thought this was one of those unanswerable anthropic-style questions, so it was pretty surprising to find a naturalistic non-anthropic-flavored explanation. This quote comes from Eliezer Yudkowsky's paper [LOGI](https://intelligence.org/files/LOGI.pdf):
+
+```markdown
+Among other questions, Roger Shepard’s truly elegant paper “The Perceptual Organization of Colors” seeks to answer 
+the question of trichromancy: Why are there three kinds of cones in the human retina, and not two, or four? Why is 
+human visual perception organized into a three-dimensional color space? Historically, it was often theorized that 
+trichromancy represented an arbitrary compromise between chromatic resolution and spatial resolution; that is, 
+between the number of colors perceived and the grain size of visual resolution. As it turns out, there is a more 
+fundamental reason why three color channels are needed.
+
+To clarify the question, consider that surfaces possess a potentially infinite number of spectral reflectance 
+distributions. We will focus on spectral reflectance distributions, rather than spectral power distributions, 
+because adaptively relevant objects that emit their own light are environmentally rare. Hence the physically 
+constant property of most objects is the spectral reflectance distribution, which combines with the spectral power 
+distribution of light impinging on the object to give rise to the spectral power distribution received by the human 
+eye. The spectral reflectance distribution is defined over the wavelengths from 400 nm to 700 nm (the visible range), 
+and since wavelength is a continuum, the spectral reflectance distribution can theoretically require an unlimited 
+number of quantities to specify. Hence, it is not possible to exactly constrain a spectral reflectance distribution 
+using only three quantities, which is the amount of information transduced by human cones.
+
+The human eye is not capable of discriminating among all physically possible reflecting surfaces. However, it is 
+possible that for “natural” surfaces—surfaces of the kind commonly encountered in the ancestral environment—reflectance 
+for each pure frequency does not vary independently of reflectance for all other frequencies. For example, there might 
+exist some set of basis reflectance functions, such that the reflectance distributions of almost all natural surfaces 
+could be expressed as a weighted sum of the basis vectors. If so, one possible explanation for the trichromancy of 
+human vision would be that three color channels are just enough to perform adequate discrimination in a “natural” color 
+space of limited dimensionality.
+
+The ability to discriminate between all natural surfaces would be the design recommended by the “environmental 
+regularity” philosophy of sensory modalities. The dimensionality of the internal model would mirror the dimensionality 
+of the environment. As it turns out, natural surfaces have spectral reflectance distributions that vary along roughly 
+five to seven dimensions (Maloney 1986). There thus exist natural surfaces that, although appearing to trichromatic 
+viewers as “the same color,” nonetheless possess different spectral reflectance distributions.
+
+Shepard (1992) instead asks how many color channels are needed to ensure that the color we perceive is the same color 
+each time the surface is viewed under different lighting conditions. The amount of ambient light can also potentially 
+vary along an unlimited number of dimensions, and the actual light reaching the eye is the product of the spectral 
+power distribution and the spectral reflectance distribution. A reddish object in bluish light may reflect the same 
+number of photons of each wavelength as a bluish object in reddish light. Similarly, a white object in reddish light 
+may reflect mostly red photons, while the same white object in bluish light may reflect mostly blue photons. And yet 
+the human visual system manages to maintain the property of color constancy; the same object will appear to be the 
+same color under different lighting conditions.
+
+Judd et al. (1964) measured 622 spectral power distributions for natural lighting, under 622 widely varying natural 
+conditions of weather and times of day, and found that variations in natural lighting reduce to three degrees of 
+freedom. Furthermore, these three degrees of freedom bear a close correspondence to the three dimensions of color 
+opponency that were proposed for the human visual system based on experimental examination (Hurvich and Jameson 1957). 
+The three degrees of freedom are:
+
+1. The light-dark variation, which depends on the total light reaching the object.
+
+2. The yellow-blue variation, which depends on whether a surface is illuminated by direct sunlight or is in shade. In 
+shade the surface is illuminated by the Raleigh-scattered blue light of the sky, but is not directly illuminated by the 
+sun. The corresponding yellow extreme occurs when an object is illuminated only by direct sunlight; e.g., if sunlight 
+enters through a small channel and skylight is cut off.
+
+3. The red-green variation, which depends on both the elevation of the sun (how much atmosphere the sun travels through), 
+and the amount of atmospheric water vapor. E.g., illumination by a red sunset versus illumination at midday. Red 
+wavelengths are the wavelengths least scattered by dust and most absorbed by water.
+
+The three color channels of the human visual system are precisely the number of channels needed in order to maintain 
+color constancy under natural lighting conditions.18 Three color channels are not enough to discriminate between all
+natural surface reflectances, but three color channels are the exact number required to compensate for ambient natural 
+lighting and thereby ensure that the same surface is perceptually the “same color” on any two occasions. This 
+simplifies the adaptively important task of recognizing a previously experienced object on future encounters.
+```
 
 <a name="#artificial-intelligence"></a>
 ## Artificial intelligence
@@ -2734,31 +2931,7 @@ ascending tests of ability are formalized as sensory, predictive, decisive, and 
 model and a referent.)
 ```
 
-On the evolution of complex adaptations in general, and of intelligence in particular:
-
-```markdown
-A new adaptation requiring the presence of a previous adaptation cannot spread unless the prerequisite 
-adaptation is present in the genetic environment with sufficient statistical regularity to make the new 
-adaptation a recurring evolutionary advantage. Evolution uses existing genetic complexity to build new genetic 
-complexity, but evolution exhibits no foresight. Evolution does not construct genetic complexity unless it 
-is an immediate advantage, and this is a fundamental constraint on accounts of the evolution of complex systems.
-
-Complex functional adaptations—adaptations that require multiple genetic features to build a complex 
-interdependent system in the phenotype—are usually, and necessarily, universal within a species. Independent 
-variance in each of the genes making up a complex interdependent system would quickly reduce to insignificance 
-the probability of any phenotype possessing a full functioning system. To give an example in a simplified world, 
-if independent genes for “retina,” “lens,” “cornea,” “iris,” and “optic nerve” each had an independent 20% 
-frequency in the genetic population, the random-chance probability of any individual being born with a complete 
-eyeball would be 3125:1.
-
-…Because evolution lacks foresight, complex functions cannot evolve unless their prerequisites are evolutionary 
-advantages for other reasons. The human evolutionary line did not evolve toward general intelligence; rather, 
-the hominid line evolved smarter and more complex systems that lacked general intelligence, until finally the 
-cumulative store of existing complexity contained all the tools and subsystems needed for evolution to stumble 
-across general intelligence. Even this is too anthropocentric; we should say rather that primate evolution 
-stumbled across a fitness gradient whose path includes the subspecies Homo sapiens sapiens, which subspecies 
-exhibits one particular kind of general intelligence.
-```
+For more on the evolution of intelligence in LOGI see [here](#evolution).
 
 On AI being “not like” physics:
 
@@ -2930,102 +3103,6 @@ programmer’s state of mind will probably produce code that is at most a little
 Human thoughts, which are the original source of human-written code, are resilient; the code itself is fragile.
 ```
 
-On why we’re trichromats, and not (say) tetrachromats like mantis shrimp (I honestly thought this was one of those unanswerable anthropic-style questions, so it was pretty surprising to find a naturalistic non-anthropic-flavored explanation):
-
-```markdown
-Among other questions, Roger Shepard’s truly elegant paper “The Perceptual Organization of Colors” seeks to answer 
-the question of trichromancy: Why are there three kinds of cones in the human retina, and not two, or four? Why is 
-human visual perception organized into a three-dimensional color space? Historically, it was often theorized that 
-trichromancy represented an arbitrary compromise between chromatic resolution and spatial resolution; that is, 
-between the number of colors perceived and the grain size of visual resolution. As it turns out, there is a more 
-fundamental reason why three color channels are needed.
-
-To clarify the question, consider that surfaces possess a potentially infinite number of spectral reflectance 
-distributions. We will focus on spectral reflectance distributions, rather than spectral power distributions, 
-because adaptively relevant objects that emit their own light are environmentally rare. Hence the physically 
-constant property of most objects is the spectral reflectance distribution, which combines with the spectral power 
-distribution of light impinging on the object to give rise to the spectral power distribution received by the human 
-eye. The spectral reflectance distribution is defined over the wavelengths from 400 nm to 700 nm (the visible range), 
-and since wavelength is a continuum, the spectral reflectance distribution can theoretically require an unlimited 
-number of quantities to specify. Hence, it is not possible to exactly constrain a spectral reflectance distribution 
-using only three quantities, which is the amount of information transduced by human cones.
-
-The human eye is not capable of discriminating among all physically possible reflecting surfaces. However, it is 
-possible that for “natural” surfaces—surfaces of the kind commonly encountered in the ancestral environment—reflectance 
-for each pure frequency does not vary independently of reflectance for all other frequencies. For example, there might 
-exist some set of basis reflectance functions, such that the reflectance distributions of almost all natural surfaces 
-could be expressed as a weighted sum of the basis vectors. If so, one possible explanation for the trichromancy of 
-human vision would be that three color channels are just enough to perform adequate discrimination in a “natural” color 
-space of limited dimensionality.
-
-The ability to discriminate between all natural surfaces would be the design recommended by the “environmental 
-regularity” philosophy of sensory modalities. The dimensionality of the internal model would mirror the dimensionality 
-of the environment. As it turns out, natural surfaces have spectral reflectance distributions that vary along roughly 
-five to seven dimensions (Maloney 1986). There thus exist natural surfaces that, although appearing to trichromatic 
-viewers as “the same color,” nonetheless possess different spectral reflectance distributions.
-
-Shepard (1992) instead asks how many color channels are needed to ensure that the color we perceive is the same color 
-each time the surface is viewed under different lighting conditions. The amount of ambient light can also potentially 
-vary along an unlimited number of dimensions, and the actual light reaching the eye is the product of the spectral 
-power distribution and the spectral reflectance distribution. A reddish object in bluish light may reflect the same 
-number of photons of each wavelength as a bluish object in reddish light. Similarly, a white object in reddish light 
-may reflect mostly red photons, while the same white object in bluish light may reflect mostly blue photons. And yet 
-the human visual system manages to maintain the property of color constancy; the same object will appear to be the 
-same color under different lighting conditions.
-
-Judd et al. (1964) measured 622 spectral power distributions for natural lighting, under 622 widely varying natural 
-conditions of weather and times of day, and found that variations in natural lighting reduce to three degrees of 
-freedom. Furthermore, these three degrees of freedom bear a close correspondence to the three dimensions of color 
-opponency that were proposed for the human visual system based on experimental examination (Hurvich and Jameson 1957). 
-The three degrees of freedom are:
-
-1. The light-dark variation, which depends on the total light reaching the object.
-
-2. The yellow-blue variation, which depends on whether a surface is illuminated by direct sunlight or is in shade. In 
-shade the surface is illuminated by the Raleigh-scattered blue light of the sky, but is not directly illuminated by the 
-sun. The corresponding yellow extreme occurs when an object is illuminated only by direct sunlight; e.g., if sunlight 
-enters through a small channel and skylight is cut off.
-
-3. The red-green variation, which depends on both the elevation of the sun (how much atmosphere the sun travels through), 
-and the amount of atmospheric water vapor. E.g., illumination by a red sunset versus illumination at midday. Red 
-wavelengths are the wavelengths least scattered by dust and most absorbed by water.
-
-The three color channels of the human visual system are precisely the number of channels needed in order to maintain 
-color constancy under natural lighting conditions.18 Three color channels are not enough to discriminate between all
-natural surface reflectances, but three color channels are the exact number required to compensate for ambient natural 
-lighting and thereby ensure that the same surface is perceptually the “same color” on any two occasions. This 
-simplifies the adaptively important task of recognizing a previously experienced object on future encounters.
-```
-
-On evolution vs deliberative design (“intelligent design” would be preferable if it weren’t already so loaded), featuring a notion new to me — the “evolution of evolvability” (Wagner and Altenberg 1996):
-
-```markdown
-There is a fundamental rift between evolutionary design and deliberative design. From the perspective of a 
-deliberative intelligence—a human, for instance—evolution is the degenerate case of design-and-test where 
-intelligence equals zero. Mutations are atomic; recombinations are random; changes are made on the genotype’s 
-lowest level of organization (flipping genetic bits); the grain size of the component tested is the whole 
-organism; and the goodness metric operates solely through induction on historically encountered cases, without 
-deductive reasoning about which contextual factors may later change.
-
-The evolution of evolvability (Wagner and Altenberg 1996) improves this picture somewhat. There is a tendency 
-for low-level genetic bits to exert control over highlevel complexity, so that changes to those genes can 
-create high-level changes. Blind selection pressures can create self-wiring and self-repairing systems that 
-turn out to be highly evolvable because of their ability to phenotypically adapt to genotypical changes.
-
-Evolution never refactors its code. It is far easier for evolution to stumble over a thousand individual 
-optimizations than for evolution to stumble over two simultaneous changes which are together beneficial and 
-separately harmful. The genetic code that specifies the mapping between codons (a codon is three DNA bases) and 
-the 20 amino acids is inefficient; it maps 64 possible codons to 20 amino acids plus the stop code. Why hasn’t 
-evolution shifted one of the currently redundant codons to a new amino acid, thus expanding the range of possible 
-proteins? Because for any complex organism, the smallest change to the behavior of DNA—the lowest level of genetic 
-organization— would destroy virtually all higher levels of adaptive complexity, unless the change were accompanied 
-by millions of other simultaneous changes throughout the genome to shift every suddenly-nonstandard codon to one 
-of its former equivalents. Evolution simply cannot handle simultaneous dependencies, unless individual changes can 
-be deployed incrementally, or multiple phenotypical effects occur as the consequence of a single genetic change. 
-For humans, planning coordinated changes is routine; for evolution, impossible. Evolution is hit with an enormous 
-discount rate when exchanging the paper currency of incremental optimization for the hard coin of complex design.
-```
-
 <a name="#miscellaneous"></a>
 
 ## Miscellaneous
@@ -3187,42 +3264,6 @@ In fact, people who talk about the infinite value of human life do not live in e
 consume far more than they need to support life. They may well have cigarettes in their drawer and a sports 
 car in the garage. They recognize in their actions, if not in their words, that physical survival is only 
   one value, albeit a very important one, among many.
-```
-
-Peter Watts, *Blindsight*:
-
-```markdown
-In the beginning were the gametes. And though there was sex, lo, there was no gender, and life was in 
-balance.
-
-And God said, "Let there be Sperm": and some seeds did shrivel in size and grow cheap to make, and they 
-did flood the market.
-
-And God said, "Let there be Eggs": and other seeds were afflicted by a plague of Sperm. And yea, few of 
-them bore fruit, for Sperm brought no food for the zygote, and only the largest Eggs could make up the 
-shortfall. And these grew yet larger in the fullness of time.
-
-And God put the Eggs into a womb, and said, "Wait here: for thy bulk has made thee unwieldy, and Sperm 
-must seek thee out in thy chambers. Henceforth shalt thou be fertilized internally." And it was so.
-
-And God said to the gametes, "The fruit of thy fusion may abide in any place and take any shape. It may 
-breathe air or water or the sulphurous muck of hydrothermal vents. But do not forget my one commandment 
-unto you, which has not changed from the beginning of time: spread thy genes."
-
-And thus did Sperm and Egg go into the world. And Sperm said, "I am cheap and plentiful, and if sowed 
-abundantly I will surely fulfill God's plan. I shall forever seek out new mates and then abandon them 
-when they are with child, for there are many wombs and little time."
-
-But Egg said, "Lo, the burden of procreation weighs heavily upon me. I must carry flesh that is but half
-mine, gestate and feed it even when it leaves my chamber" (for by now many of Egg's bodies were warm of 
-blood, and furry besides). "I can have but few children, and must devote myself to those, and protect them 
-at every turn. And I will make Sperm help me, for he got me into this. And though he doth struggle at my 
-side, I shall not let him stray, nor lie with my competitors."
-
-And Sperm liked this not.
-
-And God smiled, for Its commandment had put Sperm and Egg at war with each other, even unto the day they 
-made themselves obsolete.
 ```
 
 From [Oglaf](http://oglaf.com/bugfuck/epilogue/):
