@@ -73,6 +73,10 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Political science and public policy](#political-science)
    1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
 2. [Psychology](#psychology)
+2. [Rationality and postrationality](#rationality-and-postrationality)
+   1. [Signaling](#signaling)
+      1. [X isn't about Y](#x-isnt-about-y)
+      2. [Countersignaling](#countersignaling), including metacontrarianism
 2. [Research and academia](#research-and-academia)
    1. [Research in industry](#research-in-industry)
    2. [Why academic writing sucks](#why-academic-writing-sucks)
@@ -89,6 +93,190 @@ I've sorted the quotes below into the following categories. This is a provisiona
    1. [Errors vs bugs](#errors-vs-bugs)
    2. [Polymathy](#polymathy)
 2. [Miscellaneous](#miscellaneous)
+
+<a name="#rationality-and-postrationality"></a>
+## Rationality and postrationality
+([overview](#overview))
+
+<a name="#signaling"></a>
+### Signaling
+([overview](#overview))
+
+<a name="#x-isnt-about-y"></a>
+### X isn't about Y
+([overview](#overview))
+
+The founding document for this slogan is Robin Hanson's post [Politics isn't about policy](https://www.overcomingbias.com/2008/09/politics-isnt-a.html). 
+
+Main thesis:
+
+```markdown
+Food isn’t about Nutrition
+Clothes aren’t about Comfort
+Bedrooms aren’t about Sleep
+Marriage isn’t about Romance
+Talk isn’t about Info
+Laughter isn’t about Jokes
+Charity isn’t about Helping
+Church isn’t about God
+Art isn’t about Insight
+Medicine isn’t about Health
+Consulting isn’t about Advice
+School isn’t about Learning
+Research isn’t about Progress
+Politics isn’t about Policy
+
+The above summarizes much of my contrarian world view.  (What else should go on this list?) 
+When I say “X is not about Y,” I mean that while Y is the function commonly said to drive most 
+X behavior, in fact some other function Z drives X behavior more.
+```
+
+Politics example from the post:
+
+```markdown
+High school students are easily engaged to elect class presidents, even though they have little 
+idea what if any policies a class president might influence.  Instead such elections are usually
+described as “popularity contests.”  That is, theses elections are about which school social 
+factions are to have higher social status.  If a jock wins, jocks have higher status.  If your
+girlfriend’s brother wins, you have higher status, etc.  And the fact that you have a vote says
+that others should take you into account when forming coalitions – you are somebody.
+
+
+Civics teachers talk as if politics is about policy, that politics is our system for choosing 
+policies to deal with common problems.  But as Tyler Cowen suggests, real politics seems to be 
+more about who will be our leaders, and what coalitions will rise or fall in status as a result.  
+Election media coverage focuses on characterizing the candidates themselves – their personalities,
+styles, friends, beliefs, etc.  You might say this is because character is a cheap clue to the
+policies candidates would adopt, but I don’t buy it.
+
+The obvious interpretation seems more believable – as with high school class presidents, we care
+about policies mainly as clues to candidate character and affiliations.  And to the extent we
+consider policies not tied to particular candidates, we mainly care about how policies will effect
+which kinds of people will be respected how much.
+
+For example, we want nationalized medicine so poor sick folks will feel cared for, military actions
+so foreigners will treat us with respect, business deregulation as a sign of respect for hardworking
+businessfolk, official gay marriage as a sign we accept gays, and so on.
+
+This perspective explains why voters tend to prefer proportional representation, why many refuse to
+vote for any candidate when none have earned their respect, and why so few are interested in
+institutional reforms that would plausibly give more informed policies.
+```
+
+<a name="#countersignaling"></a>
+### Countersignaling
+([overview](#overview))
+
+My go-to reference for countersignaling is Scott Alexander's [Intellectual Hipsters and Meta-Contrarianism](https://www.lesswrong.com/posts/9kcTNWopvXFncXgPy/intellectual-hipsters-and-meta-contrarianism). Key quote from the introduction:
+
+```markdown
+In certain situations refusing to signal can be a sign of high status. Thorstein Veblen invented
+the term "conspicuous consumption" to refer to the showy spending habits of the nouveau riche,
+who unlike the established money of his day took great pains to signal their wealth by buying fast
+cars, expensive clothes, and shiny jewelery. Why was such flashiness common among new money but not
+old? Because the old money was so secure in their position that it never even occurred to them that
+they might be confused with poor people, whereas new money, with their lack of aristocratic breeding, 
+worried they might be mistaken for poor people if they didn't make it blatantly obvious that they had
+expensive things.
+
+The old money might have started off not buying flashy things for pragmatic reasons - they didn't need
+to, so why waste the money? But if F. Scott Fitzgerald is to be believed, the old money actively
+cultivated an air of superiority to the nouveau riche and their conspicuous consumption; not buying 
+flashy objects becomes a matter of principle. This makes sense: the nouveau riche need to differentiate 
+themselves from the poor, but the old money need to differentiate themselves from the nouveau riche.
+
+This process is called countersignaling, and one can find its telltale patterns in many walks of life.
+Those who study human romantic attraction warn men not to "come on too strong", and this has similarities
+to the nouveau riche example. A total loser might come up to a woman without a hint of romance, promise
+her nothing, and demand sex. A more sophisticated man might buy roses for a woman, write her love poetry,
+hover on her every wish, et cetera; this signifies that he is not a total loser. But the most desirable 
+men may deliberately avoid doing nice things for women in an attempt to signal they are so high status 
+that they don't need to. The average man tries to differentiate himself from the total loser by being nice;
+the extremely attractive man tries to differentiate himself from the average man by not being especially 
+nice.
+
+In all three examples, people at the top of the pyramid end up displaying characteristics similar to 
+those at the bottom. Hipsters deliberately wear the same clothes uncool people wear. Families with old
+money don't wear much more jewelry than the middle class. And very attractive men approach women with 
+the same lack of subtlety a total loser would use.
+```
+
+And here's metacontrarians as "intellectual hipsters":
+
+```markdown
+A person who is somewhat upper-class will conspicuously signal eir wealth by buying difficult-to-obtain
+goods. A person who is very upper-class will conspicuously signal that ey feels no need to conspicuously 
+signal eir wealth, by deliberately not buying difficult-to-obtain goods. 
+
+A person who is somewhat intelligent will conspicuously signal eir intelligence by holding difficult-to-
+understand opinions. A person who is very intelligent will conspicuously signal that ey feels no need to
+conspicuously signal eir intelligence, by deliberately not holding difficult-to-understand opinions.
+
+...just as contrarians risk becoming too contrary, moving from "actually, death has a few side benefits" to 
+"DEATH IS GREAT!", meta-contrarians are at risk of becoming too meta-contrary.
+
+All the possible examples here are controversial, so I will just take the least controversial one I can
+think of and beg forgiveness. A naive person might think that industrial production is an absolute good
+thing. Someone smarter than that naive person might realize that global warming is a strong negative to 
+industrial production and desperately needs to be stopped. Someone even smarter than that, to differentiate
+emself from the second person, might decide global warming wasn't such a big deal after all, or doesn't 
+exist, or isn't man-made.
+
+In this case, the contrarian position happened to be right (well, maybe), and the third person's meta-
+contrariness took em further from the truth. I do feel like there are more global warming skeptics among 
+what Eliezer called "the atheist/libertarian/technophile/sf-fan/early-adopter/programmer empirical cluster
+in personspace" than among, say, college professors.
+
+In fact, very often, the uneducated position of the five year old child may be deeply flawed and the 
+contrarian position a necessary correction to those flaws. This makes meta-contrarianism a very dangerous
+business. 
+
+Remember, most everyone hates hipsters.
+
+Without meaning to imply anything about whether or not any of these positions are correct or not3, the
+following triads come to mind as connected to an uneducated/contrarian/meta-contrarian divide:
+
+- KKK-style racist / politically correct liberal / "but there are scientifically proven genetic differences"
+- misogyny / women's rights movement / men's rights movement
+- conservative / liberal / libertarian4
+- herbal-spiritual-alternative medicine / conventional medicine / Robin Hanson
+- don't care about Africa / give aid to Africa / don't give aid to Africa
+- Obama is Muslim / Obama is obviously not Muslim, you idiot / Patri Friedman5
+
+What is interesting about these triads is not that people hold the positions (which could be expected by 
+chance) but that people get deep personal satisfaction from arguing the positions even when their arguments
+are unlikely to change policy6 - and that people identify with these positions to the point where arguments
+about them can become personal.
+
+If meta-contrarianism is a real tendency in over-intelligent people, it doesn't mean they should immediately
+abandon their beliefs; that would just be meta-meta-contrarianism. It means that they need to recognize the
+meta-contrarian tendency within themselves and so be extra suspicious and careful about a desire to believe 
+something contrary to the prevailing contrarian wisdom, especially if they really enjoy doing so.
+
+One more time: the fact that those beliefs are in an order does not mean some of them are good and others 
+are bad. For example, "5 year old child / pro-death / transhumanist" is a triad, and "warming denier /
+warming believer / warming skeptic" is a triad, but I personally support 1+3 in the first triad and 2 in 
+the second. You can't evaluate the truth of a statement by its position in a signaling game; otherwise you 
+could use human psychology to figure out if global warming is real!
+```
+
+Commenter Emile cautions that "going meta" can be dangerous:
+
+```markdown
+It's possible to go meta on nearly any issue, and there are a lot of meta-level arguments - group 
+affiliation, signaling, rationalization, ulterior motives, whether a position is contrarian or supported
+by the majority, who the experts are and how much we should trust them, which group is persecuted the most,
+straw man positions and whether anybody really holds them, slippery slopes, different ways to interpret
+statements, who is working under which cognitive bias ...
+
+Which is why I prefer discussions to stick to the object level rather than go meta. It's just too easy to
+rationalize a position in meta, and to find convincing-sounding arguments as to why the other side mistakenly
+disagrees with you. And meta-level disagreements are more likely to persist in the long run, because they are
+hard to verify.
+
+Sure, meta-level arguments are very valuable in many cases, we shouldn't drop them altogether. But we should
+be very cautious while using them.
+```
 
 <a name="#Memory"></a>
 ## Memory
