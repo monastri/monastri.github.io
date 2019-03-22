@@ -44,6 +44,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)   
 2. [Erisology: the study of disagreement](#erisology)
    1. [Argumentative charity](#argumentative-charity)
+   2. [Chesterton's fence](#chestertons-fence)
 2. [Feelings](#feelings)
    1. [Love](#love)
 2. [Fiction and writing](#fiction-and-writing)
