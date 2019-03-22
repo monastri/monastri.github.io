@@ -1,4 +1,4 @@
-[Word count](https://wordcounter.net/): 38,500
+*[Word count](https://wordcounter.net/): 38,500*
 
 ## What is this?
 
@@ -33,42 +33,25 @@ This is my first experiment in that vein. The quotes here have been collected ov
 
 ## Overview
 
-I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring.
+I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring. The categories are ordered alphabetically; the actual quotes are chronological.
 
-1. [Software development and computer science](#software-development-and-computer-science)
-   1. [Practical magic](#practical-magic)
-2. [Feelings](#feelings)
-   1. [Love](#love)
+1. [Artificial intelligence](#artificial-intelligence)
+   1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
 2. [Biology](#biology)
    1. [Evolution](#evolution)
       1. [Gene-centered view](#gene-centered-view)
    2. [Animals are not like us](#animals-are-not-like-us)
-   2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
-2. [Artificial intelligence](#artificial-intelligence)
-   1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
-2. [Political science and public policy](#political-science)
-   1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
-2. [Research and academia](#research-and-academia)
-   1. [Research in industry](#research-in-industry)
-   2. [Why academic writing sucks](#why-academic-writing-sucks)
-   2. [Tactics and advice](#research-tactics)
-   2. [Mindset](#research-mindset)
-   2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
+   2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)   
 2. [Erisology: the study of disagreement](#erisology)
    1. [Argumentative charity](#argumentative-charity)
-2. [Teaching and learning](#teaching-and-learning)
-   1. [Errors vs bugs](#errors-vs-bugs)
-   2. [Polymathy](#polymathy)
-2. [Psychology](#psychology)
-2. [Philosophy](#philosophy)
-   1. [General](#general-philosophy)
-   2. [Diseased philosophy](#diseased-philosophy)
-   2. [Morality, axiology, law](#morality-axiology-law)
-   3. [Moral patienthood](#moral-patienthood)
-   3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity) 
-2. [Statistics](#statistics)
-   1. [General](#general-stats)
-   2. [Statistical literacy](#statistical-literacy)
+2. [Feelings](#feelings)
+   1. [Love](#love)
+2. [Fiction and writing](#fiction-and-writing)
+   1. [Writing advice](#writing-advice)
+      1. [Nonfiction](#nonfiction), e.g. microhumor
+      2. [Fiction](#fiction)
+2. [General intelligence](#general-intelligence) 
+   1. [LOGI](#logi)
 2. [Math](#math)
    1. [Why didn't the Tricki take off?](#why-tricki-failed)
    2. [Asking the right question](#asking-the-right-question)
@@ -76,9 +59,240 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Mathematical maturity](#mathematical-maturity)
    3. [Good mathematics](#good-mathematics)
    4. [What every mathematician should know](#what-every-mathematician-should-know)
-2. [General intelligence](#general-intelligence) 
-   1. [LOGI](#logi)
+2. [Memory](#memory)
+   1. [Augmenting long-term memory](#augmenting-long-term-memory), e.g. Anki
+   2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
+   3. [Names matter](#names-matter)
+2. [Philosophy](#philosophy)
+   1. [General](#general-philosophy)
+   2. [Diseased philosophy](#diseased-philosophy)
+   2. [Morality, axiology, law](#morality-axiology-law)
+   3. [Moral patienthood](#moral-patienthood)
+   3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity)
+2. [Political science and public policy](#political-science)
+   1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
+2. [Psychology](#psychology)
+2. [Research and academia](#research-and-academia)
+   1. [Research in industry](#research-in-industry)
+   2. [Why academic writing sucks](#why-academic-writing-sucks)
+   2. [Tactics and advice](#research-tactics)
+      1. [Using Anki to read a paper in an unfamiliar field thoroughly](#anki-in-research)
+   2. [Mindset](#research-mindset)
+   2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
+2. [Software development and computer science](#software-development-and-computer-science)
+   1. [Practical magic](#practical-magic)
+2. [Statistics](#statistics)
+   1. [General](#general-stats)
+   2. [Statistical literacy](#statistical-literacy)
+2. [Teaching and learning](#teaching-and-learning)
+   1. [Errors vs bugs](#errors-vs-bugs)
+   2. [Polymathy](#polymathy)
 2. [Miscellaneous](#miscellaneous)
+
+<a name="#Memory"></a>
+## Memory
+([overview](#overview))
+
+<a name="#augmenting-long-term-memory"></a>
+### Augmenting long-term memory
+([overview](#overview))
+
+From Michael Nielsen's [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html), which is an all-around great essay you should read in its entirety. One of its theses:
+
+```markdown
+Many people treat memory ambivalently or even disparagingly as a cognitive skill: for instance,
+people often talk of “rote memory” as though it's inferior to more advanced kinds of understanding.
+I'll argue against this point of view, and make a case that memory is central to problem solving 
+and creativity.
+```
+
+To expand on his point:
+
+```markdown
+It's a mistake to underestimate the importance of memory. I used to believe such tropes about the 
+low importance of memory. But I now believe memory is at the foundation of our cognition.
+
+There are two main reasons for this change, one a personal experience, the other based on evidence
+from cognitive science.
+
+Let me begin with the personal experience.
+
+Over the years, I've often helped people learn technical subjects such as quantum mechanics. Over 
+time you come to see patterns in how people get stuck. One common pattern is that people think 
+they're getting stuck on esoteric, complex issues. But when you dig down it turns out they're having 
+a hard time with basic notation and terminology. It's difficult to understand quantum mechanics when
+you're unclear about every third word or piece of notation! Every sentence is a struggle.
+
+It's like they're trying to compose a beautiful sonnet in French, but only know 200 words of French.
+They're frustrated, and think the trouble is the difficulty of finding a good theme, striking 
+sentiments and images, and so on. But really the issue is that they have only 200 words with which to
+compose.
+
+My somewhat pious belief was that if people focused more on remembering the basics, and worried less 
+about the “difficult” high-level issues, they'd find the high-level issues took care of themselves.
+
+But while I held this as a strong conviction about other people, I never realized it also applied to
+me. And I had no idea at all how strongly it applied to me. Using Anki to read papers in new fields 
+disabused me of this illusion. I found it almost unsettling how much easier Anki made learning such 
+subjects. I now believe memory of the basics is often the single largest barrier to understanding. If
+you have a system such as Anki for overcoming that barrier, then you will find it much, much easier 
+to read into new fields.
+
+This experience of how much easier Anki made learning a new technical field greatly increased my 
+visceral appreciation for the importance of memory.
+```
+
+<a name="#procedural-vs-declarative-memory"></a>
+### Procedural vs declarative memory
+([overview](#overview))
+
+From Michael Nielsen's [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html), talking about procedural vs declarative memory in the context of using Anki flashcards:
+
+```markdown
+There's a big difference between remembering a fact and mastering a process. For instance, while 
+you might remember a Unix command when cued by an Anki question, that doesn't mean you'll recognize
+an opportunity to use the command in the context of the command line, and be comfortable typing it 
+out. And it's still another thing to find novel, creative ways of combining the commands you know, 
+in order to solve challenging problems.
+
+Put another way: to really internalize a process, it's not enough just to review Anki cards. You need
+to carry out the process, in context. And you need to solve real problems with it.
+```
+
+<a name="#names-matter"></a>
+### Names matter
+([overview](#overview))
+
+In Michael Nielsen's essay [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) there's a section recounting a famous story in physics I've always taken to heart, the one by Dick Feynman dismissing the value of knowing the names of things:
+
+```markdown
+One kid (a know-it-all) says to me, “See that bird? What kind of bird is that?” 
+
+I said, “I haven't the slightest idea what kind of a bird it is.” 
+
+He says, “It'a brown-throated thrush. Your father doesn't teach you anything!” 
+
+But it was the opposite. He (Feynman's father) had already taught me: “See that bird?” 
+he says. “It's a Spencer's warbler.” (I knew he didn't know the real name.) “Well, in 
+Italian, it's a Chutto Lapittida. In Portuguese, it's a Bom da Peida… You can know the name 
+of that bird in all the languages of the world, but when you're finished, you'll know absolutely
+nothing whatever about the bird! You'll only know about humans in different places, and what they
+call the bird. So let's look at the bird and see what it's *doing* — that's what counts.” (I
+learned very early the difference between knowing the name of something and knowing something.)
+```
+
+Nielsen pushes back against this attitude insofar as it goes too far:
+
+```markdown
+It's a good story. But it goes too far: names do matter. Maybe not as much as the know-it-all kid
+thought, and they're not usually a deep kind of knowledge. But they're the foundation that allows 
+you to build up a network of knowledge.
+
+This trope that names don't matter was repeatedly drilled into me during my scientific training.
+When I began using Anki, at first I felt somewhat silly putting questions about names for things 
+into the system. But now I do it enthusiastically, knowing that it's an early step along the way 
+to understanding.
+
+Anki is useful for names of all kinds of things, but I find it particularly helpful for non-verbal
+things. For instance, I put in questions about artworks, like: “What does the artist Emily Hare's 
+painting Howl look like?”.
+
+I put that question in for two reasons. The main reason is that I like to remember the experience of
+the painting from time to time. And the other is to put a name to the painting.( Actually, a better
+question for that is to be shown the painting and asked what its name is.) If I wanted to think more 
+analytically about the painting – say, about the clever use of color gradients – I could add more
+detailed questions. But I'm pretty happy just committing the experience of the image to memory.
+
+Friends sometimes complain that many books are over-padded essays. Perhaps a benefit of such padding
+is that it enforces an Anki-like spaced repetition, since readers take weeks to read the book. This
+may be an inefficient way to memorize the main points, but is better than having no memory of the 
+book at all.
+```
+
+<a name="#fiction-and-writing"></a>
+## Fiction and writing
+([overview](#overview))
+
+<a name="#writing-advice"></a>
+### Writing advice
+([overview](#overview))
+
+<a name="#nonfiction"></a>
+### Nonfiction
+([overview](#overview))
+
+Scott Alexander's [Nonfiction writing advice](https://slatestarcodex.com/2016/02/20/writing-advice/) is specialized for argumentative topics, which isn't exactly my cup of tea, but it has gems. 
+
+The one I keep returning to the most is the idea of *microhumor*:
+
+```markdown
+You’ve heard of microaggressions. Now try microhumor. It’s things that aren’t a *joke* in the 
+laugh-out-loud told-by-a-comedian sense, but still put the tiniest ghost of a smile on your reader’s
+face while they’re skimming through them.
+
+I learned this art from Dave Barry and Scott Adams, both of whom are humor writers and use normal 
+macrohumor, but both of whom pepper the spaces in between jokes with microhumor besides. Your best 
+best is to read everything they’ve written, your second best bet is to listen to me fumblingly try 
+to explain it.
+
+Here’s a paragraph from my “about” page:
+
+*Topics here tend to center vaguely around this meta-philosophical idea of how people evaluate 
+arguments for their beliefs, and especially whether this process is spectacularly broken in a way
+that may or may not doom us all.*
+
+There are a couple of things here that might qualify as microhumor. Take “especially whether this
+process is spectacularly broken in a way that may or may not doom us all”. It’s not really a *joke*.
+If I were a comedian and recited that sentence, you wouldn’t start laughing. But it’s kind of funny
+to be starting with what sounds like a pretty dry academic idea (“how people evaluate arguments for
+their beliefs” and whether the process is broken), and then confound expectations with an exaggerated
+(well, maybe) warning about it dooming us all. The phrase “may or may not doom us all” does the same
+thing on a smaller scale: “may or may not” is a pretty reserved, careful sounding phrase, whereas
+“doom us all” is obviously the opposite of reserved (I also like the similar construction “it might
+have sort of kind of been the worst idea ever”).
+
+You can actually go a long way toward microhumor just with hedge words (“vaguely”, “sort of”), 
+exaggerations (“the worst thing ever”, “doom us all”), and sometimes the combination of the two.
+
+I think this microhumor stuff is really important, maybe the number one thing that separates really 
+enjoyable writers from people who are technically proficient but still a chore to read. Think about
+it with a really simplistic behaviorist model where you keep doing things that give you little bursts
+of reward, and stop doing things that don’t. There are only a couple of sources of reward in reading.
+One of them is getting important insights. Another is hearing things that support your ingroups or
+bash your outgroups. And a third – maybe the biggest – is humor. Who ever had trouble slogging through
+a really hilarious book of jokes?
+
+Nobody can be super funny all the time, and an article on the economic crisis filled with man-walks-
+into-a-bar-style jokes would be jarring and weird. But micro-humor really works. It works at a background 
+level where people don’t notice it working, and it makes people keep coming back for more.
+
+Humor is also disarming. It’s hard to hate somebody who’s making you laugh. I don’t mean somebody who’s 
+making bigoted jokes that offend you, or writing political cartoons about how awful your ingroup is.
+Those people are easy to hate. I mean somebody who’s making you laugh, right now. If you can make people
+laugh while challenging their cherished beliefs, you’ve got a tiny bit more good will than usual.
+```
+
+It turns out that many of my favorite writers are masters of microhumor. Steve Yegge is another one -- see [here](#practical-magic). 
+
+<a name="#fiction"></a>
+### Fiction
+([overview](#overview))
+
+I actually don't know where exactly [this quote](https://www.goodreads.com/quotes/373814-this-sentence-has-five-words-here-are-five-more-words) by Gary Provost comes from, but it's a classic:
+
+```markdown
+This sentence has five words. Here are five more words. Five-word sentences are fine. 
+But several together become monotonous. Listen to what is happening. The writing is getting boring. 
+The sound of it drones. It’s like a stuck record. The ear demands some variety. 
+
+Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a
+pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. 
+And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable
+length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of 
+the drums, the crash of the cymbals–sounds that say listen to this, it is important.
+```
+
+Note that this quote applies equally well to [nonfiction writing](#nonfiction).
 
 <a name="#software-development-and-computer-science"></a>
 ## Software development and computer science
@@ -1270,6 +1484,200 @@ refinements in accord with value of information.
 
 Don't be too easily satisfied with cluster thinking.
 ```
+
+<a name="#anki-in-research"></a>
+### Anki in research
+([overview](#overview))
+
+From Michael Nielsen's [Augmenting long-term memory](http://augmentingcognition.com/ltm.html), where he describes his experience reading the AlphaGo paper:
+
+```markdown
+I find Anki a great help when reading research papers, particularly in fields outside my expertise.
+As an example of how this can work, I'll describe my experience reading a 2016 paper describing AlphaGo,
+the computer system from Google DeepMind that beat some of the world's strongest players of the game Go.
+
+After the match where AlphaGo beat Lee Sedol, one of the strongest human Go players in history, I 
+suggested to Quanta Magazine that I write an article about the system. AlphaGo was a hot media topic at 
+the time, and the most common angle in stories was human interest, viewing AlphaGo as part of a long-
+standing human-versus-machine narrative, with a few technical details filled in, mostly as color.
+
+I wanted to take a different angle. Through the 1990s and first decade of the 2000s, I believed human-or-
+better general artificial intelligence was far, far away. The reason was that over that time researchers 
+made only slow progress building systems to do intuitive pattern matching, of the kind that underlies
+human sight and hearing, as well as in playing games such as Go. Despite enormous effort by AI researchers,
+many pattern-matching feats which humans find effortless remained impossible for machines.
+
+While we made only very slow progress on this set of problems for a long time, around 2011 progress began
+to speed up, driven by advances in deep neural networks. For instance, machine vision systems rapidly went
+from being terrible to being comparable to human beings for certain limited tasks. By the time AlphaGo was
+released, it was no longer correct to say we had no idea how to build computer systems to do intuitive 
+pattern matching. While we hadn't yet nailed the problem, we were making rapid progress. AlphaGo was a big
+part of that story, and I wanted my article to explore this notion of building computer systems to capture 
+human intuition.
+
+While I was excited, writing such an article was going to be difficult. It was going to require a deeper
+understanding of the technical details of AlphaGo than a typical journalistic article. Fortunately, I knew
+a fair amount about neural networks – I'd written a book about them. But I knew nothing about the game of 
+Go, or about many of the ideas used by AlphaGo, based on a field known as reinforcement learning. I was 
+going to need to learn this material from scratch, and to write a good article I was going to need to really
+understand the underlying technical material.
+
+Here's how I went about it.
+
+I began with the AlphaGo paper itself. I began reading it quickly, almost skimming. I wasn't looking for a 
+comprehensive understanding. Rather, I was doing two things. One, I was trying to simply identify the most 
+important ideas in the paper. What were the names of the key techniques I'd need to learn about? Second, 
+there was a kind of hoovering process, looking for basic facts that I could understand easily, and that
+would obviously benefit me. Things like basic terminology, the rules of Go, and so on.
+
+Here's a few examples of the kind of question I entered into Anki at this stage: “What's the size of a Go
+board?”; “Who plays first in Go?”; “How many human game positions did AlphaGo learn from?”; “Where did 
+AlphaGo get its training data?”; “What were the names of the two main types of neural network AlphaGo used?”
+
+As you can see, these are all elementary questions. They're the kind of thing that are very easily picked
+up during an initial pass over the paper, with occasional digressions to search Google and Wikipedia, and
+so on. Furthermore, while these facts were easy to pick up in isolation, they also seemed likely to be 
+useful in building a deeper understanding of other material in the paper.
+
+I made several rapid passes over the paper in this way, each time getting deeper and deeper. At this stage 
+I wasn't trying to obtain anything like a complete understanding of AlphaGo. Rather, I was trying to build 
+up my background understanding. At all times, if something wasn't easy to understand, I didn't worry about 
+it, I just keep going. But as I made repeat passes, the range of things that were easy to understand grew 
+and grew. I found myself adding questions about the types of features used as inputs to AlphaGo's neural 
+networks, basic facts about the structure of the networks, and so on.
+
+After five or six such passes over the paper, I went back and attempted a thorough read. This time the 
+purpose was to understand AlphaGo in detail. By now I understood much of the background context, and it was
+relatively easy to do a thorough read, certainly far easier than coming into the paper cold. Don't get me
+wrong: it was still challenging. But it was far easier than it would have been otherwise.
+
+After doing one thorough pass over the AlphaGo paper, I made a second thorough pass, in a similar vein. Yet 
+more fell into place. By this time, I understood the AlphaGo system reasonably well. Many of the questions I
+was putting into Anki were high level, sometimes on the verge of original research directions. I certainly 
+understood AlphaGo well enough that I was confident I could write the sections of my article dealing with it.
+(In practice, my article ranged over several systems, not just AlphaGo, and I had to learn about those as well,
+using a similar process, though I didn't go as deep.) I continued to add questions as I wrote my article, 
+ending up adding several hundred questions in total. But by this point the hardest work had been done.
+
+Of course, instead of using Anki I could have taken conventional notes, using a similar process to build up an
+understanding of the paper. But using Anki gave me confidence I would retain much of the understanding over the
+long term. A year or so later DeepMind released papers describing followup systems, known as AlphaGo Zero and
+AlphaZero. Despite the fact that I'd thought little about AlphaGo or reinforcement learning in the intervening
+time, I found I could read those followup papers with ease. While I didn't attempt to understand those papers 
+as thoroughly as the initial AlphaGo paper, I found I could get a pretty good understanding of the papers in less
+than an hour. I'd retained much of my earlier understanding!
+
+By contrast, had I used conventional note-taking in my original reading of the AlphaGo paper, my understanding
+would have more rapidly evaporated, and it would have taken longer to read the later papers. And so using Anki
+in this way gives confidence you will retain understanding over the long term. This confidence, in turn, makes
+the initial act of understanding more pleasurable, since you believe you're learning something for the long haul,
+not something you'll forget in a day or a week.
+
+This entire process took a few days of my time, spread over a few weeks. That's a lot of work. However, the 
+payoff was that I got a pretty good basic grounding in modern deep reinforcement learning. This is an immensely 
+important field, of great use in robotics, and many researchers believe it will play an important role in
+achieving general artificial intelligence. With a few days work I'd gone from knowing nothing about deep 
+reinforcement learning to a durable understanding of a key paper in the field, a paper that made use of many 
+techniques that were used across the entire field. Of course, I was still a long way from being an expert. There 
+were many important details about AlphaGo I hadn't understood, and I would have had to do far more work to build
+my own system in the area. But this foundational kind of understanding is a good basis on which to build deeper
+expertise.
+```
+
+This quote is key -- it jives with my own experience trying to memorize random disconnected facts (along with other failure modes):
+
+```markdown
+It's notable that I was reading the AlphaGo paper in support of a creative project of my own, namely,
+writing an article for Quanta Magazine. This is important: I find Anki works much better when used in 
+service to some personal creative project.
+
+It's tempting instead to use Anki to stockpile knowledge against some future day, to think “Oh, I should
+learn about the geography of Africa, or learn about World War II, or […]”. These are goals which, for 
+me, are intellectually appealing, but which I'm not emotionally invested in. I've tried this a bunch of 
+times. It tends to generate cold and lifeless Anki questions, questions which I find hard to connect to 
+upon later review, and where it's difficult to really, deeply internalize the answers. The problem is 
+somehow in that initial idea I “should” learn about these things: intellectually, it seems like a good 
+idea, but I've little emotional commitment.
+
+By contrast, when I'm reading in support of some creative project, I ask much better Anki questions. I 
+find it easier to connect to the questions and answers emotionally. I simply care more about them, and 
+that makes a difference. So while it's tempting to use Anki cards to study in preparation for some 
+(possibly hypothetical) future use, it's better to find a way to use Anki as part of some creative project.
+```
+
+But what about shallow reads of papers? Does Anki-based reading help? Yes, says Nielsen:
+
+```markdown
+Most of my Anki-based reading is much shallower than my read of the AlphaGo paper. Rather than spending 
+days on a paper, I'll typically spend 10 to 60 minutes, sometimes longer for very good papers. Here's a 
+few notes on some patterns I've found useful in shallow reading.
+
+As mentioned above, I'm usually doing such reading as part of the background research for some project.
+I will find a new article (or set of articles), and typically spend a few minutes assessing it. Does the
+article seem likely to contain substantial insight or provocation relevant to my project – new questions,
+new ideas, new methods, new results? If so, I'll have a read.
+
+This doesn't mean reading every word in the paper. Rather, I'll add to Anki questions about the core
+claims, core questions, and core ideas of the paper. It's particularly helpful to extract Anki questions
+from the abstract, introduction, conclusion, figures, and figure captions. Typically I will extract anywhere
+from 5 to 20 Anki questions from the paper. It's usually a bad idea to extract fewer than 5 questions – 
+doing so tends to leave the paper as a kind of isolated orphan in my memory. Later I find it difficult to 
+feel much connection to those questions. Put another way: if a paper is so uninteresting that it's not 
+possible to add 5 good questions about it, it's usually better to add no questions at all. ...
+
+Really good resources are worth investing time in. But most papers don't fit this pattern, and you quickly 
+saturate. If you feel you could easily find something more rewarding to read, switch over. It's worth 
+deliberately practicing such switches, to avoid building a counter-productive habit of completionism in your
+reading. It's nearly always possible to read deeper into a paper, but that doesn't mean you can't easily be 
+getting more value elsewhere. It's a failure mode to spend too long reading unimportant papers.
+```
+
+Nielsen says you can also do 'syntopic' reading of entire subfields' research literature,thereby allowing mortals you and me to become Luke Muehlhauser:
+
+```markdown
+There's also a sense in which it's possible to use Anki not just to read papers, but to “read” the entire
+research literature of some field or subfield. Here's how to do it.
+
+You might suppose the foundation would be a shallow read of a large number of papers. In fact, to really
+grok an unfamiliar field, you need to engage deeply with key papers – papers like the AlphaGo paper. What
+you get from deep engagement with important papers is more significant than any single fact or technique:
+you get a sense for what a powerful result in the field looks like. It helps you imbibe the healthiest norms
+and standards of the field. It helps you internalize how to ask good questions in the field, and how to put
+techniques together. You begin to understand what made something like AlphaGo a breakthrough – and also its 
+limitations, and the sense in which it was really a natural evolution of the field. Such things aren't 
+captured individually by any single Anki question. But they begin to be captured collectively by the questions
+one asks when engaged deeply enough with key papers.
+
+So, to get a picture of an entire field, I usually begin with a truly important paper, ideally a paper 
+establishing a result that got me interested in the field in the first place. I do a thorough read of that 
+paper, along the lines of what I described for AlphaGo. Later, I do thorough reads of other key papers in
+the field – ideally, I read the best 5-10 papers in the field. But, interspersed, I also do shallower reads
+of a much larger number of less important (though still good) papers. In my experimentation so far that
+means tens of papers, though I expect in some fields I will eventually read hundreds or even thousands of
+papers in this way.
+
+You may wonder why I don't just focus on only the most important papers. Part of the reason is mundane: it
+can be hard to tell what the most important papers are. Shallow reads of many papers can help you figure out
+what the key papers are, without spending too much time doing deeper reads of papers that turn out not to be
+so important. But there's also a culture that one imbibes reading the bread-and-butter papers of a field: a
+sense for what routine progress looks like, for the praxis of the field. That's valuable too, especially for 
+building up an overall picture of where the field is at, and to stimulate questions on my own part. Indeed, 
+while I don't recommend spending a large fraction of your time reading bad papers, it's certainly possible to
+have a good conversation with a bad paper. Stimulus is found in unexpected places.
+
+Over time, this is a form of what Mortimer Adler and Charles van Doren dubbed *syntopic reading*. I build up
+an understanding of an entire literature: what's been done, what's not yet been done. Of course, it's not 
+literally reading an entire literature. But functionally it's close. I start to identify open problems, 
+questions that I'd personally like answered, but which don't yet seem to have been answered. I identify tricks,
+observations that seem pregnant with possibility, but whose import I don't yet know. And, sometimes, I 
+identify what seem to me to be field-wide blind spots. I add questions about all these to Anki as well. In 
+this way, Anki is a medium supporting my creative research. It has some shortcomings as such a medium, since
+it's not designed with supporting creative work in mind – it's not, for instance, equipped for lengthy, 
+free-form exploration inside a scratch space. But even without being designed in such a way, it's helpful as
+a creative support.
+```
+
+See also (Eric Drexler on how to learn about everything)[#polymathy], as well as more from Nielsen [here](#augmenting-long-term-memory).
 
 <a name="#research-mindset"></a>
 ### Research mindset
