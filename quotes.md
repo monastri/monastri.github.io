@@ -71,6 +71,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Morality, axiology, law](#morality-axiology-law)
    3. [Moral patienthood](#moral-patienthood)
    3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity)
+   4. [Moloch](#moloch)
 2. [Political science and public policy](#political-science)
    1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
 2. [Psychology](#psychology)
@@ -3162,6 +3163,79 @@ will dominate in China to the exclusion of all competitors, for example.
 For others, though, it takes a bit more product insight, and some might say intuition, to see the 
 ceiling before you bump into it. For both employees and investors, understanding product-market unfit 
 follows very closely on identifying product-market fit as an existential challenge.
+```
+
+<a name="#moloch"></a>
+### Moloch
+([overview](#overview))
+
+Like LW commenter Quinn, I had difficulty summarizing Scott Alexander's celebrated essay *Moloch*, even though it was one of the most impactful pieces I've ever read. So I appreciate that he's conveniently summarized it SparkNotes-style under Stuart Armstrong's [essay](https://www.lesswrong.com/posts/otES8gdmFszCvZiRy/moloch-optimisation-and-vs-or-information-and-sacrificial):
+
+```markdown
+Intro - no real content.
+
+Moloch as coordination failure: everyone makes a sacrifice to optimize for a zero-sum 
+competition,ends up with the same relative status, but worse absolute status.
+
+10 examples: 
+- Prisoner's Dilemma, 
+- dollar auctions, 
+- fish-farming story (tragedy of the commons), 
+- Malthusian trap, 
+- ruthless/exploitative Capitalist markets, 
+- the two-income trap, 
+- agriculture, 
+- arms races, 
+- cancer, 
+- political race to the bottom (lowering taxes to attract business)
+
+4 partial examples: 
+- inefficient education, 
+- inefficient science, 
+- government corruption (corporate welfare), 
+- Congress (representatives voting against good of nation for good of constituency)
+
+Existing systems are created by incentive structures, not agents, e.g. Las Vegas caused by 
+a known bias in human reward circuitry, not optimization for human values.
+
+But sometimes we move uphill anyway. Possible explanations:
+
+- Excess resources / we are in the dream time and can afford non-competitive behavior.
+- Physical limitations to what can be sacrificed
+- Economic competition actually producing positive utility for consumers (but this is fragile)
+- Coordination, e.g. via governments, guilds, friendships, etc.
+
+Technology/ingenuity creates new opportunities to fall into such traps: 
+- Technology overcomes physical limitations, consumes excess resources. 
+- Automation further decouples economic activity from human values. 
+- Technology can improve coordination, but can also exacerbate existing conflicts by giving all 
+sides more power.
+
+AGI opens up whole new worlds of traps: 
+- Yudkowsky's paperclipper, 
+- Hanson's subsistence-level ems, 
+- Bostrom's Disneyland with no children.
+
+6 & 7. Gnon - basically the god of the conservative scarcity mindset. Nick Land advocates 
+compliance; Nyan wants to capture Gnon and build a walled garden. Scott warns that Moloch is 
+far more terrifying than Gnon and will kill both of them anyway.
+
+8 & 9. So we have to kill this Moloch guy, by lifting a better God to Heaven (Elua).
+```
+
+Wei Dai points out that this is captured by the standard academic notion of [positional good](http://en.wikipedia.org/wiki/Positional_good). Robert Frank, in [an article on higher ed](https://net.educause.edu/ir/library/pdf/ffp0001s.pdf), calls Moloch a "positional arms race":
+
+```markdown
+Participants in virtually all winner-take-all markets face strong incentives to invest in performance
+enhancement, thereby to increase their chances of coming out ahead. As in the classic military arms 
+race, however, many such investments prove mutually offsetting in the end. When each nation spends more
+on bombs, the balance of power is no different than if none had spent more. Yet that fact alone provides
+no escape for individual participants. Countries may find it burdensome to spend a lot on bombs, but the 
+alternative—to be less well-armed than their rivals—is even worse.
+
+In light of the growing importance of rank in the education marketplace, universities face increasing 
+pressure to bid for the various resources that facilitate the quest for high rank. These pressures have 
+spawned a positional arms race that already has proved extremely costly, and promises to become more so.
 ```
 
 <a name="#statistics"></a>
