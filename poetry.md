@@ -10,7 +10,7 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [Love](#love), by Simon Funk
 2. [Moloch](#moloch), by Allen Ginsberg
 2. [Aphyr](#aphyr) (Kyle Kingsbury)
-   1. [Reversing the technical interview, by zpojqwfe1wfhiunz](#reversing-the-technical-interview)
+   1. [Reversing the technical interview](#reversing-the-technical-interview), by zpojqwfe1wfhiunz
 2. [High Flight](#high-flight), by John Gillespie Magee, Jr
 2. [Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity](#reflections-on-a-gift-of-watermelon-pickle-received-from-a-friend-called-felicity), by John Tobias
 4. [In the beginning were the gametes](#in-the-beginning-were-the-gametes), by Peter Watts
