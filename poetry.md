@@ -2,15 +2,230 @@
 
 ## Overview
 
-Poems and quotes listed in order below.
+Poems and quotes listed in reverse order of inclusion below.
 
-1. [Love, by Simon Funk](#love)
+1. [Aphyr (Kyle Kingsbury)](#aphyr)
+2. [Reversing the technical interview, by zpojqwfe1wfhiunz](#reversing-the-technical-interview)
+2. [Love, by Simon Funk](#love)
 2. [Moloch, by Allen Ginsberg](#moloch)
 2. [High Flight, by John Gillespie Magee, Jr](#high-flight)
 2. [Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity, by John Tobias](#reflections-on-a-gift-of-watermelon-pickle-received-from-a-friend-called-felicity)
 3. [A sunset glimpse of deep time, by Lee Billings](#a-sunset-glimpse-of-deep-time)
 4. [In the beginning were the gametes, by Peter Watts](#in-the-beginning-were-the-gametes)
 4. [The Celestial Emporium of Benevolent Knowledge, by Jorge Luis Borges](#the-celestial-emporium-of-benevolent-knowledge)
+
+<a name="#aphyr"></a>
+## Aphyr
+### a.k.a. Kyle Kingsbury
+([overview](#overview))
+
+When I first came across Aphyr's "witch programmer interview trilogy" of short stories I fell in love instantly. It's impossible to convey the experience without reading them in full, especially since you need to see the included code too. Nevertheless...
+
+First story, [Reversing the technical interview](https://aphyr.com/posts/340-reversing-the-technical-interview):
+
+```markdown
+If you want to get a job as a software witch, you’re going to have to pass a whiteboard interview. 
+We all do them, as engineers–often as a part of our morning ritual, along with arranging a beautiful 
+grid of xterms across the astral plane, and compulsively running ls in every nearby directory–just 
+in case things have shifted during the night–the incorporeal equivalent of rummaging through that 
+drawer in the back of the kitchen where we stash odd flanges, screwdrivers, and the strangely specific
+plastic bits: the accessories, those long-estranged black sheep of the families of our household
+appliances, their original purpose now forgotten, perhaps never known, but which we are bound to care
+for nonetheless. I’d like to walk you through a common interview question: reversing a linked list.
+```
+
+And:
+
+```markdown
+“That’s not a list,” the interviewer says. “That’s an if statement.”
+
+“What else are lists,” you reply, your eyes flashing, “But alternatives?”
+```
+
+And:
+
+```markdown
+“To know a thing is to name it,” you advise. True names have power. The K language was invented by 
+Ursula K. Le Guin, and is among the oldest and tersest forms of magic. To imbue a language with a 
+letter of your own name is to give up an element of your self. Your own initials ache at the memory.
+
+“Erm, OK, so how would you get an element out of this list?”
+
+The expression in your mind is beautiful, unfurling like a red carpet underneath your bare feet. 
+The Oscars were on last night, but you long for the kiss of different stars upon your naked skin, 
+as when you dwelt in the mountains of Sørøya, and called the moon your lover. Except for the bounds
+check, you get it right the first time.
+
+“Could you just show me, you know, a regular list? Like in Python?”
+```
+
+Second story, [Hexing the technical interview](https://aphyr.com/posts/341-hexing-the-technical-interview):
+
+```markdown
+“So my name is Tim, and I’ll be your first interviewer today…” Tim is making every effort to be 
+cheery. His ears stick out a bit, and in his dark-brown hoodie and cream shirt, perched expectantly
+at the table, he resembles something of a pine marten. You like pine martens, and therefore Tim as
+well.
+
+“Before we get started, is there… anything I can tell you about the company?”
+
+You would like to ask what kind of call Tim would make, were he guarding his cache of eggs and nuts
+against another marten–but instead, you just giggle to yourself, lean your sprig of cloud-pine
+against the corner, and settle comfortably to the floor. Tim leans in to get a clearer view of where 
+you’ve gone. Definitely, you think to yourself.
+
+“So, erm… Perhaps you could tell me a bit about your background?”
+
+He hasn’t read your resume. No man can.
+
+“In the winter,” you begin, “above the ice-locked fjørds, lies a creek, ash-white with the ghosts of
+glaciers–”
+
+“You know what?” He interrupts. It was a beautiful story, but perhaps you can tell it later. “How 
+about we do a little programming together? Just a basic exercise so I can get a sense of how you think.”
+
+“That sounds nice, Tim.”
+```
+
+And:
+
+```markdown
+“What are these?”
+
+“Magic numbers.” You are, after all, a witch. “Every class begins with a babe, in a cafe.”
+
+“What?”
+
+“You know, a beautiful man–the kind like from the movies–relaxing in the afternoon by the promenade.
+He has his kaffe, and his orange glasses gleam in the sun, and perhaps some other nice men are jogging
+by. If they are lucky, perhaps he will lock eyes with one of the joggers, and they will smile, and 
+find a brick-lined alleyway together. His lips press upon the other man’s skin, and he feels the heat
+of the sun infused there…”
+
+“Excuse me?”
+
+If you were to be honest, you’ve never understood Sun’s rationale for the story, or why the Java Virtual
+Machine specification, normally so prosaic, lapses into lustful rhapsody for so many stanzas in section 4.1.
+```
+
+And:
+
+```markdown
+"I’m sorry,” Tim blinks. “But isn’t 0x17 decimal 23, not 22?”
+
+“Og én,” you recite, sing-song, “Til javanissen!”
+
+“Beg pardon?”
+
+“The javanisse. Surely you have heard of him! He is a small, magical man–something like a gnome–who
+inhabits every JVM. If you do not set out an extra constant for him, he can cause segfaults. But keep
+the javanisse happy, and your mutices will be fair.” It is a story from your childhood. You remember 
+your mother, chanting offsets as she stirred the stew. “To byter for bufferen anvise / og ekstra én 
+til javanisse.” It is a happy memory, and you lose yourself in it until Tim clears his throat.
+```
+
+Last story, [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview):
+
+```markdown
+In the formless days, long before the rise of the Church, all spells were woven of pure causality, 
+all actions were permitted, and death was common. Many witches were disfigured by their magicks, 
+found crumpled at the center of a circle of twisted, glass-eaten trees, and stones which burned 
+unceasing in the pooling water; some disappeared entirely, or wandered along the ridgetops: feet 
+never touching earth, breath never warming air.
+
+As a child, you learned the story of Gullveig-then-Heiðr, reborn three times from the fires of her 
+trial, who traveled the world performing seidr: the reading and re-weaving of the future. Her 
+foretellings (and there were many) were famed—spoken of even by the völva-beyond-the-world—but it
+was her survival that changed history. Through the ecstatic trance of seidr, she foresaw her fate, 
+and conquered death. Her spells would never crash, and she became a friend to outcast women: the
+predecessors of your kind. It is said that Odin himself learned immortality from her.
+
+To this day, all witches owe Heiðr a debt. Few delve into the ancient, unstructured magic nowadays.
+The very languages in which your spells are written are stabilized with seidr in their syntax, 
+channeling the energies you summon through safe paths—more or less. There are still occasional 
+explosions, of course. They’re just… more of the eyebrow-singeing variety, than the type that result
+in new and interestingly-shaped fjørds.
+
+“Is everything all right?”
+```
+
+And:
+
+```markdown
+"I’d like to do a little exercise with you nonetheless. Just a simple programming puzzle, so I can
+understand how you solve problems.”
+
+Once, you solved a problem with a knife of shattered sky-glass. You wonder whether Criss would have
+the strength to do what you have done.
+
+“Sooo… this problem is called N-Queens, and it’s fairly simple. Given an NxN chessboard, you need to
+find a way to place N queens on that board safely.”
+
+You draw an eight-by-eight grid on the whiteboard, and neatly arrange eight queens together in the 
+center. They face each other in a tight circle, to converse as equals.
+
+“Er, no—that’s not right. See? This queen could kill any of these four, in one move.”
+
+“Are you really unable,” you ask, voice as calm as stone, “to imagine eight powerful women in the same
+room without them trying to kill each other?”
+```
+
+And:
+
+```markdown
+This has required more concentration than you would have liked, so you back off to something easier. 
+“Let’s do booleans,” you suggest, as if inviting him to lunch.
+
+“Why?”
+
+“Because we need them, of course.”
+
+Seize two meaningless constants from the void, and imbue them with meaning.
+
+Freyja would be pleased. To birth an algebra into the world is a beautiful thing.
+```
+
+And:
+
+```markdown
+Criss has adopted the far-gaze of a man who has learned of some great loss, or perhaps been witness to a
+nearby explosion. Take his shoulder gently. “Psst!” You whisper. “All is prepared, and a solution is at hand.”
+
+Look: the pretty-printer has aligned things just so, creating a lovely line of zeroes along the vertical
+axis. “So that’s a queen at 5,1, at 4,3, at 3,5, at 2,0, 1,2, and 0,4. Does that work, Criss?”
+
+Criss stares at you for a long, long moment. “You never… you never wrote an actual value. You… do realize
+that the type system is meant to constrain values, right?”
+
+“No,” you inform him, matter-of-factly. “No, that doesn’t sound right.”
+```
+
+Seriously, they're best read in context, so you should just [read](https://aphyr.com/posts/340-reversing-the-technical-interview) [the](https://aphyr.com/posts/341-hexing-the-technical-interview) [stories](https://aphyr.com/posts/342-typing-the-technical-interview). :)
+
+<a name="#reversing-the-technical-interview"></a>
+## Reversing the technical interview
+### by zpojqwfe1wfhiunz
+([overview](#overview))
+
+This was a comment on Aphyr's [Reversing the technical interview](https://aphyr.com/posts/340-reversing-the-technical-interview) that was funny and great enough to merit its own entry:
+
+```markdown
+It was hot, the night I burned the Seeker. Moths batted themselves to death against the humming neon 
+signs just outside the single window in the cramped room. There were ancient electronics piled to the
+ceiling in here, hot new chipsets from Taiwan still unwrapped distributed unevenly amongst them.
+
+The Seeker put his hands on his hips, brushing aside the corners of his Sukajan bomber jacket replica. 
+"I heard you and Bobby were hotshots, once. Real.. artístes", he said, the last word paired with a smug
+grin. "Heard you could do things."
+
+"Things like what?" It's been 20 seconds and you've already wasted too many cycles with this guy.
+
+"Things like making lists, just, fold up inside themselves. Come out the other way around. Crazy things."
+
+You grit your teeth. The dex has left your system and you're starting to feel a massive drug deficiency 
+coming on. "Crazy things cost money", you manage. The lists already unfurling in your head, you start 
+typing as quickly as you can to hide the microtremors.
+```
 
 <a name="#love"></a>
 ## Love
