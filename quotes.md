@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 38,500*
+*[Word count](https://wordcounter.net/): 44,700*
 
 ## What is this?
 
@@ -62,6 +62,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Memory](#memory)
    1. [Augmenting long-term memory](#augmenting-long-term-memory), e.g. Anki
    2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
+   2. [Externalizing the brain via aids to memory](#external-brain), e.g. Google, writing
    3. [Names matter](#names-matter)
 2. [Philosophy](#philosophy)
    1. [General](#general-philosophy)
@@ -158,6 +159,147 @@ in order to solve challenging problems.
 Put another way: to really internalize a process, it's not enough just to review Anki cards. You need
 to carry out the process, in context. And you need to solve real problems with it.
 ```
+
+From Alicorn's LW post [The Great Brain is Located Externally](https://www.lesswrong.com/posts/h7NkpER4Jo8BLWgPD/the-great-brain-is-located-externally):
+
+```markdown
+Propositional knowledge is being gradually supplanted by the procedural.  You need only know *how to find*
+information, to be able to use it after a trivial delay.  This requires some snippet of propositional data
+- to find a song lyric, you need a long enough string that you won't turn up 99% noise when you try to 
+Google it! - but mostly, it's a skill, not a fact, that you need to act like you knew the fact.
+
+It's not clear to me whether this means that we should be alarmed and seek to hone our factual memories...
+or whether we should devote our attention to honing our Google-fu, as our minds gradually become
+server-side operations.
+```
+
+<a name="#external-brain"></a>
+### External brain 
+([overview](#overview))
+
+Aids to memory have been opposed for millennia. Here's Socrates, in Plato's Phaedrus, circa 370 BCE, bemoaning the deleterious effects of the new technology of "writing":
+
+```markdown
+If men learn this, it will implant forgetfulness in their souls; they will cease to exercise
+memory because they rely on that which is written, calling things to remembrance no longer 
+from within themselves, but by means of external marks. What you have discovered is a recipe 
+not for memory, but for reminder. And it is no true wisdom that you offer your disciples, but
+only its semblance, for by telling them of many things without teaching them you will make 
+them seem to know much, while for the most part they know nothing, and as men filled, not with
+wisdom, but with the conceit of wisdom, they will be a burden to their fellows.
+```
+
+Alicorn's LW post [The Great Brain is Located Externally](https://www.lesswrong.com/posts/h7NkpER4Jo8BLWgPD/the-great-brain-is-located-externally) and the comments are great. It's from 2009; a decade hence, they're more applicable than ever. Here's some neat quotes.
+
+```markdown
+How many of the things you "know" do you have memorized?
+
+Do you remember how to spell all of those words you let the spellcheck catch?  Do you remember
+what fraction of a teaspoon of salt goes into that one recipe, or would you look at the list of
+ingredients to be sure?  Do you remember what kinds of plastic they recycle in your neighborhood,
+or do you delegate that task to a list attached with a magnet to the fridge?
+
+If I asked you what day of the month it is today, would you know, or would you look at your
+watch/computer clock/the posting date of this post?
+
+Before I lost my Palm Pilot, I called it my "external brain".  It didn't really fit the description; 
+with no Internet access, it mostly held my contact list, class schedule, and grocery list.  And a 
+knockoff of Minesweeper.  Still, in a real enough sense, it remembered things for me.The vast arena 
+of knowledge at our fingertips in the era of constant computing has, ironically, brought it farther
+away.  It seems nearer: after all, now, if you are curious about Zanzibar, Wikipedia is a few 
+keystrokes away.  Before the Internet, you'd probably have been looking at a trip to the library and
+a while wrestling with the card catalog; and that would be if you lived in an affluent, literate society. 
+If you didn't, good luck knowing Zanzibar exists in the first place!
+
+But if you were an illiterate random peasant farmer in some historical venue, and you needed to know
+the growing season of taro or barley or insert-your-favorite-staple-crop-here, Wikipedia would have
+been superfluous: you would already know it.  It would be unlikely that you would find a song lyrics
+website of any use, because all of the songs you'd care about would be ones you really knew, in the
+sense of having heard them sung by real people who could clarify the words on request, as opposed to
+the "I think I heard half of this on the radio at the dentist's office last month" sense.
+```
+
+Per Kaj Sotala, the distributed cognition paradigm of research is all about exploring the idea behind "externalizing" or "outsourcing" our brains to the environment. An excerpt from [this primer](http://www.isr.uci.edu/~jpd/classes/ics234bs03/13-HollanEtAl-TOCHI.pdf):
+
+```markdown
+In several environments we found subjects using space to simplify choice by creating arrangements 
+that served as heuristic cues. For instance, we saw them covering things, such as garbage disposal 
+units or hot handles, thereby hiding certain affordances or signaling a warning and so constraining
+what would be seen as feasible. At other times they would highlight affordances by putting items 
+needing immediate attention near to them, or creating piles that had to be dealt with. We saw them lay
+down items for assembly in a way that was unambiguously encoding the order in which they were to be 
+put together or handed off. That is, they were using space to encode ordering information and so were 
+off-loading memory. These are just a few of the techniques we saw them use to make their dedecision
+problems combinatorially less complex.
+
+We also found subjects reorganizing their workspace to facilitate perception: to make it possible to 
+notice properties or categories that were not noticed before, to make it easier to find relevant items,
+to make it easier for the visual system to track items. One subject explained how his father taught him 
+to place the various pieces of his dismantled bicycle, many of which were small, on a sheet of newspaper.
+This made the small pieces easier to locate and less likely to be kicked about. In videos of cooking we 
+found chefs distinguishing otherwise identical spoons by placing them beside key ingredients or on the 
+lids of their respective saucepans, thereby using their positions to differentiate or mark them. We found
+jigsaw puzzlers grouping similar pieces together, thereby exploiting the capacity of the visual system to
+note finer differences between pieces when surrounded by similar pieces than when surrounded by different
+pieces.
+
+Finally, we found a host of ways that embodied agents enlist the world to perform computation for them. 
+Familiar examples of such off-loading show up in analog computations. When the tallest spaghetti noodle
+is singled out from its neighbors by striking the bundle on a table, a sort computation is performed by 
+using the material and spatial properties of the world. But more prosaically we have found in laboratory 
+studies of the computer game Tetris that players physically manipulate forms to save themselves 
+computational effort [Kirsh 2001; Kirsh and Maglio 1995]. They modify the environment to cue recall, to 
+speed up identification, and to generate mental images faster than they could if unaided. In short, they 
+make changes to the world to save themselves costly and potentially error-prone computations.
+```
+
+Sotala takes the distributed cognition idea-seed and runs away with it:
+
+```markdown
+Information processing doesn't only happen inside brains and computers. The paradigm of distributed 
+cognition studies human societies as information-processing systems, with individuals being parts of
+the larger system. For instance, the operation of an airliner cockpit's crew has been studied from 
+this perpective [1]. For a flight to proceed without trouble, the different crew members need to be 
+aware of information relating to their areas of responsibility at any given moment. If the crew is 
+experienced and well trained, they'll constantly stay up to date by e.g. simply listening to other 
+crew members converse with flight control. As flight control informs the captain of a new flight 
+altitude, the rest of the pilots begin to adjust the altitude even while the captain is still
+finishing up the communication. The cockpit functions as a unified system, and relevant information 
+is propagated to wherever needed. Several crew members hearing the same information also allows for
+error correction. If the message is unclear and the captain can't make out flight control's words, 
+he can ask the others for clarification. The co-pilot answers the captain's query: even though one 
+part of the system has failed to absorb the information received from outside the system, the same 
+information has been stored in another part, which may then attempt to re-send it where needed.
+
+Several other fields have been studied in the same manner, ranging from a child's language learning 
+[2] to creativity [3]. A child doesn't learn language by itself and in a vacuum, but via interaction
+with adults and older children. Creativity, on the other hand, requires common, shared "idea resources"
+which individuals may use to come up with their own inventions and then give them back for others to 
+refine further. Another theory of innovation considers inventions to be responses to problems encountered
+by the community. Things such as bad laws or ineffective ways of doing things show up in community, and 
+are considered problems by its members. This leads the community - the system - into a need state,
+mobilizing its members to seek solutions until they're found.
+
+One central idea is that social communities are cognitive architectures the same way that individual
+minds are [4]. The argument is as follows. Cognitive processes involve trajectories of information 
+(transmission and transformation), so the patterns of these information trajectories, if stable,
+reflect some underlying cognitive architecture. Since social organization - plus the structure added
+by the context of activity - largely determines the way information flows through a group, social 
+organization may itself be viewed as a form of cognitive architecture.
+
+[1] Hutchins, E. & Klausen, T. (1995) Distributed Cognition in an Airline Cockpit.
+
+[2] Spurrett, D. & Cowley, S.J. (2004) How to do things without words: infants, utterance-activity and
+distributed cognition. Language Sciences, 6, 443-466.
+
+[3] Miettinen, R. (2006) The Sources of Novelty: A Cultural and Systemic View of Distributed Creativity.
+Creativity and Innovation Management. Vol. 15, no. 2.
+
+[4] Hollan, J. & Hutchins, E. & Kirsh, D. (2000) Distributed Cognition: Toward a New Foundation for 
+Human-Computer Interaction Research. ACM Transactions on Computer-Human Interaction. Vol 7, no. 2.
+```
+
+In other words, says Sotala, "probably nothing to be worried about. Just normal human use of the environment."
 
 <a name="#names-matter"></a>
 ### Names matter
