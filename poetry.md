@@ -4,16 +4,17 @@
 
 Poems and quotes listed in reverse order of inclusion below.
 
-1. [The Contract Drafting Em](#the-contract-drafting-em)
-2. [Aphyr (Kyle Kingsbury)](#aphyr)
-2. [Reversing the technical interview, by zpojqwfe1wfhiunz](#reversing-the-technical-interview)
-2. [Love, by Simon Funk](#love)
-2. [Moloch, by Allen Ginsberg](#moloch)
-2. [High Flight, by John Gillespie Magee, Jr](#high-flight)
-2. [Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity, by John Tobias](#reflections-on-a-gift-of-watermelon-pickle-received-from-a-friend-called-felicity)
-3. [A sunset glimpse of deep time, by Lee Billings](#a-sunset-glimpse-of-deep-time)
-4. [In the beginning were the gametes, by Peter Watts](#in-the-beginning-were-the-gametes)
-4. [The Celestial Emporium of Benevolent Knowledge, by Jorge Luis Borges](#the-celestial-emporium-of-benevolent-knowledge)
+1. [A sunset glimpse of deep time](#a-sunset-glimpse-of-deep-time), by Lee Billings
+2. [The Celestial Emporium of Benevolent Knowledge](#the-celestial-emporium-of-benevolent-knowledge), by Jorge Luis Borges
+2. [The Contract Drafting Em](#the-contract-drafting-em), by Zack Davis
+2. [Love](#love), by Simon Funk
+2. [Moloch](#moloch), by Allen Ginsberg
+2. [Aphyr](#aphyr) (Kyle Kingsbury)
+   2. [Reversing the technical interview, by zpojqwfe1wfhiunz](#reversing-the-technical-interview)
+2. [High Flight](#high-flight), by John Gillespie Magee, Jr
+2. [Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity](#reflections-on-a-gift-of-watermelon-pickle-received-from-a-friend-called-felicity), by John Tobias
+4. [In the beginning were the gametes](#in-the-beginning-were-the-gametes), by Peter Watts
+
 
 <a name="#the-contract-drafting-em"></a>
 ## The Contract Drafting Em
