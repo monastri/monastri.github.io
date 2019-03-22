@@ -91,7 +91,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Statistical literacy](#statistical-literacy)
 2. [Teaching and learning](#teaching-and-learning)
    1. [Errors vs bugs](#errors-vs-bugs)
-   2. [Polymathy](#polymathy)
+   2. [Polymathy, or being a generalist](#polymathy)
 2. [Miscellaneous](#miscellaneous)
 
 <a name="#rationality-and-postrationality"></a>
