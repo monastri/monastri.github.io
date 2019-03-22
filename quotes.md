@@ -1819,7 +1819,7 @@ free-form exploration inside a scratch space. But even without being designed in
 a creative support.
 ```
 
-See also (Eric Drexler on how to learn about everything)[#polymathy], as well as more from Nielsen [here](#augmenting-long-term-memory).
+See also [Eric Drexler on how to learn about everything](#polymathy), as well as more from Nielsen [here](#augmenting-long-term-memory).
 
 <a name="#research-mindset"></a>
 ### Research mindset
