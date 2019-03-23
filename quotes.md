@@ -65,6 +65,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Mathematical maturity](#mathematical-maturity)
    3. [Good mathematics](#good-mathematics)
    4. [What every mathematician should know](#what-every-mathematician-should-know)
+   5. [Why most mathematical writing sucks](#why-math-is-boring)
 2. [Memory and the brain](#memory-and-the-brain)
    1. [Augmenting long-term memory](#augmenting-long-term-memory), e.g. Anki
    2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
@@ -104,6 +105,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Statistical literacy](#statistical-literacy)
 2. [Teaching and learning](#teaching-and-learning)
    1. [Errors vs bugs](#errors-vs-bugs)
+   2. [Important findings on learning](#important-findings-on-learning), ft. 25 principles by U of Missouri
    2. [Polymathy, or being a generalist](#polymathy)
 2. [Miscellaneous](#miscellaneous)
 
@@ -2045,6 +2047,8 @@ are subject to repetition, convergence, and rearticulation brought the question 
 thinking of structure ….") consist almost entirely of metaconcepts.
 ```
 
+See also [why math writing sucks](#why-math-is-boring).
+
 <a name="#research-tactics"></a>
 ### Research tactics
 ([overview](#overview))
@@ -2968,6 +2972,200 @@ It's not you, it's the bug.
 ```
 
 The rest of the linked article is _fantastic_. I had trouble quoting it because I felt like quoting everything.
+
+<a name="#important-findings-on-learning"></a>
+### Important findings on learning
+([overview](#overview))
+
+From the University of Missouri's [25 Learning Principles to Guide Pedagogy and the
+Design of Learning Environments](http://whaaales.com/25principlesoflearning.pdf). I only picked those I found interesting. 
+
+Contiguity Effects:
+
+```markdown
+Ideas that need to be associated should be presented contiguously in space and time in the
+multimedia learning environment. For example, the verbal label for a picture needs to be placed
+spatially near the picture on the display, not on the other side of the screen. An explanation of an
+event should be given when the event is depicted rather than many minutes, hours, or days later.
+```
+
+Perceptual-motor Grounding:
+
+```markdown
+Whenever a concept is first introduced, it is important to ground it in a concrete
+perceptual-motor experience. The learner will ideally visualize a picture of the concept, will be
+able to manipulate its parts and aspects, and will observe how it functions over time. The teacher
+and learner will also gain a common ground (shared knowledge) of the learning material.
+
+Perceptual-motor experience is particularly important when there is a need for precision, such as
+getting directions to find a spatial location. For example, a course in statistics is not grounded in
+perceptual-motor experience when the teacher presents symbols and formulae that have no
+meaning to the student and cannot be visualized
+```
+
+Dual Code and Multimedia Effects:
+
+```markdown
+Information is encoded and remembered better when it is delivered in multiple modes
+(verbal and pictorial), sensory modalities (auditory and visual), or media (computers and
+lectures) than when delivered in only a singe mode, modality, or medium. Dual codes provide
+richer and more varied representations that allow more memory retrieval routes. 
+
+However, the amount of information should not overwhelm the learner because attention is 
+split or cognitive capacities are overloaded.
+```
+
+Testing Effect:
+
+```markdown
+There are direct and indirect effects of taking frequent tests. One indirect benefit is that
+frequent testing keeps students constantly engaged in the material. Although students will learn
+from testing without receiving feedback, there is less forgetting if students receive informative
+feedback about their performance. Multiple tests slow forgetting better than a single test.
+Formative assessment refers to the use of testing results to guide teachers in making decisions
+about what to teach. Learners also benefit if they use test results as a guide for their own
+learning. 
+```
+
+The best way to do this is via spaced repetition. It's the whole idea behind Anki flashcards. See also [here](#augmenting-long-term-memory), as well as the next section -- Spaced Effects:
+
+```markdown
+Spaced schedules of testing (like spaced schedules of studying) produce better long-term
+retention than a single test. When a single test is administered immediately after learning,
+students obtain high scores, but long-term retention is reduced with a single immediate test
+relative to spaced testing. When a test is given immediately after learning has occurred, learners
+still have the newly-learned information in a primary memory system and therefore obtain high
+test scores. Both teachers and learners often misjudge their high scores on a test given
+immediately after learning as evidence of good retention, when, in fact, long-term retention
+suffers with this practice
+```
+
+Generation Effect:
+
+```markdown
+Learning is enhanced when learners produce answers compared to having them recognize
+answers. Free recall or essay tests which require the test taker to generate answers with minimal
+cues produce better learning than multiple choice tests in which the learner only needs to be able
+to recognize correct answers. In fact, free recall tests produce as much learning as restudying the
+material
+```
+
+Organization effects (part of the reason this document exists in the first place!):
+
+```markdown
+Outlining, integrating, and synthesizing information produces better learning than rereading
+materials or other more passive strategies. Students frequently report that when they study they
+reread materials they already read once. Strategies that require learners to be actively engaged
+with the material to-be-learned produce better long-term retention than the passive act of reading.
+Learners should develop their own mini-testing situations as they review, such as stating the
+information in their own words (without viewing the text) and synthesizing information from
+multiple sources, such as from class and textbooks.
+```
+
+Coherence effect (Robert Frost does this well in [his answers on Quora](https://www.quora.com/profile/Robert-Frost-1/answers)):
+
+```markdown
+The learner needs to get a coherent, well connected representation of the main ideas to be
+learned. It is important to remove distracting, irrelevant material, even when the added
+information is artistically appealing. Seductive details that do not address the main points to be
+conveyed run the risk of consuming the learner’s attention and effort at the expense of their
+missing the main points. 
+```
+
+Stories and example cases (see also [John Baez on why math publications should take a page from the storytelling skillbook](#why-math-is-boring)):
+
+```markdown
+Stories and other forms of narrative are easier to read, comprehend, and remember than
+other types of learning materials. For many millennia, the primary way of passing wisdom down
+from generation to generation was through stories. Stories have concrete characters, objects,
+locations, plot, themes, emotions, and actions that bear some similarity to everyday experiences.
+Many stories also convey a point or moral that can be generalized to many situations. Example
+cases in a story-like format are persuasive, easy to comprehend, and very memorable. 
+```
+
+Negative suggestion effects:
+
+```markdown
+Just as people learn correct information with frequent testing, they also can learn wrong
+information this way. For example, when incorrect alternatives on multiple choice tests are
+presented, the wrong answers can be learned instead of the correct answers. This effect is also
+found on short answer essay questions when students do not know the answers and use their
+general knowledge about the field to construct a response that seems reasonable to them. In this
+situation, learners recall their incorrect, but logically consistent response as being correct. These
+effects can be reduced when learners receive feedback immediately after taking a test which
+allows them to revise their memory and understanding without delay.
+```
+
+Desirable Difficulties (struggle promotes long-term recall -- true more so in math):
+ 
+```markdown
+Learning is enhanced when learners have to organize the information themselves or exert
+additional effort during acquisition or retrieval than in conditions in which the information to be
+learned or retrieved does not require effort. One possible explanation for this effect is that
+learners create multiple retrieval paths which make the information more accessible at retrieval.
+These practices slow initial learning, but promote long-term recall.
+```
+
+Explanation effects:
+
+```markdown
+Explanations consist of causal analyses of events, logical justifications of claims, and
+functional rationales for actions. Explanations provide coherence to the material and justify why
+information is relevant and important. Students may be prompted to give self-explanations of the
+material through think aloud protocols or questioning tasks that elicit explanations that connect
+the material to what they already know. Self-explanations and the activity of studying good
+explanations facilitate deeper comprehension, learning, memory, and transfer. 
+```
+
+Deep questions:
+
+```markdown
+Deep explanations of material and reasoning are elicited by questions such as why, how,
+what-if-and what-if not, as opposed to shallow questions that require the learner to simply fill in
+missing words, such as who, what, where, and when. Training students to ask deep questions
+facilitates comprehension of material from text and classroom lectures. The learner gets into the
+mindset of having deeper standards of comprehension and the resulting representations are more
+elaborate. 
+```
+
+Cognitive disequilibrium:
+
+```markdown
+Cognitive disequilibrium stimulates inquiry, curiosity, thinking, and deep questions,
+which in turn lead to deeper learning. Cognitive disequilibrium occurs when there are obstacles
+to goals, contradictions, conflicts, anomalous events, breakdown scenarios, salient gaps in
+knowledge, uncertainty, equally attractive alternatives, and other types of impasses. When these
+impasses occur, the learner needs to engage in reasoning, thought, problem solving, and planning
+in route to restoring cognitive equilibrium. There is a higher incidence of deep questions,
+thought, reasoning, and study efforts when learners undergo cognitive disequilibrium.
+```
+
+Goldilocks principle: 
+
+```markdown
+Assignments should not be too hard or two easy, but at the right level of difficulty for the
+student’s level of skill or prior knowledge. The definition of the zone of proximal development
+(ZPD) is a bit more technical: the difference in learning that occurs with versus without a
+learning scaffold (e.g., tutor, teacher, text, and computer). Researchers have identified a number
+of zones that reflect how much learning, memory, mastery, or satisfaction occurs along a
+continuum of task difficulty and that is sensitive to individual differences among learners. When
+the material is too easy for the learner, the student is not challenged and may get bored. When it
+is too difficult, the student acquires very little and gets frustrated or tunes out
+```
+
+Anchored learning:
+
+```markdown
+Anchored learning occurs when students work in teams for several hours or days trying to
+solve a challenging practical problem that matters to the student. The activity is linked to
+background knowledge of the learner on a topic that is interesting. The problem is challenging,
+so the learner needs to engage in problem solving and recruit multiple levels of knowledge and
+skills. These activities are coherently organized around solving the practical problem. Examples
+of anchored learning are problem-based curricula in medical schools where students work on
+genuine medical cases and communities of practice where students try to solve problems of
+pollution in their city.
+```
+
 
 <a name="#polymathy"></a>
 ### Polymathy
@@ -4734,14 +4932,79 @@ Mechanics and some physics related to field theories and string theory; and—of
 connects to this.
 ```
 
-<a name="#general-intelligence"></a>
+<a name="#why-math-is-boring"></a>
+### Why math is boring
+([overview](#overview))
 
+From John Baez's "very rough draft" [Why Mathematics is Boring](http://math.ucr.edu/home/baez/boring.pdf), where he argues in the abstract that the boring style of math publications is a serious matter to contend with:
+
+```markdown
+Storytellers have many strategies for luring in their audience and keeping them interested.
+These include standardized narrative structures, vivid characters, breaking down long stories
+into episodes, and subtle methods of reminding the readers of facts they may have forgotten. The
+typical style of writing mathematics systematically avoids these strategies, since the explicit goal
+is “proving a fact” rather than “telling a story”. Readers are left to provide their own narrative
+framework, which they do privately, in conversations, or in colloquium talks. As a result, even
+expert mathematicians find papers — especially those outside their own field — boring and
+difficult to understand. This impedes the development of mathematics.
+```
+
+Introduction:
+
+```markdown
+In their research papers, mathematicians usually eschew narrative techniques designed to keep readers
+interested, since their main goal is not to “entertain” or even explain, but present logical arguments
+as efficiently as possible. While this makes a certain sense, it neglects the human dimension
+of mathematics. It neglects the fact that a piece of mathematics is almost useless if almost nobody
+understands it. But, before anyone can understand a piece of mathematics, they must first become
+interested in it. So, for a mathematician who wants to fully develop a piece of mathematics, discovery
+and proof are only the first steps on a longer road. The next step is getting people interested.
+
+Unfortunately, mathematicians are not trained in this art. Indeed, their writing is famous for
+being “dry”. There are exceptions, and these exceptions are worth studying. But it also makes sense
+to look to people whose whole business is getting people interested: story-tellers.
+Everyone enjoys a good story. We have been telling and listening to stories for untold millennia.
+Stories are one of our basic ways of understanding the world. I believe that when we read a piece of
+mathematics, part of us is reading it as a highly refined and sublimated sort of story, with characters
+and a plot, conflict and resolution.
+
+If this is true, maybe we should consider some tips for short story writers, and see how they can
+be applied — in transmuted form — to the writing of mathematics. These tips may sound a bit
+crass to mathematicians, or even readers of “serious” fiction. But they go straight to the heart of
+what gets people interested, and what keeps them interested, in a piece of writing.
+```
+
+Under "write a catchy first paragraph":
+
+```markdown
+We are constantly encountering texts; we don’t bother reading all the way through most of them.
+Once texts were rare and precious. Now, in the era of the world-wide web, there is always too much
+to read. We must efficiently cull out most of the material vying for our attention. Often we base
+our decision on the first sentence or two.
+
+Since most writers of short stories succeed largely on their sheer number of readers, and few
+people read stories because they need to, writers of short stories learn the importance of quickly
+grabbing the reader’s attention. In a catchy story, each sentence makes the reader want to read the
+next. The first few sentences bear the brunt of this responsibility.
+
+Mathematicians operate in a more forgiving environment, with guaranteed permanent employment for many. 
+They can succeed with only few people reading their work. Consider two of the 
+most famous mathematicians of recent years: Andrew Wiles and Grigori Perelman. How many of us
+   have really read Wiles’ proof of Fermat’s last theorem, or Perelman’s sketched proof of the Poincar´e
+conjecture? Even among professional mathematicians, most are satisfied to know that a few experts
+vouch for these proofs’ validity. So, instead of broadening their readership, mathematicians are
+mostly concerned with impressing other experts in their field.
+```
+
+See also [why academic writing sucks](#why-academic-writing-sucks).
+
+<a name="#general-intelligence"></a>
 ## General intelligence
 ([overview](#overview))
 
 <a name="#logi"></a>
-
 ### *Levels of Organization in General Intelligence*
+([overview](#overview))
 
 Here are some interesting passages from Eliezer Yudkowsky’s paper [Levels of Organization in General Intelligence](https://intelligence.org/files/LOGI.pdf).
 
