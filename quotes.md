@@ -55,6 +55,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Fiction and writing](#fiction-and-writing)
    1. [Writing advice](#writing-advice)
       1. [Nonfiction](#nonfiction), e.g. microhumor
+         1. [The art of plain talk](#the-art-of-plain-talk)
       2. [Fiction](#fiction)
          1. [Show, don't tell -- or not](#show-dont-tell)
 2. [General intelligence](#general-intelligence) 
@@ -1160,6 +1161,134 @@ laugh while challenging their cherished beliefs, you’ve got a tiny bit more go
 
 It turns out that many of my favorite writers are masters of microhumor. Steve Yegge is another one -- see [here](#practical-magic). 
 
+<a name="#the-art-of-plain-talk"></a>
+### The art of plain talk
+([overview](#overview))
+
+Rudolf Flesch's book [The Art of Plain Talk](http://www.amazon.com/dp/B000HNDRLO/ref=nosim?tag=lukeprogcom-20) has a lot of great quotes. First, an observation: 
+
+```markdown
+Grammar is what makes sentences difficult. Conjugations, declensions, irregular verbs, ablatives,
+subjunctives, and aorists, oh my!
+```
+
+Then a claim, persuasively made:
+
+```markdown
+It might help if we wrote in Chinese, the “grammarless” tongue. Chinese has no inflections. No cases.
+No persons. No genders. No degrees. No tenses. No voices. No moods. No infinitives. No participles.
+No gerunds. No irregular verbs. No articles. No prefixes or suffixes.
+
+This is not because Chinese is primitive. Chinese was once an irregular, complicated mess like 
+English. But the Chinese people, generation after generation, changed it into a streamlined machine
+for expressing ideas.
+
+We say “A man bites a dog.” They say “Man bite dog.” We say “A dog is an animal.” They say “Dog: animal.” 
+We say “The sun is bright and shiny.” They say “Sun shine.”
+
+This may sound like baby talk. But look closely and you will see that Chinese offers the same meaning 
+without the baggage.
+
+Now look at English. We have the word 'sign', meaning “a mark.” Add a suffix and you get 'signify', “to make
+a mark.” Add another suffix and you have 'significant', “making a mark.” Add a prefix and you have 
+'insignificant', “making no mark.” Add another suffix for 'insignificance', “the making of no mark.” We took
+a simple noun and made it into a verb, an adjective, another adjective, and again a noun.
+
+After all those complications, we can be philosophical and talk about the *insignificance of man*. The
+Chinese would just talk about *man no mark*.
+
+Good writers work hard to make the abstract concrete. The Chinese have no abstract words to begin with. 
+English philosophers may write that “The health of societies is not benefited by a mass of individuals
+desiring radical differentiation from each other, nor by a mass of individuals lacking independent thought
+and action.” Chinese philosophers say “Do not be rare like jade or common like stone.”
+```
+
+At this point I'm of two minds. I like where Flesch is getting at, but don't like the complete lack of abstract words to work with. Abstraction is a double-edged sword, not an unalloyed evil.
+
+But let's go with Flesch -- how might we write more plainly?
+
+```markdown
+Once, I was reading a philosophy essay of mine to my girlfriend. She could barely understand it. 
+“Why don’t you just say it like you said it to me yesterday?” she asked.
+
+As hard as it is to write in plain talk, we speak in plain talk all the time. What is it about our
+talking that is clearer than our writing?
+
+When speaking, we may use big words and a fast pace and complex grammar, but we give the other person 
+time to understand us. We repeat ourselves. We use filler words. We pause.
+
+But when writing, we eliminate all repeated and irrelevant words. If every word is important, the 
+reader may not have time to digest what is being said because your ideas are coming at him too quickly.
+
+We write like this: “Perhaps the toughest intellectual work we must do regarding European reconstruction
+is to realize that it can be achieved through nonpolitical instrumentalities. Reconstruction will not be
+politics, but engineering.”
+
+We talk like this: “We have a tough job ahead of us, I think. Reconstructing Europe is a tough job, and 
+it’s a job of thinking; of figuring out how to do it. We can’t do it with politics, I don’t think. No, 
+it won’t be done with politics. It’ll be more like building a bridge; more like engineering. That’s the
+way I see it, anyway.”
+
+The first version is concise. It moves rapidly and requires strict concentration. But readers are 
+surrounded by distractions. They need the repetition, pauses, and filler of the second version to keep 
+up with your thought, or else they may have to read your sentences twice. Put space between your ideas.
+
+We might combine the clarity of the first version with the readability of the second version like this:
+“We have a tough job ahead of us. We need to figure out how to reconstruct Europe. It won’t happen with
+political forces. The European reconstruction will be a matter of engineering, not politics.”
+```
+
+Flesch on avoiding brevity for brevity's sake:
+
+```markdown
+Simplicity and brevity are not the same thing. Plain talk can be slow. Condensed sentences are often tough
+to read.
+
+Brevity-worship can lead you to use confusing abbreviations, such as the famous Variety headline: STIX NIX
+HIX PIX. To loyal Variety readers, this meant that small-town moviegoers disliked rural pictures. To the 
+rest of us, it meant nothing.
+
+Condensed writing is for experts. Plain talk is for everyone else. Consider this sentence: “We need long-
+range planning for industrialization with long-term credit financing, decent wage guarantees, protection of
+national interests and equal participation of domestic and foreign capital.”
+
+We need lots of simple words to translate all those big words into plain English. Here, simplifying means 
+*lengthening*, not shortening. Brevity is great, but simplicity is greater.
+```
+
+Engaging human interest:
+
+```markdown
+We know nothing better than ourselves. We speak and think best about us. That’s why it is a bit easier to
+read and understand “Stalin drinks vodka” than “Vodka contains alcohol.” Give your writing human interest.
+
+Newspapers add human interest to a scene by giving an eyewitness report. Scientific findings are reported 
+as an unraveling mystery; the scientists as detectives. Public policy reporting is given from the 
+biographical view of the persons pushing for policy change.
+
+How might we engage human interest in this bland paragraph? “Du Pont this week announced a new product as
+potentially profitable as its nylon. It is wood impregnated with chemicals that transform it into a hard,
+polished material. Wood so treated does not warp, split, or shrink.”
+
+It is easy to give your writing human interest. Look at each sentence and find the logical—not the 
+grammatical—subject. The logical subject of almost everything that humans care about is human.
+
+Who announced a new product? A corporation? No, people announced a new product: “The Du Pont people this
+week announced…”
+
+Next: Who impregnated the wood? The Du Pont people! So: “They have impregnated wood…”
+
+But isn’t the subject of the next sentence wood? To find the logical subject in this sentence, ask: How do 
+you know? Well, how does anyone know a scientific fact? By testing. So: “Their tests show that wood so 
+treated does not warp…”
+
+Our revised paragraph is less concise. But that gives our readers time to keep up with our thought. And 
+now, the paragraph is about our readers’ favorite subject, people: “The Du Pont people this week announced
+a new product as potentially profitable as its nylon. They have impregnated wood with chemicals that
+transform it into a hard, polished material. Their tests show that wood so treated does not warp, split, 
+or shrink.”
+```
+
 <a name="#fiction"></a>
 ### Fiction
 ([overview](#overview))
@@ -2042,6 +2171,8 @@ For the record: this is my own opinion and not that of any of my current or prev
 ### Why academic writing sucks
 ([overview](#overview))
 
+See also [Writing advice](#writing-advice).
+
 My favorite academic(ish) writers — like Baez for math, Aaronson for CS, Simler for postrationality, Nerst for erisology — are all guided by the spirit of *“hey, there’s something exciting I wanna show you!”*. Their words *get out of the way*, and you see the distilled essence of the thing that’s taken their breath away, and has now snatched yours too. It’s a tremendously heady experience. A longstanding dream of mine is to write a piece that captures that same spirit in explaining a difficult idea.
 
 From Steven Pinker's essay [Why academics stink at writing](https://stevenpinker.com/files/pinker/files/why_academics_stink_at_writing.pdf), which you should read in its entirety for the beautifully clear writing and guffaw-inducing anecdotes. 
@@ -2099,7 +2230,7 @@ were written with grace and verve.
 
 So if bamboozlement, insider-shorthand and journal gatekeeping are wrong, what's really at fault? Pinker’s answer is two-pronged: the self-conscious style, and the curse of knowledge. The latter I’ve covered in previous posts, so the summary below concentrates on the former. 
 
-First, Thomas and Turner on how to understand writing styles -- this is a summary from [my own post](), since Pinker uses a lot of words:
+First, Thomas and Turner on how to understand writing styles:
 
 ```markdown
 Every style of writing, quoting Francis-Noel Thomas and Mark Turner’s book *Clear and Simple 
@@ -2131,6 +2262,8 @@ using the occasion of writing to sort out what he thinks. The writer and the rea
 The reader can recognize the truth when she sees it, as long as she is given an unobstructed view.
 And the process of directing the reader’s gaze takes the form of a conversation.
 ```
+
+See also [The art of plain talk](#the-art-of-plain-talk).
 
 Most academic writing is the opposite of classic style. It’s a blend of two styles: *practical* and *self-conscious* (or ironic, postmodern, relativistic).
 
