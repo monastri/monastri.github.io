@@ -37,7 +37,9 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 
 I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring. The categories are ordered alphabetically; the actual quotes are chronological.
 
-1. [Artificial intelligence](#artificial-intelligence)
+1. [Amazing people](#amazing-people)
+   1. [Alexander Grothendieck](#alexander-grothendieck)
+2. [Artificial intelligence](#artificial-intelligence)
    1. [AGI, the Singularity, and all that razzmatazz](#agi-the-singularity-and-all-that-razzmatazz)
    1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
 2. [Biology](#biology)
@@ -110,6 +112,60 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Important findings on learning](#important-findings-on-learning), ft. 25 principles by U of Missouri
    2. [Polymathy, or being a generalist](#polymathy)
 2. [Miscellaneous](#miscellaneous)
+
+<a name="#Amazing-people"></a>
+## Amazing people
+([overview](#overview))
+
+<a name="#Alexander-Grothendieck"></a>
+### Alexander Grothendieck
+([overview](#overview))
+
+Rene Thom, 1958 Fields Medalist:
+
+```markdown
+His technical superiority was crushing,” Thom wrote. “His seminar attracted the whole of Parisian 
+mathematics, whereas I had nothing new to offer.
+```
+
+Pierre Deligne, 1978 Fields Medalist:
+
+```markdown
+When I was in in Paris as a student, I would go to Grothendieck's seminar at IHES... I enoyed the 
+atmosphere around him very much ... we did not care much about priority because Grothendieck had the
+ideas that we were working on and priority would have meant nothing.
+```
+
+Mikhail Gromov, 2010 Abel Prize Winner:
+
+```markdown
+(The IHES) is a remarkable place.. I knew about it before I came there; it was a legendary place
+because of Grothendieck. He was kind of a god in mathematics.
+```
+
+Ngo Bau Chau, 2010 Fields Medalist:
+
+```markdown
+On arriving at the IHES, we ordinary mathematicians share the same feeling that Muslims experience
+on a pilgrimage to Mecca. Here is the place were, for a dozen or so years, Grothendieck relentlessly
+explained the holy word to his apostles. Of that saga, only the apocrypha reached us in the form of 
+big, yellow, boring-looking books edited by Springer. These dozens of volumes...are still our most 
+precious working companion.
+```
+
+Grothendieck on himself, cf dumb ox/sleight of hand:
+
+```markdown
+I've had the chance...to meet quite a number of people, both among my "elders" and among young 
+people in my general age group, who were much more brilliant, much more "gifted" than I was. I
+admired the facility with which they picked up, as if at play, new ideas, juggling them as if 
+familiar with them from the cradle - while for myself I felt clumsy. even oafish, wandering 
+painfully up a arduous track, like a dumb ox faced with an amorphous mountain of things that I 
+had to learn ( so I was assured), things I felt incapable of understanding the essentials or 
+following through to the end. Indeed, there was little about me that identified the kind of bright
+student who wins at prestigious competitions or assimilates, almost by sleight of hand, the most
+forbidding subjects.
+```
 
 <a name="#economics"></a>
 ## Economics
