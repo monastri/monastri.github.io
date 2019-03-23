@@ -60,10 +60,11 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Mathematical maturity](#mathematical-maturity)
    3. [Good mathematics](#good-mathematics)
    4. [What every mathematician should know](#what-every-mathematician-should-know)
-2. [Memory](#memory)
+2. [Memory and the brain](#memory-and-the-brain)
    1. [Augmenting long-term memory](#augmenting-long-term-memory), e.g. Anki
    2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
-   2. [Externalizing the brain via aids to memory](#external-brain), e.g. Google, writing
+   2. [Externalizing the brain](#external-brain), e.g. Google, writing, Cosma on collective cognition
+   3. [Cognitive science](#cognitive-science)
    3. [Names matter](#names-matter)
 2. [Philosophy](#philosophy)
    1. [General](#general-philosophy)
@@ -284,8 +285,8 @@ Sure, meta-level arguments are very valuable in many cases, we shouldn't drop th
 be very cautious while using them.
 ```
 
-<a name="#Memory"></a>
-## Memory
+<a name="#Memory-and-the-brain"></a>
+## Memory and the brain
 ([overview](#overview))
 
 <a name="#augmenting-long-term-memory"></a>
@@ -494,6 +495,225 @@ Human-Computer Interaction Research. ACM Transactions on Computer-Human Interact
 ```
 
 In other words, says Sotala, "probably nothing to be worried about. Just normal human use of the environment."
+
+Cosma Shalizi is a great read for collective cognition. Here's the introduction he wrote to the [Collective Cognition:
+Mathematical Foundations of Distributed Intelligence](http://csc.ucdavis.edu/~dynlearn/colcog/description.htm) workshop he co-organized awhile back, giving modern science and markets as examples:
+
+```markdown
+Many forms of individual cognition are enhanced by communication and collaboration with other 
+intelligent agents. We propose to call this collective cognition, by analogy with the well known 
+concept of collective action. People (and other intelligent agents) often "think better" in groups
+and sometimes think in ways which would be simply impossible for isolated individuals. Perhaps the most
+spectacular and important instance of collective cognition is modern science. An array of formal 
+organizations and informal social institutions also can be considered means of collective cognition. For
+instance, Hayek famously argued that competitive markets effectively calculate an adaptive allocation of
+resources that could not be calculated by any individual market-participant. 
+
+Hitherto the study of collective cognition has been qualitative, philosophical, even at times anecdotal.
+Only recently, we believe, have the tools fallen into place to initiate a rigorous, quantitative science of
+collective cognition. Moreover, it appears that soon there will be a real practical need for such a science.
+```
+
+A bit more on collective cognition:
+
+```markdown
+Collective cognition involves an interaction among three elements-the individual abilities of the agents,
+their shared knowledge, and their communication structure. Cognitive collectives therefore resemble many
+other complex systems which are collectives of goal-directed processes. Typically, the individual processes
+know little of the detailed dynamics and the state of the overall system and, therefore, must use adaptive
+techniques to achieve their goals. There are many naturally occurring examples, including human economies, 
+human organizations, ecosystems, and even spin glasses. In addition, it has recently become clear that many
+of the engineered systems of the future must be of this type, with massively distributed computational 
+elements. There is optimism in the multi-agent system (MAS) field that widely applicable solutions to large,
+distributed problems are close at hand. Some experts now believe that, in the information and
+telecommunications networks of today, we have nascent examples of artificial cognitive collectives.
+```
+
+Collective cognition touches on a dazzling variety of fields: 
+
+```markdown
+Cognitive science
+Situated agents
+Emergent computation
+Bounded rationality
+Institutional economics
+Economies of information
+Evolutionary game theory
+Cognitive ethology
+Collective phenomena in physics
+Neural computation and distributed representations
+Distributed computation
+Mechanism design
+General equilibrium theory
+Population biology
+Robustness
+Swarm intelligences
+Reinforcement learning
+Adaptive control
+Cultural evolution
+Cognitive sociology and the sociology of science
+Telecommunications data routing
+```
+
+Some basic (i.e. foundational) questions of interest, at least for Cosma's workshop:
+
+```markdown
+Interaction between communication structure and cognitive performance.
+
+How are knowledge dynamics and communication structure related? How are computational structure and 
+communication structure related?
+
+Why do some collectives not support much cognition and others support substandard or even pathological
+forms?
+
+When, and to what extent, can we attribute cognition, or at least computation, to the collective as 
+such, rather than its individual members?
+
+How much do we need to know about individual cognition to do adequate models of collective intelligence?
+
+How can the capacity for collective cognition evolve?
+
+Collective-action problems: Why should an agent contribute to the collective? Conversely, does the 
+collective-cognition perspective shed any light on collective action in the conventional sense?
+
+Incentive design: When we cannot directly control the goals individual agents, how can we still configure 
+the system so that each agent has incentives to pursue a goal that is both readily achievable and good
+for the overall collective?
+
+How useful is fiat money in collectives whose agents are not human beings?
+
+When and how should agents be induced to form teams?
+
+When and how does agent heterogeneity enhance collective cognitive performance? Are "disagreement"
+and "controversy" among agents always bad, or sometimes desirable for the collective?
+
+How is robustness of behavior against external perturbation related to quality of behavior?
+```
+
+Cosma writes about collective cognition in a more fun-to-read way in his [review](http://bactra.org/reviews/cognition-in-the-wild/) of Edwin Hutchins' book *Cognition in the Wild*. It begins like so:
+
+```markdown
+Human beings coordinate their actions to do things which would be hard or impossible for them 
+individually. This is not a particularly recondite fact, and the recognition of it is ancient; 
+it is in the fifth book of Lucretius's De Rerum Natura, for instance. It was a commonplace of 
+the Enlightenment, that most sociable age, and the philosophes were even, it seems, the first to 
+realize that thinking, too, can be a collective activity, one conducted and amplified by social
+groups --- which is not to say that societies have thoughts. ...
+
+The nineteenth century, and to a lesser degree this one, have witnessed a dramatic expansion in 
+the numbers of us engaged in administration, bureaucracy, management, oversight --- that is to say,
+in formally-organized tasks of collective cognition and control. We did not invent bureaucracy, 
+the mainstay of the ancient empires, but we're much, much better at it than they were. A random 
+American town of 200,000 --- Piffleburg, WI, let us say --- will have police, a rescue squad, a fire
+department, a hospital, universal schooling, several large factories, insurance offices, banks, a 
+community college, a public library with several thousand volumes at least, a post office, public 
+utilities, political parties, garbage collection, paved and usable roads everywhere, mercantile 
+connections stretching across the country, and, with some luck, unions. These are corrupt, 
+inefficient institutions which work poorly; every election, Piffleburg's citizens mutter something 
+like "what do we pay taxes for anyway?" Yet to run any one of these institutions at the level of 
+honesty, efficiency and efficacy which makes Piffleburg grumble would have demanded the full powers
+and attention of even the ablest Roman propraetor or T'ang magistrate. That all of those institutions,
+plus the ones not restricted to a single city, could be run at once, and while governed by a very 
+ordinary slice of common humanity, would have seemed to such officials flatly impossible.
+```
+
+So why are we, as Cosma puts it, "so much better at collective endeavors than the ancients"? This is fairly easy to address:
+
+```markdown
+To a first approximation, the answer is: brute force and massive literacy. We teach nearly everyone to
+read and write, and to do it, by historical standards, at a high level. This lets us staff large
+bureaucracies (by some estimates, over 40% of the US workforce does data-handling), which lets us run an
+industrial economy (the trains run on time), which makes us rich enough to afford to educate everyone 
+and keep them in bureaucratic employment, with some surplus left over to expand the system. 
+
+ This would do us no good if our ideas of administration were as shabby as those of our ancestors in the 
+ dark ages, but they're not: we inherited those of the ancient empires, and have had quite a while to 
+ improve upon them (and improvements are made easier and faster by the large number of administrators and
+ the high standard of literacy). Among the improvements are many techniques (standardized procedures,
+ standardized parts, standardized credentials and jobs, explicit qualifications for jobs and goods, files,
+ standardized categories) and devices (forms, punch cards, punch card tabulators, adding machines, card
+ catalogs, and, recently, computers) for making the administration of people and things easier.
+```
+
+Now while this is all splendid, it's "in the realm of technique"; when it comes to theory, nobody has any real idea how to explain what's going on:
+
+```markdown
+We don't really have a good theory about how collective action and cognition work, when and why they do, 
+how they can be made to work better, why they fail, what they can and cannot accomplish, and so forth. 
+
+Intellectually, these are large, tempting problems; technologically, they have obvious relevance to the 
+design of parallel and distributed computers; economically, they could mean real money, not just billions;
+and, in general, it'd be nice to know what it is we've gotten ourselves into.
+```
+
+Enter Edwin Hutchins, who conducted fieldwork studying navigation on a US navy ship based in San Diego with the problem of theoretically grounding collective cognition in mind. His fieldwork is interesting:
+
+```markdown
+Hutchins's field evidence consists of very detailed records, taken in the early 1980s, on the performance 
+of the navigation crew of a helicopter carrier ship he calls the Palau, principally as they fix their 
+location and plot their course near shore. The way it worked, in those pre-GPS days, was, roughly, this: 
+three land-marks on shore, of known location on the navigation charts, would be selected by the main
+person in charge, the "quartermaster of the watch." Then they'd "take bearings" on these, i.e. find the
+orientation of the line from the landmark to the ship. These lines would be drawn on the chart. Now, it's 
+an elementary result in Euclidean geometry that any two lines meet at a single point (unless they're parallel);
+three lines form a triangle (unless they all meet at the same point). Somewhere within that triangle is the 
+ship: this fixes the current position. The position of the ship at the next fix is estimated by "dead
+reckoning," which is simply taking the current position and heading of the ship, and its planned speed, and 
+extrapolating forward along the line of its heading. A single person can do this, if he's not too rushed.
+Close to shore, the Navy gets worried, and demands fixes every few minutes, so the task gets broken down: 
+naval flunkies take the bearings, a different flunky tells them when to take the bearings, and so on. There's 
+a fairly rigid protocol for coordinating all these actions, and for communicating their results in a usable
+form, and specialized instruments for making the job easier.
+
+So, what does all this actually show? Well, that cognitive tasks can get spread over several people; that, 
+in this instance, those who do tasks which require input from other people are generally superior to them in
+rank; that the official job descriptions do not quite correspond to what people do; that people have a hard 
+time believing things which are strange to them, and tend to ask those who report them questions along the 
+lines of "Are you sure?"; that, if you don't know what something looks like, a verbal description can be very
+unhelpful; that the right tools can make the job simpler; and that building computation into tools can make 
+the job simpler for people, since it's easier to use a slide-rule than take a sine or a logarithm in your head;
+that, if you can't talk about something, it's hard to make plans with someone else about it. There's more, but 
+they're along the same lines.
+
+These are not exactly earth-shaking results; in fact, they're about what common sense says to us. This doesn't 
+make it useless to check them, since common sense is so often wrong; but even then, Hutchins has checked them
+against the performance of one task (navigation; more particularly, location fixing), in one set of social 
+groups (a couple of ships of the US Navy) --- ones where the social system is designed, and has received several
+centuries of re-design from people whose common sense more or less agrees with the above. (One wonders if they
+did things differently aboard the Potemkin.)
+```
+
+Unfortunately his conclusions are rubbish. 
+
+<a name="#cognitive-science"></a>
+### Cognitive science
+([overview](#overview))
+
+From Cosma Shalizi's [review](http://bactra.org/reviews/cognition-in-the-wild/) of Edwin Hutchins' book *Cognition in the Wild*:
+
+```markdown
+Cognition, whether human, animal or artificial, is a kind of information-processing, taking place, in our
+case, in the brain. The information takes the form of representations (of sensory stimuli, of states of 
+parts of the world, of facts, of relations, of possible states of parts of the world, of courses of action,
+or what-not). The processing consists of the transformation of these representations according to definite,
+though perhaps stochastic, rules. (So far, we have not excluded the connectionist heretics.) An immense amount
+of information-processing takes place subconsciously, particularly that which turns raw irritation of the 
+afferent nerves into useful perceptions of the world about us, and turns volitions into raw stimulations of
+the efferent nerves. To recognize a dagger you see before you involves a lot of computational work; some people,
+having been wounded in the parts of the brain which do the computations, cannot. At least at some level of 
+abstraction, the representations and transformations are usefully, conveniently and/or accurately thought of as
+structures of symbols and as algorithms, respectively. (This does rule out the connectionists.) The algorithms 
+may be (or, if you like, instantiate) rules of inference, or rules for producing new representations from old 
+ones more generally ("production systems"). 
+
+One particularly well-studied kind of cognition, sometimes taken as the paradigm of all cognition, is
+problem-solving, conceived of as turning a representation of the problem, step by step, into a representation of
+a solution, or something close enough to a solution to satisfy the problem-solver. (Expertise in solving a kind 
+of problem consists in knowing good algorithms to apply to it, being able to represent a problem in a way which
+makes it easy to solve, and being able to recognize a solution when you have one.) In principle, all this takes 
+place in the brain; in practice, we can fake a larger and more accurate memory than we possess by either using 
+external symbols, or by taking advantage of regular and persistent parts of our environment.
+```
 
 <a name="#names-matter"></a>
 ### Names matter
