@@ -82,7 +82,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
       1. [X isn't about Y](#x-isnt-about-y)
       2. [Countersignaling](#countersignaling), including metacontrarianism
 2. [Research and academia](#research-and-academia)
-   1. [Research in industry](#research-in-industry)
+   1. [The general function of intellectual traditions](#role-of-intellectual-traditions)
+   2. [Research in industry](#research-in-industry)
    2. [Why academic writing sucks](#why-academic-writing-sucks)
    2. [Tactics and advice](#research-tactics)
       1. [Using Anki to read a paper in an unfamiliar field thoroughly](#anki-in-research)
@@ -1275,6 +1276,27 @@ graduation I should do something that involved as little human interaction as po
 <a name="#research-and-academia"></a>
 ## Research and academia
 ([overview](#overview))
+
+<a name="#role-of-intellectual-traditions"></a>
+### Role of intellectual traditions
+([overview](#overview))
+
+From Cosma Shalizi's [review](http://bactra.org/reviews/error/) of Deborah Mayo's book *Error and the Growth of Experimental Knowledge*:
+
+```markdown
+Then, too, there is the interesting, and I think absolutely correct, view of the purpose and utility
+of a theory of experiment: "It changes fortuitous events, which may take weeks or may take many decennia,
+into an operation governed by intelligence, which will be finished within a month" (7.78, quoted p. 434).
+
+This is of a piece with the general function of intellectual traditions. Genius can, perhaps, get by on
+its wits, make things up from scratch, etc. Intellect serves the rest of us, by codifying, by setting up
+standards and procedures which can be followed with only (as a friend once happily put it) "a mediocum of
+intelligence," so that what might have taken genius can be (at least partially) achieved through the
+application of rules. Among those rules, "normal tests" or "standard tests" --- tests which have proved to
+be reliable detectors of specific errors --- take a special place. Traditions of inquiry which incorporate
+and use a family of normal tests may fail to produce reliable knowledge, but those which don't can hardly
+hope even to produce interesting mistakes.
+```
 
 <a name="#research-in-industry"></a>
 ### Research in industry
