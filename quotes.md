@@ -948,7 +948,149 @@ book at all.
 ### Nonfiction
 ([overview](#overview))
 
-Scott Alexander's [Nonfiction writing advice](https://slatestarcodex.com/2016/02/20/writing-advice/) is specialized for argumentative topics, which isn't exactly my cup of tea, but it has gems. 
+From Stephen King:
+
+```markdown
+I believe the road to hell is paved with adverbs and I will shout it from the rooftops. 
+To put it another way, they're like dandelions. If you have one on your lawn it's pretty
+and unique. If you fail to root it out, however, you find five the next day . . . fifty 
+the day after that . . . and then, my brothers and sisters, your lawn is totally,
+completely, and profligately covered with dandelions. By then you see them for the weeds 
+they are, but by then it's--GASP!!--too late.
+
+If you want to be a writer, then you must do two things above all others: read a lot and 
+write a lot.
+
+You must be prepared to do some serious turning inward toward the life of the imagination,
+and that means, I'm afraid, that Geraldo, Keith Obermann, and Jay Leno must go. Reading 
+takes time, and the glass teat takes too much of it.
+
+Must you write complete sentences each time, every time? Perish the thought.
+
+It's always easier to kill someone else's darlings than it is to kill your own.
+```
+
+From [Stein on Writing](http://www.amazon.com/Stein-Writing-Successful-Techniques-Strategies/dp/0312254210/), some good examples of nonfiction opening lines:
+
+```markdown
+When it comes to shopping for a computer, the most important peripheral runs at 98.6 degrees 
+Fahrenheit and is known as a friend.
+
+Here on a stony meadow in West Texas at the end of 10 miles of unpaved road through mesquite-
+covered, coyote-infested shurb land, several hundred bearers of a strategic commodity of the 
+United States of America are gathered.
+They are goats.
+
+As the 155-millimeter howitzer shells whistled down on this crumbling city today, exploding 
+into buildings all around, a disheveled stubble-bearded man in formal evening attire unfolded
+a plastic chair in the middle of Vase Miskina Street. He lifted his cello from its case and 
+began playing Albinoni's Adagio.
+```
+
+Repetition: 
+
+```markdown
+Yesterday morning Henry Sorbino walked into the K-Mart on Eleventh Street carrying an umbrella 
+and walked out carrying an umbrella and someone else's purse.
+```
+
+Eye for detail:
+
+```markdown
+Carl Gardhof, his head held high as if he had done nothing wrong, was sentenced in Superior Court
+to eighteen months in jail this morning.
+```
+
+In a story about the suspension of auto union talks because workers were loath to chip in for health care costs:
+
+```markdown
+Since learning last year that he had multiple sclerosis, Andy Torok has become less and less steady
+on his feet, and his worries have accumulated along with the hand prints on his apartment's white walls.
+```
+
+Obituaries and memorial pieces:
+
+```markdown
+Andy Warhol, draftsman of shoes, is dead, and the people viewing his remains are mostly wearing
+scuffed white sneakers.
+
+A year after his death, the recurring image I associate with Raymond Carver is one of people 
+leaning toward him, working very hard at the act of listening.
+```
+
+Autobiographies:
+
+```markdown
+Many problems confront an autobiographer, and I am confident that I have not solved them.
+```
+
+Here's a comment by Scott Alexander on Luke Muehlhauser's LW post [Rhetoric for the good](https://www.lesswrong.com/posts/SiGY7aah56HvGXxBJ/rhetoric-for-the-good) which I lost years ago, and am delighted to stumble upon again:
+
+```markdown
+There's that quote about how "the most important thing is sincerity, and if you can fake that, 
+you've got it made." So there are two equal and opposite commandments for popular writing. First,
+you've got to sound like you're chatting with your reader, like you're giving them an unfiltered 
+stream-of-consciousness access to your ideas as you think them. Second, *on no account should you
+actually do that*.
+
+Eliezer is one of the masters at this; his essays are littered with phrases like "y'know" and 
+"pretty much", but they're way too tight to be hastily published first drafts (or maybe I'm wrong 
+and Eliezer is one of the few people in the world who can do this; chances are you're not). You've 
+got to put *a lot of work* into making something look that spontaneous. I'm a fan of words like "sorta"
+and "kinda" myself, but I have literally gone through paragraphs and replaced all of the "to some 
+degrees" with "sortas" to get the tone how I wanted it.
+
+I like inserting myself and my thought processes into things I write. It's a no-no in serious writing,
+but in informal writing it can emphasize the informality and become endearing, a sort of "we can take 
+off the masks now, because we're all friends here". This only works if your personal asides are actually
+endearing to people, or at least not actively boring and off-putting, but if you get it right it lets 
+you keep more spontaneity, since talking in first person is a natural impulse. As in everything, "first
+learn the rules and the reasons for them, then break them as much as you want".
+
+The real meat of writing comes from an intuitive flow of words and ideas that surprises even yourself. 
+Editing can only enhance and purify writing so far; it needs to have some natural potential to begin with.
+My own process here is to mentally rehearse an idea very many times without even thinking about writing.
+Once I'm an expert at explaining it to myself or an imaginary partner, then I transcribe the explanation
+I settle upon (some people say they don't think in words; I predict writing will not come naturally to
+these people). *Then* I edit the heck out of it.
+
+The best way to improve the natural flow of ideas, and your writing in general, is to read *really good 
+writers* so much that you unconsciously pick up their turns of phrase and don't even realize when you're
+using them. The best time to do that is when you're eight years old; the second best time is now.
+
+Your role models here should be those vampires who hunt down the talented, suck out their souls, and absorb
+their powers. Which writers' souls you feast upon depends on your own natural style and your goals. I've
+gained most from reading Eliezer, Mencius Moldbug, Aleister Crowley, and G.K. Chesterton; I'm currently making
+my way through Chesterton's collected works pretty much with the sole aim of imprinting his writing style into 
+my brain.
+
+Stepping from the sublime to the ridiculous, I took a lot from reading Dave Barry when I was a child. He 
+has a very observational sense of humor, the sort where instead of going out looking for jokes, he just
+writes about a topic and it ends up funny. It's not hard to copy if you're familiar enough with it. And
+if you can be funny, people will read you whether you have any other redeeming qualities or not.
+
+Getting imprinted with good writers like this will serve you for your entire life. It will serve you 
+whether you're on your fiftieth draft of a thesis paper, or you're rushing a Less Wrong comment in
+the three minutes before you have to go to work. It will even serve you in regular old non-written
+conversation, because wit and clarity are independent of medium.
+
+And it will also inform and limit your use of all the other rules above. Luke's fourth point - 
+telling stories about characters taking actions - is a good one, but he very reasonably didn't start
+this post off with a story about some student working on a term paper. There have been a few LW posts
+that kind of seemed kludgy and artificial in adding characters and stories, and others that did it 
+really well. Probably some very smart person could figure out why it succeeds somewhere and fails 
+somewhere else, but it's easier to just cultivate the virtue that is nameless.
+
+Some people say to write down everything and only edit later. I take the opposite tack. I used to 
+believe that I rarely edited at all because I usually publish something as soon as it's done. Then
+a friend watching me write said that she was getting seasick from my tendency to go back and forth 
+deleting and rewriting the same sentence fragment or paragraph before moving on. Most likely the 
+best writers combine both editing methods.
+```
+
+Scott's original comments came with links to examples of what he considered particularly good writing: [Eliezer](http://lesswrong.com/lw/i8/religions_claim_to_be_nondisprovable/), [Mencius Moldbug](http://unqualified-reservations.blogspot.com/2007/04/formalist-manifesto-originally-posted.html), [Aleister Crowley](http://www.sacred-texts.com/oto/aba/aba1.htm), [G.K. Chesterton](http://www.ccel.org/ccel/chesterton/heretics.iv_1.html), [Dave Barry](http://www.miamiherald.com/2011/01/01/1992746/dave-barrys-2010-year-in-review.html). 
+
+Scott's [Nonfiction writing advice](https://slatestarcodex.com/2016/02/20/writing-advice/) is specialized for argumentative topics, which isn't exactly my cup of tea, but it has gems. 
 
 The one I keep returning to the most is the idea of *microhumor*:
 
