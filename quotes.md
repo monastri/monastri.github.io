@@ -93,6 +93,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    1. [Practical magic](#practical-magic)
 2. [Statistics](#statistics)
    1. [General](#general-stats)
+   2. [The role of statistics in doing science](#the-role-of-statistics-in-science)
    2. [Statistical literacy](#statistical-literacy)
 2. [Teaching and learning](#teaching-and-learning)
    1. [Errors vs bugs](#errors-vs-bugs)
@@ -3377,6 +3378,30 @@ It’s much easier to get rid of wrong notions than it is to find correct ones, 
 possible at all.
 ```
 
+Cosma Shalizi again, this time on an interesting argument for how “good statistics” should be defined (cf. [Properties versus Principles debate](http://bactra.org/notebooks/properties-vs-principles-for-statistics.html)):
+
+```markdown
+In his book The Theory of Literary Criticism, John Ellis argues that it's a mistake to try to define 
+many categories in terms of criteria which are applicable to the objects of the categories in themselves; 
+they are rather defined (in large part) by their relations to us and to our purposes. The really persuasive 
+(to me) example is "weed": a weed is simply an obnoxious plant. Plants may be obnoxious because they are 
+fast-growing, hardy, perennial, etc., etc., but none of these properties, or any Boolean combination 
+thereof, *defines* weeds; their relation to our purposes in gardening does. It's perfectly sensible to say 
+"kudzu is a weed, and one of the reasons why is that it grows so fast", but fast growth doesn't define weeds. 
+The quest for criteria or defining principles of weed-hood is (if I may put it this way) fruitless.
+
+I wonder if one can't say something similar about good statistics? What makes something a good method of 
+statistical inference is that it gives us a reliable, low-error way of drawing conclusions from data. The 
+reasons why a given procedure is reliable, and the ways we find them, are many and various. In the case of 
+the Neyman-Pearson lemma, we directly minimize error probabilities; but sometimes we maximize likelihood, 
+sometimes we use conditioning to update prior probability distributions, etc. None of these --- particularly 
+the last --- *defines* a reliable way of learning from data.
+```
+
+<a name="#the-role-of-statistics-in-science"></a>
+### The role of statistics in science
+([overview](#overview))
+
 This quote from Cosma's [book review](http://bactra.org/reviews/error/) of Deborah Mayo's *Error and the Growth of Experimental Knowledge* contains the most inventive and *original* description of Popperian falsification I’ve ever seen:
 
 ```markdown
@@ -3402,6 +3427,20 @@ nice, clean lines, and makes lots of sense to the scientist-at-the-bench, like M
 Alas, the Revolution runs into trouble on several fronts, for instance statistics.
 ```
 
+Say more words? 
+
+```markdown
+Suppose I tell you that a certain slot machine will pay out money 99% of the time. Being credulous, unnaturally patient, and abundantly supplied with coins, you play it 10,000 times and find that it pays out only twice. This is sufficient for you to tell me to get stuffed, if not to sue, and one would think that it would be enough for the Tribunal to shoot my poor conjecture dead, but actually it escapes unharmed. The problem for Uncle Karl is that getting two successes in ten thousand trials is possible given my assertion, and the Tribunal is only authorized to eliminate conjectures in actual contradiction to the facts, as "no mammals lay eggs" is contradicted by the platypus. Popper realized this, and worried about it, eventually saying that we just have to make "risky decisions" about when to reject statistical hypotheses.
+
+But the challenges facing the Tribunal in the execution of its duty mount: another "risky decision" is required, about what ammunition the firing squad can legitimately use, i.e., about what evidence will be accepted when we see whether or not a hypothesis stands up. (The number of times my students have apparently refuted physical laws gives me great sympathy for the European naturalists who refused to accept reports of the platypus's peculiarities for decades.) 
+
+Then there is the problem of conjectural conspiracy: an isolated hypothesis almost never leads to anything we can test observationally; it is only in combination with "auxiliary" hypotheses, sometimes very many of them indeed, that is gives us actionable predictions. But then if a prediction proves false, all we learn is that at least one of our hypotheses is wrong, not which ones are the saboteurs. So far as deductive rectitude is concerned, we are free to frame whichever auxiliaries we like least, and save our favorite hypothesis from execution at the hands of the Tribunal.
+
+The Tribunal even, for all its appearance of salutary rigor, lets far too many suspects go: every conjecture which is compatible with the evidence. These last two problems, respectively those of Quine-Duhem and of methodological underdetermination, are so severe that they form the core of the (intellectually respectable) argument for the counter-revolutionary deviation of scientific relativism. (The argument throttles itself neatly, but that's a subject for another essay.) 
+
+Yet in ordinary life, never mind science, we evade these problems --- those of testing statistical hypotheses, of selecting evidence, of Quine-Duhem, of methodological underdetermination --- every time we change a light-bulb, so something has clearly gone very wrong here (as, in revolutions, things are wont to do).
+```
+
 Deborah Mayo on Popper being too soft with conjectures:
 
 ```markdown
@@ -3413,25 +3452,20 @@ to become shrewd inquisitors of errors, interact with them, simulate them (with 
 amplify them: we have to learn to make them talk.
 ```
 
-Cosma Shalizi again, this time on an interesting argument for how “good statistics” should be defined (cf. [Properties versus Principles debate](http://bactra.org/notebooks/properties-vs-principles-for-statistics.html)):
+Where does Mayo come into the picture?
 
 ```markdown
-In his book The Theory of Literary Criticism, John Ellis argues that it's a mistake to try to define 
-many categories in terms of criteria which are applicable to the objects of the categories in themselves; 
-they are rather defined (in large part) by their relations to us and to our purposes. The really persuasive 
-(to me) example is "weed": a weed is simply an obnoxious plant. Plants may be obnoxious because they are 
-fast-growing, hardy, perennial, etc., etc., but none of these properties, or any Boolean combination 
-thereof, *defines* weeds; their relation to our purposes in gardening does. It's perfectly sensible to say 
-"kudzu is a weed, and one of the reasons why is that it grows so fast", but fast growth doesn't define weeds. 
-The quest for criteria or defining principles of weed-hood is (if I may put it this way) fruitless.
+Fortunately, scientists have not only devoted much effort to making errors talk, they have even developed a theory of inquisition, in the form of mathematical statistics, especially the theory of statistical inference worked out by Jerzy Neyman and Egon Pearson in the 1930s. Mayo's mission is largely to show how this very standard mathematical statistics justifies a very large class of scientific inferences, those concerned with "experimental knowledge," and to suggest that the rest of our business can be justified on similar grounds. Statistics becomes a kind of applied methodology, as well as the "continuation of experiment by other means."
+Mayo's key notion is that of a severe test of a hypothesis, one with "an overwhelmingly good chance of revealing the presence of a specific error, if it exists --- but not otherwise" (p. 7). More formally (when we can be this formal), the severity of a passing result is the probability that, if the hypothesis is false, our test would have given results which match the hypothesis less well than the ones we actually got do, taking the hypothesis, the evidence used in the test, and the way of calculating fit between hypothesis and evidence to be fixed. If a severe test does not turn up the error it looks for, it's good grounds for thinking that the error is absent. By putting our hypotheses through a battery of severe tests, screening them for the members of our "error repertoire," our "canonical models of error," we can come to have considerable confidence that they are not mistaken in those respects. Instead of a method for infallibly or even reliably finding truths, we have a host of methods for reliably finding errors: which turns out to be good enough.
 
-I wonder if one can't say something similar about good statistics? What makes something a good method of 
-statistical inference is that it gives us a reliable, low-error way of drawing conclusions from data. The 
-reasons why a given procedure is reliable, and the ways we find them, are many and various. In the case of 
-the Neyman-Pearson lemma, we directly minimize error probabilities; but sometimes we maximize likelihood, 
-sometimes we use conditioning to update prior probability distributions, etc. None of these --- particularly 
-the last --- *defines* a reliable way of learning from data.
+Experimental inquiry, for Mayo, consist of breaking down the question at hand into a series of small bits, each of which is relatively easily subjected to severe tests for error, or (depending on how you look at it) is itself a severe probe for a certain error. In doing this we construct a "hierarchy of models" (an idea of Patrick Suppes's, here greatly elaborated). In particular, we need data models, models of how the data are collected and massaged. "Error" here, as throughout Mayo's work, must be understood in a rather catholic sense: any deviation from the conditions we assumed in our reasoning about what the experimental outcomes should be. If we guess that a certain effect (the bending of spoons, let us say) is due to a certain cause (e.g., the psychic powers of Mr. Uri Geller), it is not enough that spoons bend reliably in his presence: we must also rule out other mechanisms which would produce the same effect (Mr. Geller's bending the spoons with his hands while we're not looking, his substituting pre-bent spoons for unbent ones ditto, etc., through material for several lawsuits for libel). But this solves the Quine-Duhem problem.
+
+In fact, it gets better. Recall that methodological underdetermination (which goes by the apt name of MUD in Error) is the worry that no amount or quality of evidence will suffice to pick out one theory as the best, because there are always indefinitely many others which are in equal accord with that evidence, or, to use older language, equally well save the phenomena. But saving the phenomena is not the same as being subjected to a severe test: and, says Mayo, the point is severe testing. While I'm mostly persuaded by this argument, I'm less sanguine than Mayo is about our ability to always find experimental tests which will let us discriminate between two hypotheses. I'm fully persuaded that this kind of testing really does underwrite our knowledge of phenomena, of (in Nancy Cartwright's phrase) "nature's capacities and their measurement," and Mayo herself insists on the importance of experimental knowledge in just this sense (e.g., the remarks on "asking the wrong question," pp. 188--9). I'm less persuaded that we can usually or even often make justified inferences from this "formal" sort of experimental knowledge, knowledge of the distribution of experimental outcomes, to "substantive" statements about objects, processes and the like (e.g., from the experimental success of quantum mechanics to wave-functions). As an unreconstructed (undeconstructed?) scientific realist, I make such inferences, and would like them to be justified, but find myself left hanging.
+
+Distributions of experimental outcomes, then, are the key objects for Mayo's tests, especially the standard Neyman-Pearson statistical tests. The kind of probabilities Mayo, and Neyman and Pearson, use are probabilities of various things happening: meaning that the probability of a certain result, p(A), is the proportion of times A occurs in many repetitions of the experiment, its frequency. This is a very familiar sense of probability; it's the one we invoke when we say that a fair coin has a 50% probability of coming up heads, that the chance of getting three sixes with fair (six-sided!) dice is 1 in 216, that a certain laboratory procedure will make an indicator chemical change from red to blue 95% of the time when a toxin is present. Or, more to the present point: "the hypothesis is significant at the five percent level" means "the hypothesis passed the test, and the probability of its doing so, if it were false, is no more than five percent," which means "if the hypothesis is false, and we repeated this experiment many times, we would expect to get results inside our passing range no more than five percent of the time."
 ```
+
+So Mayo is a frequentist. 
 
 <a name="#statistical-literacy"></a>
 ### Statistical literacy
