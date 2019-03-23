@@ -56,6 +56,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    1. [Writing advice](#writing-advice)
       1. [Nonfiction](#nonfiction), e.g. microhumor
       2. [Fiction](#fiction)
+         1. [Show, don't tell -- or not](#show-dont-tell)
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
 2. [Math](#math)
@@ -948,6 +949,22 @@ book at all.
 ### Nonfiction
 ([overview](#overview))
 
+Qiaochu Yuan comments on Luke Muehlhauser's post [Writing style and the typical mind fallacy](https://www.lesswrong.com/posts/7Q3MoE9YzFMxGZR7F/writing-style-and-the-typical-mind-fallacy):
+
+```markdown
+Rather than "abstract stuff first, examples later" or "examples first, abstract stuff later"
+I prefer a hybrid approach: give as much of the abstract stuff as is necessary to motivate why
+you're looking at the examples (which may be no abstract stuff at all), then give the examples,
+then give the rest of the abstract stuff. The main application I have in mind is mathematical 
+writing, where sometimes a definition is very hard to motivate without examples, but sometimes
+the examples are very hard to motivate without looking at a previously well-understood abstraction
+first. The problem I have with always giving examples first is that I often don't know what to do
+with the examples if they haven't been properly introduced: where, in the filesystem of my brain,
+should I be filing these things?
+```
+
+Qiaochu is a wonderful math expositor, one of the best in the business. See also [why most math writing sucks](#why-math-is-boring).
+
 From Stephen King:
 
 ```markdown
@@ -1162,6 +1179,33 @@ the drums, the crash of the cymbals–sounds that say listen to this, it is impo
 ```
 
 Note that this quote applies equally well to [nonfiction writing](#nonfiction).
+
+<a name="#show-dont-tell"></a>
+### Show, don't tell
+([overview](#overview))
+
+Veltzeh's [More on Writing: Show vs. Tell](http://veltzeh.livejournal.com/17035.html) argues against "show, don't tell":
+
+```markdown
+There is another thing about "showing" that bugs me, and it's that very often, when I read guides 
+and such about how to "show" rather than "tell", the only thing I see in those guides is that 
+"showing" conveys different information than "telling". They create different scenes. And of course
+I have more problems with the scenes that "show".
+
+When the scene is "shown", I have a hard time staying with the text and understanding what's going on.
+If I'm not told what a particular thing means, it starts just seeming nonsensical to me. The author 
+(and many readers) might understand the tone of voice of a character whose line is written in a certain
+way, but I'm likely to miss it. And so I'll end up clueless as to the character's state of mind. Now,
+if I was TOLD exactly what the character's state of mind is, no problem. I might be bad at imagining
+certain emotions, but it's definitely easier to read exactly what it's supposed to be than to try to
+find and guess what parts show it.
+
+Maybe it's just me, though. That doesn't make me less frustrated with writing that routinely frustrates
+me with what I often perceive as non sequiturs. Therefore, I hope that more writings BOTH "showed" AND 
+"told"! At least I'm trying to aim for both showing and telling in my writings from now on.
+```
+
+This is interesting to me, because it runs counter to the standard advice. 
 
 <a name="#software-development-and-computer-science"></a>
 ## Software development and computer science
