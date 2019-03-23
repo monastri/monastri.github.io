@@ -29,6 +29,8 @@ time. And the rest takes care of itself.
 
 This is my first experiment in that vein. The quotes here have been collected over more than half a decade, albeit in different pages. I intend for them to shape my worldview; doing so like this allows, or so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping.
 
+Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/) (indeed his [entire oeuvre](http://bactra.org/)) is another major inspiration behind this document. 
+
 <a name="#overview"></a>
 
 ## Overview
@@ -79,7 +81,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
    1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
 2. [Psychology](#psychology)
 2. [Rationality and postrationality](#rationality-and-postrationality)
-   1. [Signaling](#signaling)
+   1. [Expert judgment accuracy](#expert-judgment)
+   2. [Signaling](#signaling)
       1. [X isn't about Y](#x-isnt-about-y)
       2. [Countersignaling](#countersignaling), including metacontrarianism
 2. [Research and academia](#research-and-academia)
@@ -104,6 +107,72 @@ I've sorted the quotes below into the following categories. This is a provisiona
 <a name="#rationality-and-postrationality"></a>
 ## Rationality and postrationality
 ([overview](#overview))
+
+<a name="#expert-judgment"></a>
+### Expert judgment
+([overview](#overview))
+
+Cosma Shalizi [compares clinical and actuarial judgment](http://bactra.org/notebooks/clinical-vs-actuarial.html), and finds something confusing; this also throws a wrench in my usual "experts suck at prediction" POV:
+
+```markdown
+For something like fifty years now, psychologists have been studying the question of 
+"clinical versus actuarial judgment".
+
+The idea goes like this. Say you're interested in diagnosing heart diseases from 
+electrocardiograms. Normally we have clinicians, i.e., expert doctors, look at a chart and say
+whether the patient has (to be definite) a heart condition requiring treatment within one year. 
+
+Alternately, we could ask the experts what features they look at, when making their prognosis, 
+and then fit a statistical model to that data, trying to predict the outcome or classification 
+based on those features, which we can still have human experts evaluate. This is the actuarial
+approach, since it's just based on averages --- "of patients with features x, y and z, q percent
+have a serious heart condition".
+
+The rather surprising, and completely consistent, result of these studies is that there are no 
+known cases where clinicians reliably out-perform actuarial methods, even when the statistical 
+models are just linear classification rules, i.e., about as simple a model as you can come up 
+with. In many areas, statistical classifiers significantly out-perform human experts. They even 
+out-perform experts who have access to the statistical results, apparently because the experts 
+place too much weight on their own judgment, and not enough on the statistics. Whether you think
+this is depressing news or not to some degree depends on your feelings about "clinical" experts.
+So: human experts are really bad, or at least no better than simple statistical models.
+
+On the other hand, there is *another* body of experimental work, admittedly more recent, on "simple
+heuristics that make us smart", which seems to show that people are often *very good* judges, *under
+natural conditions*. That is to say, we're very good at solving the problems we tend to actually 
+encounter, presented in the way we encounter them. The heuristics we use to solve those problems
+may not be *generally* applicable, but they are *adapted* to our environments, and, in those
+environments, are fast, simple and effective.
+```
+
+How to reconcile this apparent contradiction? Cosma proposes three different ways; he doesn't know which is best:
+
+```markdown
+1. The "clinicial versus actuarial" results are wrong, or at least irrelevant. The experiments
+do not reflect the "natural" conditions of clinical judgment. There are many possibilities here,
+but the one which springs immediately to mind is that clinicians may not actually have much insight
+into the way they *really* make decisions, and that the factors they think they attend to may not 
+really be the ones that matter to them. What one really wants is a representative sample of actual
+cases, comparing the normal judgment of clinicians to that of the statistical models. This may 
+have been done; I don't know.
+
+2. The "fast and frugal heuristics" results are wrong, or at least irrelevant. Whatever adaptive
+mechanisms let us figure out good heuristics in everyday life don't apply in the situations where 
+we rely on clinical expertise, or at least not in a lot of them. (See, for instance, the discussion
+of projective tests like the Rorsharch ink-blots in Holland et al.'s Induction.) The problem can't
+just be that we didn't evolve to make psychiatric diagnoses, since we didn't evolve to do most of
+the diagnostic/prognostic tasks the fast-and-frugal-heuristics experiments show we can do, presumably
+by expating the mechanisms that let our ancestors answer questions like "Just how angry will my
+neighbors be if they catch me fishing in their stream?". There has to be something special about the
+conditions of clinicial judgment that render our normal cognitive mechanisms ineffective there.
+
+3. Clinicial judgment *is* a "fast and frugal heuristic", with emphasis on the fast and frugal. That is,
+it is true that (e.g.) linear classifiers are more *accurate*, but the decision procedures clinicians 
+are using may be as accurate as one can get, using only a reasonable amount of information and a
+reasonable amount of time, while still using the human brain, which is not a computing platform 
+well-suited to floating-point operations. The problem here is that there are areas where clinicians 
+do seem to do as well as statistical methods.
+```
 
 <a name="#signaling"></a>
 ### Signaling
