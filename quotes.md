@@ -72,6 +72,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
    3. [Moral patienthood](#moral-patienthood)
    3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity)
    4. [Moloch](#moloch)
+   5. [Anthropic principle](#anthropic-principle)
+      1. [Critiques](#critiques-of-the-anthropic-principle), ft. Cosma, Smolin
 2. [Political science and public policy](#political-science)
    1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
 2. [Psychology](#psychology)
@@ -3237,6 +3239,84 @@ In light of the growing importance of rank in the education marketplace, univers
 pressure to bid for the various resources that facilitate the quest for high rank. These pressures have 
 spawned a positional arms race that already has proved extremely costly, and promises to become more so.
 ```
+
+<a name="#anthropic-principle"></a>
+### Anthropic principle
+([overview](#overview))
+
+<a name="#critiques-of-the-anthropic-principle"></a>
+### Critiques of the anthropic principle
+([overview](#overview))
+
+Funny if uncharitable quote by Cosma Shalizi from the introduction to his notebook [Astrophysics and Cosmology](http://bactra.org/notebooks/astrophysics.html):
+
+```markdown
+There are interesting issues of statistical mechanics involved, since there are long-range 
+interactions: gravity falls off only slowly with distance r-2, after all), and, unlike 
+electromagnetism, there are no positive and negative charges which could lead to screening off.
+This leads to some weird effects, like spontaneous clumping, and possibilities like negative 
+specific heats.
+
+A personal hatred: the anthropic principle. To illustrate: I once happened --- no joke --- to 
+find a twenty dollar bill lying in the street in front of my house. This required an extraordinarily
+fine adjustment of a huge range of circumstances. Among these, of course, were the incidents of
+American history such that we use paper money, denominated in dollars, that the twenty is a common
+but large denomination, and that Andrew Jackson's portait be on it. This last involves our political
+history through and indeed since Jackson's time. That political history is incomprehensible without 
+the influence of the Enlightenment, and of the ideological struggles of 17th century England (no
+Lockean possessive individualism, no Jacksonian democracy). Those struggles were intimately tied to
+England's political and military history in the 17th century, which is only comprehensible in light of
+(among much else) the Norman Invasion, which in turn was only possible given the condition of Anglo-
+Saxon England in 1066, but there would have been no Anglo-Saxon England had there not first been a 
+Roman Britain. There would have been no Roman Britain had Britain not already been partly integrated 
+into the broader trading network, which was largely on account, then, of its metals. 
+
+So, reasoning anthropically, I can conclude, from my stray twenty, that it was necessary that there be
+tin in southern Britain.
+```
+
+Cosma also led me to this paper by Lee Smolin, [Scientific alternatives to the anthropic principle](https://arxiv.org/abs/hep-th/0407213), whose abstract is just as blunt:
+
+```markdown
+It is explained in detail why the Anthropic Principle (AP) cannot yield any falsifiable predictions,
+and therefore cannot be a part of science. Cases which have been claimed as successful predictions 
+from the AP are shown to be not that. Either they are uncontroversial applications of selection 
+principles in one universe (as in Dicke's argument), or the predictions made do not actually logically 
+depend on any assumption about life or intelligence, but instead depend only on arguments from
+observed facts (as in the case of arguments by Hoyle and Weinberg). The Principle of Mediocrity is
+also examined and shown to be unreliable, as arguments for factually true conclusions can easily be
+modified to lead to false conclusions by reasonable changes in the specification of the ensemble in 
+which we are assumed to be typical. 
+
+We show however that it is still possible to make falsifiable predictions from theories of 
+multiverses, if the ensemble predicted has certain properties specified here. An example of such a 
+falsifiable multiverse theory is cosmological natural selection. It is reviewed here and it is argued
+that the theory remains unfalsified. But it is very vulnerable to falsification by current observations,
+which shows that it is a scientific theory.
+```
+
+Cosma thinks Smolin is right on the money:
+
+```markdown
+Take, for instance, the example he gives in section 5.1.3. Fred Hoyle once reasoned that carbon is 
+necessary for life, that carbon must have been formed by stellar nucleosynthesis, and that this reaction
+could only have proceeded if carbon nuclei had certain properties, which experimentalists then proceeded
+to show they did have. Smolin fairly schematizes this as follows. 
+
+(1) X is necessary for life (or intelligence, etc.). 
+(2) X is, as it happens, true. 
+(3) If X is true, and the laws of physics are Y, then Z must also be true. 
+(4) Therefore Z.
+
+We see clearly that the prediction of Z in no way depends on step 1. The argument has the same force if 
+step 1 is removed. To see this ask what we would do were Z found not to be true. Our only option would be
+to question either Y or the deduction from the presently known laws of physics to Z. We might conclude 
+that the deduction was wrong, for example if we made a mistake in a calculation. If no such option worked,
+we might have to conclude that the laws of physics might have to be modified. But we would never question 1,
+because, while a true fact, it plays no role in the logic of the argument leading to the prediction for Z.
+```
+
+There are actually seven subsections that Smolin devotes to 'varieties of the anthropic principle'; feel free to check them out.
 
 <a name="#statistics"></a>
 ## Statistics
