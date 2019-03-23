@@ -38,6 +38,7 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring. The categories are ordered alphabetically; the actual quotes are chronological.
 
 1. [Artificial intelligence](#artificial-intelligence)
+   1. [AGI, the Singularity, and all that razzmatazz](#agi-the-singularity-and-all-that-razzmatazz)
    1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
 2. [Biology](#biology)
    1. [Evolution](#evolution)
@@ -1414,6 +1415,10 @@ simplifies the adaptively important task of recognizing a previously experienced
 
 <a name="#artificial-intelligence"></a>
 ## Artificial intelligence
+([overview](#overview))
+
+<a name="#agi-the-singularity-and-all-that-razzmatazz"></a>
+### AGI, the Singularity, and all that razzmatazz
 ([overview](#overview))
 
 <a name="#replacing-humans-at-every-step-of-the-economic-chain"></a>
