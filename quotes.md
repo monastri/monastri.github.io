@@ -45,6 +45,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
       1. [Gene-centered view](#gene-centered-view)
    2. [Animals are not like us](#animals-are-not-like-us)
    2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)   
+2. [Economics](#economics)
+   1. [Critique of Freakonomics](#critique-of-freakonomics)
 2. [Erisology: the study of disagreement](#erisology)
    1. [Argumentative charity](#argumentative-charity)
    2. [Chesterton's fence](#chestertons-fence)
@@ -104,6 +106,103 @@ I've sorted the quotes below into the following categories. This is a provisiona
    1. [Errors vs bugs](#errors-vs-bugs)
    2. [Polymathy, or being a generalist](#polymathy)
 2. [Miscellaneous](#miscellaneous)
+
+<a name="#economics"></a>
+## Economics
+([overview](#overview))
+
+<a name="#critique-of-freakonomics"></a>
+### Critique of Freakonomics
+([overview](#overview))
+
+From Daniel Davies' [review](https://blog.danieldavies.com/2005_11_27_d-squareddigest_archive.html#113336769665072876). The chief problem is "the game of pretending that difficult social questions have easy non-sociological answers":
+
+```markdown
+There are a number of things I don't like about Levitt's approach, but the biggest problem I have with
+him is his[2] habit of saying (in various forms of words) "whichever way you look at the numbers, XYZ" 
+when he means "whichever way I look at the numbers, XYZ". On a lot of these subjects (by far the most 
+obvious example is abortion/crime, but it is an issue in all of them to a greater or lesser degree), 
+Levitt is looking at quite large, clearly multicausal issues where any model is likely to be partial and
+all manner of conflicting theories can claim support from the data. "Freakonomics" absolutely does not
+recognize this fundamental truth of econometrics; it might be because the authors don't have the 
+statistical chops to understand it but I think it is much more likely that they are just trying to copy 
+the monolithic tone of voice adopted by social reformers and similar blowhards who hand out their 
+assertions with no data at all. In all honesty, I think that theL&D approach is a retrograde step; it's
+easy for the untrained reader to spot when someone has no empirical support at all for his position, but
+much more difficult to deal with someone who systematically overstates the empirical support that he does
+have. This is at least 90% of what makes John Lott so pernicious, and it seems to me that L&D are involved
+at least partly in the same sort of game.
+
+It's the game of pretending that difficult social questions have easy non-sociological answers. There are 
+lots of people in this space, and not all of it is by any means bad. Any look at a difficult question is
+going to be either hopelessly oversimplified or hopelessly unreadable, and I would certainly prefer it if
+people erred in the first direction. There's also a decent Hayekian (or indeed Bayesian) point to be made
+here that if you're entering into the marketplace of ideas to try and extract the truth from a number of 
+differing viewpoints, then you want everyone to give you their idea, not to caveat it all about with bits 
+and pieces of other people's ideas. That's why I'm prepared to give a (limited) free pass to Malcolm Gladwell 
+or James Surowiecki when they write books like this which, in my view, present absurdly oversimplified views
+of the world, because I understand what they're trying to do; to present their view on a question, not to 
+give the final indisputable answer.
+
+The problem comes in when someone attempts to present their view of a question as if it is the final
+indisputable answer. A lot of the things in Freakonomics are things that I wouldn't make too much of a fuss
+about if the authors were just advancing them as their view of one way of explaining the facts. But they
+don't do that; at key points in the book, they keep claiming that they're reporting the facts when they're 
+clearly (to me at least) reporting a particular spin on the facts. This is the pop-science approach to social
+questions, because it's trying to combine the authority of a scientific investigation with the unequivocal 
+certainty of a theoretical pronouncement. What Levitt and Dubner are doing is exactly the same thing that 
+Thomas Friedman does; telling a bunch of stories and then explaining how these stories fit into their view of 
+the world. However, in the case of Friedman it's always obvious that someone else could tell entirely
+different stories about the same kinds of people and events and fit them into an entirely different worldview.
+Because of the way that Freakonomics has pitched itself at the pop-science crowd (constantly banging on about
+Levitt's John Bates Clark medal and referring to all the statistical analyses; for fans of cringeworthy 
+exegesis, page 161 of the American edition contains what I strongly believe to be the worst description of the 
+linear regression model ever committed to print), however, they are always either implying or outright saying
+that their stories are the only ones consistent with the facts, so we can either fit their stylized facts into 
+our own worldview or (preferably) drop ours and buy theirs. As you can tell, I don't like this.
+```
+
+Example Freakonomism: "the typical prostitute earns more than the typical architect". Davies says:
+
+```markdown
+This remark is asinine. What on earth are they talking about? There is probably a reasonable working 
+definition of a "typical architect" (though I can think of about five different types of architect off 
+the top of my head), but what is a "typical prostitute"? Do they mean per hour or on an average annual
+earnings basis? Is there any data to back this up (the only study I could find put average earnings for 
+street prostitutes in Los Angeles, who are about as "typical" as any other prostitutes at $23485 in 1991,
+which seems low for an architect)? 
+
+Fair enough, this is really just a throwaway remark aimed at illustrating a point about labour market 
+theory, but surely the whole freakonomicsing selling point of this book was meant to be that the authors
+didn't make lazy assumptions and throwaway remarks but checked things against the data. I'm sorry, but if
+a bloke says "of course, prostitutes make a mint, they do, they earn much more than you or I", then in my
+estimation it is going to count very much against his subsequent claim to never take things on trust or 
+to tirelessly question conventional wisdom.
+```
+
+Another example, concerning swimming pools and guns:
+
+```markdown
+As presented in the book, the argument is obviously wrong. Levitt divides the number of child deaths 
+caused by guns by the number of guns, then divides the number of child deaths caused by swimming pools 
+by the number of swimming pools, compares the two numbers and says "if you have a gun in your house and
+a swimming pool, the pool is more likely to kill your child than the gun". 
+
+Which might or might not be true, but this calculation can't possibly be the right way to prove it. Riddle
+me this; what proportion of the guns in the USA are held in households with no children in them? What
+proportion of the swimming pools in the US are owned by households with no children in them? Is there 
+perhaps a pretty good reason to believe that households which differ in their gun ownership and 
+swimming-pool ownership will also differ in other potentially relevant ways? Is there a good reason to 
+believe that the fact that a house has a child in it will be informative about the relative likelihood of
+gun ownership and pool ownership? Now, Levitt might, for all I know, have actually done the more rigorous
+analytic work which would support his claim here. But if he did, I bet he did it in a proper journal where
+he stated the claim with the proper caveats and was totally clear about the degree of confidence that could 
+be placed in it. But that's not what he does in "Freakonomics". He just a) puts the factoid straight in 
+front of the reader with no qualifications at all and b) backs it up with a calculation that is clearly
+flat out wrong. He's simultaneously teaching the lay reader to make definitive statements without
+acknowledging estimation problems, and to ignore correlations between explanatory variables. How on earth 
+can this not be worsening the overall level of debate?
+```
 
 <a name="#rationality-and-postrationality"></a>
 ## Rationality and postrationality
