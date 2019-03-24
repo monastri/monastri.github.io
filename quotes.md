@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 59,300*
+*[Word count](https://wordcounter.net/): 61,300*
 
 ## What is this?
 
@@ -69,7 +69,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Mathematical maturity](#mathematical-maturity)
    3. [Good mathematics](#good-mathematics)
    4. [What every mathematician should know](#what-every-mathematician-should-know)
-   5. [Why most mathematical writing sucks](#why-math-is-boring)
+   5. [Why most mathematical writing sucks, and how to write better](#why-math-is-boring)
 2. [Memory and the brain](#memory-and-the-brain)
    1. [Augmenting long-term memory](#augmenting-long-term-memory), e.g. Anki
    2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
