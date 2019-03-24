@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 73,600*
+*[Word count](https://wordcounter.net/): 82,700*
 
 ## What is this?
 
@@ -39,6 +39,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 1. [Amazing people](#amazing-people)
    1. [Alexander Grothendieck](#alexander-grothendieck)
+   2. [Ed Witten](#ed-witten)
+   2. [LeBron James](#lebron-james)
    2. [Terry Tao](#terry-tao)
 2. [Artificial intelligence](#artificial-intelligence)
    1. [AGI, the Singularity, and all that razzmatazz](#agi-the-singularity-and-all-that-razzmatazz)
@@ -53,6 +55,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Erisology: the study of disagreement](#erisology)
    1. [Argumentative charity](#argumentative-charity)
    2. [Chesterton's fence](#chestertons-fence)
+   2. [Generalizing from one example, or the typical mind fallacy](#typical-mind-fallacy)
+   3. [The absurdity heuristic doesn't work very well](#absurdity-heuristic)
 2. [Feelings](#feelings)
    1. [Love](#love)
 2. [Writing](#fiction-and-writing)
@@ -529,6 +533,542 @@ youngsters whose total score on a general achievement test battery of the kind u
 schools is high (e.g., 90th percentile or greater on seventh-grade norms), the 8-part Differential Aptitude
 Test battery of The Psychological Corporation in New York City may be a good place to start.
 ```
+
+<a name="#lebron-james"></a>
+### LeBron James
+([overview](#overview))
+
+From Redditor xdawsonic on the thread [[Serious] How young of a LeBron would the average adult male be able to beat 1 on 1?](https://www.reddit.com/r/nba/comments/6huci7/serious_how_young_of_a_lebron_would_the_average/):
+
+```markdown
+I played against Lebron a handful of times when he was a Freshman, so I have a little experience 
+in this area.
+
+I'll relay my thoughts about the game I remember the most.
+
+I was 18. A senior, decent athlete, a few D3 offers, a few "preferred walk on" for some D1 schools.
+I was 6'3-6'4 and 180-190 pounds. He was 13-14 years old, and and near the same size as I was.. 
+but enormous feet, long arms, but lanky. Probably weighed... 170?
+
+I'll try to keep it somewhat short... I could hold my own against him, only because he was very, 
+very raw. I feel my game was as polished as it could be, while he was still just getting things 
+figured out. We both ended the game with similar stat lines, but the X factor was just the raw 
+explosiveness and athleticism... something you honestly can't account for when talking about size,
+weight and even age.
+
+I'm sure alot of you have played basketball, maybe even lately.. but you know that first few 
+possessions of the game? Sizing things up.. who can move, who can shoot, how are they guarding us....
+Lebron was already on a different planet in terms of just sheer velocity. He could just get off of 
+his feet, make a cut, or grab a rebound while I'm still flat footed. He didn't have springs in his 
+legs.. he had trampolines. I had played against alot of tier 1 talent at that point at 5-Star and 
+Blue Chip camps, but the odd thing is.. I knew IMMEDIATELY that this guy was something different..
+and that isn't just hindsight.
+
+Anyway, we lost that game by 6. Which ended up being their closest game of the year (applause? kappa)
+... Lebron got a steal in the last 5 seconds to close the game.. and traveled the length of the court 
+for the final "nail in the coffin" dunk. I was so pissed of.. he wasn't going to dunk on our home 
+floor... I'm going to chase this FRESHMAN down and foul the hell out of him. Now.. I could jump, 
+could dunk fairly easily.. so I figured... I can do this.. plus we are the same size.. what could
+go wrong? So I get to him (he sort of took a wide approach angle), jump... andddd he's clearly a
+foot above me at the apex. Easily a foot. I felt like Isiah in that Celtics series this year. I 
+quickly decided to just do what I could, and just wailed on whatever part of his arms or head I
+could reach. The dunk failed, so I guess it was a success... but it was just another lesson I 
+realized that game. This man is far superior, and he hasn't even hit puberty yet. This is also one 
+of those days when I decided to not play basketball in college. A rude awakening to just how good 
+you have to be compete.
+
+Anyway.. back to your question... St. V was good that year with alot of studs, so Lebron was 
+considered "the next big thing", but everyone knew he was different. I first heard about him when he
+was around 11 years old, and I know he was beating people up at the courts since at least that age.
+It's also important to realize that Lebron had absolutely NO "puberty" stage of being uncoordinated,
+or 'weak', or anything of the sort. Maverick (Lebron's cousin / business manager) used to say that
+"he's the one to watch out for".. back when we were maybe 15-16 (Maverick was trying to steal my 
+girlfriend, who went to St.V..... Mav if you are somehow reading this... what's good man?)...
+
+..so that being said.. all I can say is.. athleticism and that 'god given' freak-of-nature, all-worldy
+talent is just something you have to 'witness' to fully comprehend.
+```
+
+An exchange of comments between xdawsonic and other Redditors:
+
+```markdown
+you should absolutely puff your chest about it. Say "I blocked LeBron James multiple times" and have
+it on your tombstone. It is a technically true statement.
+
+I was moreso elaborating on the notion that age 13 was probably the year any "regular" guy had a 
+punchers chance to compete with him.
+
+Definitely "regular" in quotation marks. Division 3 offers and walk on status at D1 is pretty impressive,
+and it was still a back and forth for you too(that's what I got from the post anyway).
+
+As a 5-9 dude, I doubt I would be able to beat a 10 year old LeBron.
+```
+
+User ay21690 played Lebron in junior year, when he was on his way to the second of three consecutive Mr Ohio titles::
+
+```markdown
+We had the chance to play SVSM at a camp during the summer of his junior year. End of the camp is both
+a single elimination tournament, then an expo where coaches picked a handful of the top players to run
+a pick up game.
+
+2nd round, we kept up with them for five minutes because zero defense was played. Now I'm 5'10", but I 
+feel like I was pretty (keyword was) pretty quick. We decided to run a triangle and 2 against him on 
+defense.
+
+He literally laughed in our faces and scored every single time. I couldn't keep up with him. We lost by
+42 points, that was only because he subbed out at halftime and Romeo Travis chucked 3s the rest of the game.
+```
+
+To which xdawsonic replied:
+
+```markdown
+I'm actually glad I got to play against 13-14 year old Lebron... and not THAT version. I actually think
+he was scariest when he was Junior. He played incredibly hard. Senior year was a joke to him, I think.
+
+I was in attendance for the Oak Hill vs. St. V game (Carmelo versus Lebron) that year... and I couldn't
+fathom that I was watching the same guy.
+
+Lebron had 36 that game, Carmelo had 34.
+```
+
+NintendoJesus adds perspective:
+
+```markdown
+Man, this brings me back. I played against 3 future NBA players in High School/College, Jason Gardner,
+Wally Szczerbiak, and Melvin Levitt. 2 of them washed out of the NBA, and Wally wasn't exactly 1st team
+NBA but I think he made an All Star game or 2 and had a good career. Gardner was the only one I played 
+against in a real game, the rest were pick up games at Miami OH.
+
+Unless you have played in a game vs a professional athlete, I don't think it's possible to understand 
+how different they are from us normies. It's like they are a subspecies of human that have evolved into
+something better. Like X-men or something. They don't play the same game as us. It's like if you played
+against 5 year olds in a driveway with a 5 foot Fisher Price goal. You can't double them, you can't trap
+them, you may as well not even be there.
+
+And like you, I was good, not just like "back in the day" good, but like legit good. I'm 6'4", played 
+point, could handle it, could shoot, could throw it off the board and dunk in my sleep. To a random
+passerby, I probably looked like I could play. But no, I was an insect, Wally once scored 11 straight
+on me 2 games in a row.(We played to 11, 1's and 2's) He was so strong that he could just pivot and 
+shrug his shoulders and create enough space to do anything he wanted. It was like playing against your
+dad when you're 5 years old.
+
+They indirectly ended my basketball career. I knew I could never be what they were. No matter what I did.
+And 2 of these guys didn't even make it in the NBA. I can't imagine playing against Lebron. He's from 
+another planet.
+```
+
+Massive14:
+
+```markdown
+I went to watch him play a state tournament game in person during I believe LeBron's junior year. It
+was a regional game at The University of Toledo. What stuck out the most was his extra gear. It always
+felt like all the other kids were trying their hardest, but he was such a good athlete that he was 
+walking when everyone else was running, and he was still dominating.
+
+When he went into that extra gear though, my goodness. It was like watching a grown man against babies.
+There's only a handful of athletes that I've ever seen in person that could flip the switch like that 
+(Michael Bradley and Sidney Crosby to name a couple, but not as extreme).
+```
+
+<a name="#ed-witten"></a>
+### Ed Witten
+([overview](#overview))
+
+Ed Witten is famous for having a great turbine of a mind.
+
+He kick-started the second superstring revolution essentially single-handedly, has the highest h-index of any living physicist (that said, h-index is obviously flawed – see e.g. [here](http://en.wikipedia.org/wiki/H-index#Criticism) and [here](http://simplystatistics.org/2012/10/10/whats-wrong-with-the-predicting-h-index-paper/) and [here](http://blogs.scientificamerican.com/information-culture/2013/01/01/whats-wrong-with-citation-analysis/), although see [here](http://www.pnas.org/content/104/49/19193.abstract) for an argument that it still has better predictive power of future scientific achievement than other indicators considered), is the only physicist to ever win the Fields Medal, etc. Here are quotes about him I can quasi-procedurally recall (don’t remember them specifically, but I remember how to Google for them) right off the bat – and I haven’t even been reading about him for a while. Regardless of whether or not you agree, they’re definitely entertaining.
+
+Mathwonk, in a physicsforum thread:
+
+```markdown
+Obviously Witten is a little smarter than the average bear.
+```
+
+John Randolph Huffman Professor of Physics at Yale [writing](http://www.eoht.info/thread/5126785/Edward+Witten?t=anon) of his experience of working with Witten:
+
+```markdown
+[O]ne day Ed Witten said to me, ‘I just learnt a new way to find exact S-matrices in two dimensions 
+invented by Zamolodchikov and I want to extend the ideas to supersymmetric models. You are the 
+S-matrix expert, aren’t you? Why don’t we work together?’ I was delighted. All my years of training
+in Berkeley gave me a tremendous advantage over Ed—for an entire week.
+```
+
+Peter Baida, a close friend of Witten back in Park School (his high school):
+
+```markdown
+I suppose it’s common that kids in any high school sit around talking about who the smartest person
+in the class is. But we used to sit around — when Edward wasn’t there — and talk about how he was the
+smartest person in the world.
+```
+
+Michio Kaku (whose bio is really cool) in an [article](http://edition.cnn.com/2005/TECH/science/06/27/witten.physics/):
+
+```markdown
+I do believe there really is a category for a genius who is a supernova — a supernova that lights up 
+the entire scientific landscape and that is Ed Witten…. I think he is as close as you are going to get
+to a living Albert Einstein today.
+```
+
+Brian Greene:
+
+```markdown
+Everything I’ve ever worked on, if I trace its intellectual roots, I find they end at Witten’s feet.
+```
+
+“Max Raker”, commenting on the admittedly rather inane question “who’s the greater living genius, Terence Tao or Ed Witten?” in a [discussion thread](http://forumserver.twoplustwo.com/47/science-math-philosophy/greater-living-genius-terence-tao-ed-witten-663604/):
+
+```markdown
+So unlike most other people at his level, Witten didn’t really have scientific interests as an 
+undergrad. The first time in which he officially had anything related to math/physics on his resume 
+was when he started as a grad student at Princeton. I’m not even sure exactly how he got in, but i 
+think within a few months he was working for David Gross. Gross was at this time likely the best physicist
+in the world. Just before Witten joined his group, he had just finished some very important work on 
+asymptotic freedom SU(3) and the strong interaction. This was work that he and his student, Frank Wilczek
+later received a Nobel prize for.
+
+So Gross was at the top of his game and also had good experience will gifted and Nobel prize worthy students.
+Witten had a BS in History and had worked in politics. There are many stories you hear around Princeton 
+about how frustrating Witten was to mentor. David would come up with a problem that he thought would take
+anybody a few weeks to solve and require a ton of calculations, which a person sort of needs to go through 
+to be educated as a theoretical physicist. Witten would instead come back in a day or 2 with a one page proof
+that required no calculations and was based on some deep symmetry or other hidden but mathematically
+sophisticated technique.
+
+You can talk to some profs who were at Princeton at the time and as a school its produced its share of 
+talent (including Tao) but I don’t think the faculty has ever been blown away like they were with Witten.
+He must have had one of the quickest journeys from “I want to be a physicist” to “I am the most important
+person in the field” in history.
+```
+
+Timothy Ferriss, in his book *The Whole Shebang*:
+
+```markdown
+In the high carrels of theoretical physics, where intelligence is taken for granted, Witten is regarded 
+as preternaturally, almost forbiddingly, smart. A tall, boyish-looking man, he wears the habitual small 
+smile of the theoretician for whom sustained mathematical thinking has something like the emotional
+qualities that mystics associate with meditation. He speaks in a soft, high pitched voice, floating
+short, precise sentences punctuated by witty little silences–the speech pattern of a man who has learned
+that he thinks too fast to otherwise be understood. Though he is the son of a theoretical physicist,
+Witten came to science in a roundabout fashion. He graduated from Brandeis College in 1971 as a history
+major, wrote political journalism for the Nation and the New Republic, and worked in George McGovern’s
+presidential campaign. Primarily a mathematician, he picked up physics along the way, almost as a hobby.
+```
+
+John H. Schwarz in an [article](http://discovermagazine.com/2008/dec/13-the-man-who-led-the-second-superstring-revolution):
+
+```markdown
+Witten is both deep and fast: After thinking through the ideas, he can compose an essentially error-free
+100-page manuscript, often describing breakthrough original research, on his computer in a day.
+
+In 1987 Michael Green and I coauthored a monograph entitled “Superstring Theory’’ with Witten. We were 
+thrilled that Witten agreed to join us, since we knew that his contributions would greatly improve the 
+final product. This work, consisting of more than 1,000 pages packed with equations, was completed in
+nine months. For Green and me this required dedicating 100-hour workweeks to the project. Witten, on 
+the other hand, was able to do his share while completing several major research projects at the same time.
+```
+
+Nathan Seiberg:
+
+```markdown
+I think in perspective of a hundred years or three hundred years, his name will stay…. It will not be
+forgotten — his contributions are really lasting — contributions which will stay there.
+
+He combines the rigor and precision of a mathematician with intuition of a physicist. But what is
+really remarkable about him is the clarity of his thinking.
+
+He shows the direction for the rest of us…. His main strength is that he’s powerful in everything. Both
+in math — the most sophisticated math — and physics … he has remarkable physics intuition as well as
+complete control over the math that is needed. And, in that respect, I think he’s unique.
+```
+
+Michael Atiyah:
+
+```markdown
+Although he is definitely a physicist (as his list of publications clearly shows) his command of
+mathematics is rivalled by few mathematicians, and his ability to interpret physical ideas in 
+mathematical form is quite unique. Time and again he has surprised the mathematical community by his
+brilliant application of physical insight leading to new and deep mathematical theorems.
+```
+
+Atiyah says a bit more about how it was like to collaborate with Witten:
+
+```markdown
+I met him in Boston in 1977, when I was getting interested in the connection between physics and
+mathematics. I attended a meeting, and there was this young chap with the older guys. We started
+talking, and after a few minutes I realized that the younger guy was much smarter than the old guys.
+He understood all the mathematics I was talking about, so I started paying attention to him. That 
+was Witten. And I’ve kept in touch with him ever since.
+
+In 2001, he invited me to Caltech, where he was a visiting professor. I felt like a graduate student
+again. Every morning I would walk into the department, I’d go to see Witten, and we’d talk for an 
+hour or so. He’d give me my homework. I’d go away and spend the next 23 hours trying to catch up.
+Meanwhile, he’d go off and do half a dozen other things. We had a very intense collaboration. It was
+an incredible experience because it was like working with a brilliant supervisor. I mean, he knew all
+the answers before I got them. If we ever argued, he was right and I was wrong. It was embarrassing!
+```
+
+Keith Devlin on why Witten turning 50 is “worth celebrating”, paraphrased:
+
+```markdown
+Witten’s work in manifold theory brings up yet another comparison with Newton. Neither of them were
+concerned with finding mathematically correct proofs to support their arguments. Relying on their 
+intuitions and their immense ability to juggle complicated mathematical formulas, they both left
+mathematicians reeling in their wake. It took over two hundred years for mathematicians to develop 
+a mathematically sound theory to explain and support Newton’s method of the infinitesimal calculus.
+Similarly, it might take decades — maybe even centuries — before mathematicians can catch up with Witten.
+
+For most mathematicians, myself included, the only way to convince ourselves that something is true
+in mathematics is to find a proof. A very small number of individuals, however, seem to be blessed 
+with such deep and powerful insight that, guided by little else besides their intuitions and a sense
+of “what is right”, they can cut through the logical thickets and discover the truth directly — 
+whatever that means. Newton did it with calculus. The great Swiss mathematician Leonhard Euler did 
+much the same thing with infinite sums in the eighteenth century. Arguably the Indian mathematician
+Srinivasa Ramanujan did something similar with the arithmetical patterns of numbers he discovered. 
+And now Witten is doing the same with infinite dimensional manifolds. On several occasions, Witten
+has made a discovery — a physicist’s discovery since it is technically not a mathematical discovery 
+— that mathematicians subsequently showed to be “correct” by the traditional means of formulating a
+rigorous proof. Given the complexity of the “insights” that Newton, Euler, Ramanujan, and Witten have
+made — and the difficulty of the subsequent proofs — this cannot be a case of making lucky guesses.
+```
+
+David Kahana, in [an answer to a question on Quora](https://www.quora.com/How-does-Edward-Witten-know-so-much-math):
+
+```markdown
+In my opinion, Edward Witten had both an incredible working memory and an incredible long term memory
+... it seemed that he already knew the solution of almost any solvable problem that was ever posed to him.
+
+I had a friend who became his graduate student ... and Witten suggested a problem for him to work on. 
+
+The poor guy worked for months, but made no real progress. Then he finally went to talk with Witten, 
+who gave him  the solution immediately and in a short, and very simple way.
+
+Genius can have a very nasty side.
+```
+
+The only non-effusive comment about him I've ever seen is this one:
+
+```markdown
+I don't think Witten is as strong a mathematician as a professional mathematician. Other than a proof
+of Positive Energy theorem, I don't think Witten rigorously proved any mathematical statements. He
+used the advance mathematics in his work, but Witten's genius is in seeing the connections. He showed
+you can see knot invariants in as physical quantities in QFTs. Witten, with others, came up with some 
+topological/symplectic invariants and these invariants arose as physical quantities in QFTs. They was
+never rigorously defined and their properties were never proven in Witten's work. Which inspired some
+mathematicians like Kontsevich to do wonders. 
+
+He probably knows more maths than a smart beginning grad student in mathematics.
+```
+
+Robert Weisbrot [talks about](http://scienceblogs.com/thescian/2010/10/25/what-did-ed-witten-do-in-colle/) how Witten ended up in physics:
+
+```markdown
+I liked Ed, but felt sorry for him, too, because, for all his potential, he lacked focus. He had
+been a history major in college, and a linguistics minor. On graduating, though, he concluded that,
+as rewarding as these fields had been, he was not really cut out to make a living at them. He
+decided that what he was really meant to do was study economics. And so, he applied to graduate 
+school, and was accepted at the University of Wisconsin. And, after only a semester, he dropped out 
+of the program. Not for him. So, history was out; linguistics, out; economics, out. What to do? This
+was a time of widespread political activism, and Ed became an aide to Senator George McGovern, then
+running for the presidency on an anti-war platform. He also wrote articles for political journals 
+like the Nation and the New Republic. After some months, Ed realized that politics was not for him,
+because, in his words, it demanded qualities he did not have, foremost among them common sense. All
+right, then: history, linguistics, economics, politics, were all out as career choices. What to do?
+Ed suddenly realized that he was really suited to study mathematics. So he applied to graduate school, 
+and was accepted at Princeton. I met him midway through his first year there–just after he had dropped
+out of the mathematics department. He realized, he said, that what he was really meant to do was study
+physics; he applied to the physics department, and was accepted.
+```
+
+Ron Maimon on Witten's rise to prominence:
+
+```markdown
+He knew exactly what he was doing, politically and also physics. He was the first physics to understand 
+the political lessons of the 1960s (and also the mathematics). Witten had a physicist father, a General 
+Relativist, and this is where he made his early major, major breakthroughs (the positive mass theorem 
+the bubbles of nothing Schwarzschild instanton, the gravitational compactifications of supergravity), 
+he certainly knew General Relativity and Quantum Mechanics since high school, perhaps earlier, maybe in
+middle school (once you learn calculus, some differential equations it’s easy enough to learn the rest 
+in high school), he studied on his own (like almost every other decent physicist), especially mathematics,
+in his college years, so he chose a bullshit major he could do in his sleep, but one he was genuinely 
+interested in, because he GOT the politics of the 1960s, and he knew it was going to replace the staid 
+Soviet/Eisenhower/De-Gaulle bureaucratic politics of the 1950s. He also just studied all the math he 
+could, probably wanting to do pure math.
+
+He did a bunch of politics and linguistics, but McGovern lost, and that meant it was going to be terrible
+in the US for a while longer (nobody guessed how long). Physics in 1972 was still very politically
+stagnant— the field was split in two, S-matrix and field theory, everyone was stoned and nobody was 
+calculating anything (in Feynman’s words, from that era). Also, it had an atom-bomb stench, maybe that
+was a factor, maybe not. It certainly was for others back then, who refused to study physics because of
+the association with atomic bomb work.
+
+Then in 1974 or so, it becomes clear this young Dutch guy named ‘t Hooft has renormalized gauge theory, 
+and ‘t Hooft is producing monumental results left and right, on anomalies, instantons, new gauges, Feynman
+diagram summations, 2-d models, everything. When he sees this (and he saw it for sure) Witten immediately 
+switches fields. He applies to a graduate program in applied mathematics where he knows David Gross is
+active (he has a plan), goes over to David Gross and talks physics to him, at which point Gross arranges 
+for him to switch departments, and Witten is considered a phenom, because he already knows everything 
+(it was a stupid trick in the print era– if you just read the literature, and you look like a genius— he 
+was also a genius though).
+
+Then he gets a PhD under Gross (who is by this time very famous, Gross knows S-matrix theory, he studied 
+under Chew, but he is also a major leader in field theory, after asymptotic freedom, plus he knows 
+condensed matter and does 2d stuff too, all things Witten expertly absorbed). He gets a job on the East 
+Coast, at Harvard, where S-matrix and strings are taboo. Then he collaborates with all the big shots, 
+Venziano, Coleman, and so on. Coleman is impressed to no end, and starts studying gravitational things 
+in this era. (Witten is also doing great solo work at this point, like the nonabelian bosonization), and
+the endless schmoozing and obvious talent and knowledge pushes his h-index to the roof.
+
+Then he goes to Princeton, where he switches and supports string theory, bringing every other marginalized
+voice up from the gutter, and now he is ABSOLUTELY UNTOUCHABLE, politically, he is Albert Einstein. One 
+cannot thank him enough for this, it was the most important political move in physics history, and that’s
+not an exaggeration. He also does amazing work to push string theory forward from this point on, 
+formulating open string field theory, finding realistic compactifications, and finding subtle physical
+consequences of string theory which would give possible observational signatures. He also does amazing work
+in all fields of high energy physics, and has pure mathematics breakthroughs.
+```
+
+Another Ronnism:
+
+```markdown
+Witten has contributed extremely significantly to mathematics, but so did Candlin with the Berezin 
+integral, and so did Berezin with the proto-SUSY, and most significantly Pierre Ramond, who created
+graded algebras. You can’t forget Ramond. And Belavin, Polyakov, Zamolodchikov and Knizhnik, who 
+quadruple-handedly founded one of the most active fields of mathematics. Witten too, and Witten’s
+contributions are closer to the center of what mathematicians find interesting, but you see how the
+stupid politics gets in the way— he is praised so much, you can’t praise him as he deserves without
+feeling you are neglecting other people.
+
+The problem with mathematics is that the evaluation of quality is often by human judgement, not by
+nature, and that can lead to politics too. That’s also somewhat true in physics, but physicists have
+ways to get around that, by doing experiments, or by pretending to do certain experiments and then
+breaking our head to come up with an answer as to what happens. The mathematicians have their own 
+“though experiment” solution benchmarks, these are famous conjectures.
+
+Witten solved many interesting mathematical problems of great depth, and also formulated and solved
+many physical problems (one of my favorite works of his is the superconducting cosmic string paper 
+from the mid 80s, another is a failed paper to try to solve the cosmological constant problem from 
+the 90s, failed, but he gave it a major creative inspirational shot).
+
+But stop trying to rank people on a line, it’s really stupid.
+```
+
+Ron on how Witten "knows so much math":
+
+```markdown
+Researchers are expected to learn the stuff they need, and be familiar with everything. Since this
+is somewhat unrealistic, it just means you try to keep up all the time, and nobody feels they know
+enough, you always feel like you're missing something.
+
+Witten came before the internet, and one cannot overestimate how much more difficult it was to study
+mathematics back then. When you opened a math book, if you didn't know the definitions, you couldn't
+google them, you were just screwed. He studied mathematics (among other things) as an undergraduate,
+I remember he was grateful for the proper mathematics education he recieved, but he continued to read
+mathematics and internalize it also as a grad student and through his post doc and into his 
+professorial career. He said he considered going into mathematics at one point, also perhaps
+linguistics at some other point. He was a young lefty in the 1960s, there were a bunch of exciting 
+things to do, but he eventually decided that physics was where he would make the biggest impact. He 
+was up to date on the mathematics of the 1960s, that's extremely unusual for a pre-Witten physicist.
+Now, it's expected, but it's expected mostly because of Witten!
+
+All physicists know the elementary mathematics curriculum, that's no big trick. Most physicists have
+mathematical competence in the areas related to their chosen field, to the level of a beginning
+researcher. But what makes Witten special is his deep intuitive understanding of ALL fields of 
+mathematics, especially deeply the 1960s topology stuff, that he clearly just learned for the heck of 
+it, it wasn't before useful in physics, all the homology, homotopy theory and algebraic geometry 
+constructions mathematicians were doing back then. It became central with string theory.
+
+For example, one of his famous works in the 1990s was a note identifying the structure of brane anti-
+brane annihilation as a type of K-theory, which is a Grothendieck construction which didn't have a 
+physical intepretation before, nor is it something you would expect any physicist would know about.
+Witten is the exception, because he knows the mathematics field as well as any mathematician, and he
+just likes the material, he reads it, and rediscovers large chunks for himself.
+
+While it is not polite to speculate about people who are alive (you can just ask them), I suspect he
+learned a large chunk of advanced mathematics during his Harvard postdoc, in the late 1970s. Jaffe
+and Coleman are influenced by him, probably the influence goes both ways, Coleman begins doing 
+topological instantons, then he did the vacuum decay work, the false-vacuum instanton thing which was 
+so influential for inflation theory. Witten is also associated with two enormous Harvard pure-
+mathematics names, Bott and Yau. His mathematics had a Harvard feel to it, the 1985 Calabi Yau paper,
+the Morse theory paper, these are popular Harvard topics.
+
+He won a fields medal, and this is for a beautiful interpretation of the Jones knot polynomial from
+large N 3d topological Chern-Simons gauge theory, a theory that he defined. In another related idea,
+just a few years ago, he showed with his student or postdoc that the volume  conjecture (due to 
+Thurston I think) is related to a property of these  topological theories under analytic continuation, 
+and modulo the standard problem of precisely defining the path integral, they gave what should be a 
+proof of the conjecture. He has a bunch of recent mathematical work I couldn't understand at all
+related to pure algebraic geometry.
+
+He also has a bunch of non-mathematical physics work too which are famous classics, like the
+superconducting cosmic strings, the bubble of nothing instantons, the Witten anomaly, the Seiberg 
+Witten theory and brane-stack constructions, the AdS/CFT constructions, a bunch more I probably forgot.
+One thing that is not considered a classic is a 1992 or 1993 cone idea about supersymmetry breaking
+that is very clever and simple idea for stabilizing the cosmological constant, but it probably doesn't
+work (there seems to be a mistake, I don't remember what I thought it was), but boy is it inspirational.
+it's really intimidating, as all his work is of extremely high quality, and everything is for sure 
+required reading. It is a little difficult to follow, because it requires knowing earlier physical and
+mathematical work, but it's as if it was made for the age of the internet, because now you can learn 
+the associated material without being in a fancy place.
+```
+
+Ed Witten talking about himself sounds much more relatable. Consider these excerpts from [this interview for the AMS Notices](http://www.ams.org/notices/201505/rnoti-p491.pdf):
+
+```markdown
+....in those years, I knew about Khovanov homology and I was frustrated to not understand it, but I
+had no idea it was related to geometric Langlands. I was frustrated at not understanding Khovanov 
+homology, because I felt that my work on the Jones polynomial ought to be a good starting point for 
+understanding Khovanov homology, but I just could not see how to proceed.
+
+Eventually, however, some developments in the mathematical literature helped me understand that 
+Khovanov homology should be understood using the same ingredients that are used to understand geometric
+Langlands. I didn’t understand all of these clues, but I learned from two of them. .... I did not 
+initially know what to make of those clues, but they were a sort of red flag hanging out there.
+```
+
+Or this:
+
+```markdown
+If one knows even a little bit about the Langlands correspondence and a little bit about conformal field theory on a Riemann surface, one can see an analogy between them. I wrote a paper that was motivated by that, but then I realized that my understanding was too superficial to lead to anything deep, so I abandoned the matter for a number of years.
+```
+
+Or this:
+
+```markdown
+The work of Beilinson and Drinfeld on geometric Langlands bothered me.... They were using familiar ingredients of physics, but they were using them in ways that did not seem to fit. It looked like somebody had taken a bunch of chess pieces, or perhaps here in Japan I should say a bunch of shogi pieces, and placed them on the board at random. The way that the pieces were arranged did not make any sense to me. That bothered me, but I could not do anything about it.
+```
+
+Or this:
+
+```markdown
+Although I understood scarcely anything of what Beilinson and Drinfeld were saying, I did put them in touch with Hitchin’s work, and actually, in their very long, unpublished foundational paper on geometric Langlands that you can find on the Web, Beilinson and Drinfeld acknowledged me very generously, far overestimating how much I had understood. All that had really happened was that based on a guess, I told them about Hitchin’s work, and then I think that made all kinds of things obvious to them. Maybe they felt I knew some of those things, but I didn’t.
+```
+
+Or this:
+
+```markdown
+There were two long series of lectures and then there were a couple of outliers. The long series were very well done, but they did not help me very much.
+
+In addition, Ed Frenkel.... gave a series of lectures that, as far as I was concerned, were basically about the shogi board on which the pieces have been arranged at random. I really couldn’t get much out of those lectures either, because I already knew that people working on the geometric Langlands were taking familiar pieces from the shogi set and arranging them on the board at random as far as I was concerned.
+```
+
+Or this:
+
+```markdown
+I personally concentrated on geometric Langlands rather than on number theory, and geometric Langlands was hard enough..... For example, I did not understand what Hiraku Nakajima explained yesterday at the Kyoto Prize Workshop.
+```
+
+Or this:
+
+```markdown
+In some cases, I am still struggling to understand things that physicists did quite some time ago that are very relevant. Just to give one example, the Gopakumar-Vafa and Ooguri-Vafa formulas have been very influential for algebraic geometers, but as a physicist, I was never satisfied that I understood them. So I actually spent a lot of time in the last year with a student (Mykola Dedushenko) trying to understand these formulas better. In this work, I was doing some of the homework that I’d have to understand before even trying to answer your question.
+```
+
+Or this, as a counterpoint to Seiberg's claim that he's "powerful in everything.... [including] the most sophisticated math":
+
+```markdown
+Usually producing rigorous proofs requires very detailed methods. That makes it hard for a physicist, and so I myself have only done that in very special cases where I thought something was really missing that was actually simple enough that I could help do it if I had the right collaborator.
+```
+
 
 <a name="#economics"></a>
 ## Economics
@@ -4050,6 +4590,293 @@ and distinctive lifeways—in other words, the products of cultural evolution th
 with—are all swept aside by a rationalizing state that preserves (or in many cases, imposes) only what it 
 can be understood and manipulated from the 2,000 foot view. The result, as Scott chronicles with example
 after example, are many of the greatest catastrophes of human history. 
+```
+
+<a name="#absurdity-heuristic"></a>
+### Absurdity heuristic
+([overview](#overview))
+
+From Scott Alexander's [Talking Snakes: A Cautionary Tale](https://www.lesswrong.com/posts/atcJqdhCxTZiJSxo2/talking-snakes-a-cautionary-tale):
+
+```markdown
+I have read of the absurdity heuristic. I know that it is not carte blanche to go around rejecting
+beliefs that seem silly. But I was still sympathetic to (Bill Maher's) talking snake argument. After
+all... *a talking snake?*
+
+I changed my mind in a Cairo cafe, talking to a young Muslim woman. I let it slip during the
+conversation that I was an atheist, and she seemed genuinely curious why. You've all probably been in
+such a situation, and you probably know how hard it is to choose just one reason, but I'd been 
+reading about Biblical contradictions at the time and I mentioned the myriad errors and atrocities 
+and contradictions in all the Holy Books.
+
+Her response? "Oh, thank goodness it's that. I was afraid you were one of those crazies who believed
+that monkeys transformed into humans."
+
+I admitted that um, well, maybe I sorta kinda might in fact believe that.
+
+It is hard for me to describe exactly the look of shock on her face, but I have no doubt that her
+horror was genuine. I may have been the first flesh-and-blood evolutionist she ever met. "But..." she
+looked at me as if I was an idiot. "Monkeys don't change into humans. What on Earth makes you think 
+monkeys can change into humans?"
+
+I admitted that the whole process was rather complicated. I suggested that it wasn't exactly a
+Optimus Prime-style transformation so much as a gradual change over eons and eons. I recommended a few 
+books on evolution that might explain it better than I could.
+
+She said that she respected me as a person but that quite frankly I could save my breath because there 
+was no way any book could possibly convince her that monkeys have human babies or whatever sort of
+balderdash I was preaching. She accused me and other evolution believers of being too willing to accept
+absurdities, motivated by our atheism and our fear of the self-esteem hit we'd take by accepting Allah
+was greater than ourselves.
+
+It is not clear to me that this woman did anything differently than Bill Maher. Both heard statements 
+that sounded so crazy as to not even merit further argument. Both recognized that there was a large
+group of people who found these statements plausible and had written extensive literature justifying
+them. Both decided that the statements were so absurd as to not merit examining that literature more
+closely. Both came up with reasons why they could discount the large number of believers because
+those believers must be biased.
+
+I post this as a cautionary tale as we discuss the logic or illogic of theism. I propose taking from 
+it the following lessons:
+
+- The absurdity heuristic doesn't work very well.
+
+- Even on things that sound really, really absurd.
+
+- If a large number of intelligent people believe something, it deserves your attention. After you've 
+studied it on its own terms, then you have a right to reject it. You could still be wrong, though.
+
+- Even if you can think of a good reason why people might be biased towards the silly idea, thus
+explaining it away, your good reason may still be false.
+
+- If someone cannot explain why something is not stupid to you over twenty minutes at a cafe, that
+doesn't mean it's stupid. It just means it's complicated, or they're not very good at explaining things.
+
+- There is no royal road.
+```
+
+Additional commentary by Eliezer Yudkowsky:
+
+```markdown
+Consider: If all the *rest* of the religious framework were granted, would the talking snake be an 
+*additional problem*? No. The talking snake is only absurd if you refuse to grant the rest of the 
+religious framework. The fact that a snake is talking is not, of itself, the source of any *additional*
+problem - unless you were to argue that it fits the mode of a classic bias like minimal 
+counterintuitiveness or thinking that "talking" is a simple feature that can easily be grafted on, etc.
+But the point is, the part where a talking snake is in this story, is, presuming the story's other 
+premises, not the proper subject of the dispute.
+
+The problem is the other premises, and notions like sin passed down through generations, or that the 
+sin was contained in an easily accessible tree put right there in the Garden (trap much?), or the fact
+that a supernatural God is in the story - and so on and so on.
+
+When you look at it from that perspective, then indeed, saying "Ha ha, a talking snake" is the exact
+mirror image of saying "Ha ha, a monkey birthed a human", because it takes refuge in absurdity instead
+of addressing the most important part of an argument as a whole.
+
+The contradictions are a proper point of attack, but only if they would be really, genuinely troublesome 
+*even granting the rest of the premises*.
+```
+
+Zaph:
+
+```markdown
+The use of absurdity seems more like a tool to enforce group norms than a means of conversion. That 
+doesn't mean the beliefs aren't absurd, just that pointing out the absurdity of outsiders is common 
+practice by in-group members. Most creationist-minded believers would use some similarly absurd way
+of describing evolution, with the group benefit of passing along "evolution is stupid" meme. That said,
+it is important to start to tease apart just how many other enforcement strategies are out there, as
+they are going to need to be dealt with one by one.
+```
+
+<a name="#typical-mind-fallacy"></a>
+### Typical mind fallacy
+([overview](#overview))
+
+Scott Alexander's LW post [Generalizing From One Example](https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example) begins with the following example of the "typical mind fallacy" by his old professor David Berman, about whether "imagination" was real or just a turn of phrase:
+
+```markdown
+There was a debate, in the late 1800s, about whether "imagination" was simply a turn of phrase or 
+a real phenomenon. That is, can people actually create images in their minds which they see vividly,
+or do they simply say "I saw it in my mind" as a metaphor for considering what it looked like?
+
+Upon hearing this, my response was "How the stars was this actually a real debate? Of course we have
+mental imagery. Anyone who doesn't think we have mental imagery is either such a fanatical Behaviorist 
+that she doubts the evidence of her own senses, or simply insane." Unfortunately, the professor was 
+able to parade a long list of famous people who denied mental imagery, including some leading scientists
+of the era. And this was all before Behaviorism even existed.
+
+The debate was resolved by Francis Galton, a fascinating man who among other achievements invented 
+eugenics, the "wisdom of crowds", and standard deviation. Galton gave people some very detailed surveys,
+and found that some people did have mental imagery and others didn't. The ones who did had simply 
+assumed everyone did, and the ones who didn't had simply assumed everyone didn't, to the point of coming 
+up with absurd justifications for why they were lying or misunderstanding the question. There was a wide
+spectrum of imaging ability, from about five percent of people with perfect eidetic imagery to three
+percent of people completely unable to form mental images.
+
+Dr. Berman dubbed this the Typical Mind Fallacy: the human tendency to believe that one's own mental 
+structure can be generalized to apply to everyone else's.
+
+He kind of took this idea and ran with it. He interpreted certain passages in George Berkeley's biography
+to mean that Berkeley was an eidetic imager, and that this was why the idea of the universe as sense-
+perception held such interest to him. He also suggested that experience of consciousness and qualia were 
+as variable as imaging, and that philosophers who deny their existence (Ryle? Dennett? Behaviorists?) were
+simply people whose mind lacked the ability to easily experience qualia. In general, he believed philosophy
+of mind was littered with examples of philosophers taking their own mental experiences and building theories
+on them, and other philosophers with different mental experiences critiquing them and wondering why they
+disagreed.
+```
+
+Now this is "about serious matters of mental structure". Scott noticed something similar going on with "matters of the psyche" -- a tendency to generalize from our personalities and behaviors. He gives two personal examples, introversion and noise sensitivity:
+
+```markdown
+For example, I'm about as introverted a person as you're ever likely to meet - anyone more introverted 
+than I am doesn't communicate with anyone. All through elementary and middle school, I suspected that 
+the other children were out to get me. They kept on grabbing me when I was busy with something and trying
+to drag me off to do some rough activity with them and their friends. When I protested, they counter-
+protested and told me I really needed to stop whatever I was doing and come join them. I figured they 
+were bullies who were trying to annoy me, and found ways to hide from them and scare them off.
+
+Eventually I realized that it was a double misunderstanding. They figured I must be like them, and the 
+only thing keeping me from playing their fun games was that I was too shy. I figured they must be like me,
+and that the only reason they would interrupt a person who was obviously busy reading was that they wanted
+to annoy him.
+
+Likewise: I can't deal with noise. If someone's being loud, I can't sleep, I can't study, I can't 
+concentrate, I can't do anything except bang my head against the wall and hope they stop. I once had a noisy
+housemate. Whenever I asked her to keep it down, she told me I was being oversensitive and should just
+mellow out. I can't claim total victory here, because she was very neat and kept yelling at me for leaving
+things out of place, and I told her she needed to just mellow out and you couldn't even tell that there was
+dust on that dresser anyway. It didn't occur to me then that neatness to her might be as necessary and
+uncompromisable as quiet was to me, and that this was an actual feature of how our minds processed information
+rather than just some weird quirk on her part.
+
+"Just some weird quirk on her part" and "just being oversensitive" are representative of the problem with the
+typical psyche fallacy, which is that it's invisible. We tend to neglect the role of differently-built minds
+in disagreements, and attribute the problems to the other side being deliberately perverse or confused. I 
+happen to know that loud noise seriously pains and debilitates me, but when I say this to other people they
+think I'm just expressing some weird personal preference for quiet. Think about all those poor non-imagers 
+who thought everyone else was just taking a metaphor about seeing mental images way too far and refusing to 
+give it up.
+```
+
+An example from Scott's experience with teaching -- see also [here](#teaching-and-learning):
+
+```markdown
+There's some evidence that the usual method of interacting with people involves something sorta like 
+emulating them within our own brain. We think about how we would react, adjust for the other person's
+differences, and then assume the other person would react that way. This method of interaction is very 
+tempting, and it always feels like it ought to work.
+
+But when statistics tell you that the method that would work on you doesn't work on anyone else, then
+continuing to follow that gut feeling is a Typical Psyche Fallacy. You've got to be a good rationalist,
+reject your gut feeling, and follow the data.
+
+I only really discovered this in my last job as a school teacher. There's a lot of data on teaching 
+methods that students enjoy and learn from. I had some of these methods...inflicted...on me during my 
+school days, and I had no intention of abusing my own students in the same way. And when I tried the
+sorts of really creative stuff I would have loved as a student...it fell completely flat. What ended up 
+working? Something pretty close to the teaching methods I'd hated as a kid. Oh. Well. Now I know why 
+people use them so much. And here I'd gone through life thinking my teachers were just inexplicably bad 
+at what they did, never figuring out that I was just the odd outlier who couldn't be reached by this sort
+of stuff.
+```
+
+Scott elaborates:
+
+```markdown
+Keeping in mind that I taught English as a second language to older elementary school children:
+
+Ordinary teaching methods: constant repetition of unconnected topics followed by endless vapid games.
+For example, a game of bingo with vocabulary words in each square. Attempts to trick children into 
+thinking something was interesting; for example, calling vocabulary "word baseball" or something like that
+and dressing up in a baseball cap while teaching it.
+
+Things I predicted would work better: attempts to make material genuinely interesting, have each lesson 
+build on the previous, and create links between different concepts. For example, a lesson on the days of
+the week including a mini-presentation on the Norse gods after whom they were named, references to previous 
+lessons when we had learned "sun" and "moon" for Sunday and Monday. Attempt to teach how to apply general 
+principles instead of doing everything ad hoc.
+```
+
+Note that this all goes against the University of Missouri's [25 important findings on learning](#important-findings-on-learning), which is basically just an executive summary of the literature plus action items (themselves shortened rephrasings of the executive summaries), and yet they agree with Quoran teacher Matthew Bates' experience (see [his answers](https://www.quora.com/profile/Matthew-Bates-27)) so in the end I don't know. Maybe the former are talking about students from lower SES families (correlating with lower educational achievement)?
+
+Dan Dennett gives an interesting illustration/test of mental imagery:
+
+```markdown
+Picture a 3 by 3 grid. Then picture the words "gas", "oil", and "dry" spelled downwards in the columns 
+left to right in that order. Looking at the picture in your mind, read the words across on the grid.
+```
+
+Scientism points out a version of the typical mind fallacy in how people "vastly overestimate their own goodness" when it comes to "testimony on one's moral worth":
+
+```markdown
+Often "goodness" is just a way to dress up powerlessness. Like an overweight man might say he's "stocky" 
+or an overweight woman might say she's "curvy," so an undesirable or shy man or woman might emphasize the 
+upside: "I would never cheat." There's a version of the typical mind fallacy in there: a person might 
+genuinely think they would never cheat but be extrapolating from a position where the opportunity rarely 
+presents itself. We can all talk about how, if we were in a position of political power, we'd never succumb
+to bribes or cronyism because we don't have any political power. It both makes us look good and, as far as 
+we know, it's true. I think testimony, especially when it comes to ones moral worth, is the least valuable 
+form of data available.
+```
+
+This segues naturall to the Milgram experiment, the Stanford prison experiment, and the case of Nazi-era German civilians:
+
+```markdown
+When I've taught ethics in the past, we always discuss the Nazi era. Not because the Nazis acted
+unethically, but because of how everyone else acted.
+
+For example, we read about the vans that carried Jewish prisoners that had the exhaust system designed
+to empty into the van. The point is not how awful that is, but that there must have been an engineer 
+somewhere who figured out the best way to design and build such a thing. And that engineer wasn't a Nazi
+soldier, he or she was probably no different from anyone else at that time, with kids and a family and
+friends and so on. Not an evil scientist in a lab, but just a design engineer in a corporation.
+
+One point of the discussion is that "normal" people have acted quite unethically in the past, and how can
+we prevent that happening to us.
+```
+
+From mental imagery to aural imagination, and their trainability, per cousin_it:
+
+```markdown
+Only this winter did I really understand that good musicians have vivid aural imagination, while I 
+couldn't hear any sounds in my head, period. Immediately after this realization I started exercising. 
+By now I can hear complete monophonic melodies, and (on good days) imagine two notes sounding at the 
+same time. Classically trained conductors can imagine a complete orchestral sound while reading sheet
+music. I don't see any reason why visual imagination can't be similarly trained.
+```
+
+How cousin_it trained the skill:
+
+```markdown
+The hardest part for me was the beginning, getting a toehold at any inner sound. Pick a note on 
+the guitar - I started with D on the second string. Play it at a steady rhythm with rests, slowly
+fading away into nothing. (Might not be possible on the piano or other instruments.) At some moment
+the brain will start to "complete" the sound, even though by that point you're playing too softly to
+hear. Catch that feeling, expand on it. When you can "do" several different notes, try playing a 
+simple melody and hearing it afterwards. After you're comfortable with that, try to hear a simple major
+scale without playing it immediately beforehand. Then work from unfamiliar sheet music without playing it
+- solfege-sing in your mind - by now I can do this quite easily. And so on.
+```
+
+Prismattic points out how this plays out in books vs movies preferences:
+
+```markdown
+It struck me that I think you can still see the imagination debate playing out today. Consider the 
+following conversation, which most people will have encountered a variant of at least once+:
+
+-- Mr. Highbrow: It is better to read books than watch movies based on them. The movies limit you to 
+someone else's perspective on the material, but the book gives maximum reign to your imagination.
+
+-- Mr. Lowbrow: What are you smoking? The movie is an immersive experience that makes me feel like I'm 
+really in the story. The book is just somebody else's description of the story.
+
+Having thought about it, my highest-probability hypothesis is now that Mr. HB has more vivid mental 
+imagery than does Mr. LB. Further introspection led me to realize that when I read fiction, I often have
+very specific images of places and scenery, but usually only vague impressions of faces. When I watch 
+film adaptions, I'm often struck that the setting is "wrong," but rarely have that feeling about the 
+appearance of people (unless the actors are grossly divergent from the description of them in the book)
 ```
 
 <a name="#teaching-and-learning"></a>
