@@ -39,7 +39,11 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 1. [Amazing people](#amazing-people)
    1. [Alexander Grothendieck](#alexander-grothendieck)
+   2. [Andrey Kolmogorov](#Andrey-Kolmogorov)
+   2. [Butler Lampson](#Butler-Lampson)
+   2. [Charlie Fefferman](#charlie-fefferman)
    2. [Ed Witten](#ed-witten)
+   2. [Johnny von Neumann](#johnny-von-neumann)
    2. [LeBron James](#lebron-james)
    2. [Terry Tao](#terry-tao)
 2. [Artificial intelligence](#artificial-intelligence)
@@ -128,6 +132,468 @@ I've sorted the quotes below into the following categories. This is a provisiona
 ## Amazing people
 ([overview](#overview))
 
+<a name="#Andrey-Kolmogorov"></a>
+### Andrey Kolmogorov
+([overview](#overview))
+
+Andrey Kolmogorov was the (only slightly) poorer man's version of [Johnny von Neumann](#johnny-von-neumann). He was born in 1903, eight months earlier than von Neumann, but lived thirty years longer. Von Neumann was only nineteen when he published two major math papers, the second of which gave the modern definition of ordinal numbers, superseding Cantor’s definition; that same year Kolmogorov wrote a paper on operations on sets which was a major generalization of results obtained by Suslin, then gained international prominence for constructing a Fourier series that diverges almost everywhere, something experts considered wholly unexpected. 
+
+Everything he touched seemed to turn to gold:
+
+```markdown
+Almost simultaneously [Kolmogorov] exhibited his interest in a number of other areas of classical 
+analysis: in problems of differentiation and integration, in measures of sets etc. In every one of his
+papers, dealing with such a variety of topics, he introduced an element of originality, a breadth of 
+approach, and a depth of thought.
+```
+
+He published eight papers in 1925 alone, all written while he was still an undergrad at MSU, and by the time he received his doctorate in 1929 Kolmogorov already had 18 papers to his name.
+
+The 1930s were the mathematical heydays of both von Neumann and Kolmogorov. The latter in particular published over sixty papers during that decade alone in at least *eleven* different fields:
+
+```markdown
+… probability theory, projective geometry, mathematical statistics, the theory of functions of a real 
+variable, topology, mathematical logic, mathematical biology, philosophy and the history of mathematics.
+```
+
+He was only thirty when he published Foundations of the Theory of Probability, laying the modern axiomatic foundations of probability theory and establishing his reputation as the world's leading expert in this field, and in the process bringing respectability to a discipline suffering from lack of foundations.
+
+Like that of von Neumann, Kolmogorov’s work covered every area of mathematics except number theory. A non-exhaustive list of areas he enriched by his fundamental research:
+
+```markdown
+The theory of trigonometric series, measure theory, set theory, the theory of integration, constructive
+logic (intuitionism), topology, approximation theory, probability theory, the theory of random processes, 
+information theory, mathematical statistics, dynamical systems, automata theory, theory of algorithms, 
+mathematical linguistics, turbulence theory, celestial mechanics, differential equations, Hilbert's 6th 
+and 13th problems, ballistics, and applications of mathematics to problems of biology, geology, and the
+crystallization of metals.
+```
+
+Kolmogorov was clearly a giant of a mathematical scientist in the highest sense of the word, so much so that I wonder why he didn’t have von Neumann’s reputation for brains. My best guess is that he wasn’t a mental calculator like von Neumann. The easiest way to *viscerally* demonstrate “wow brains!” is to do the sort of party tricks von Neumann used to regale his audience with—out-calculating (early) computers, instantly summing infinite series, translating books by heart “with no diminution in speech rate”, memorizing entire pages from phone books on command and suchlike—which Kolmogorov probably didn’t do.
+
+<a name="#charlie-fefferman"></a>
+### Charlie Fefferman
+([overview](#overview))
+
+I've known about Charles Fefferman for a few years now, but never really bothered to check out his background. I vaguely thought of him as Terry Tao before Terry Tao: both work in analysis, both are extremely accomplished and productive (Tao probably more so, since he seems to explicitly optimize for productivity to a degree I find unusual even in top-tier mathematicians), both garnered a reputation very early on for consistently solving really tough problems (the kind more naturally associated with high IQ than artistic creativity, more Gauss than Grothendieck if that makes sense), both have an impressive string of awards to their name, and both growing up were prodigies – in the most rarefied sense of the word. 
+
+You know Tao's story already. Here's a quick run-through from memory: scored 760 on the Math portion of the SAT (99th percentile score) at 8 on his first try (only one other 8-year-old ever scored more than 700, Lenhard Ng, and it was his fifth try), youngest IMO medalist ever at 10 (bronze), youngest IMO silver ever (year after), youngest IMO gold ever (year after), graduated at 16, Ph.D. from Princeton at 20 under the renowned analyst Elias Stein, same year published his first (four) papers, full professor at UCLA at 24, Fields Medal at 31. 
+
+Fefferman's story, interestingly, parallels and predates Tao's by about 26 years or so. In fact he was slightly ahead even. A summary: started college at 12, published his first paper at 15 (!), graduated at 17, Ph.D. also from Princeton at 20 under Elias Stein (!), full professor at University of Chicago at 22 (youngest at major university in US history), Fields Medal at 29 (youngest ever, since surpassed).
+
+Although I'm a fan of Tao, I honestly think that some of the effusive praise surrounding him is a bit overmuch -- see for instance [the University of St Andrew's bio on Terry](#terry-tao). But even *that* doesn't compare to how Charlie was lauded back in the day. When I dug through old news articles on thirty-year-old Fefferman, I found the kind of praise that puts the above to shame: "perhaps the greatest mathematical genius of this century" and its variants popped up in the first two articles I found! Also others, like "certainly every mathematician in this country knows Charlie Fefferman". 
+
+The anecdotes on young Fefferman strike me as representative of someone who wasn't just very good at math, but very smart in general. When he was four, the local auto mechanic at Silver Springs told his mom that "anytime the little kid wants a job here he's hired", since *by the age of four* he was already "better than any mechanic [he'd] ever met" (!).Later he took an interest in dinosaurs, and got so obsessed with them that his impromptu "lectures" on fossil exhibits at the Smithsonian to his younger brother reputedly drew throngs of followers. Tall tales, all of them, each as fun to read as the next.
+
+Incidentally, Fefferman wrote the [laudatio](http://www.icm2006.org/proceedings/Vol_I/7.pdf) summarizing Tao's work leading to the latter winning the Fields. I like to see it as the passing of a torch from a Fields prodigy to another. Winning the Fields is rare enough. Winning it before the age of 32 – this sounds somewhat arbitrary, but by that I mean two cycles early, meaning you had two more chances to win it when older people past 36 have none, so you'd have to be really deserving of the award to take a spot from one of them – is much rarer still. I only know three. Two of them are Fefferman and Tao.
+
+There's a quote by Fefferman of Tao that goes: "He's wonderful. There are a few in a generation, and he's one of the few." So are you, Charlie, so are you.
+
+<a name="#johnny-von-neumann"></a>
+### Johnny von Neumann
+([overview](#overview))
+
+From Cosma Shalizi's [notebook on Johnny](http://bactra.org/notebooks/von-neumann.html):
+
+```markdown
+Johnny, as it seems everyone called him, was one of those people who are so bright it's hard to believe
+they were human. 
+
+(Maybe he wasn't. There's an old joke about the Fermi Paradox, a problem which occured to Enrico Fermi 
+one day at Los Alamos: where are They? If there are intelligent aliens out there in the universe, why
+aren't they here yet? A million years is nothing, as the universe reckons things, but, judging from our
+own track-record, a species only that much older than us would have technology which would blow our minds,
+pretty close to limits set by physical laws. Leo Szilard is supposed to have answered Fermi: "Maybe they
+'re already here, and you just call them Hungarians.")
+
+About the only large current of the natural sciences in this century which von Neumann's work has *not* 
+added to is molecular biology. Almost everything else of any signficance he touched: mathematical logic; 
+pure math; quantum physics; computing (which, as we know it, is largely his invention), cybernetics and 
+automata theory; the Bomb; turbulence; game theory (another invention) and so economics, evolutionary 
+biology, and the theory of war and conflict; artificial life, cellular automata (a third invention), the
+theory of self-reproduction (which, with molecular biology, finally killed off any last lingering hopes 
+for vitalism) and artificial evolution. What many of us like to think of as new and profound changes in 
+the way science works, brought about by computer modelling and simulation, were forseen and called for by
+von Neumman in the '40s. If any one person can be said to be the intellectual ancestor of complexity and
+all that travels alongside it, it was Johnny. His only real rival for the honor is Norbert Wiener, a better
+man but a less overwhelming scientist.
+```
+
+All this, in thirty-odd years. Von Neumann died relatively young, aged fifty-three, from either bone or pancreatic cancer. I’ve often wondered what else he would have accomplished had he lived longer, how much more he might have done. 
+
+(I think I know now the answer: Johnny von Neumann would have probably been a richer man’s version of Andrey Nikolaevich Kolmogorov, and I’m not so sure about the “richer” part. See [here](#Andrey-Kolmogorov).)
+
+The ever-entertaining Steve Yegge on Johnny, from his essay [Math every day](https://sites.google.com/site/steveyegge2/math-every-day):
+
+```markdown
+Von Neumann was originally "just" a mathematician (and chemical engineer), but he made lasting and
+often central contributions to fields other than pure mathematics. Yes, he invented the computer and
+computer programming as we know it, which is a fine thing to have on your resume, but it's only a 
+tiny part of his work. The list is so long that the book I read couldn't begin to mention it all, 
+let alone discuss it. I'll list a handful of his accomplishments here, but they don't begin to paint
+the full picture.
+
+Johnny co-invented game theory, made critical contributions to the field of economics, and extended 
+his game theory to formalize the theory of linear programming, which is now a staple optimization 
+method for many disciplines, including some that we employ at Amazon (e.g. operations research).
+
+He singlehandedly invented the theory of cellular automata -- you know, the one that madman Stephen 
+Wolfram tries to take credit for in A New Kind of Science -- and was one of the pioneers of methods
+for understanding the human brain, which spun off any number of sub-fields.
+
+He also did pioneering work in the theory of building large, reliable systems comprised of unreliable
+components.
+
+He was one of the key contributors to the atomic bomb on the Manhattan Project. He's the one who 
+suggested the implosion device for achieving reliable detonation (they had been trying to use a 
+gun/projectile method), and he was instrumental in working out the hydrodynamic and thermodynamic 
+problems in understanding the shock waves and blast behavior. Regardless of your feelings about nuclear
+weapons, you have to appreciate his contributions in a critical wartime initiative.
+
+He made many major contributions to the field of numerical approximation. Many real-world problems are 
+non-tractable to mathematical analysis; e.g. they're only describable by systems of high-order partial 
+differential equations. Johnny tackled these problems with gusto, inventing or extending a huge number
+of different approaches for doing approximations or probabilistic analyses that yielded results where
+rigorous analysis had failed.
+
+This is the primary reason that he went to all the effort to invent the modern computer. He wasn't 
+satisfied with simply designing and building it; he used it to solve a huge variety of real-life problems.
+
+For instance -- and this is just one example -- he turned weather forecasting into a science. Before
+Johnny decided to tackle the problem (and he knew nothing of meteorology; he had to learn it in order 
+to solve it), it wasn't possible to get accurate 24-hour weather predictions, and the experts in the 
+field had given up hope of ever making scientific weather predictions. You now get accurate weather 
+forecasts because Johnny decided it was an interesting problem.
+```
+
+Yegge On "what computers really are":
+
+```markdown
+Another realization I had while reading the book (John von Neumann and the Origins of Modern Computing) 
+is that just about every course I took in my CS degree was either invented by Johnny von Neumann, or 
+it's building on his work in mostly unintelligent ways.
+
+Where to start? Before von Neumann, the only electronic computing devices were calculators. He invented
+the modern computer, effectively simulating a Universal Turing Machine because he felt a sequential 
+device would be cheaper and faster to manufacture than a parallel one. I'd say at least 80% of what we
+learned in our undergrad machine-architecture course was straight out of his first report on designing
+a programmable computer. It really hasn't changed much.
+
+He created a sequential-instruction device with a fast calculation unit but limited memory and slow 
+data transfer (known as the infamous "von Neumann bottleneck", as if he's somehow responsible for
+everyone else being too stupid in the past 60 years to come up with something better. In fact, Johnny was
+well on his way to coming up with a working parallel computer based on neuron-like cellular automata; he 
+probably would have had one in production by 1965 if he hadn't tragically died of cancer in 1957, at age 54.)
+
+Von Neumann knew well the limitations of his sequential computer, but needed to solve real problems with
+it, so he invented everything you'd need to do so: encoding machine instructions as numbers, fixed-point
+arithmetic, conditional branching, iteration and program flow control, subroutines, debugging and error 
+checking (both hardware and software), algorithms for converting binary to decimal and back, and mathematical
+and logical systems for modelling problems so they could be solved (or approximated) on his computing machine.
+
+He did much of the hardware and materials engineering himself, working closely with engineers to come up
+with solutions for memory, secondary storage, input and output (including hooking up an oscilloscope to the
+computer to visually check results that were too complex for punch cards). He secured the funding for building
+the computer and computing lab from government and other sources, developed training programs to teach people
+how to program computers, and worked with domain experts to find problems that were too hard for mathematical
+analysis but tractable to numerical solutions on his computer.
+
+Of course he knew what was computable on his machine, because he worked out new definitions of elegance and
+efficiency, came up with the mathematical models for analyzing the complexity of algorithms being executed on
+his device, and with his staff, ran hundreds of experiments to learn what worked well and what didn't.
+
+John von Neumann invented our universe.
+
+Then he died at the depressingly early age of 54, robbing the world of perhaps the greatest genius of the 
+20th century. "Those who know" generally seem to rank Albert Einstein ahead of von Neumann, but Johnny
+always gets a solid #2 vote. Frankly, though, I think Johnny had a far bigger impact on my life, and not 
+just because I'm a programmer. What did Albert do, really? Dashed all our hopes of faster-than-light travel,
+that's what he did. Whined a lot about not agreeing with quantum mechanics, that's what he did. To the best
+of my knowledge, Einstein didn't even know EJB, which according to many Amazon folks makes him a retard.
+
+When I say that von Neumann invented our universe, I'm not trying to be poetic or rhetorical. What I'm saying 
+is that his *first* attempt at a computing machine, one that he didn't really like all that much and considered
+mostly a prototype, is still the one sitting on my desk today. That means we're a bunch of frigging boneheads.
+You, me, everyone.
+```
+
+More of the same from Yegge:
+
+```markdown
+Discrete math, data structures, algorithms: they've all been refined since he died, sure, but he started
+it all. Virtually every discipline that we think of as "computer science" is like Euclidean geometry: 
+useful, sure, but far from the only kind out there.
+
+Operating systems, threads, and processes are just a pathetic attempt at fooling you into thinking you have
+a parallel computer, right? Gosh, computers are so darn fast that you can have the processor zing around
+like Feyman's hypothetical "only electron in the universe", and it almost looks as if we're smart. But we're
+not. All the world at large truly understands is serial execution, which is precisely why we're so lost in
+the whole distributed computing space. Everyone talks about agents and crawlers and web services and all
+this other crap we don't understand; Johnny would have taken one look at it and invented tractable
+mathematical solutions.
+
+Compilers: now there's one discipline where Johnny clearly didn't have much influence. He was a big old-
+school proponent of doing everything in machine code. He might have changed his mind if he'd lived another 
+few decades; hard to say. But ordinary mortals realized they needed shortcuts: higher-level languages that
+would be translated into Johnny's machine instructions.
+
+So people came up with a bunch of crap-ass languages that still had the exact same abstractions as the
+underlying machine: a global memory that you update by issuing statements or instructions, expressions
+that can be computed by the arithmetic-logic unit, conditional branching and loops, subroutines.
+Everything you need to be "Turing-complete", which is equivalent to von Neumann-complete.
+
+The new languages simply added various shortcuts: named storage locations ("variables"), syntax for dealing
+with memory addresses, "types" for telling the compiler that a variable comes from a particular set of valid
+values and has a particular set of legal operations, "scopes" and "namespaces" for organizing your code a
+little better, "objects" for anthropomorphizing your data so it can be happy or sad (mostly sad), and other
+cruft.
+
+Bu it's all crap. Why? Because it's all just sugaring for the capabilities of assembly language on von
+Neumann serial machines, plus a smattering of support for calling into the operating system code so you
+can pretend your program is performing truly parallel operations. And none of that parallel stuff works
+very well, since we don't understand it, because we don't know math.
+
+What about data structures, you ask? Surely that's one island of purity, something that exists outside of
+the von Neumann universe? After all, we worked so hard to understand them. (Well, some of us did. Plenty 
+of folks didn't even do that; they just call an API and it all works like magic.)
+
+Sorry to disappoint you, but most of our data structures are fundamentally based on Johnny's sequential 
+machine. Think of all those pointers: they're just memory addresses. The best you can do for a sorting 
+algorithm, complexity-wise, assuming radix sort isn't possible, is n*logn. Or so you thought; there are
+parallel algorithms that run in linear time. All your cherished data structures are simply the best that
+clever people could do at organizing data on a Turing Machine. If someone created a set of data structures
+whose pointers were URLs, that would be a step away from von Neumann.
+
+What about SMP or NUMA? Surely adding multiple processors is a huge step towards parallel computing? Nope,
+sorry. Well, not much of one. There's still a von Neumann bottleneck; the channel has just been made a bit 
+shorter. We need it to be made infinitely wider by creating a truly parallel computer that doesn't consist
+of CPUs all trying to update the same global store.
+
+Face it: Computer Science was a misnomer. It should have been called Johnny's First Universe.
+```
+
+Yegge on Johnny "making intractable problems tractable":
+
+```markdown
+Mathematicians have traditionally avoided problems that they considered "intractable" to analysis. 
+They've known about numerical methods for centuries; even Newton devised a few, as did the ancient Greeks. 
+But brute-force methods have traditionally been met with some disdain, because the results of large-scale
+human computations rarely justify the cost of the undertaking.
+
+Clairaut's work in 1757, in which he and two other people labored for 5 months to trace the orbit of 
+Halley's Comet to compute its perihelion, garnered widespread criticism after his team missed the true 
+perihelion by thirty-one days. Larger-scale computing groups have met with similar results: you can perform
+large, expensive computations, e.g. to create trigonometric tables, but humans make errors, and human 
+computers generate unreliable output that becomes worse the harder they push to get it done faster.
+
+Before von Neumann's programmable computer, mathematicians had few other options. They pushed pure analysis
+to its limits, but some physical and natural phenomena can only be described with complex systems of 
+equations that cannot be solved analytically. Many problems had to be solved informally.
+
+Von Neumann changed all that; he embraced numerical methods and invented entire new branches of math for use
+with the computers he was inventing -- the sequential computer for the most part, but also his planned 
+parallel computers. And he was able to perform larger and larger computing tasks with small-ish teams. When
+a task grew large enough, requiring more than, say, 20 people, it was considered intractable. Rather than 
+trying to secure funding for more people, he and his colleagues went to work on creating intrinsically more 
+powerful mathematical models to make the problem tractable.
+
+And don't you think for a moment that his problems were "easier" than the ones Amazon faces today. Looking
+at the speed at which he was pioneering the development of parallel computational models and research on
+intelligent, self-reproducing, self-repairing systems in the last few years of his life, it's pretty clear
+that he would have been successful. Johnny's approach was to make intractable tasks tractable.
+```
+
+This quote isn't that relevant, but it touched me. Steve Yegge in [Moore's law is crap](http://steve-yegge.blogspot.com/2006/03/moores-law-is-crap.html):
+
+```markdown
+You *do* realize that John von Neumann spent the last 10 years of his life singlehandedly developing a 
+theory of computing based on cellular automata? The computer you're reading this blog rant on was his
+frigging prototype! He was going to throw it out and make a better one! And then he died of cancer, just
+like my brother Dave did, just like so many people with so much more to give and so much more life to live.
+And we're not making headway on cancer, either, because our computers and languages are such miserable crap.
+```
+
+Wolfram on von Neumann, from [John von Neumann's 100th birthday](http://blog.stephenwolfram.com/2003/12/john-von-neumanns-100th-birthday/):
+
+```markdown
+Some scientists (such as myself) spend most of their lives pursuing their own grand programs, ultimately in a fairly isolated way. John von Neumann was instead someone who always liked to interact with the latest popular issues—and the people around them—and then contribute to them in his own characteristic way.
+
+He worked hard, often on many projects at once, and always seemed to have fun. In retrospect, he chose most of his topics remarkably well. He studied each of them with a definite practical mathematical style. And partly by being the first person to try applying serious mathematical methods in various areas, he was able to make important and unique contributions.
+```
+
+The fullest version of the Dantzig-meets-von Neumann story I’ve seen comes from the [IFORS Operational Research Hall of Fame article](http://www.cs.xu.edu/~neyer/Math/NumberTheory/Research/VonNeumann.pdf) on the latter:
+
+```markdown
+Looking at von Neumann’s game theory mathematical results in terms of matrix and linear relationships,
+one can see how and why von Neumann reacted to George Dantzig’s description of the newly formulated 
+linear-programming model when they first met in 1947. Here is that story as told by Dantzig 
+(1982, p. 45):
+
+On October 3, 1947, I visited him (von Neumann) for the first time at the Institute for Advanced Study 
+at Princeton. I remember trying to describe to von Neumann, as I would to an ordinary mortal, the Air
+Force problem. I began with the formulation of the linear programming model in terms of activities and
+items, etc. Von Neumann did something which I believe was uncharacteristic of him. ‘‘Get to the point,’’
+he said impatiently. Having at times a somewhat low kindling-point, I said to myself ‘‘O.K., if he wants
+a quicky, then that’s what he will get.’’ In under one minute I slapped the geometric and algebraic
+version of the problem on the blackboard. Von Neumann stood up and said ‘‘Oh that!’’ Then for the next 
+hour and a half, he proceeded to give me a lecture on the mathematical theory of linear programs.
+
+At one point seeing me sitting there with my eyes popping and my mouth open (after I had searched the 
+literature and found nothing), von Neumann said: ‘‘I don’t want you to think I am pulling all this out of
+my sleeve at the spur of the moment like a magician. I have just recently completed a book with Oscar
+[sic] Morgenstern on the theory of games. What I am doing is conjecturing that the two problems are 
+equivalent. The theory that I am outlining for your problem is an analogue to the one we have developed 
+for games.’’ Thus I learned about Farkas’ Lemma, and about duality for the first time.
+```
+
+This certainly sounds more reasonable / realistic than the version perpetuated in folklore, which has von Neumann (completely out of the blue, as it were) developing the theory in a 1.5-hour lecture to a flabbergasted Dantzig after the latter had just begun describing the simplex method to vN. JvN was (to quote Trump on Kim Jong Un) “a pretty smart cookie”, or (paraphrasing user ‘mathwonk’ on Ed Witten) “a little smarter than the average bear”, but the standard folklore version makes him out to be completely superhuman.
+
+
+
+<a name="#Butler-Lampson"></a>
+### Butler Lampson
+([overview](#overview))
+
+Alan Kay, answering [I don't want be a specialist. How can I be a great generalist in computer science?](https://www.quora.com/I-dont-want-be-a-specialist-How-can-I-be-a-great-generalist-in-computer-science):
+
+```markdown
+Every once in a while I’m asked “what does it mean to be a computer scientist?” My answer is “I 
+don’t know exactly, but take a look at Butler Lampson. He is certainly the quintessential Computer
+Scientist if ever there was one”. He must have been the easiest Turing Award winner to choose in 
+1992 (the top recognition in computing)… Certainly in the top few of the most impressive people 
+I’ve ever met, and especially to have had the fun of working with.
+```
+
+I found this really intriguing for three reasons. The first reason is that I’d been reading a lot of Alan Kay’s answers on Quora recently, and I liked that he was a dreamer of a pioneer who was good enough to make headway on those dreams — good enough to win him the Turing Award himself, in fact; Alan Kay’s one of the few people I wouldn’t hesitate to apply the overused word visionary to — and it took a lot to impress him, so getting singled out for such glowing praise from Kay (over the likes of Donald Knuth!) was certainly something. It also helped that Kay praises Lampson for being a generalist, and portrays him as being a true “end-to-end” contributor, which I liked since I’ve repeatedly said on [my blog](https://mosstuff.quora.com) that generalists and subfield-cross-pollinators and their kin are My Kind Of People.
+
+The second reason is that it hasn’t been that long since I read [these two](https://sites.google.com/site/steveyegge2/math-every-day) [blog posts](http://steve-yegge.blogspot.my/2006/03/moores-law-is-crap.html) by Steve Yegge, and thought sure, JvN probably had more raw mental horsepower than anyone else in the 20th century, but he also had the advantage of being the first person to ‘mathematize’ fields that hadn’t yet been ‘mathematized’, so that there were low-hanging fruit by the bushel; what might he have done if he were born a couple decades late? At least if we confine ourselves to computer science (and since we’re using Alan Kay’s definition of computer science as the study of systems and processes very broadly construed, this isn’t even much of a constraint), the answer, judging from the way his peers all talk about him, in addition to his own [ridiculously long list of systems he’s worked on](http://bwlampson.site/Systems.htm), seems to be Butler Lampson. Seriously, go skim through that list and tell me you don’t feel the same way you do in going through JvN’s ‘known for’ list on Wikipedia.
+
+The third reason was that on a lark, I decided to skim through some of his [lecture notes](http://bwlampson.site/48-POCScourse/48-POCS2006Abstract.html) for the Principles of Computer Systems course he taught at MIT, and I was struck by their no-nonsense near-incompressible density — I tend to be sensitive to fluff in technical reads, because I lose the forest for the trees more easily than most, which is why I make it a habit to summarize the heck out of lecture note-style reads online on a topic I get interested in; Lampson’s lecture notes seemed like they were already summarized, which gave the impression of a ton of mental horsepower.
+
+(Also, see this: [Turing100 Event Report: Work of Butler Lampson - Systems](http://punetech.com/turing100-event-report-work-of-butler-lampson-systems/))
+
+The quotes themselves are pretty fun — maybe not in the same ballpark as the almost-whimsical ones about von Neumann and Ed Witten, but not too far behind. 
+
+Eric Schmidt, Google executive chairman, in an [opening statement](http://news.mit.edu/2014/mit-professor-made-much-of-our-world-possible-0218) at [LampsonFest](https://www.microsoft.com/en-us/research/event/lampsonfest/?from=http://research.microsoft.com/en-us/events/lampsonfest/default.aspx) which commemorates Lampson’s contributions to computing:
+
+```markdown
+Butler is probably the broadest and smartest computer scientist today. We all just tried to keep
+up with him — and almost always fell behind. His contributions made much of our world possible,
+and I am beyond grateful.
+```
+
+Eric Metcalfe, Ethernet inventor, answering [What was working at Xerox PARC in the early 1970s like?](https://www.quora.com/What-was-working-at-Xerox-PARC-in-the-early-1970s-like):
+
+```markdown
+Heaven on Earth. We worked until we got tired, slept until we woke up, no alarm clocks. Cost me a 
+marriage, but I got to invent Ethernet, pioneer the Internet. Butler Lampson would win all the 
+arguments, even when he was wrong -- a lesson there. By the way, Butler is right a lot.
+```
+
+Stan Hanks, answering [Who should come on Software Engineering Daily for an interview?](https://www.quora.com/Who-should-come-on-Software-Engineering-Daily-for-an-interview):
+
+```markdown
+From the Real World, I'd like to see Butler Lampson who was part of so many vast projects with
+lasting impact that it boggles the mind, but no one knows who he is, hardly.
+```
+
+Wenbin Fang, answering [Who are some of the greatest computer scientists, past and present?](https://www.quora.com/Who-are-some-of-the-greatest-computer-scientists-past-and-present):
+
+```markdown
+Butler Lampson: You'll find many "classic" software engineering books just copied ideas from this
+guy's paper Hints for Computer System Design
+```
+
+Various Turing Award winners talking about Butler Lampson at LampsonFest in much the same way Nobel Prize winners used to talk about Johnny von Neumann:
+
+```markdown
+Butler Lampson has as good a claim as anyone to the title of “father of the modern PC.” …
+
+Lampson turned 70 in December; last week, a group of computer science luminaries gathered at 
+Microsoft Research New England, at the edge of the MIT campus, for a daylong conference celebrating
+his achievements.
+
+Two major themes emerged from the morning sessions. The first was the sheer range of Lampson’s 
+technical innovation. The other theme of the morning sessions was just how formidable — and, as
+Metcalfe put it, “fast” — Lampson is in debate.
+
+Sproull mentioned a unit of measure used in computer science circles, which indicates the “speed
+of delivery of technical information” and is known as the lampson. “Most of us could ourselves only
+achieve millilampsons,” Sproull said.
+```
+
+From [Cool jargon of the day](http://www.jargon.net/jargon/cool/):
+
+```markdown
+milliLampson /mil'*-lamp`sn/ /n./ A unit of talking speed, abbreviated mL. Most people run about 
+200 milliLampsons. The eponymous Butler Lampson (a CS theorist and systems implementor highly regarded 
+among hackers) goes at 1000. A few people speak faster.
+
+This unit is sometimes used to compare the (sometimes widely disparate) rates at which people can 
+generate ideas and actually emit them in speech. For example, noted computer architect C. Gordon Bell
+(designer of the PDP-11) is said, with some awe, to think at about 1200 mL but only talk at about 300; 
+he is frequently reduced to fragments of sentences as his mouth tries to keep up with his speeding brain.
+```
+
+More from Alan Kay:
+
+```markdown
+We find in Butler someone who covers in knowledge and skills a very wide range in computing and 
+software engineering, who has not just designed/invented but also built operating systems, programming
+languages, networking and internetworking systems, desktop media, specification languages, atomic 
+transaction protocols, and much more, and hardware architectures and detailed designs for making hardware
+... And more. A partial summary is here.
+
+He must have been the easiest Turing Award winner to choose in 1992 (the top recognition in computing),
+and is one of the few ever to have also been awarded the top engineering award, the IEEE John von Neumann
+Award. He was inducted into both the National Academy of Science and the National Academy of Engineering...
+
+Once in an ARPAnet design meeting in the 60s, Butler was supposed to give a one hour talk at the end of 
+the day, but the meeting dragged on. When it was his turn, he looked at his watch and said “I’ve got a plane
+I have to catch”, and proceeded to give the -entire- talk in 20 minutes, in perfect understandable English 
+at great speed! It was shockingly impressive even from him. The person next to me said “It’s a great 
+privilege to just know someone like Butler”. That talk — on a capability based operating system design — 
+covered the content in a paper you can read.
+
+Butler is also one of the clearest writers in our field. Here is a partial list of his papers over the years.
+And here is the first page of his website with a few tips on stuff to look at that has been most popular with 
+readers.
+
+Certainly in the top few of the most impressive people I’ve ever met, and especially to have had the fun of
+working with.
+
+I think that — besides Butler’s obvious brilliance — there are a few keys to his range and depth, and many
+of these revolve around -systems and processes- rather than hardware and software, or programming languages
+and operating systems. Dealing with whole systems was in the zeitgeist of the ARPA community back then, and
+it found Butler while on his way — after an undergrad degree in Physics from Harvard — to grad school in 
+Physics at Berkeley. As he puts it “I walked in the wrong door and found people trying to debug code for a
+new computer. And never found the doorway out”.
+
+Butler was and is interested in -anything- that has dynamic relationships — systems and processes — (and
+note the analogies with what is studied in physics). I think looking at the world this way — all systems
+and processes (including physical and biological) — will round you into a “generalist in computer scientist” 
+who can be a vital contributor not just a dabbler. There are only a few people around like Butler, but how
+he has gone about his art can be and is an inspiration for the rest of us.
+```
+
+Leslie Lamport [talking about](https://www.microsoft.com/en-us/research/publication/part-time-parliament/?from=http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf) how Butler Lampson was the only person to understand the significance of his Paxos algorithm:
+
+```markdown
+I thought, and still think, that Paxos is an important algorithm. Inspired by my success at popularizing the consensus problem by describing it with Byzantine generals, I decided to cast the algorithm in terms of a parliament on an ancient Greek island. Leo Guibas suggested the name Paxos for the island. I gave the Greek legislators the names of computer scientists working in the field, transliterated with Guibas’s help into a bogus Greek dialect. (Peter Ladkin suggested the title.) Writing about a lost civilization allowed me to eliminate uninteresting details and indicate generalizations by saying that some details of the parliamentary protocol had been lost. To carry the image further, I gave a few lectures in the persona of an Indiana-Jones-style archaeologist, replete with Stetson hat and hip flask.
+
+My attempt at inserting some humor into the subject was a dismal failure. People who attended my lecture remembered Indiana Jones, but not the algorithm. People reading the paper apparently got so distracted by the Greek parable that they didn’t understand the algorithm. Among the people I sent the paper to, and who claimed to have read it, were Nancy Lynch, Vassos Hadzilacos, and Phil Bernstein. A couple of months later I emailed them the following question:
+
+Can you implement a distributed database that can tolerate the failure of any number of its processes (possibly all of them) without losing consistency, and that will resume normal behavior when more than half the processes are again working properly?
+
+None of them noticed any connection between this question and the Paxos algorithm.
+
+I submitted the paper to TOCS in 1990. All three referees said that the paper was mildly interesting, though not very important, but that all the Paxos stuff had to be removed. I was quite annoyed at how humorless everyone working in the field seemed to be, so I did nothing with the paper. A number of years later, a couple of people at SRC needed algorithms for distributed systems they were building, and Paxos provided just what they needed. …
+
+So, I thought that maybe the time had come to try publishing it again.
+
+Meanwhile, the one exception in this dismal tale was Butler Lampson, who immediately understood the algorithm’s significance. He mentioned it in lectures and in a paper, and he interested Nancy Lynch in it. De Prisco, Lynch, and Lampson published their version of a specification and proof. Their papers made it more obvious that it was time for me to publish my paper. …
+```
+
 <a name="#Alexander-Grothendieck"></a>
 ### Alexander Grothendieck
 ([overview](#overview))
@@ -181,6 +647,73 @@ forbidding subjects.
 <a name="#terry-tao"></a>
 ### Terry Tao
 ([overview](#overview))
+
+The University of St Andrew's [biography](http://www-history.mcs.st-andrews.ac.uk/Biographies/Tao.html) of Terry has some of the more effusive (overmuch, honestly) praise I've ever seen for an active mathematician. I mean, look at these sentences, pretty much randomly picked:
+
+```markdown
+It is very difficult to write a biography of someone who is at the height of their creative
+powers as Tao is. Anything that one writes about his research contributions will be quickly 
+outdated as he is contributing major results in such a wide range of different areas.
+
+[He] has produced such a fantastic collection of results, leading to the award of all the top
+prizes in mathematics, that one must try to at least give a vague picture of the work of this
+remarkable mathematician.
+
+To dismiss this fantastic achievement in a single sentence seems silly, but there is so much
+more to say.
+
+Before looking at his contributions we note the prizes and awards he has received (although 
+again this list is bound to become rapidly outdated as he continues to receive awards).
+
+One might imagine that with his remarkable output of research papers, Tao would not find time 
+to write books. However, this would be entirely wrong since he has produced both research
+monographs and undergraduate texts.
+
+But, amazingly, this still does not complete the list of Tao's 2006 books...
+
+It will come as no surprise to learn that Tao, who is such an innovator in everything he does,
+has created a new style of book. ...
+```
+
+Tim Gowers on Terry, in a review:
+
+```markdown
+Textbooks and popular science are still the two obvious niches for mathematics in the book market,
+but the advent of the Internet has brought about a sudden change in the possibilities for mathematical
+exposition, because now anybody can put anything they like on the Web. As a result, there has been a
+rapid rise in a form of mathematical exposition that is too technical for the layperson, but much 
+easier to read and enjoy for mathematicians than a textbook. A medium that is particularly well 
+suited to this is the blog, and the undisputed king of all mathematics blogs, with thousands of regular
+readers, is that of Terence Tao. 
+
+Tao's mathematical knowledge has an extraordinary combination of breadth and depth: he can write 
+confidently and authoritatively on topics as diverse as partial differential equations, analytic number
+theory, the geometry of 3-manifolds, nonstandard analysis, group theory, model theory, quantum mechanics, 
+probability, ergodic theory, combinatorics, harmonic analysis, image processing, functional analysis, and 
+many others. Some of these are areas to which he has made fundamental contributions. Others are areas that 
+he appears to understand at the deep intuitive level of an expert despite officially not working in those 
+areas. 
+
+How he does all this, as well as writing papers and books at a prodigious rate, is a complete mystery. It
+has been said that Hilbert was the last person to know all of mathematics, but it is not easy to find gaps
+in Tao's knowledge, and if you do then you may well find that the gaps have been filled a year later. Now,
+in an interesting experiment, several of Tao's blog posts have been tidied up (partly in response to 
+comments from others on the posts) and published as books.
+```
+
+From an article describing the award of the Fields:
+
+```markdown
+Terence Tao is a supreme problem-solver whose spectacular work has had an impact across several 
+mathematical areas. He combines sheer technical power, an other-worldly ingenuity for hitting upon new 
+ideas, and a startlingly natural point of view that leaves other mathematicians wondering, " Why didn't 
+anyone see that before?" At 31 years of age, Tao has written over eighty research papers, with over thirty
+collaborators, and his interests range over a wide swath of mathematics, including harmonic analysis, 
+nonlinear partial differential equations, and combinatorics. "I work in a number of areas, but I don't view
+them as being disconnected," he said in an interview published in the Clay Mathematics Institute Annual Report.
+"I tend to view mathematics as a unified subject and am particularly happy when I get the opportunity to work on
+a project that involves several fields at once."
+```
 
 Julian Stanley of the Study of Mathematically Precocious Youth (SMPY) wrote the following about Terry in his 1986 report [Radical Acceleration in Australia: Terence Tao](http://www.davidsongifted.org/Search-Database/entry/A10116), when Terry was still 10:
 
