@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 61,300*
+*[Word count](https://wordcounter.net/): 73,600*
 
 ## What is this?
 
@@ -39,6 +39,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 1. [Amazing people](#amazing-people)
    1. [Alexander Grothendieck](#alexander-grothendieck)
+   2. [Terry Tao](#terry-tao)
 2. [Artificial intelligence](#artificial-intelligence)
    1. [AGI, the Singularity, and all that razzmatazz](#agi-the-singularity-and-all-that-razzmatazz)
    1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
@@ -54,22 +55,26 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Chesterton's fence](#chestertons-fence)
 2. [Feelings](#feelings)
    1. [Love](#love)
-2. [Fiction and writing](#fiction-and-writing)
+2. [Writing](#fiction-and-writing)
    1. [Writing advice](#writing-advice)
       1. [Nonfiction](#nonfiction), e.g. microhumor
          1. [The art of plain talk](#the-art-of-plain-talk)
+         2. [Readability](#readability)
       2. [Fiction](#fiction)
          1. [Show, don't tell -- or not](#show-dont-tell)
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
 2. [Math](#math)
-   1. [Why didn't the Tricki take off?](#why-tricki-failed)
-   2. [Asking the right question](#asking-the-right-question)
-   2. [Solving famous open problems](#solving-famous-open-problems)
-   2. [Mathematical maturity](#mathematical-maturity)
-   3. [Good mathematics](#good-mathematics)
-   4. [What every mathematician should know](#what-every-mathematician-should-know)
-   5. [Why most mathematical writing sucks, and how to write better](#why-math-is-boring)
+   1. [Advice](#math-advice)
+      1. [Asking the right question](#asking-the-right-question)
+      2. [Go to seminars, even if they're ostensibly irrelevant](#go-to-seminars)
+      3. [Why most mathematical writing sucks, and how to write better](#why-math-is-boring)
+   2. [Opinions and observations](#math-opinions)
+      1. [Good mathematics](#good-mathematics)
+      2. [How famous open problems get solved](#solving-famous-open-problems)
+      2. [Mathematical maturity](#mathematical-maturity)
+      3. [What every mathematician should know](#what-every-mathematician-should-know)
+      3. [Why didn't the Tricki take off?](#why-tricki-failed)   
 2. [Memory and the brain](#memory-and-the-brain)
    1. [Augmenting long-term memory](#augmenting-long-term-memory), e.g. Anki
    2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
@@ -103,6 +108,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
 2. [Software development and computer science](#software-development-and-computer-science)
    1. [Practical magic](#practical-magic)
+   2. [Premature optimization](#premature-optimization)
+   3. [The conservative-liberal axis in software development](#yegges-conservative-liberal-axis)
 2. [Statistics](#statistics)
    1. [General](#general-stats)
    2. [The role of statistics in doing science](#the-role-of-statistics-in-science)
@@ -165,6 +172,362 @@ had to learn ( so I was assured), things I felt incapable of understanding the e
 following through to the end. Indeed, there was little about me that identified the kind of bright
 student who wins at prestigious competitions or assimilates, almost by sleight of hand, the most
 forbidding subjects.
+```
+
+<a name="#terry-tao"></a>
+### Terry Tao
+([overview](#overview))
+
+Julian Stanley of the Study of Mathematically Precocious Youth (SMPY) wrote the following about Terry in his 1986 report [Radical Acceleration in Australia: Terence Tao](http://www.davidsongifted.org/Search-Database/entry/A10116), when Terry was still 10:
+
+```markdown
+On May 1985 I administered to [10 year old] Terry the Raven Progressive Matrices Advanced, an untimed
+test. He completed its 36 8-option items in about 45 minutes. Whereas the average British university 
+student scores 21, Terry scored 32. He did not miss any of the last, most difficult, 4 items. Also,
+when told which 4 items he had not answered correctly, he was quickly able to find the correct
+response to each. Few of SMPY's ablest protégés, members of its "700-800 on SAT-M Before Age 13"
+group, could do as well.
+```
+
+Jonah Sinick expands upon Stanley's remark above in the following quote from his LW post [Innate mathematical ability](https://www.lesswrong.com/posts/5Xrv5aXfb95uHcseN/innate-mathematical-ability):
+
+```markdown
+People like Terry are perhaps 1 in a million, but I've had the chance to tutor several children who 
+are in his general direction.
+
+Descriptions of milestones like "scored 760 on the math SAT at age 8" (as Terry did) usually greatly
+understate the ability of these children when the milestone is interpreted as "comparable to a high 
+school student in the top 1%," in that there's a connotation that the child's performance comes from
+the child having learned the usual things very quickly. The situation is usually closer to "the child
+hasn't learned the usual things, but is able to get high scores by solving questions ththat high
+school students wouldn't able to able to solve without having studied algebra and geometry."
+
+A impact of interacting with such a child can be overwhelming. I've repeatedly had the experience of
+teaching such a child a mathematical topic typically covered only in graduate math courses, and one 
+that I know well beyond the level of textbook expositions, and the child responding by making 
+observations that I myself had missed. The experience is surreal, to the point that I wouldn't have 
+been surprised to learn that it had all been a dream 30 minutes later.
+
+Tangentially, I don't know why we were assigned this problem, which is of considerable mathematical 
+interest, but also outside of the usual high school curriculum. In any case, I remember puzzling over
+it. Based on my experiences with children similar to Terry, it seems likely that his 8-year old self
+would see how to answer it immediately, without having ever seen anything like the problem before.
+Roughly speaking, an 8-year old child like Terry can recognize abstract patterns that very few (if 
+any) of a group of 30 high school students with the math SAT score would be able to recognize.
+```
+
+Terry is very math-skewed. Back to Stanley:
+
+```markdown
+Yet at age 8 years 10 months, when he took both the SAT-M and the SAT-Verbal, Terry scored only 290
+on the latter. Just 9% of college-bound male 12th-graders score 290 or less on SAT-V; a chance score
+is about 230. The discrepancy between being 10 points above the minimum 99th percentile on M and at 
+the 9th percentile on V represents a gap of about 3.7 standard deviations. Clearly, Terry did far 
+better with the mathematical reasoning items (please see the Appendix for examples) than he did 
+reading paragraphs and answering comprehension questions about them or figuring out antonyms, verbal 
+analogies, or sentences with missing words.
+
+Was the "lowness" of the verbal score (excellent for one his age, of course) due to his lack of
+motivation on that part of the test and/or surprise at its content? A year later, while this
+altogether charming boy was spending four days at my home during early May of 1985, I administered 
+another form of the SAT-V to him under the best possible conditions. His score rose to 380, which is 
+the 31st percentile. That's a fine gain, but the M vs. V discrepancy was probably as great as before.
+Quite likely, on the SAT score scale his ability had risen appreciably above the 800 ceiling of SAT-M. 
+```
+
+Some other nice quotes from Stanley's report:
+
+```markdown
+Ten-year-old Terence Tao, or Adelaide, South Australia, is a prodigiously gifted young mathematician.
+Julian Stanley, Director of the Study of Mathematically Precocious Youth (SMPY) at Johns Hopkins 
+University states that Terry has the greatest mathematical reasoning ability he has found in 14 
+years of intensive searching (Stanley, 1985). ...
+
+In some ways it is ironical that such a profoundly gifted student as Terry should have appeared in
+Australia, an obsessively egalitarian society where social antipathy towards gifted children and 
+towards those who would set up special programs for the gifted is a powerful deterrent to the
+establishment of state-mandated gifted programs. Two Australian states, Western Australia and
+Victoria, do provide structured accelerated programs for highly gifted secondary school students 
+within the government system, but these programs are under intense criticism from the teachers' unions, 
+the media and many politicians. Terry's state, South Australia, has no such program; the few cases of 
+acceleration which have arisen have proceeded from the interest and concern of individual teachers and
+have received little or no support from the state education system.
+```
+
+Terry's father, Dr. Billy Tao, a pediatrician, "paradoxically" feels that in Terry's case the absence of a formalized structure may have been an advantage rather than a hindrance:
+
+```markdown
+My wife and I have been fortunate in having been able to work very closely, first with the principals 
+and staffs of Terry's primary and secondary schools and later with the faculty of Flinder University,
+to design a highly individualized program which has been tied in to Terry's levels of ability in all 
+subject areas, not only in maths and the sciences but also in the humanities. If South Australia had 
+already had well established gifted programs, Terry might have been drawn into a less flexible system,
+quite different from what has actually eventuated. 
+```
+
+Back to Stanley -- the "typewriter incident":
+
+```markdown
+A few months after Terry's second birthday, the Taos found him using a portable typewriter which stood 
+in Dr. Tao's office; he had copied a whole page of a children's book laboriously with one finger! At 
+this stage his parents decided that, although they did not want to 'push' their brilliant son, it would
+be foolish to hold him back. They began to borrow and buy books for him and, indeed, found it hard to 
+keep pace with the boy. They encouraged Terry to read and explore but were careful not to introduce him
+to highly abstract subjects, believing, rather, that their task was to help him develop basic literacy
+and numerical skills so that he could learn from books by himself and thus develop at his own rate. 
+"Looking back," says Dr. Tao, "we are sure that it was this capacity for individual learning which helped
+Terry to progress so fast without ever becoming bogged down by the inability to find a suitable tutor at
+a crucial time." By the age of 3, Terry was displaying the reading, writing and mathematical ability of a
+6-year-old.
+```
+
+Terry's parents get involved with the South Australian Association for Gifted and Talented Children (SAAGTC), a group of teachers and parents of gifted students who run Saturday programs for gifted children and seminars and workshops for parents and teachers:
+
+```markdown
+Here, for the first time, Terry was able to work and socialize with other highly gifted children. Although
+he met no one sharing his own prodigious math ability (this is not surprising because in terms of IQ alone
+he is, statistically, one in a million and the entire population of Australia is less than sixteen million)
+he was able to mix with other children who shared his hunger for information, his ability to assimilate and
+integrate abstract concepts, and his delight in creative exploration. Even within the accelerated context 
+of SAAGTC programs, however, it was found necessary to accelerate Terry still further beyond his gifted 
+age-mates. 
+
+I vividly recall one of my first meetings with Terry when, in my capacity as President of SAAGTC, I was 
+informally assessing his mathematical ability for placement in SAAGTC programs. At just under 4, he was 
+multiplying 2-digit numbers by 2-digit numbers in his head while I, the 'tester', required pen and paper
+to check his answers! Another image springs to mind of Terry, one month before his 5th birthday, working
+with a group of gifted 7- to 9-year-olds at an SAAGTC math workshop. The teacher challenged the students
+to find the next four numbers in the sequence 9182736. Terry thought briefly and responded, "4554." He
+was, of course, correct. The number sequence consists of consecutive multiples of 9.
+```
+
+Terry's "Fibonacci" program, written in BASIC when he was 6:
+
+```markdown
+At home, Terry continued his advanced study in mathematics. By the age of 6, having taught himself BASIC
+language (by reading a manual), he had written several computer programs on mathematics problems. He is
+a lively, creative child with a puckish sense of humour; something of his personality comes over in the 
+introduction to his "Fibonacci" program, which is quoted in full by Clements (1984).
+
+8 print "J" (This symbol means "clear the screen") 
+10 print "here comes mr. fibonacci"
+20 print "can you guess which year was mr fibonacci born?" 
+30 print "write down a number please . . . ": input c
+31 if c = 1170 then print "you are correct; now we start!": go to 150 
+50 if c > 1250 then print "no, he is already in heaven; try again": go to 30
+60 if c < 1170 then print "sorry, he wasn't born yet!; try again": go to 30
+70 if c > 1170 < 1250 then print "he would be c-1170 years old." 
+71 print "now can you guess?"
+The program goes on to produce all the Fibonacci numbers up to the level requested by the player.
+```
+
+First publication, at 8:
+
+```markdown
+At the age of 8 years 3 months Terry achieved his first publication, a BASIC program to calculate 
+perfect numbers.
+```
+
+Social experience in high school -- see concluding remark:
+
+```markdown
+Terry adapted to Blackwood High, and Blackwood High to Terry, with little difficulty. John Fidge, his
+Grade 11 math teacher, found that after the strangeness of the first 2 weeks he was accepted as just
+another member of the class and regarded as a friendly, well-adjusted, helpful and good-natured lad
+by his classmates (Clements, 1984). This, when one considers that Terry was, even at this early stage,
+finishing his work two lessons before his 16-year-old classmates, says much for his social skills. He
+is a delightful young boy who is aware that he is different but displays no conceit about his
+remarkable gifts and has an unusual ability to relate to a wide range of people, from children younger
+than himself to the university faculty members with whom he now works. Billy Tao believes that the two
+years of 'riding' several classes each term at primary school laid the groundwork for his being able
+to cope with much older students later.
+
+An important factor in Terry's happy assimilation into high school was that, because of his extreme 
+youth, he was not seen as a threat, either intellectually or socially, by the 16- and 17-year-olds with
+whom he worked. He was visibly not in competition with them for jobs, scholarships, or boy-girl 
+friendships; paradoxically, this allowed him to be treated as just another member of the class, with
+the very occasional privilege of getting a piggy-back ride from teacher during bush-walking excursions!
+"I am now convinced," says Dr. Tao, "that it is in fact easier to integrate a highly gifted child into
+a higher grade in secondary school than a lower grade and Terry was lucky that he started math in 
+Grade 11 instead of Grade 8."
+```
+
+The key event that made Terry's parents delay full-time university entrance:
+
+```markdown
+The question now before the family is: What direction should Terry take? There is little doubt that, 
+if he chose to enter university full-time, he would graduate in mathematics before his 12th birthday.
+(He would, incidentally, become the youngest person ever to do so; currently, the youngest graduate is
+Jay Luo who took a degree at Boise State University, Idaho, at the age of 12 years 42 days.) Terry's 
+IQ has been assessed as between 220 and 230, and he has no areas of academic weakness. Even in English
+and social studies, which he considers his weaker subjects, he is working at a level 4 years above his
+chronological age.
+
+A number of factors have influenced the Tao family's thinking about Terry's future study. In September,
+1984, at the age of 9, he was invited, with a small group of senior high school students, to compete in
+an Australia-wide math competition to choose candidates to participate in the Australian Mathematical 
+Olympiad. Despite being the youngest candidate by a margin of 5 years, he top-scored in South Australia 
+and ranked sixth nationally. However, in the Australian Mathematical Olympiad, which was held 6 months 
+later, he lost his sixth place and consequently was not selected for the Australian team which competed
+in the International Mathematical Olympiad in Finland, in July, 1985.
+
+The Taos feel there is an important message in this result. "Terry's development in Maths has been so 
+fast," says Dr. Tao, "that like rapidly growing grass in fine weather, he has not had time to put down 
+deep roots. When he was faced with really challenging work at a level he had not encountered before, 
+that was when the weakness showed up. However, it is much kinder to Terry," he adds, "for him to 'fail'
+within his own state rather than at the International Olympiad where he would have attracted a lot of
+attention, even among the other competitors, because of his extreme youth."
+
+In May, 1985, at the invitation of Julian Stanley, Terry and his parents spent 3 weeks in the United 
+States, visiting a number of university campuses, including Johns Hopkins, Purdue, Columbia, Princeton,
+Berkeley, and Stanford, and talking with experts in mathematics and gifted education. This experience, 
+the Taos say, has helped to clarify their thinking on Terry's future education.
+
+Terry's parents now feel that he should probably wait at least 3 more years before he enters university
+full-time.
+```
+
+His dad Billy explains further:
+
+```markdown 
+There is no need for him to rush ahead now. If he were to enter full-time now, just for the sake of 
+being the youngest child to graduate, or indeed for the sake of doing anything 'first,' that would 
+simply be a stunt. Much more important is the opportunity to consolidate his education, to build a 
+broader base. It is important for Terry to have a broad initial education.
+
+I can see two different models of how his education could progress. The first is what I might call a 
+"columnar" model, where his acceleration would be directed vertically upwards in maths and physics with
+little expansion into other areas of knowledge. The problem here is that, although progress may be fast
+and easy at the beginning, as the column gets taller it becomes more difficult to build on further 
+knowledge, and, to continue the metaphor, the taller the structure grows, the shakier it may become. 
+
+The other model, which we have selected, is pyramidical in shape, where Terry's work in mathematics and
+the sciences is integrated with many other areas of knowledge. Initial progress may be slowed down while
+he explores the relationships between all these areas of study, but as the pyramid gains height it becomes
+easier and faster and the whole structure rests on a sound base of interrelated knowledge.
+
+This broad base of knowledge is essential. At the highest level of any subject the boundary between
+science and arts, between mathematics and philosophy, becomes less and less distinct. You cannot
+enter this highest level of sophistication if you are too specialized. Even in pure mathematics there 
+will be many problems which you cannot answer simply by applying mathematical techniques. Take 
+Einstein and the theory of relativity, for example; it is not so much mathematics as concepts beyond 
+computation.
+```
+
+Even at 10, it was already totally evident that Terry was simply a wonderful human being:
+
+```markdown
+Terry as an individual is almost universally liked and admired by the teachers and students with whom 
+he works. Having had the opportunity to study the development of his personality over the last 6 years, 
+I am sure that this warmth and acceptance are largely due to the gentleness and modesty of Terry's 
+nature. He is able to talk frankly and confidently to strangers as well as friends, but displays no 
+arrogance or conceit. His parents have taught him not to posture but, at the same time, not to conceal
+his ability. Unlike most profoundly gifted children, he seems to have no difficulty in relating to 
+people of lesser ability (Hollingworth, 1942). He has no conception of himself as "better" than others,
+merely different. To Terry everyone is of value, everyone has something to contribute.
+
+Terry's motivation to excel, to discover and to create is a burning force in his life. The results of
+his endeavours--the award, the prize, or whatever--are of much less importance to him than the delight
+of intellectual speculation. Billy Tao tells of Terry's reaction to the news that he had achieved the 
+highest score Stanley had ever found for a child of his age, on the SAT-M:
+
+I asked him what he would like as a reward and he probably thought that was a more difficult question 
+than the SAT itself! After a few seconds he asked for a piece of chocolate which had been in the
+refrigerator for some time and was almost forgotten. When I gave it to him he broke it into two halves 
+and gave one to me. He was delighted with the result, of course, but there was no great celebration or 
+anything like that. He was more interested in going back to the physics book he was reading (B. Tao, 1985).
+```
+
+Terry's capacity to analyse and comment on his own intellectual growth and development is surprizing in one so young. During his visit to Purdue University he spoke to the faculty and graduate staff of the Gifted Education Resource Institute about his early experiences:
+
+```markdown
+A couple of years ago I sat for a state wide maths competition for the first time. I was given 2 hours
+to do it but I finished in 20 minutes and spent the remaining time devising a method to find the value 
+of pi. Afterwards, when Mum found out what I had done and asked me why I didn't spend more time on the 
+competition and check my answers, I just said, 'Wait till I get a prize!' Needless to say, I didn't get
+any prize and I was quite depressed for a while. Dad later discovered that most of my wrong answers
+were due to arithmetical errors. After that episode, I learned that I should always time myself during
+an exam and check my work. Unfortunately, I still don't attend to the latter very well!
+
+I discovered I could learn better and remember more if I taught my brothers what I had learned. So I 
+taught one brother chess and the other music. My music has never been very good--in fact I hated it 
+until I gave myself the motivation to teach Trevor. Now I actually quite enjoy playing duets with him.
+I spent a lot of my spare time working out interesting ways to teach them, and I probably learned more
+from teaching them than they did from me (T. Tao, 1985)!
+```
+
+John F. Feldhusen remarks on Terry's curiosity:
+
+```markdown 
+I had dinner with Terry Tao and his parents recently and was struck by the intellectual intensity of
+Terry and his parents. Throughout the dinner Dr. Tao's conversation centered on Terry's precocity and
+conditions which would facilitate his intellectual growth. Meanwhile Terry interacted constantly with
+his mother about puzzles and about little curiosity experiments he was doing at the table, such as
+holding a spoon in a candle flame. I was told by another family whose home he visited that he had been
+extremely active in exploring things around the house. He seems to have an ever active need to be 
+investigating and learning.
+```
+
+Harry Passow's impressions:
+
+```markdown
+I was fortunate to have an opportunity to meet Terence Tao and to hear his father describe the discovery
+and nurturing of this mathematical prodigy. As I listened to Terence's father, I focused on Terence. Here
+was a very attractive, alert, intelligent, articulate child who had obviously heard his parents discuss 
+him and his development many times before and who, while bored with the discussion, seemed very patient
+to me. Several times I tried to provide him with advanced mathematics texts on which he might work but 
+they were not of the right kind and he soon closed them and let his eyes wander about my library and
+artifacts.
+
+The Taos left two documents with me which I have read and reread. One is titled, "My Recollections" which
+is Terence's recollections of his early childhood experiences and consists of as he puts it, "some memories
+which are very dear to me, some are actually a bit embarrassing, some funny, but most rewarding." The 
+second is a document titled, "Reflections on Terry's Education," which is a talk which Billy Tao gave. 
+Both are fascinating documents: Terry's because it conveys to the readers an impression of a very
+intelligent, very insightful, and very sensitive young person. Terry concludes his little presentation as
+follows: "I may be labelled as an intelligent child by some of my teachers, but I still have a long way to
+go yet before I can become as wise as anyone of you here today." I read this after Terence had left my
+office--but I could hear him saying it, seriously and sincerely.
+
+Billy Tao's discussion of his son's development and education concludes with what he calls "the danger 
+areas ahead," possible scenarios of what could happen to Terry. These range from Terry's possibly becoming 
+"too big-headed," to his losing "interest in one subject, such as maths, and want to study another, such
+as rock music," to the possibility that "he may burn out completely and lose all his brilliance, creativity
+and productivity." A fourth possibility suggested is that Terry "may suddenly think that he had been conned,
+that all his hard work, his good marks, had all been carefully orchestrated so as to fulfill my (his 
+father's) own personal ego."
+
+In my office, I have a card which talks about "your ordinary, everyday, run-of-the-mill genius." Terence 
+Tao may or may not become a mathematical genius. He is certainly a mathematically precocious child with 
+unusual potential and achievement. Moreover, he is, if you will, a "nice kid." I worried about whether he
+was being exploited by his parents. Having met Terence Tao and his parents, I no longer am worried. Those 
+of us interested in gifted education and, in particular, the education of what one of my friends calls the
+"severely and profoundly gifted," will find the Taos a fascinating family with three children — one
+mathematically precocious and another with learning disabilities but all being raised and educated 
+intelligently, sensitively, and reflectively.
+```
+
+Stanley muses on Terry's skewed scores:
+
+```markdown
+How could Terry possibly learn mathematics and physical and computer sciences so well with only 
+290-380V development? We of the Study of Mathematically Precocious Youth (SMPY) at Johns Hopkins have
+discovered, chiefly by testing able 12-year-olds, that when the examinee's SAT-M score vastly exceeds
+his or her SAT-V score the youth is almost certain to score high on a difficult test of nonverbal
+reasoning ability such as the Advanced Form of the Raven Progressive Matrices, often higher than a high-M 
+high-V examinee does. To test this out, on 6 May 1985 I administered to Terry the RPM-Advanced, an untimed
+test. He completed its 36 8-option items in about 45 minutes. Whereas the average British university
+student scores 21, Terry scored 32. He did not miss any of the last, most difficult, 4 items. Also, when
+told which 4 items he had not answered correctly, he was quickly able to find the correct response to each.
+Few of SMPY's ablest protégés, members of its "700-800 on SAT-M Before Age 13" group, could do as well.
+
+Excellent nonverbal reasoning ability seems a necessary, though almost surely not the sufficient, condition 
+for excelling in mathematics of the algebra-geometry-trigonometry-calculus variety at an early age. The
+test-triad of SAT-M, SAT-V, and RPM-Advanced can give considerable insight into a mathematically apt youth's
+intellectual powers. To those three I would add appropriate spatial and mechanical reasoning tests. For 
+youngsters whose total score on a general achievement test battery of the kind usually administered in 
+schools is high (e.g., 90th percentile or greater on seventh-grade norms), the 8-part Differential Aptitude
+Test battery of The Psychological Corporation in New York City may be a good place to start.
 ```
 
 <a name="#economics"></a>
@@ -1395,6 +1758,398 @@ This is interesting to me, because it runs counter to the standard advice.
 <a name="#software-development-and-computer-science"></a>
 ## Software development and computer science
 ([overview](#overview))
+
+<a name="#yegges-conservative-liberal-axis"></a>
+### Yegge's conservative-liberal axis
+([overview](#overview))
+
+Steve Yegge's post/rant/essay [Notes from the Mystery Machine Bus](https://plus.google.com/110981030061712822816/posts/KaSKeg4vQtz) begins, after a meandering half-drunken introduction, with the following theses:
+
+```markdown
+I've spent the past eight years (starting back in June 2004) writing elaborate rants about a bunch
+of vaguely related software engineering issues. I was doing all that ranting because I've been 
+genuinely perplexed by a set of "bizarre" world-views held dear by -- as far as I can tell -- about
+half of all programmers I encounter, whether online or in person.
+
+Last week, after nearly a decade of hurling myself against this problem, I've finally figured it out.
+I know exactly what's been bothering me. Here is the thesis of this looooong essay. It is the root
+cause that motivated over half of my ranting all these years, starting at Amazon and continuing here 
+at Google.
+
+1) Software engineering has its own political axis, ranging from conservative to liberal.
+
+2) The notions of "conservative" and "liberal" on this political axis are specialized to software 
+engineering. But they exhibit some strong similarities to their counterparts in real-world politics.
+
+3) Everyone in the software industry who does stuff related to programming computers falls somewhere
+fairly precise on this political spectrum, whether they realize it or not.
+
+Just as in real-world politics, software conservatism and liberalism are radically different world
+views. Make no mistake: they are at odds. They have opposing value systems, priorities, core beliefs 
+and motivations. These value systems clash at design time, at implementation time, at diagnostic time,
+at recovery time. They get along like green eggs and ham.
+```
+
+What's so important about recognizing this distinction?
+
+```markdown
+It probably won't help us agree on anything, pretty much by definition. Any particular issue only 
+makes it onto the political axis if there is a fundamental, irreconcilable difference of opinion about
+it. Programmers probably won't -- or maybe even can't -- change their core value systems.
+
+But the political-axis framework gives us a familiar set of ideas and terms for identifying areas of 
+fundamental disagreement. This can lead to faster problem resolution. Being able to identify something
+quickly as a well-defined political issue means we can stop wasting time trying to convince the other
+side to change their minds, and instead move directly into the resolution phase, which (just as in 
+politics) generally boils down to negotiation and compromise. Or, you know, Watergate.
+
+Or at the very least, the conservative/liberal classification should help the two camps steer clear of
+each other. I think it is probably better to have a harmonious team of all-liberals or all-conservatives
+than a mixed team of constantly clashing ideologies. It's a lot like how vehicle-driving philosophies 
+can differ regionally -- it's OK if everyone drives in some crazy way, as long as they ALL drive that way.
+```
+
+I'm honestly not that interested in the minutiae of Real Politics (TM) (even though "politics is interested in You! Yes, YOU!!"), so I'll go straight to the quotes that caught my fancy. 
+
+What's a "software liberal/conservative"?
+
+```markdown
+It's easiest to talk first about conservatives, and then define liberals in terms of what conservatives 
+are not. This is because conservatives tend to have a unified and easily-articulated value system, whereas 
+liberals tend to be more weakly organized and band together mostly as a reaction to conservatism. ...
+
+Conservatism, at its heart, is really about risk management. ...
+
+Liberalism doesn't lend itself quite as conveniently to a primary root motivation. But for our purposes
+we can think of it as a belief system that is motivated by the desire above all else to effect change. 
+In corporate terms, as we observed, it's about changing the world. In software terms, liberalism aims 
+to maximize the speed of feature development, while simultaneously maximizing the flexibility of the 
+systems being built, so that feature development never needs to slow down or be compromised.
+
+To be sure, conservatives think that's what they're maximizing too. But their approach is... well, 
+conservative. Flexibility and productivity are still motivators, but they are not the primary motivators.
+Safety always trumps other considerations, and performance also tends to rank very highly in the software-
+conservative's value system.
+
+The crux of the disagreement between liberals and conservatives in the software world is this: how much
+focus should you put on safety? Not just compile-time type-safety, but also broader kinds of "idiot-
+proofing" for systems spanning more than one machine.
+```
+
+How they view each other is the same as in real-world politics:
+
+```markdown
+Software liberals are viewed by conservatives as slovenly, undisciplined, naive, unprincipled, downright
+"bad" engineers. And liberals view conservatives as paranoid, fearmongering, self-defeating bureaucrats.
+```
+
+Conservatives would rate these example statements much higher-importance than liberals:
+
+```markdown
+1. Software should aim to be bug free before it launches. (Banner claim: "Debugging Sucks!") Make sure
+your types and interfaces are all modeled, your tests are all written, and your system is fully
+specified before you launch. Or else be prepared for the worst!
+
+2. Programmers should be protected from errors. Many language features are inherently error-prone and 
+dangerous, and should be disallowed for all the code we write. We can get by without these features, 
+and our code will be that much safer.
+
+3. Programmers have difficulty learning new syntax. We should limit the number of languages used at our
+company, so that nobody has to learn a new syntax when a system goes down in the middle of the night 
+on Christmas Eve. And we should never permit features that allow defining new syntax, nor changing the
+semantics of existing syntax. (Common examples: no operator overloading, and NO metaprogramming!)
+
+4. Production code must be safety-checked by a compiler. Any code that cannot be statically checked 
+should in general be avoided. In specific cases where it is strictly necessary, uses of it must be 
+approved by a central committee. (Examples: eval, dynamic invocation, RTTI).
+
+5. Data stores must adhere to a well-defined, published schema. Relational databases must be in third-
+normal form and adhere to a UML or equivalent schema definition. XML should have a DTD. NoSQL databases
+and name/value stores -- both of which should be avoided in general -- must have a separate physical 
+schema that defines all permissible keys and their corresponding value types.
+ 
+6. Public interfaces should be rigorously modeled. Data should never be stored in strings or untyped 
+collections. All input and output entities should be thorougly and explicitly specified via statically-
+checkable, ideally object-oriented models.
+
+7. Production systems should never have dangerous or risky back-doors. It should never be possible to
+connect to a live production system via a debugger, telnet shell, nor any other interface that allows
+the developer to manipulate the runtime operation of the code or data. The only ports into a production
+system should be read-only monitoring channels.
+
+8. If there is ANY doubt as to the safety of a component, it cannot be allowed in production -- no 
+matter how teams may cry and wail that they need it to make forward progress. (I'm talkin' to you, FUSE).
+
+9. Fast is better than slow. Everyone hates slow code. Code should perform well. You should engineer 
+all your code for optimum speed up front, right out of the box. Otherwise it might not be fast enough. 
+Avoid using languages or DSLs or libraries that have a reputation for being slow.  Even if they're 
+fast enough for your current purposes, the requirements (or callers) could change, and suddenly the
+software would be too slow!
+```
+
+Liberals would instead agree more with the following example statements:
+
+```markdown
+1. Bugs are not a big deal. They happen anyway, no matter how hard you try to prevent them, and somehow
+life goes on. Good debuggers are awesome pieces of technology, and stepping through your code gives you 
+insights you can't get any other way. Debugging and diagnosing are difficult arts, and every programmer
+should be competent with them. The Christmas Eve Outage scenario never, ever happens in practice --
+that's what code freeze is for. Bugs are not a big deal! (This belief really may be the key dividing
+philosophy between Conservative and Liberal philosophies.)
+
+2. Programmers are only newbies for a little while. The steady state for a programmer's career is being
+smart, knowledgeable, creative, resourceful and experienced. Putting a bunch of rules in place to
+protect newbies from doing harm (or being harmed) is incorrectly optimizing for the transient case
+instead of the steady state.
+
+3. Programmers figure stuff out amazingly fast when their jobs depend on it. People learn to read sheet
+music, braille, sign language, and all sorts of other semiotic frameworks. Hell, even gorillas can 
+apparently do all that. Programmers don't need protection from syntax. They just need documentation and 
+a little slack time to read up on it.
+
+4. Succinctness is power. Code should be kept small. Period. If your static checking tools can't reason 
+about the code, then the checking needs to be made smarter (e.g. by incorporating runtime data) rather
+than making the code dumber.
+
+5. Rigid schemas limit flexibility and slow down development. Lightweight/partial/optional schemas are a 
+better tradeoff. Moreover, the schema is often not well-understood until a lot of data is collected and a
+lot of use cases are thorougly exercised. So the schema should follow the code rather than precede it.
+
+6. Public interfaces should above all else be simple, backward-compatible, and future-compatible. Rigorous
+modeling is just guessing at how the interface will need to evolve. It makes both forward- and backward-
+compatibility almost impossible, resulting in interface churn and customer unhappiness. Public interfaces 
+should always do the simplest thing that could possibly work, and grow only as needed.
+
+7. System flexibility can mean the difference between you getting the customer (or contract) vs. your 
+competitor nabbing it instead. Security and safety risks in runtime production systems can be mitigated 
+and controlled by logging, monitoring and auditing. There are plenty of existence-proofs of large systems 
+with root-access backdoors and shells (e.g. RDBMS, online game servers) whose risk is controlled while 
+still giving them world-class runtime flexibility.
+
+8. Companies should take risks, embrace progress, and fiercely resist ossification. It doesn't matter how
+big your business is: it must grow or die. If you want to stay competitive, you have to make a conscious,
+often painful effort to take risks. Which means you'll need good recovery techniques for the inevitable
+disasters. But you need those even if you don't take risks.  So take risks!
+
+9. Premature optimization is the root of all evil. Get the code working first, focusing on correctness
+over performance, and on iterative prototyping over correctness. Only when your customers list latency 
+as the top priority should you begin performing profiler-driven optimizations.
+```
+
+Here Steve tosses "a bunch of random technologies, patterns, designs and disciplines each into one of six buckets: "apolitical", "conservative", "centrist", "liberal" buckets, plus two buckets that start Centrist and head Left or Right in the presence of overuse":
+
+```markdown
+*Non-political Stuff*: Algorithms, data structures, concrete mathematics, complexity analysis, 
+information theory, type theory, computation theory, and so on. Basically all CS theory. These 
+disciplines occasionally inspire tempest-in-a-teapot butthurtedness in academia, but when it
+happens, it's just similar fish in too small a tank biting on each other. It's to be expected.
+Overall, these essentially mathematical disciplines are timeless, and they are all equally 
+applicable to both the Liberal and Conservative programming worlds.  Yes, even type theory.
+
+*Conservative Stuff*: Provably sound type systems. Mandatory static type annotations. Nonpublic
+symbol visibility modifiers (private/protected/friend/etc.). Strict, comprehensive schemas. all-
+warnings-are-errors. Generics and templates. Avoidance of DSLs (XPath, regexps) in favor of 
+explicit DOM manipulation and hand-rolled state machines.  Build dependency restrictions.  Forced
+API deprecation and retirement.  No type equivalence (i.e. no automatic conversions) for numeric
+types.  Checked exceptions.  Single-pass compilers.  Software Transactional Memory.  Type-based
+function overloading.  Explicit configuration in preference to convention. Pure-functional data
+structures.  Any kind of programming with the word "Calculus" in it.
+
+*Centrist (or flat-out Neutral) Stuff*: Unit testing. Documentation. Lambdas. Threads. Actors.
+Callbacks.  Exceptions.  Continuations and CPS.  Byte-compilation.  Just-in-time compilation. 
+Expression-only languages (no statements).  Multimethods. Declarative data structures.  Literal
+syntax for data structures.  Type dispatch.
+
+*Liberal Stuff*: Eval. Metaprogramming. Dynamic scoping. all-errors-are-warnings. Reflection and 
+dynamic invocation. RTTI. The C preprocessor. Lisp macros. Domain-specific languages (for the most
+part). Optional parameters. Extensible syntax. Downcasting.  Auto-casting.  reinterpret_cast.  
+Automatic stringification.  Automatic type conversions across dissimilar types.  Nil/null as an
+overloaded semantic value (empty list, empty string, value-not-present).  Debuggers.  Bit fields.
+Implicit conversion operators (e.g. Scala's implicits).  Sixty-pass compilers.  Whole-namespace 
+imports.  Thread-local variables.  Value dispatch.  Arity-based function overloading.  Mixed-
+type collections.  API compatibility modes.  Advice and AOP.  Convention in preference to
+explicit configuration.
+
+*Centrist Stuff that Becomes Conservative If Taken Far Enough*: Type modeling. Relational modeling. 
+Object modeling. Interface modeling. Functional (i.e., side-effect-free) programming.
+
+*Centrist Stuff that Becomes Liberal if Taken Far Enough*: Dynamic class loading and dynamic code 
+loading. Virtual method dispatch. Buffer-oriented programming.
+```
+
+Natural themes arise:
+
+```markdown
+ -- implicit is generally liberal; explicit is generally conservative.
+
+ -- performance-oriented is generally conservative; late-optimized is generally liberal.
+
+ -- compile-time binding is generally conservative; runtime/late binding is generally liberal.
+
+ -- concurrency and parallelism in general seem to be politically charged topics, but the 
+ disagreement is orthogonal to the liberal/conservative camps.
+```
+
+Programming languages:
+
+```markdown
+Here are some very rough categorizations. Note that within each language camp there are typically 
+liberal and conservative sub-camps. But as a whole, language usage tends to be dominated by what 
+the language makes possible (and easy), so the culture tends to follow the features.
+
+This list is just a few representative examples to give you the flavor. I'm only listing general-
+purpose languages here, since DSLs and query languages are typically feature-restricted enough to
+be hard to categorize.
+
+Assembly language: Batshit liberal.
+
+Perl, Ruby, PHP, shell-script: Extremist liberal.
+
+JavaScript, Visual Basic, Lua: Hardcore liberal.
+
+Python, Common Lisp, Smalltalk/Squeak: Liberal.
+
+C, Objective-C, Scheme: Moderate-liberal.
+
+C++, Java, C#, D, Go: Moderate-conservative.
+
+Clojure, Erlang, Pascal: Conservative.
+
+Scala, Ada, OCaml, Eiffel: Hardcore conservative.
+
+Haskell, SML: Extremist conservative.
+
+One thing that jumps out is that a language doesn't have to be statically-typed or even strongly-
+typed in order to be conservative overall. More on that in a bit.
+
+The next thing you might notice from the list is that the liberal and moderate languages are all 
+pretty popular, and that popularity declines sharply as languages head into conservative territory.
+
+I think this has a simple explanation: It's possible to write in a liberal language with a conservative 
+accent, but it's very hard (and worse, discouraged) to write in a conservative language with a liberal
+accent.
+
+For instance, it's straightforward to write JavaScript code in a way that eschews reflection, eval, 
+most automatic type casting, prototype inheritance, and other dynamic features. You can write
+JavaScript that plods along as unadventurously as, say, Pascal. It doesn't have all the static 
+type annotations, but you can replace them with assertions and unit tests and stereotypically 
+stolid code organization.
+
+But if you try writing your Haskell code with a bunch of dynamic features, well, you're in for a 
+LOT of work. Haskell enthusiasts have managed to implement dynamic code loading and a ton of other
+ostensibly dynamic features, but it was only through herculean effort.
+
+What's more, if you write your liberal-language code in a conservative way, people will just look
+at it and say: "Well, it's kinda boring, and you could have saved a lot of coding by using some 
+dynamic features. But I guess it gets the job done. LGTM."
+
+Whereas if you write your conservative-language code in a liberal way, you run the risk of being 
+ostracized by your local language community, because... why are you doing all that dangerous
+dynamic stuff in the first place? I'll explore this cultural phenomenon further when I talk about 
+Clojure below.
+
+The last big, interesting observation from the list is that a lot of the most popular languages out
+there are only moderately conservative -- even if they think of themselves as quite conservative 
+compared to their ultra-dynamic cousins.
+
+I've said it before, and it bears repeating here: the reason C++, C# and Java have been particularly
+successful in the marketplace is that -- just like effective politicians -- they know how to play
+both sides.
+
+C++ allows liberal-biased programmers to program in straight C, and it allows conservative-biased
+programmers to layer in arbitrary amounts of static type modeling, depending on how much work they
+want to expend in order to feel secure. Java?  Pretty much the same story.
+
+Playing to both the fast-and-loose and lock-your-doors mindsets has proven to be a key ingredient
+to market success.  Also marketing, but it helps a LOT to be viewed as philosophically friendly by
+both the liberal and conservative camps.
+
+There is a new crop of languages on the horizon (for instance, Google's Dart language, but also new
+specs for EcmaScript) that are deliberately courting the centrist crowd -- and also delicately 
+playing to grab both the liberals and conservatives -- by offering optional static types. In principle
+this is a sound idea. In practice I think it will come down to whether the marketing is any good. 
+Which it probably won't be.
+
+Language designers always seem to underestimate the importance of marketing!
+```
+
+Tech corporations:
+
+```markdown
+1) Facebook -- Diagnosis: Extremist Liberal. Despite their scale, they are still acting like a 
+startup, and so far they've been getting away with it. They use primarily C++ and PHP, and they're 
+prone to bragging about how their code calls back and forth from PHP to C++ and back into PHP, 
+presumably bottoming out somewhere. Their datastore is memcached: just name-value pairs.  No schema.
+They dump the data and logs into a backend Hive store and run Hadoop mapreduces for offline data
+analysis.  They still hold all-night hackathons every other week or so, which will remain feasible
+for them as long as the majority of their programmers are very young males (as was the case last 
+time I toured there) and their stock continues to promise great riches (as was not so much the case
+last I checked.)  As a company they are tightly knit and strongly biased for action, placing a high
+value on the ability of individual programmers to launch features to their website with little to no 
+bureaucracy or overhead.  This is pretty remarkable for a company as big as they are, with as many 
+users as they have.  Conservatives no doubt regard them with something between horror and contempt.
+But Facebook is proving that programmers of any world-view can get a hell of a lot accomplished when 
+they gang up on a problem.
+
+2) Amazon.com -- Diagnosis: Liberal. Which is surprising, given how long they've been in business,
+how much money is at stake, how mature their Operations division is, and how financially conservative
+they are. But "Liberal" is actually quite a retreat compared to their early days. Back in 1998-1999 
+they were almost exactly like Facebook is today, with the sole exception that they put everything in
+relational databases and did a ton of up-front relational data modeling.  Well, except in Customer 
+Service Apps, where we used a name/value store just to be flexible enough to keep up with the mad 
+chaotic scramble of the business launches.  All part of my multi-decade indoctrination as a Liberal. 
+In any case, despite many corporate improvements with respect to work-life balance (which happened 
+after several stock plunges and years of significant double-digit turnover in engineering), Amazon has
+retained its liberal, startup-like engineering core values.  Every team owns their own data and makes 
+their own decisions, more or less like independent business units.  Amazon still launches and executes 
+faster than just about anyone else out there, because they're still willing to take real risks
+(incurring occasional huge outages), and to make hard decisions in favor of launching early and often.
+Above all else, Amazon has proven conclusively that after fifteen years, they can still innovate like
+nobody else.  They've still got it.
+
+3) Google -- Diagnosis: Conservative. They began life as slightly liberal and have grown more 
+conservative ever since. Google was only software-liberal in the very very early days, back when the 
+search engine itself was written in Python. As they grew, they quickly acquired a software conservatism
+driven entirely by the engineers themselves.  Manifestos were written about the dangers of using multiple 
+languages, and strict style guides were put in place to severely limit "risky" or "hard to read" language 
+features of the few languages they did allow.  Google's JavaScript code is written in an extremely 
+conservative style with extensive static type annotations, and eval is forbidden.  The Python style guide 
+forbids metaprogramming and other dynamic features, which makes their Python look a lot like untyped Java.
+And they have severely limited the use of many C++ language features, with C++11 support rolling out 
+literally one feature every few weeks.  (There are over five hundred new features in C++11.)  In internal
+surveys, Google engineers commonly cite bureaucracy, churn and complexity as core obstacles to feature 
+advancement and rapid launches.  Google has made serious attempts on several occasions to reduce this
+bureacracy, but they always get pushback from -- surprise -- the engineers themselves, who have grown so 
+staunchly conservative that they actively (and even more often, passively) resist the introduction of more
+flexible stacks and technologies.  Most of the major technological shifts within Google over the past half-
+decade have been overtly conservative.  For a liberal like me, it has been a very sad process to observe.
+But at least I've found myself a niche that's widely regarded (by both camps) as valuable, and within my
+own org we can still be pretty liberal and get away with it.
+
+4) Microsoft -- Diagnosis: Batshit Conservative. Microsoft has two geese that lay golden eggs: Office and 
+Windows. Microsoft has been reduced to a commercial farmer protecting the geese from all incursions.  The
+golden eggs still have value, because customers are locked into the platform by the cost-ineffectiveness
+of retraining their fleets.  But Microsoft can no longer innovate in Office or Windows precisely because
+of those corporate fleet retraining costs.  Their OEMs are stretched as thin as they can go.  Apple is 
+dominating the handheld markets, and Microsoft is actively stifling their own innovation in Windows Phone
+because they're afraid it will cannibalize their core Windows business.  Microsoft has not had a 
+successful product-level innovation in fifteen, maybe twenty years.  All of their successful products 
+have been copies of competitors' products:  IE, XBox, C#, .NET, Bing, Windows Phone, and so on ad
+infinitum. All great implementations of someone else's ideas. Microsoft's playbook is to embrace, extend,
+and leverage their brand to crush the competition -- or at least it was, until the goverment put an end 
+to that circa 2002.  Now the company genuinely doesn't know what the fuck to do with themselves, and
+what's more, instead of Bill Gates they now have a lunatic in charge.  Employees are leaving in droves, 
+all citing the same internal "existential crisis" and unbearable corporate politics caused by competing
+business units actively sabotaging one another.  Microsoft has turned into a caricature of right-wing
+corporatism: sitting on their front porch with a shotgun cursing at passers-by, waiting for their 
+government bribes to give them another few years of subsidies and shelters while they wait to die. 
+I've personally chatted with close to four hundred current and ex-Microsoft employees over the past seven
+years.  Oh, the stories I could tell you... someday, maybe.
+
+5) Bonus company: Apple. Diagnosis: no idea, but they're so good at marketing that it's almost
+irrelevant. Would love to have more insight into their internal software culture, though.  Any takers? 
+Throwaway accounts?  AMA?
+```
 
 <a name="#practical-magic"></a>
 ### Practical magic
@@ -4421,14 +5176,64 @@ amplify them: we have to learn to make them talk.
 Where does Mayo come into the picture?
 
 ```markdown
-Fortunately, scientists have not only devoted much effort to making errors talk, they have even developed a theory of inquisition, in the form of mathematical statistics, especially the theory of statistical inference worked out by Jerzy Neyman and Egon Pearson in the 1930s. Mayo's mission is largely to show how this very standard mathematical statistics justifies a very large class of scientific inferences, those concerned with "experimental knowledge," and to suggest that the rest of our business can be justified on similar grounds. Statistics becomes a kind of applied methodology, as well as the "continuation of experiment by other means."
-Mayo's key notion is that of a severe test of a hypothesis, one with "an overwhelmingly good chance of revealing the presence of a specific error, if it exists --- but not otherwise" (p. 7). More formally (when we can be this formal), the severity of a passing result is the probability that, if the hypothesis is false, our test would have given results which match the hypothesis less well than the ones we actually got do, taking the hypothesis, the evidence used in the test, and the way of calculating fit between hypothesis and evidence to be fixed. If a severe test does not turn up the error it looks for, it's good grounds for thinking that the error is absent. By putting our hypotheses through a battery of severe tests, screening them for the members of our "error repertoire," our "canonical models of error," we can come to have considerable confidence that they are not mistaken in those respects. Instead of a method for infallibly or even reliably finding truths, we have a host of methods for reliably finding errors: which turns out to be good enough.
+Fortunately, scientists have not only devoted much effort to making errors talk, they have even developed
+a theory of inquisition, in the form of mathematical statistics, especially the theory of statistical
+inference worked out by Jerzy Neyman and Egon Pearson in the 1930s. Mayo's mission is largely to show how
+this very standard mathematical statistics justifies a very large class of scientific inferences, those 
+concerned with "experimental knowledge," and to suggest that the rest of our business can be justified on
+similar grounds. Statistics becomes a kind of applied methodology, as well as the "continuation of 
+experiment by other means."
 
-Experimental inquiry, for Mayo, consist of breaking down the question at hand into a series of small bits, each of which is relatively easily subjected to severe tests for error, or (depending on how you look at it) is itself a severe probe for a certain error. In doing this we construct a "hierarchy of models" (an idea of Patrick Suppes's, here greatly elaborated). In particular, we need data models, models of how the data are collected and massaged. "Error" here, as throughout Mayo's work, must be understood in a rather catholic sense: any deviation from the conditions we assumed in our reasoning about what the experimental outcomes should be. If we guess that a certain effect (the bending of spoons, let us say) is due to a certain cause (e.g., the psychic powers of Mr. Uri Geller), it is not enough that spoons bend reliably in his presence: we must also rule out other mechanisms which would produce the same effect (Mr. Geller's bending the spoons with his hands while we're not looking, his substituting pre-bent spoons for unbent ones ditto, etc., through material for several lawsuits for libel). But this solves the Quine-Duhem problem.
+Mayo's key notion is that of a severe test of a hypothesis, one with "an overwhelmingly good chance of
+revealing the presence of a specific error, if it exists --- but not otherwise" (p. 7). More formally
+(when we can be this formal), the severity of a passing result is the probability that, if the hypothesis
+is false, our test would have given results which match the hypothesis less well than the ones we actually
+got do, taking the hypothesis, the evidence used in the test, and the way of calculating fit between
+hypothesis and evidence to be fixed. If a severe test does not turn up the error it looks for, it's good
+grounds for thinking that the error is absent. By putting our hypotheses through a battery of severe 
+tests, screening them for the members of our "error repertoire," our "canonical models of error," we can 
+come to have considerable confidence that they are not mistaken in those respects. Instead of a method for
+infallibly or even reliably finding truths, we have a host of methods for reliably finding errors: which
+turns out to be good enough.
 
-In fact, it gets better. Recall that methodological underdetermination (which goes by the apt name of MUD in Error) is the worry that no amount or quality of evidence will suffice to pick out one theory as the best, because there are always indefinitely many others which are in equal accord with that evidence, or, to use older language, equally well save the phenomena. But saving the phenomena is not the same as being subjected to a severe test: and, says Mayo, the point is severe testing. While I'm mostly persuaded by this argument, I'm less sanguine than Mayo is about our ability to always find experimental tests which will let us discriminate between two hypotheses. I'm fully persuaded that this kind of testing really does underwrite our knowledge of phenomena, of (in Nancy Cartwright's phrase) "nature's capacities and their measurement," and Mayo herself insists on the importance of experimental knowledge in just this sense (e.g., the remarks on "asking the wrong question," pp. 188--9). I'm less persuaded that we can usually or even often make justified inferences from this "formal" sort of experimental knowledge, knowledge of the distribution of experimental outcomes, to "substantive" statements about objects, processes and the like (e.g., from the experimental success of quantum mechanics to wave-functions). As an unreconstructed (undeconstructed?) scientific realist, I make such inferences, and would like them to be justified, but find myself left hanging.
+Experimental inquiry, for Mayo, consist of breaking down the question at hand into a series of small bits, 
+each of which is relatively easily subjected to severe tests for error, or (depending on how you look at
+it) is itself a severe probe for a certain error. In doing this we construct a "hierarchy of models" (an 
+idea of Patrick Suppes's, here greatly elaborated). In particular, we need data models, models of how the
+data are collected and massaged. "Error" here, as throughout Mayo's work, must be understood in a rather
+catholic sense: any deviation from the conditions we assumed in our reasoning about what the experimental
+outcomes should be. If we guess that a certain effect (the bending of spoons, let us say) is due to a
+certain cause (e.g., the psychic powers of Mr. Uri Geller), it is not enough that spoons bend reliably in
+his presence: we must also rule out other mechanisms which would produce the same effect (Mr. Geller's 
+bending the spoons with his hands while we're not looking, his substituting pre-bent spoons for unbent 
+ones ditto, etc., through material for several lawsuits for libel). But this solves the Quine-Duhem problem.
 
-Distributions of experimental outcomes, then, are the key objects for Mayo's tests, especially the standard Neyman-Pearson statistical tests. The kind of probabilities Mayo, and Neyman and Pearson, use are probabilities of various things happening: meaning that the probability of a certain result, p(A), is the proportion of times A occurs in many repetitions of the experiment, its frequency. This is a very familiar sense of probability; it's the one we invoke when we say that a fair coin has a 50% probability of coming up heads, that the chance of getting three sixes with fair (six-sided!) dice is 1 in 216, that a certain laboratory procedure will make an indicator chemical change from red to blue 95% of the time when a toxin is present. Or, more to the present point: "the hypothesis is significant at the five percent level" means "the hypothesis passed the test, and the probability of its doing so, if it were false, is no more than five percent," which means "if the hypothesis is false, and we repeated this experiment many times, we would expect to get results inside our passing range no more than five percent of the time."
+In fact, it gets better. Recall that methodological underdetermination (which goes by the apt name of MUD 
+in Error) is the worry that no amount or quality of evidence will suffice to pick out one theory as the best,
+because there are always indefinitely many others which are in equal accord with that evidence, or, to use 
+older language, equally well save the phenomena. But saving the phenomena is not the same as being subjected
+to a severe test: and, says Mayo, the point is severe testing. While I'm mostly persuaded by this argument,
+I'm less sanguine than Mayo is about our ability to always find experimental tests which will let us
+discriminate between two hypotheses. I'm fully persuaded that this kind of testing really does underwrite 
+our knowledge of phenomena, of (in Nancy Cartwright's phrase) "nature's capacities and their measurement," 
+and Mayo herself insists on the importance of experimental knowledge in just this sense (e.g., the remarks 
+on "asking the wrong question," pp. 188--9). I'm less persuaded that we can usually or even often make 
+justified inferences from this "formal" sort of experimental knowledge, knowledge of the distribution of 
+experimental outcomes, to "substantive" statements about objects, processes and the like (e.g., from the
+experimental success of quantum mechanics to wave-functions). As an unreconstructed (undeconstructed?) 
+scientific realist, I make such inferences, and would like them to be justified, but find myself left hanging.
+
+Distributions of experimental outcomes, then, are the key objects for Mayo's tests, especially the standard 
+Neyman-Pearson statistical tests. The kind of probabilities Mayo, and Neyman and Pearson, use are
+probabilities of various things happening: meaning that the probability of a certain result, p(A), is the 
+proportion of times A occurs in many repetitions of the experiment, its frequency. This is a very familiar 
+sense of probability; it's the one we invoke when we say that a fair coin has a 50% probability of coming up
+heads, that the chance of getting three sixes with fair (six-sided!) dice is 1 in 216, that a certain 
+laboratory procedure will make an indicator chemical change from red to blue 95% of the time when a toxin 
+is present. Or, more to the present point: "the hypothesis is significant at the five percent level" means 
+"the hypothesis passed the test, and the probability of its doing so, if it were false, is no more than five
+percent," which means "if the hypothesis is false, and we repeated this experiment many times, we would
+expect to get results inside our passing range no more than five percent of the time."
 ```
 
 So Mayo is a frequentist. 
@@ -4458,6 +5263,10 @@ explicit claims, use of evidence, and argument.
 
 <a name="#math"></a>
 ## Math
+([overview](#overview))
+
+<a name="#math-opinions"></a>
+## Math opinions
 ([overview](#overview))
 
 <a name="#why-tricki-failed"></a>
@@ -4763,74 +5572,7 @@ general light. If you can link to the Tricki, then the individual techniques can
 and generally without disturbing the flow of the exposition.
 ```
 
-<a name="#asking-the-right-question"></a>
-### Asking the right question
-([overview](#overview))
-
-[Jay Daigle](https://jaydaigle.net/) is an assistant professor of math at Occidental College who received his PhD in number theory at Caltech under Matthias Flach. He’s also jadagul of [Maybe-Mathematical Musings](http://jadagul.tumblr.com/), one of the two really consistently high-quality math-content-producers/commentators I’ve had the pleasure of stumbling across on math Tumblr (the other being Rob Nostalgebraist, who also writes [genuinely great fiction](https://archiveofourown.org/users/nostalgebraist/pseuds/nostalgebraist) and is a [brilliant book reviewer](https://www.goodreads.com/author/show/13933106.nostalgebraist)). He’s sufficiently [differently free from me](https://www.ribbonfarm.com/2014/11/05/dont-surround-yourself-with-smarter-people/) in Venkat Rao’s sense, plus just flat-out smarter, that I always get a lot out of his writings in Alan Kay’s “point of view is worth 80 IQ points” sense, so I always enjoy reading his math #effortposts.
-
-Recently I discovered that he’s collected these effortposts into a standalone blog, [Jay's Blog](https://jaydaigle.net/blog/paradigms-and-priors/), so I’ve had a lot of fun going over his essays. Here are some quotes from one of those essays, [Asking the Right Question](https://jaydaigle.net/blog/asking-the-right-question/), which I’m saving here for quick future reference. (You should Jay’s original essay instead of defaulting to my quotes below! He’s a really enjoyable read, I promise.)
-
-First off: why is asking good questions so important? About four reasons, the last one being the main thrust of this section:
-
-```markdown
-First and most obviously, it’s easier to get help with things and learn things if you can ask better
-questions. 
-
-Second, and maybe more importantly, framing questions well is a lot of what makes you a good 
-mathematician.
-
-The most boring way to ask a bad question is just to not include enough information. Sometimes this
-is just laziness (“I don’t understand how to do this problem, please help”). And I’ve definitely seen 
-questions asked that are thin disguises over “I don’t want to do my homework; can someone do it for me?”
-
-But more often, badly-phrased questions result from deep confusion on the part of the asker. If they 
-understood the material well enough to ask their question clearly and correctly, they wouldn’t need to
-ask it in the first place.
-```
-
-It's important to be able to figure out what question to ask in the first place:
-
-```markdown
-A lot of math is less about answering questions than about figuring out exactly what question you should
-be asking, and how to make it precise. We tend to sweep this under the rug a bit when teaching, in a way 
-that I suspect probably leads to a certain amount of confusion.
-
-When we teach, we often ask a question, and then demonstrate a tool to answer it, without necessarily 
-stopping to explain why that question is a good one, or how people settled on asking exactly that question.
-And this often leaves our students with the sense that what they’re doing doesn’t really mean anything.
-
-This is a major reason students fall back on figuring out what “type of problem” they’re working on, and
-then following “the steps” to get the answer. They see math as a sort of opaque box, and a question asks
-them to perform the correct magical ritual to get the answer. Because if the words you’re using—and your
-questions—don’t have a meaning, that’s all you can really do.
-
-And that’s how you get questions like “how do I find solutions to f(x) = sin(x)+1/2.” I can tell what the
-original question probably was. But because the student doesn’t really understand what a “function” is, 
-they ask a question that is, read literally, completely nonsensical.
-```
-
-An example of a badly-written but actually great question:
-
-```markdown
-Sometimes, you see a question that’s basically “this one thing feels kind of like this other thing, but 
-I can’t tell you how. Can you tell me?”
-
-These people are doing good math. They’re noticing a pattern, and trying to put it into words. They’re 
-maybe not quite there, and sometimes it’s hard to answer the question clearly. But it shows great
-instincts.
-
-And this is how math tends to actually get done! When we teach, we tend to define terms, then state 
-theorems about them, and then prove the theorems. But this is exactly backwards from how math is often
-actually done. First we understand what’s going on; then we figure out what the rule is and write it 
-down; and finally understand what conditions are important and give those conditions names. That is, 
-we formulate a proof, then state the theorem, and then define the terms.
-
-These questions are working on step 1. I want to encourage them.
-```
-
 <a name="#solving-famous-open-problems"></a>
-
 ### Solving famous open problems
 ([overview](#overview))
 
@@ -4961,9 +5703,7 @@ mathematics?” (linked to on the sidebar of this blog).
 ```
 
 <a name="#mathematical-maturity"></a>
-
 ### Mathematical maturity
-
 ([overview](#overview))
 
 From Redditor [man_after_midnight](https://www.reddit.com/user/man_after_midnight), answering Mathematicians of Reddit: [Is there some point where you see a big picture and everything "clicks"?](https://www.reddit.com/r/math/comments/1mtian/mathematicians_of_reddit_is_there_some_point/):
@@ -5096,8 +5836,29 @@ at what I was so hard now seemed so clear. I could explain almost anything with 
 the math was not that hard. But the concept took a while to sink in.
 ```
 
-<a name="#good-mathematics"></a>
+Ravi Vakil's [advice page](http://math.stanford.edu/~vakil/potentialstudents.html) for potential PhD students has some great quotes. The most memorable is this one:
 
+```markdown
+Here's a phenomenon I was surprised to find: you'll go to talks, and hear various words, whose 
+definitions you're not so sure about. At some point you'll be able to make a sentence using those
+words; you won't know what the words mean, but you'll know the sentence is correct. You'll also 
+be able to ask a question using those words. You still won't know what the words mean, but you'll
+know the question is interesting, and you'll want to know the answer. Then later on, you'll learn 
+what the words mean more precisely, and your sense of how they fit together will make that learning
+much easier. 
+
+The reason for this phenomenon is that mathematics is so rich and infinite that it is impossible to 
+learn it systematically, and if you wait to master one topic before moving on to the next, you'll 
+never get anywhere. Instead, you'll have tendrils of knowledge extending far from your comfort zone. 
+Then you can later backfill from these tendrils, and extend your comfort zone; this is much easier 
+to do than learning "forwards". 
+
+(Caution: this backfilling is necessary. There can be a temptation to learn lots of fancy words and
+to use them in fancy sentences without being able to say precisely what you mean. You should feel 
+free to do that, but you should always feel a pang of guilt when you do.)
+```
+
+<a name="#good-mathematics"></a>
 ### Good mathematics
 ([overview](#overview))
 
@@ -5175,7 +5936,6 @@ original and new results beyond the classical literature.
 ```
 
 <a name="#what-every-mathematician-should-know"></a>
-
 ### What every mathematician should know
 ([overview](#overview))
 
@@ -5307,6 +6067,180 @@ Mechanics and some physics related to field theories and string theory; and—of
 connects to this.
 ```
 
+<a name="#math-advice"></a>
+### Math advice
+([overview](#overview))
+
+<a name="#go-to-seminars"></a>
+### Go to seminars
+([overview](#overview))
+
+Ravi Vakil's [advice page](http://math.stanford.edu/~vakil/potentialstudents.html) for potential PhD students has loads of advice related to going to seminars:
+
+```markdown
+Older graduate students will verify that there is a high correlation between those students who 
+are doing the broadest and deepest work and those who are regularly attending seminars. Many
+people erroneously conclude that those who are the strongest students therefore go to seminars, 
+while in fact the causation goes very much in the opposite direction.
+
+Go to research seminars earlier than you think you should. Do not just go to seminars that you 
+think are directly related to what you do (or more precisely, what you currently think you 
+currently do). You should certainly go to every single seminar related to algebraic geometry that
+you can, and likely drop by other seminars occasionally too. Learning to get information out of
+research seminars is an acquired skill, usually acquired much later than the skill of reading 
+mathematics. You may think it isn't helpful to go to a seminar where you understand just 5% of
+what the speaker says, and may want to wait until you are closer to 100%; but no one is anywhere
+near 100% (even the speaker!), so you should go anyway.
+
+Try to follow the thread of the talk, and when you get thrown, try to get back on again. (This
+isn't always possible, and admittedly often the fault lies with the speaker.)
+
+At the end of the talk, you should try to answer the questions: What question(s) is the speaker
+trying to answer? Why should we care about them? What flavor of results has the speaker proved?
+Do I have a small example of the phenonenon under discussion? You can even scribble down these 
+questions at the start of the talk, and jot down answers to them during the talk.
+
+Try to extract three words from the talk (no matter how tangentially related to the subject at 
+hand) that you want to know the definition of. Then after the talk, ask me what they mean. (In 
+general, feel free to touch base with me after every seminar. I might tell you something 
+interesting related to the talk.)
+
+See if you can get one lesson from the talk (broadly interpreted). If you manage to get one lesson
+from each talk you go to, you'll learn a huge amount over time, although you'll only realize this 
+after quite a while. (If you are unable to learn even one thing about mathematics from a talk,
+think about what the speaker could have done differently so that you could have learned something.
+You can learn a lot about giving good talks by thinking about what makes bad talks bad.)
+
+Try to ask one question at as many seminars as possible, either during the talk, or privately
+afterwards. The act of trying to formulating an interesting question (for you, not the speaker!)
+is a worthwhile exercise, and can focus the mind.
+
+Your thesis problem may well come out of an idea you have while sitting in a seminar.
+
+Go to seminar dinners when at all possible, even though it is scary, and no one else is going.
+
+Go to colloquia fairly often, so you have a reasonable idea of what is happening in other parts 
+of mathematics. It is amazing what can become relevant to your research. You won't believe it 
+until it happens to you. And it won't happen to you unless you go to colloquia. Ditto for seminars
+in other fields.
+```
+
+Vakil expands upon one of the points above in this page: [The "Three Things" Exercise for getting things out of talks](http://math.stanford.edu/~vakil/threethings.html):
+
+```markdown
+*The challenge of talks*. It is tricky to get things out of talks, even after a lot of practice. 
+It is very easy to go to a talk, and at some point have your eyes glaze over. Talks are like horses:
+once you are thrown off, it is hard to get back on. Especially if the horse is stomping on your face.
+(That's why it is very bad to come into a talk a few minutes late --- even if it is sometimes
+necessary.)
+
+"Three Things" is an exercise to learn how to get things out of talks. It can be useful if you are in
+the first few years of going to seminars --- I've intended it as practice for graduate students --- 
+but I've also found that I got much more out of talks (especially those out of my comfort zone) when
+using it. It is admittedly a little contrived, and when a bunch of us first experimented with it 
+(perhaps around 2007?), we stopped doing it after a while because we got tired of it.
+
+*The theory is as follows*. If you can get even three small things out of a talk, it is a successful
+talk. And if you can't get even three small things out of a talk, it was not a successful experience.
+Note that the things you get out of a talk needn't be the things that your neighbor got out of a talk,
+or the things the speaker expected you to get out of the talk.
+
+*Here is how it works*. Take a clean sheet of paper, or an index card. Your goal is to have three things,
+and only three things, on this sheet at the end of the talk. The "things" can be of many forms:
+
+- a definition you want to remember (e.g. "a K3 surface is...")
+- a theorem you want to remember ("the moduli space of polarized K3 surfaces is smooth")
+- a motivating or key example ("a quartic is an example of a K3 surface")
+- a motivating problem ("why are all moduli spaces of polarized K3 surfaces the same dimension?")
+- a question you want to ask the speaker ("why is that hypothesis in your theorem?")
+- a question you want to ask someone else (a definition, motivation, a question about a connection etc.)
+- anything else of a similar flavor: something specific that made you think. Something vague ("I liked 
+the part where she talked about groups") does not count as a "thing".
+
+*As you watch the talk*, look out for "things" you like. When one comes your way, write it down. Then
+later write down a second. Then write down a third. Hopefully a fourth will come your way --- and
+then you must look over the previous three, and decide which one must be cut. A dirty secret is that
+you may not be able to prevent yourself from remembering the one you cut --- and the ones you kept
+and reviewed will be more fixed in your mind.
+
+(If you take notes in a more traditional sense, you can still play the game, by putting a star beside
+each "thing". This works a little less well; you will be less focused on looking for "things".)
+
+*After the talk*: if other people are playing, send each other your things by email (or discuss them
+in person). It is surprisingly enlightening. And there will likely be some follow-up discussion. It
+doesn't take much time (to type or to send one sentence responses to others' things if the spirit 
+moves you). If you have questions, then ask them to someone (perhaps the speaker over the semianr
+dinner; or perhaps your advisor or your students or your colleagues). Don't let them drop.
+```
+
+See also his celebrated [backfilling tendrils of knowledge](#mathematical-maturity) quote.
+
+<a name="#asking-the-right-question"></a>
+### Asking the right question
+([overview](#overview))
+
+[Jay Daigle](https://jaydaigle.net/) is an assistant professor of math at Occidental College who received his PhD in number theory at Caltech under Matthias Flach. He’s also jadagul of [Maybe-Mathematical Musings](http://jadagul.tumblr.com/), one of the two really consistently high-quality math-content-producers/commentators I’ve had the pleasure of stumbling across on math Tumblr (the other being Rob Nostalgebraist, who also writes [genuinely great fiction](https://archiveofourown.org/users/nostalgebraist/pseuds/nostalgebraist) and is a [brilliant book reviewer](https://www.goodreads.com/author/show/13933106.nostalgebraist)). He’s sufficiently [differently free from me](https://www.ribbonfarm.com/2014/11/05/dont-surround-yourself-with-smarter-people/) in Venkat Rao’s sense, plus just flat-out smarter, that I always get a lot out of his writings in Alan Kay’s “point of view is worth 80 IQ points” sense, so I always enjoy reading his math #effortposts.
+
+Recently I discovered that he’s collected these effortposts into a standalone blog, [Jay's Blog](https://jaydaigle.net/blog/paradigms-and-priors/), so I’ve had a lot of fun going over his essays. Here are some quotes from one of those essays, [Asking the Right Question](https://jaydaigle.net/blog/asking-the-right-question/), which I’m saving here for quick future reference. (You should Jay’s original essay instead of defaulting to my quotes below! He’s a really enjoyable read, I promise.)
+
+First off: why is asking good questions so important? About four reasons, the last one being the main thrust of this section:
+
+```markdown
+First and most obviously, it’s easier to get help with things and learn things if you can ask better
+questions. 
+
+Second, and maybe more importantly, framing questions well is a lot of what makes you a good 
+mathematician.
+
+The most boring way to ask a bad question is just to not include enough information. Sometimes this
+is just laziness (“I don’t understand how to do this problem, please help”). And I’ve definitely seen 
+questions asked that are thin disguises over “I don’t want to do my homework; can someone do it for me?”
+
+But more often, badly-phrased questions result from deep confusion on the part of the asker. If they 
+understood the material well enough to ask their question clearly and correctly, they wouldn’t need to
+ask it in the first place.
+```
+
+It's important to be able to figure out what question to ask in the first place:
+
+```markdown
+A lot of math is less about answering questions than about figuring out exactly what question you should
+be asking, and how to make it precise. We tend to sweep this under the rug a bit when teaching, in a way 
+that I suspect probably leads to a certain amount of confusion.
+
+When we teach, we often ask a question, and then demonstrate a tool to answer it, without necessarily 
+stopping to explain why that question is a good one, or how people settled on asking exactly that question.
+And this often leaves our students with the sense that what they’re doing doesn’t really mean anything.
+
+This is a major reason students fall back on figuring out what “type of problem” they’re working on, and
+then following “the steps” to get the answer. They see math as a sort of opaque box, and a question asks
+them to perform the correct magical ritual to get the answer. Because if the words you’re using—and your
+questions—don’t have a meaning, that’s all you can really do.
+
+And that’s how you get questions like “how do I find solutions to f(x) = sin(x)+1/2.” I can tell what the
+original question probably was. But because the student doesn’t really understand what a “function” is, 
+they ask a question that is, read literally, completely nonsensical.
+```
+
+An example of a badly-written but actually great question:
+
+```markdown
+Sometimes, you see a question that’s basically “this one thing feels kind of like this other thing, but 
+I can’t tell you how. Can you tell me?”
+
+These people are doing good math. They’re noticing a pattern, and trying to put it into words. They’re 
+maybe not quite there, and sometimes it’s hard to answer the question clearly. But it shows great
+instincts.
+
+And this is how math tends to actually get done! When we teach, we tend to define terms, then state 
+theorems about them, and then prove the theorems. But this is exactly backwards from how math is often
+actually done. First we understand what’s going on; then we figure out what the rule is and write it 
+down; and finally understand what conditions are important and give those conditions names. That is, 
+we formulate a proof, then state the theorem, and then define the terms.
+
+These questions are working on step 1. I want to encourage them.
+```
+
 <a name="#why-math-is-boring"></a>
 ### Why math is boring
 ([overview](#overview))
@@ -5371,7 +6305,223 @@ vouch for these proofs’ validity. So, instead of broadening their readership, 
 mostly concerned with impressing other experts in their field.
 ```
 
-See also [why academic writing sucks](#why-academic-writing-sucks).
+See also [why academic writing sucks](#why-academic-writing-sucks). 
+
+So how might we do better? 
+
+From Terry Tao's [Write in your own voice](https://terrytao.wordpress.com/advice-on-writing-papers/write-in-your-own-voice/):
+
+```markdown
+When one is not simply quoting the prior text for historical or archival purposes, it is best to 
+paraphrase and interpret the previous text rather than to copy that text verbatim.  This is for a 
+number of reasons:
+
+- One wants to avoid conveying any impression to readers, referees, or editors of plagiarism, padding,
+or intellectual laziness in one’s papers.  (Note that the latter is a danger even if one is copying 
+from one’s own work, rather than that of others.)
+
+- The prior work may be dated in view of more recent developments and insights, as mentioned above.
+
+- If you are copying or adapted a piece of text from another author that you do not fully understand
+yourself, then it may end up being inappropriate or incongruous for your intended purpose, and may 
+convey the impression of superficiality or being ill-informed.  If the text becomes inaccurate due 
+to this adaptation, then this can also cause some embarrassment and annoyance for the original author
+of that text.
+
+- Excessive use of quotation from famous mathematicians to make one’s own work look more impressive is
+the mathematical equivalent of name-dropping, and should be avoided.  Appeal to authority should not be
+the primary basis for motivating a paper; a handful of citations to demonstrate the depth of interest 
+in the problem being studied is usually sufficient.
+
+- But most importantly of all, for one’s further mathematical development and career, one needs to
+develop one’s own consistent mathematical “voice” and style, and to avoid the impression of simply 
+imitating the voices of other authors.  There is no need in this subject for the mathematical equivalent
+of a parrot, and a text which is a mix of the author’s voice and the voice of others can read very 
+strangely.
+```
+
+Terry advises strongly *against* imitating an author's style:
+
+```markdown
+In some cases, the imitation of a previous author’s style and text is intended as a sign of respect or 
+flattery for that author.  This is misguided; an author will in fact often find such mimicry to actually 
+be somewhat offensive.  If one wants to truly respect a mathematician, then understand that
+mathematician’s methods, results, and exposition, and improve, update, adapt, and advance all three.  
+Even the greatest mathematician’s contributions should advance with the field, rather than being 
+worshipped and preserved in some supposed state of perfection; the latter is mostly suitable only for 
+historical purposes.
+```
+
+Contrast [Scott Alexander's comment on Luke's *Rhetoric* post](#nonfiction) (it's a long section, so I'll quote only the relevant bit):
+
+```markdown
+Your role models here should be those vampires who hunt down the talented, suck out their souls, and absorb
+their powers. Which writers' souls you feast upon depends on your own natural style and your goals. I've
+gained most from reading Eliezer, Mencius Moldbug, Aleister Crowley, and G.K. Chesterton; I'm currently making
+my way through Chesterton's collected works pretty much with the sole aim of imprinting his writing style into 
+my brain.
+
+Stepping from the sublime to the ridiculous, I took a lot from reading Dave Barry when I was a child. He 
+has a very observational sense of humor, the sort where instead of going out looking for jokes, he just
+writes about a topic and it ends up funny. It's not hard to copy if you're familiar enough with it. And
+if you can be funny, people will read you whether you have any other redeeming qualities or not.
+
+Getting imprinted with good writers like this will serve you for your entire life. It will serve you 
+whether you're on your fiftieth draft of a thesis paper, or you're rushing a Less Wrong comment in
+the three minutes before you have to go to work. It will even serve you in regular old non-written
+conversation, because wit and clarity are independent of medium.
+```
+
+More general advice by Terry on writing papers (all go to links for further reading):
+
+```markdown
+- Use the introduction to “sell” the key points of your paper; the results should be described accurately.
+One should also invest some effort in both organising and motivating the paper, and in particular in 
+selecting good notation and giving appropriate amounts of detail. But one should not over-optimise the paper.
+It also assists readability if you factor the paper into smaller pieces, for instance by making plenty 
+of lemmas.
+
+- To reduce the time needed to write and organise a paper, I recommend writing a rapid prototype first.
+
+- For first time authors especially, it is important to try to write professionally, and in one’s own voice.
+One should take advantage of the English language, and not just rely purely on mathematical symbols.
+
+- The ratio between results and effort in one’s paper should be at a local maximum.
+```
+
+More on [creating lemmas](https://terrytao.wordpress.com/advice-on-writing-papers/create-lemmas/) to factor the paper into smaller pieces to aid readability -- this is similar to [information hiding](http://en.wikipedia.org/wiki/Information_hiding) in software engineering, or [structured programming](http://en.wikipedia.org/wiki/Structured_programming) and [modularity](http://en.wikipedia.org/wiki/Modularity_%28programming%29):
+
+```markdown
+A typical argument in modern mathematics is often quite intricate, requiring many different steps, 
+ingredients, and notation. The authors of the argument, having been intimately involved in all aspects 
+of its construction, often do not realise just how complicated such an argument appears to a reader who 
+is encountering it for the first time (I myself have been guilty of this oversight).
+
+Part of the reason for this is that there is plenty of implicit structure in a paper which is crucial 
+to understanding it properly, and which is known to the authors, but is not readily apparent to the
+readers. Suppose for instance that part of a paper goes like this:
+
+…
+In Section 2, facts A, B, and C are derived, and then used to deduce D.
+In Section 3, D is used to derive E.
+In Section 4, D, and another fact F, are used to derive G.
+In Section 5, E, G, and another fact H, are used to derive I.
+…
+
+A reader who is going through this paper one section at a time will try to keep A, B, C, and D all in
+mind after finishing Section 2, and moving on to later sections.  However, facts A, B, and C are never
+used again; they were instrumental to the argument because they allowed one to establish D, but once D 
+is established, A, B, and C can be safely forgotten. Note, though that the reader does not know this. 
+As a consequence, while reading Sections 3, 4, and 5, the reader has to set aside some of his or her 
+mental resources to retain some facts which are of no further use, thus obscuring the structure of the
+argument and making it more difficult to follow.
+
+Now one could address this by placing some remarks at the end of Section 2 along the lines of “Facts A,
+B, and C will not be used again in the rest of the paper”, or by devoting more thought to organising 
+and motivating the paper. These are all worthwhile things to do, but a much more elegant solution is
+simply to encapsulate D as a lemma, and to place A, B, C inside the proof of that lemma. 
+
+This conveys several useful structural cues to the reader: firstly, that D is likely to be an important 
+fact to use in later parts of the argument, and secondly, that A, B, and C are not needed elsewhere in 
+the paper and can be safely forgotten. This additional structure will be useful to all readers, but will
+be especially appreciated by those readers who are already expert in how to prove facts such as D, since
+they can then glance at the statement of the lemma, readily convince themselves that the lemma is plausible
+(possibly by using other tools than A, B, and C), and then quickly move on to the next part of the argument.
+One can also add some remarks “for the experts” after the proof of a lemma, discussing possible alternate
+proofs, refinements, special cases, connections to other lemmas in the literature, etc.
+
+We have seen how “folding” the argument into lemmas can reduce the complexity of that argument by
+“localising” certain facts in the argument. The same method can also be used to localise notation, e.g. some
+special-purpose notation used to prove D but is not used elsewhere in the paper. The design philosophy here 
+is similar to that of information hiding in software engineering. (Other relevant software engineering 
+philosophies for mathematical writing include structured programming and modularity.)
+
+Lemmas also provide a good opportunity to explicitly “recap” all the running hypotheses, assumptions, and
+notational conventions that have already been introduced in the argument, which can be invaluable to a
+reader who has misunderstood or forgotten about part of this implied context. (Sometimes, such a recap would
+be tediously long, in which case a sentence such as “Let the notation and assumptions be as above” may 
+suffice. When these situations occur, one might wish to formalise all the running assumptions by judiciously
+introducing some good notation.)
+
+In some cases, the conclusion of the lemma may only need a portion of these hypotheses; this might be worth 
+stating explicitly within the statement of the lemma, as it can clarify the nature of that lemma, and may 
+also make it more useful for future applications.
+
+One should write the statement of a lemma in a way that makes it easy to use, rather than easy to prove. 
+Thus, one should try to make the hypotheses of the lemma natural and easy to verify, and the conclusions
+of the lemma manifestly useful. Basically, the idea is to push as much of the details of the argument 
+into the lemma as one can, to make the rest of the argument as simple as possible. Also, it may end up 
+that you (or someone else) will eventually find a simpler proof of that lemma, thus reducing the net
+complexity of the paper markedly (cf. the object-oriented approach to software engineering).
+
+Folding the argument into lemmas also makes it easier to write a rapid prototype, as once one finalises 
+the statement of the lemma, one can defer the proof of the lemma until later.
+
+In summary, it’s almost always a good idea to have plenty of lemmas (and propositions and corollaries too,
+of course) in an argument; it makes the overall structure of the argument more apparent, it makes the 
+argument easier to follow, and can also provide some useful tools for future work in the area.
+```
+
+More on [avoiding premature optimization](https://terrytao.wordpress.com/advice-on-writing-papers/dont-overoptimise/) -- see also [the same in computer science](#premature-optimization) and [readability in writing](#readability):
+
+```markdown
+here is a danger in being too perfectionist, and in trying to make every part of a paper as “optimal” 
+as possible. After all the “easy” improvements have been made to a paper, one encounters a law of 
+diminishing returns, in which any further improvements either require large amounts of time and effort,
+or else require some tradeoffs in other qualities of the paper.
+
+For instance, suppose one has a serviceable lemma that suffices for the task of proving the main
+theorems of the paper at hand. One can then try to “optimise” this lemma by making the hypotheses weaker
+and the conclusion stronger, but this can come at the cost of lengthening the proof of the lemma, and 
+obscuring exactly how the lemma fits in with the rest of the paper. In the reverse direction, one could
+also “optimise” the same lemma by replacing it with a weaker (but easier to prove) statement which still
+barely suffices to prove the main theorem, but is now unsuitable for use in any later application. Thus
+one encounters a tradeoff when one tries to improve the lemma in one direction or another. (In this case,
+one resolution to this tradeoff is to have one formulation of the lemma stated and proved, and then add 
+a remark about the other formulation, i.e. state the strong version and remark that we only use a special
+case, or state the weak version and remark that stronger versions are possible.)
+
+Carefully optimising results and notations in the hope that this will help future researchers in the 
+field is a little risky; later authors may introduce new insights or new tools which render these 
+painstakingly optimised results obsolete. The only time when this is really profitable is when you already 
+know of a subsequent paper (perhaps a sequel to the one you are already writing) which will indeed rely
+heavily on these results and notations, or when the current paper is clearly going to be the definitive 
+paper in the subject for a long while.
+
+If you haven’t already written a rapid prototype for your paper, then optimising a lemma may in fact be a 
+complete waste of time, because you may find later on in the writing process that the lemma will need to
+be modified anyway to deal with an unforeseen glitch in the original argument, or to improve the overall 
+organisation of the paper.
+
+I have sometimes seen authors try to optimise the length of the paper at the expense of all other
+attributes, in the mistaken belief that brevity is equivalent to simplicity. While it can be that shorter
+papers are simpler than longer ones, this is generally only true if the shortness of the paper was
+achieved naturally rather than artificially. If brevity was attained by removing all examples, remarks,
+whitespace, motivation, and discussion, or by striking out “redundant” English phrases and relying purely
+on mathematical abbreviations (e.g. \forall instead of “For all”, etc.) and various ungrammatical
+contractions, then this is generally a poor tradeoff; somewhat ironically, a paper which has been 
+overcompressed may be viewed by readers as being more difficult to read than a longer, gentler, and more 
+leisurely treatment of the same material. (See also “Give appropriate amounts of detail.”)
+
+On the other hand, optimising the readability of the paper is always a good thing (except when it is at
+the expense of rigour or accuracy), and the effort put into doing so is appreciated by readers.
+```
+
+More on [Maximising the results-to-effort ratio](https://terrytao.wordpress.com/advice-on-writing-papers/maximising-the-results-to-effort-ratio/):
+
+```markdown
+As a professional courtesy, research papers in mathematics should be at a “local maximum” with respect
+to the results-to-effort ratio: any “cheap” consequences, generalisations, variants, illustrative
+counterexamples, etc. of one’s main results should be put into the paper if this can be done with only
+moderate effort on the author’s part.  If one is too lazy to do this, these consequences might not 
+appear in the literature for some time (as they are too close to your own paper to be separately
+publishable in their own right), and each reader may have to rederive them by himself or herself, which
+is a much less efficient process in the long run.
+
+Conversely, if a huge fraction of the paper is devoted to only a minor extension of the main results,
+one may consider removing that section, or replacing it by a sketch or even just a remark; it may be 
+that a subsequent paper is able to achieve that result with much less effort anyway.
+```
 
 <a name="#general-intelligence"></a>
 ## General intelligence
