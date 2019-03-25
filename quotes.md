@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 89,600*
+*[Word count](https://wordcounter.net/): 90,300*
 
 ## What is this?
 
@@ -2400,6 +2400,56 @@ of that bird in all the languages of the world, but when you're finished, you'll
 nothing whatever about the bird! You'll only know about humans in different places, and what they
 call the bird. So let's look at the bird and see what it's *doing* — that's what counts.” (I
 learned very early the difference between knowing the name of something and knowing something.)
+```
+
+Roger Zelazny puts it far more poetically in his novel *Lords of Light* in one of the most powerful passages I've ever read:
+
+```markdown
+Sam sat with his eyes closed for several minutes, then said softly:
+
+"I have many names, and none of them matter." He opened his eyes slightly then, but he did not 
+move his head. He looked upon nothing in particular.
+
+"Names are not important," he said. "To speak is to name names, but to speak is not important.
+
+"A thing happens once that has never happened before. Seeing it, a man looks on reality. He cannot
+tell others what he has seen. Others wish to know, however, so they question him saying, 'What is 
+it like, this thing you have seen?'
+
+"So he tries to tell them. Perhaps he has seen the very first fire in the world. He tells them, 
+'It is red, like a poppy, but through it dance other colors. It has no form, like water, flowing 
+everywhere. It is warm, like the sun of summer, only warmer. It exists for a time on a piece of wood,
+and then the wood is gone, as though it were eaten, leaving behind that which is black and can be 
+sifted like sand. When the wood is gone, it too is gone.'
+
+"Therefore, the hearers must think reality is like a poppy, like water, like the sun, like that which
+eats and excretes. They think it is like to anything that they are told it is like by the man who has 
+known it. But they have not looked upon fire. They cannot really *know* it. They can only know *of* it.
+
+"But fire comes again into the world, many times. More men look upon fire. After a time, fire is 
+as common as grass and clouds and the air they breathe. They see that, while it is like a poppy, 
+it is not a poppy, while it is like water, it is not water, while it is like the sun, it is not 
+the sun, and while it is like that which eats and passes wastes, it is not that which eats and
+passes wastes, but something different from each of these apart or all of these together. So they
+look upon this new thing and they make a new word to call it. They call it 'fire.'
+
+"If they come upon one who still has not seen it and they speak to him of fire, he does not know 
+what they mean. So they, in turn, fall back upon telling him what fire is like. As they do, they 
+know from their own experience that what they are telling him is not the truth, but only a part of it.
+They know that this man will never know reality from their words, though all the words in the world 
+are theirs to use. He must look upon the fire, smell of it, warm his hands by it, stare into its heart,
+or remain forever ignorant.
+
+"Therefore, 'fire' does not matter, 'earth' and 'air' and 'water' do not matter. 'I' do not matter.
+No word matters.
+
+"But man forgets reality and remembers words. The more words he remembers, the cleverer do his fellows
+esteem him. He looks upon the great transformations of the world, but he does not see them as they were
+seen when man looked upon reality for the first time. Their names come to his lips and he smiles as he 
+tastes them, thinking he knows them in the naming. The thing that has never happened before is still 
+happening. It is still a miracle. The great burning blossom squats, flowing, upon the limb of the world,
+excreting the ash of the world, and being none of these things I have named and at the same time 
+all of them, and *this* is reality—the Nameless.”
 ```
 
 Nielsen pushes back against this attitude insofar as it goes too far:
