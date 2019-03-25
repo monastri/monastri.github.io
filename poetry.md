@@ -1,19 +1,642 @@
+*[Word count](https://wordcounter.net/): 9,800*
+
 <a name="#overview"></a>
 
 ## Overview
 
 Poems and quotes listed in reverse order of inclusion below.
 
-1. [A sunset glimpse of deep time](#a-sunset-glimpse-of-deep-time), by Lee Billings
-2. [The Celestial Emporium of Benevolent Knowledge](#the-celestial-emporium-of-benevolent-knowledge), by Jorge Luis Borges
-2. [The Contract Drafting Em](#the-contract-drafting-em), by Zack Davis
-2. [Love](#love), by Simon Funk
-2. [Moloch](#moloch), by Allen Ginsberg
 2. [Aphyr](#aphyr) (Kyle Kingsbury)
    1. [Reversing the technical interview](#reversing-the-technical-interview), by zpojqwfe1wfhiunz
+1. [A sunset glimpse of deep time](#a-sunset-glimpse-of-deep-time), by Lee Billings
+2. [Dover Beach, fourth stanza](#dover-beach-fourth-stanza), by Matthew Arnold
+2. [Five English translations of Baudelaire’s L’Albatros](#Five-English-translations-of-Baudelaires-LAlbatros), by Charles Baudelaire
+2. [Ham radio](#ham-radio), by iceowl
 2. [High Flight](#high-flight), by John Gillespie Magee, Jr
+2. [I'm a genuine philanthropist](#Im-a-genuine-philanthropist), by Gilbert and Sullivan
+2. [In the beginning were the gametes](#in-the-beginning-were-the-gametes), by Peter Watts
+2. [Love](#love), by Simon Funk
+2. [Moloch](#moloch), by Allen Ginsberg
+2. [My Nietzschean Signature](#"My-Nietzschean-Signature), by atiguhya padma
+2. [Names do not matter](#Names-do-not-matter), by Roger Zelazny
 2. [Reflections on a Gift of Watermelon Pickle Received from a Friend Called Felicity](#reflections-on-a-gift-of-watermelon-pickle-received-from-a-friend-called-felicity), by John Tobias
-4. [In the beginning were the gametes](#in-the-beginning-were-the-gametes), by Peter Watts
+2. [The Celestial Emporium of Benevolent Knowledge](#the-celestial-emporium-of-benevolent-knowledge), by Jorge Luis Borges
+2. [The Contract Drafting Em](#the-contract-drafting-em), by Zack Davis
+2. [The hare and the tortoise](#The-hare-and-the-tortoise), by Winston Rowntree
+3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
+
+
+<a name="#Five-English-translations-of-Baudelaires-LAlbatros"></a>
+## Ham radio
+### by iceowl
+([overview](#overview))
+
+Oh [iceowl](http://everything2.com/user/iceowl), you beautiful, beautiful writer. [September 9, 2013](http://everything2.com/title/September+9,+2013?author_id=1269886#iceowl) is one of the most beautiful stories I’ve read in a long time. I could quote whole paragraphs, whole passages even.
+
+This is the ham radio quote that touched my very soul:
+
+```markdown
+I remember radio.
+
+I remember watching my uncle wrap magnet wire around an old oatmeal box and having him tell me 
+we'd tune with it, and then pressing the black bakelite headphone to my ear and in my own
+backyard, next to the tomato plants between the swimming pool and the fence that was a ground
+even though it was a fence: hearing a man speak in a British voice about things important to 
+people who lived beyond that thin line that separated water and sky beyond the sandy beach.
+
+I remember that radio was lightning: action at a distance -- that with it we'd connect with
+people who stood with feet bare in jungles we'd never see, upon sands we'd never touch, who knew
+summers during our winters and told of time that ran through days we'd yet to live, or just had.
+We hear English accented by mother tongues on continents alive to us only in books or grainy film.
+We'd bathe in that violation of time and space that limited our waking hours to bedtime and dinner
+time and the interminable school room clock whose hands slowed as they approached three. They 
+thrived while we slept. Needed umbrellas during our sunshine. Ate unnameable foods, and called 
+themselves things that sounded as if out of alien bibles. Because nobody we knew had ever been
+anywhere, or spoke anything, or knew anything other than our neighborhood where we all lived, and 
+English that we all spoke.
+```
+
+Loss:
+
+```markdown
+Radio was over when I met a friend at a professional convention and he asked me about it. Was I 
+active?
+
+Not only had I not been active since we'd last spoken years before and I didn't have an antenna 
+up for any band, anywhere.
+
+Worst of all, I couldn't remember my gear. I knew I had some. I could envision it in my mind, but
+for the life of me I couldn't remember the designator.
+
+"I haven't got out the old ICOM IC-1532 in a long time."
+
+"I'll bet. What the heck is that, anyway?"
+
+I looked at my shoes. They were still on my feet. Yes, they were. I said to him, while making 
+sure I didn't lose my shoes, "Can you believe I can't remember what type of HF rig I have?"
+
+"Come on. You have to come back. How can you stay away?"
+
+I wanted to tell him it was pretty easy. I yanked my iPhone out of my pocket. "I can play 
+Scrabble with people in Vietnam and Armenia at the same time..."
+
+"Oh, put that away. I'm sick of hearing things like that. I know what you're going through. I've
+seen it in a lot of guys. You get older. Life changes and technology grows. It's satellite TV and
+3D first-person video games. Sure. But radio is eternal. It's a fundamental law of physics. We 
+didn't create it, and we can't kill it. It called you. Just like the rest of us. And look, we 
+have all these cool digital modes. The gear is better than it's ever been. But that's not the
+reason to come back. Take a minute and think back. Don't you remember radio? Don't you remember 
+how it felt when you started?"
+
+"I was very young."
+
+"We all were. It starts when you're young. And what about our kids?"
+
+"They'd rather learn object oriented programming."
+
+"Because nobody's showing them that you can still send data around the world with a CW key, some
+wire, and a three-volt battery."
+
+"A lemon," I said. "You could do it QRP with a lemon and a rusted razor blade. But I think those
+days are over, my friend. For them. For us. We're just dead guys who don't realize it yet."
+
+"Oh, cut it out. You used to love CW. Come to field day. I'll put you in front of a CW station 
+for 10 minutes and you'll forget you ever said any of that."
+
+"Don't think so," I said. We shook hands. I never showed at ARRL Field day.
+```
+
+Revelation:
+
+```markdown
+"Why are you a ham?" I asked him.
+
+"I like radio," he said.
+
+"And why is that?" I said. And he shrugged, and the other guys shrugged and looked around as if 
+an answer was crawling around somewhere in the store.
+
+"You know, I went to Antarctica on a science expedition for the National Science Foundation," 
+I said. "I'd always wanted to go there. Ever since I remember. As a kid I read all the books about
+Shackleton and Scott and Mawson. In fact, the first short story I ever had published was in QST in
+the early 1990s and it was about the two things that I loved most in the world: ham radio, and 
+polar exploration. Well, ten years later I got a shot at going to Antarctica and the pole so I took
+it. And the first day I was in Antarctica was like I had stepped into a dream that I'd been having 
+most of my life.
+
+"Well, I went to one of the bars they have there at McMurdo station, and I sat down and ordered a 
+beer. And one of the guys who was there came up to me, recognizing that I was new, and introduced 
+himself. He said to me, 'ok, so why are you here?' and I told him about the project I was on. But
+he said, 'No. I mean, why are you HERE?'"
+
+I paused to see if any of them wanted to jump in with the answer, but they didn't. Eventually the
+counterman said, "So?"
+
+I said, "So I told him I didn't have a clue why I was there. Only that I had felt compelled to be
+there for my entire life. I don't know why. And when it came my time to go to Antarctica all the 
+pieces fell into place as if it were magic. And I was there. And you know what he told me? He said
+that everyone - all of them in that bar were there at that moment for the same reason. We all knew
+from the time we were kids that we just had to go to Antarctica and when it came time to go, the 
+fates turned their wheels and there we were."
+
+A couple guys nodded, if only to be friendly. And then I said, "It's the same with radio. You're 
+here because, who knows why. Because you had to do it. From the time you were a child you wondered
+about it and now, here you are. Radio called you. Like it called everyone who comes in here. 
+Like it called me."
+
+"I like your thinking," said the counterman, finalizing the sale.
+
+And now I knew what my wife meant. A pianist is still a pianist even if he is without a piano, and 
+a radioman is still one without a radio. But the calling is not erased by force of will or lack of 
+material to complete the dream. And the draw never stops. The voice within does not stop because it
+is difficult or inconvenient to follow.
+```
+
+<a name="#Five-English-translations-of-Baudelaires-LAlbatros"></a>
+## Five English translations of Baudelaire’s L’Albatros
+### by Charles Baudelaire
+([overview](#overview))
+
+The original poem by Charles Baudelaire:
+
+```markdown
+   L'Albatros
+
+Souvent, pour s'amuser, les hommes d'équipage
+Prennent des albatros, vastes oiseaux des mers,
+Qui suivent, indolents compagnons de voyage,
+Le navire glissant sur les gouffres amers.
+
+À peine les ont-ils déposés sur les planches,
+Que ces rois de l'azur, maladroits et honteux,
+Laissent piteusement leurs grandes ailes blanches
+Comme des avirons traîner à côté d'eux.
+
+Ce voyageur ailé, comme il est gauche et veule!
+Lui, naguère si beau, qu'il est comique et laid!
+L'un agace son bec avec un brûle-gueule,
+L'autre mime, en boitant, l'infirme qui volait!
+
+Le Poète est semblable au prince des nuées
+Qui hante la tempête et se rit de l'archer;
+Exilé sur le sol au milieu des huées,
+Ses ailes de géant l'empêchent de marcher.
+```
+
+Five English translations follow. Probably my favorite among them comes from Jacques LeClercq:
+
+```markdown
+   Albatrosses
+
+Often our sailors, for an hour of fun,
+Catch albatrosses on the after breeze
+Through which these trail the ship from sun to sun
+As it skims down the deep and briny seas.
+
+Scarce have these birds been set upon the poop,
+Than, awkward now, they, the sky's emperors,
+Piteous and shamed, let their great white wings droop
+Beside them like a pair of idle oars.
+
+These wingèd voyagers, how gauche their gait!
+Once noble, now how ludicrous to view!
+One sailor bums them with his pipe, his mate
+Limps, mimicking these cripples who once flew.
+
+Poets are like these lords of sky and cloud,
+Who ride the storm and mock the bow's taut strings,
+Exiled on earth amid a jeering crowd,
+Prisoned and palsied by their giant wings.
+```
+
+George Dillon’s translation is probably my second-favorite:
+
+```markdown
+   The Albatross
+
+Sometimes, to entertain themselves, the men of the crew 
+Lure upon deck an unlucky albatross, one of those vast 
+Birds of the sea that follow unwearied the voyage through, 
+Flying in slow and elegant circles above the mast.
+
+No sooner have they disentangled him from their nets 
+Than this aerial colossus, shorn of his pride, 
+Goes hobbling pitiably across the planks and lets 
+His great wings hang like heavy, useless oars at his side.
+
+How droll is the poor floundering creature, how limp and weak — 
+He, but a moment past so lordly, flying in state! 
+They tease him: One of them tries to stick a pipe in his beak; 
+Another mimics with laughter his odd lurching gait.
+
+The Poet is like that wild inheritor of the cloud, 
+A rider of storms, above the range of arrows and slings; 
+Exiled on earth, at bay amid the jeering crowd, 
+He cannot walk for his unmanageable wings.
+```
+
+Roy Campbell’s is pretty good too:
+
+```markdown
+   The Albatross
+
+Sometimes for sport the men of loafing crews 
+Snare the great albatrosses of the deep, 
+The indolent companions of their cruise 
+As through the bitter vastitudes they sweep.
+
+Scarce have they fished aboard these airy kings 
+When helpless on such unaccustomed floors, 
+They piteously droop their huge white wings 
+And trail them at their sides like drifting oars.
+
+How comical, how ugly, and how meek 
+Appears this soarer of celestial snows! 
+One, with his pipe, teases the golden beak, 
+One, limping, mocks the cripple as he goes.
+
+The Poet, like this monarch of the clouds, 
+Despising archers, rides the storm elate. 
+But, stranded on the earth to jeering crowds, 
+The great wings of the giant baulk his gait.
+```
+
+The final two don’t rhyme. Here’s William Aggeler:
+
+```markdown
+   The Albatross
+
+Often, to amuse themselves, the men of a crew 
+Catch albatrosses, those vast sea birds 
+That indolently follow a ship 
+As it glides over the deep, briny sea.
+
+Scarcely have they placed them on the deck 
+Than these kings of the sky, clumsy, ashamed, 
+Pathetically let their great white wings 
+Drag beside them like oars.
+
+That winged voyager, how weak and gauche he is, 
+So beautiful before, now comic and ugly! 
+One man worries his beak with a stubby clay pipe; 
+Another limps, mimics the cripple who once flew!
+
+The poet resembles this prince of cloud and sky 
+Who frequents the tempest and laughs at the bowman; 
+When exiled on the earth, the butt of hoots and jeers, 
+His giant wings prevent him from walking.
+```
+
+And Geoffrey Wagner, whose translation is my friend’s favorite:
+
+```markdown
+   The Albatross
+
+Often, to amuse themselves, the men of the crew 
+Catch those great birds of the seas, the albatrosses, 
+lazy companions of the voyage, who follow 
+The ship that slips through bitter gulfs.
+
+Hardly have they put them on the deck, 
+Than these kings of the skies, awkward and ashamed, 
+Piteously let their great white wings 
+Draggle like oars beside them.
+
+This winged traveler, how weak he becomes and slack! 
+He who of late was so beautiful, how comical and ugly! 
+Someone teases his beak with a branding iron, 
+Another mimics, limping, the crippled flyer!
+
+The Poet is like the prince of the clouds, 
+Haunting the tempest and laughing at the archer; 
+Exiled on earth amongst the shouting people, 
+His giant's wings hinder him from walking.
+```
+
+<a name="#The-hare-and-the-tortoise"></a>
+## The hare and the tortoise
+### by Winston Rowntree
+([overview](#overview))
+
+From Rowntree's *Non-Bullshit Fables*:
+
+```markdown
+There once was a hare who mocked a passing tortoise for being slow. The erudite tortoise
+responded by challenging the hare to a race.
+
+Built for speed, and with his pride on the line, the hare easily won - I mean, it wasn't 
+even close - and resumed his mocking anew.
+```
+
+<a name="#Names-do-not-matter"></a>
+## Names do not matter
+### by Roger Zelazny
+([overview](#overview))
+
+This passage from Roger Zelazny’s *Lord of Light* rather humorously happens to be the top-voted answer to [How do you describe your mathematical research in layman's terms?](http://math.stackexchange.com/questions/683891/how-do-you-describe-your-mathematical-research-in-laymans-terms/684135#684135) on MathOverflow. When I first read it I felt chills running up my back; rarely do words exert such power upon my being.
+
+```markdown
+Sam sat with his eyes closed for several minutes, then said softly:
+
+"I have many names, and none of them matter." He opened his eyes slightly then, but he did not 
+move his head. He looked upon nothing in particular.
+
+"Names are not important," he said. "To speak is to name names, but to speak is not important.
+
+"A thing happens once that has never happened before. Seeing it, a man looks on reality. He cannot
+tell others what he has seen. Others wish to know, however, so they question him saying, 'What is 
+it like, this thing you have seen?'
+
+"So he tries to tell them. Perhaps he has seen the very first fire in the world. He tells them, 
+'It is red, like a poppy, but through it dance other colors. It has no form, like water, flowing 
+everywhere. It is warm, like the sun of summer, only warmer. It exists for a time on a piece of wood,
+and then the wood is gone, as though it were eaten, leaving behind that which is black and can be 
+sifted like sand. When the wood is gone, it too is gone.'
+
+"Therefore, the hearers must think reality is like a poppy, like water, like the sun, like that which
+eats and excretes. They think it is like to anything that they are told it is like by the man who has 
+known it. But they have not looked upon fire. They cannot really *know* it. They can only know *of* it.
+
+"But fire comes again into the world, many times. More men look upon fire. After a time, fire is 
+as common as grass and clouds and the air they breathe. They see that, while it is like a poppy, 
+it is not a poppy, while it is like water, it is not water, while it is like the sun, it is not 
+the sun, and while it is like that which eats and passes wastes, it is not that which eats and
+passes wastes, but something different from each of these apart or all of these together. So they
+look upon this new thing and they make a new word to call it. They call it 'fire.'
+
+"If they come upon one who still has not seen it and they speak to him of fire, he does not know 
+what they mean. So they, in turn, fall back upon telling him what fire is like. As they do, they 
+know from their own experience that what they are telling him is not the truth, but only a part of it.
+They know that this man will never know reality from their words, though all the words in the world 
+are theirs to use. He must look upon the fire, smell of it, warm his hands by it, stare into its heart,
+or remain forever ignorant.
+
+"Therefore, 'fire' does not matter, 'earth' and 'air' and 'water' do not matter. 'I' do not matter.
+No word matters.
+
+"But man forgets reality and remembers words. The more words he remembers, the cleverer do his fellows
+esteem him. He looks upon the great transformations of the world, but he does not see them as they were
+seen when man looked upon reality for the first time. Their names come to his lips and he smiles as he 
+tastes them, thinking he knows them in the naming. The thing that has never happened before is still 
+happening. It is still a miracle. The great burning blossom squats, flowing, upon the limb of the world,
+excreting the ash of the world, and being none of these things I have named and at the same time 
+all of them, and *this* is reality—the Nameless.”
+```
+
+Counterpoint: Michael Nielsen's argument that [names matter when learning things](https://github.com/monastri/monastri.github.io/blob/master/quotes.md#names-matter). 
+
+<a name="#Im-a-genuine-philanthropist"></a>
+## I'm a genuine philanthropist
+### by Gilbert and Sullivan
+([overview](#overview))
+
+From Gilbert and Sullivan's [Princess Ida](https://math.boisestate.edu/gas/princess_ida/webop/pi_06.html): 
+
+```markdown
+If you give me your attention, I will tell you what I am: 
+I'm a genuine philanthropist — all other kinds are sham. 
+Each little fault of temper and each social defect 
+In my erring fellow-creatures, I endeavour to correct. 
+To all their little weaknesses I open people's eyes; 
+And little plans to snub the self-sufficient I devise; 
+I love my fellow creatures — I do all the good I can —
+Yet ev'rybody says I'm such a disagreeable man! 
+And I can't think why!
+
+To compliments inflated I've a withering reply; 
+And vanity I always do my best to mortify; 
+A charitable action I can skillfully dissect; 
+And interested motives I'm delighted to detect; 
+I know ev'rybody's income and what ev'rybody earns; 
+And I carefully compare it with the income-tax returns; 
+But to benefit humanity however much I plan, 
+Yet ev'rybody says I'm such a disagreeable man! 
+And I can't think why!
+
+I'm sure I'm no ascetic; I'm as pleasant as can be; 
+You'll always find me ready with a crushing repartee, 
+I've an irritating chuckle, I've a celebrated sneer, 
+I've an entertaining snigger, I've a fascinating leer. 
+To ev'rybody's prejudice I know a thing or two; 
+I can tell a woman's age in half a minute — and I do. 
+But although I try to make myself as pleasant as I can, 
+Yet ev'rybody says I'm such a disagreeable man! 
+And I can't think why!
+```
+
+<a name="#My-Nietzschean-Signature"></a>
+## My Nietzschean Signature
+### by atiguhya padma
+([overview](#overview))
+
+Original [here](http://www.online-literature.com/forums/showthread.php?3569-My-Nietzschean-Signature). Most memorable to me for the line "there are no beautiful surfaces/without a terrible depth".
+
+```markdown
+Someone looked out of their window
+And said to me: the world looks
+So beautiful, that I praise God
+Each day for this wonderful life,
+This landscape of happy creatures
+And rolling fields of growth and form.
+He obviously had not read Tennyson
+And he wasn’t an ecologist,
+For he had no firm idea of how
+Ecosystems sustain themselves.
+
+There are no beautiful surfaces
+Without a terrible depth.
+
+You said you loved me.
+And I wondered what that could mean.
+
+Beneath this pure beautiful skin
+Lie the channels of life
+That are busy with the rush
+Of fluids.
+
+My blood flowing through my veins
+Like an Underground train.
+The pus, the urine, the semen, the bile,
+The phlegm, the lachrymose fluid 
+That pulses and dances and moves
+Through the bodyscape of my life.
+The rivulets, the ravines, the canals
+And the streams and the pathways
+That carry it all in circumnavigation.
+
+There are no beautiful surfaces
+Without a terrible depth.
+
+When I was a child
+I cut deeply into my finger
+And pulled back the flesh
+To reveal something beyond
+The bloody face of incision
+A whiteness, a solidness beneath
+That upheld the facade.
+
+And then when I ran through
+Those French windows
+And raised my arm
+At the last moment
+To deflect the blow
+Of glacier-like glass
+That carved through my youthful arm-skin
+Instead of my adolescent face.
+
+I walked in a daze
+Back to my room
+And lay on my bed
+Fascinated with this flap
+That felt like some discarded seaweed
+Useless and static.
+There was little blood, just the fatness
+Of meat and muscle.
+Even the pain seemed absent
+Without any kind of leave.
+
+There are no beautiful surfaces
+Without a terrible depth.
+
+And do you love all this, I wonder?
+The bacteria in the ecosystem
+Of my gut, my anus?
+
+I once lay down
+In the middle of an evening
+All alone in my room,
+And imagined my body dead.
+The dissolution of substance
+The lubricants of life
+Desiccating, like moist soil
+Drying out under a relentless sun
+And then I imagined the worms
+Feasting on my flesh
+Helping it decay
+Providing the earth with some nutrition.
+And at first I was scared,
+But then, as a child,
+I would read scary stories
+Until they lost their effect
+And so I continued my meditation
+Until the feeling was one of detachment.
+
+There are no beautiful surfaces
+Without a terrible depth.
+
+And do you love all this?
+All this that is my body
+And all this that will be my destiny?
+
+Have you ever imagined?
+
+We carry our thoughts around
+In a goldfish bowl
+Like a cauliflower
+Or a mega-walnut
+A damp sponge in a layer of fluidity.
+We carry this around
+Like an astronaut’s space helmet.
+And this too will dry out
+And fade away.
+And when you say you love me,
+Do you mean, what you see me do?
+What you hear me say?
+And the history that you have
+Constructed of me in your brain?
+
+There are no beautiful surfaces
+Without a terrible depth.
+
+Maybe you meant
+What I meant when I said
+I loved you.
+
+Maybe we should never excavate
+Maybe we are not archaeologists.
+Maybe there is beauty in these terrible depths.
+```
+
+<a name="#toast-for-unsung-heroes"></a>
+## Toast for Unsung Heroes
+### by Leslie Fish
+([overview](#overview))
+
+From the original [here](http://www.ovff.org/pegasus/songs/toast-for-unknown-heroes.html), celebrating the people behind the scenes that made the Apollo program possible:
+
+```markdown
+chorus tune: "Step by Step," UMW
+verse tune: "Bonnie Ship the Diamond"
+
+A man is walking on the moon with his eyes turned up toward space
+And the bright blue world that watches him reflected on his face.
+The whole world sees the hero there and the module crew also.
+But few can see the guiding team that guards him from below.
+
+   Chorus: 
+   Step by step the longest march, can be won, can be won.
+   Many stones can form an arch, singly none, singly none.
+   And together what we will can be accomplished still,
+   Many drops can turn a mill, singly none, singly none.
+
+Here's a health to the man who walked the moon, and the module crew above, 
+And the team that watches from the sky with worry, joy, and love.
+To all who blazed the sky-trail come raise your glasses 'round;
+And a health to the unknown heroes, too, who never left the ground.
+
+Here's a health to the ship's designers, and the welders of her seams,
+And all who man the radar-scan to watch our dawning dreams.
+For all the unknown heroes, sing out to every shore:
+"What makes one step a giant leap is all the steps before!"
+```
+
+<a name="#dover-beach-fourth-stanza"></a>
+## Dover Beach, fourth stanza
+### by Matthew Arnold
+([overview](#overview))
+
+I first read (part of) Matthew Arnold’s “Dover Beach” poem at sixteen, which seems a lifetime and a half ago now, in the inside cover of a hand-me-down fantasy novel which I read cover to cover in one breathless night in boarding school, but whose title—indeed, everything about it, save the poem and a mental image of unruly horses in a gloomy stable at dawn which mightn’t be remembrance so much as confabulation—I’ve completely forgotten. “Dover Beach” has lodged itself at the back of my mind ever since, though I’m not quite sure why.
+
+Here it is, the fourth stanza in particular:
+
+```markdown
+The Sea of Faith
+Was once, too, at the full, and round earth's shore
+Lay like the folds of a bright girdle furl'd.
+But now I only hear
+Its melancholy, long, withdrawing roar,
+Retreating, to the breath
+Of the night-wind, down the vast edges drear
+And naked shingles of the world.
+```
+
+When I posted this poem on my blog [many years ago](https://mosstuff.quora.com/dover-beach-fourth-stanza), John Thiesmeyer dropped this beautiful comment:
+
+```markdown
+Love the poem, made even more memorable for me because I’ve been on Dover Beach.
+
+The “melancholy, long, withdrawing roar” is caused by the beach’s unusual composition. It is at
+the foot of the famous White Cliffs of Dover on the English Channel. The cliffs are limestone,
+made of the shells of tiny organisms that died and sank to the ocean floor over millions of years.
+During that process, periodic nearby volcanic explosions threw into the air small blobs of molten
+lava, which hardened and sank to form part of the growing seabed.
+
+When you walk along a path up the steep cliffside, you can see not only the white, friable 
+limestone but also the layers, each several inches thick, that include volcanic matter in the
+form of very hard flints from the long-ago explosions.
+
+Much later, when the English Channel opened—I don’t remember just how or why—the local limestone
+washed or dissolved back into the ocean, but the very hard flints didn’t. Many billions of them 
+make up Dover Beach itself. They’ve been shaped, by friction and collision in the waves, into
+round stones, larger than pebbles, that endlessly click against each other as the tide and waves
+move in and out. Not a comfortable place to walk barefoot.
+
+The endless clicking of the flint stones makes the unusual, perhaps unique, sound that Matthew 
+Arnold characterized as a “roar.” It is literally so, withdrawing as the tide goes out along the
+beach. It isn’t “melancholy” in itself; that depends on the mood of the listener, so we know what
+Arnold’s mood was as he listened. Mine was exalted as, standing on Dover Beach, I grasped the
+reality behind Arnold’s words. The memory still chokes me up a little
+```
 
 
 <a name="#the-contract-drafting-em"></a>
