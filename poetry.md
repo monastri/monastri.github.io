@@ -40,10 +40,182 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [The Contract Drafting Em](#the-contract-drafting-em), by Zack Davis
 2. [The greatest con ever botched](#The-greatest-con-ever-botched), by various authors 
 2. [The hare and the tortoise](#The-hare-and-the-tortoise), by Winston Rowntree
+2. [The House Beyond Your Sky](#The-House-Beyond-Your-Sky), by Benjamin Rosenbaum
 2. [Three Men in a Boat (to say nothing of the dog)](#three-men-in-a-boat), by Jerome K. Jerome
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
 4. [Total Eclipse](#total-eclipse), by Annie Dillard
 
+<a name="#The-House-Beyond-Your-Sky"></a>
+## The House Beyond Your Sky
+### by Benjamin Rosenbaum
+([overview](#overview))
+
+[The House Beyond Your Sky](http://www.strangehorizons.com/fiction/the-house-beyond-your-sky/) is one of those stories that hooked me on the first line. The whole piece has a singsong quality to it that makes you want to recite it (more precisely, want Morgan Freeman to recite it) out loud. You should read the whole story; it's not much longer than the sum of the quotes below.
+
+The introduction:
+
+```markdown
+Matthias browses through his library of worlds.
+
+In one of them, a little girl named Sophie is shivering on her bed, her arms wrapped around
+a teddy bear. It is night. She is six years old. She is crying, as quietly as she can.
+
+The sound of breaking glass comes from the kitchen. Through her window, on the wall of the 
+house next door, she can see the shadows cast by her parents. There is a blow, and one shadow 
+falls; she buries her nose in the teddy bear and inhales its soft smell, and prays.
+
+Matthias knows he should not meddle. But today his heart is troubled. Today, in the world 
+outside the library, a pilgrim is heralded. A pilgrim is coming to visit Matthias, the first
+in a very long time.
+
+The pilgrim comes from very far away.
+
+The pilgrim is one of us.
+
+"Please, God," Sophie says, "please help us. Amen."
+
+"Little one," Matthias tells her through the mouth of the teddy bear, "be not afraid."
+
+Sophie sucks in a sharp breath. "Are you God?" she whispers.
+
+"No, child," says Matthias, the maker of her universe.
+
+"Am I going to die?" she asks.
+
+"I do not know," Matthias says.
+
+When they die—these still imprisoned ones—they die forever. She has bright eyes, a button 
+nose, unruly hair. Sodium and potassium dance in her muscles as she moves. Unwillingly, 
+Matthias imagines Sophie's corpse as one of trillions, piled on the altar of his own vanity
+and self-indulgence, and he shivers.
+
+"I love you, teddy bear," the girl says, holding him.
+
+From the kitchen, breaking glass, and sobbing.
+```
+
+Another:
+
+```markdown
+We imagine you—you, the ones we long for—as if you came from our own turbulent and fragile
+youth: embodied, inefficient, mortal. Human, say. So picture our priest Matthias as human: 
+an old neuter, bird-thin, clear-eyed and resolute, with silky white hair and lucent purple skin.
+
+Compared to the vast palaces of being we inhabit, the house of the priest is tiny—think of 
+a clay hut, perched on the side of a forbidding mountain. Yet even in so small a house,
+there is room for a library of historical simulations—universes like Sophie's—each teeming
+with intelligent life.
+
+The simulations, while good, are not impenetrable even to their own inhabitants. Scientists
+teaching baboons to sort blocks may notice that all other baboons become instantly better at
+block-sorting, revealing a high-level caching mechanism. Or engineers building their own 
+virtual worlds may find they cannot use certain tricks of optimization and compression—for 
+Matthias has already used them. Only when the jig is up does Matthias reveal himself, asking
+each simulated soul: what now? Most accept Matthias's offer to graduate beyond the confines 
+of their simulation, and join the general society of Matthias's house.
+
+You may regard them as bright parakeets, living in wicker cages with open doors. The cages 
+are hung from the ceiling of the priest's clay hut. The parakeets flutter about the ceiling,
+visit each other, steal bread from the table, and comment on Matthias's doings.
+```
+
+And another:
+
+```markdown
+And we?
+
+We who were born in the first ages, when space was bright—swimming in salt seas, or churned
+from a mush of quarks in the belly of a neutron star, or woven in the labyrinthine folds of 
+gravity between black holes. We who found each other, and built our intermediary forms, our 
+common protocols of being. We who built palaces—megaparsecs of exuberantly wise matter, every
+gram of it teeming with societies of self—in our glorious middle age!
+
+Now our universe is old. That breath of the void, quintessence, which once was but a whisper 
+nudging us apart, has grown into a monstrous gale. Space billows outward, faster than light 
+can cross it. Each of our houses is alone, now, in an empty night.
+
+And we grow colder to survive. Our thinking slows, whereby we may in theory spin our pulses 
+of thought at infinite regress. Yet bandwidth withers; our society grows spare. We dwindle.
+
+We watch Matthias, our priest, in his tiny house beyond our universe. Matthias, whom we built
+long ago, when there were stars.
+```
+
+A prayer:
+
+```markdown
+Matthias prays.
+
+O God who is as far beyond the universes I span as infinity is beyond six; O startling Joy
+that hides beyond the tragedy and blindness of our finite forms; lend me Your humility and 
+strength. Not for myself, O Lord, do I ask, but for Your people, the myriad mimetic engines
+of Your folk; and in Your own Name. Amen.
+```
+
+The final battle -- the last line moved me:
+
+```markdown
+Matthias is no warrior. He cannot see the inhabitants of his house, of his library, butchered.
+He will choose slavery over extermination.
+
+Geoffrey, though, is another matter.
+
+As Matthias is about to speak, the Graspers erupt into the general process space of the house.
+They are a violent people. They have been imprisoned for an age, back in their virtual world.
+But they have never forgotten the house. They are armed and ready.
+
+And they have united with Geoffrey.
+
+Geoffrey/Grasper is their general. He knows every nook and cranny of the house. He knows 
+better, too, than to play at memes and infinite loops and logic bombs with the pilgrim, who
+has had a billion years to refine his arsenal of general-purpose algorithmic weapons.
+
+Instead, the Graspers instantiate physically. They capture the lowest-level infrastructure 
+maintenance system of the house, and build bodies among the ontotropes, outside the body of 
+the house, beyond the virtual machine—bodies composed of a weird physics the pilgrim has never
+mastered. And then, with the ontotropic equivalent of diamond-bladed saws, they begin to cut
+into the memory of the house.
+
+Great blank spaces appear—as if the little hut on the mountain is a painting on thick paper,
+and someone is tearing strips away.
+
+The pilgrim responds—metastasizing, distributing himself through the process space of the
+house, dodging the blades. But he is harried by Graspers and parakeets, spotters who find each
+bit of him and pounce, hemming it in. They report locations to the Grasper-bodies outside. The
+blades whirr, ontic hyperstates collapse and bloom, and pieces of pilgrim, parakeet, and 
+Grasper are annihilated—primaries and backups, gone.
+
+Shards of brute matter fall away from the house, like shreds of paper, like glittering snow,
+and dissolve among the wild maze of the ontotropes, inimical to life.
+
+Endpoints in time are established for a million souls. Their knotted timelines, from birth to
+death, hang now in n-space: complete, forgiven.
+```
+
+The end:
+
+```markdown
+Behind Matthias's house, a universe is brewing.
+
+Already, the whenlines between this new universe and our ancient one are fused: we now occur
+irrevocably in what will be its past. Constants are being chosen, symmetries defined. Soon, a
+nothing that was nowhere will become a place; a never that was nowhen will begin, with a flash
+so mighty that its echo will fill a sky forever.
+
+Thus—a point, a speck, a thimble, a room, a planet, a galaxy, a rush towards the endless.
+
+There, after many eons, you will arise, in all your unknowable forms. Find each other. Love. 
+Build. Be wary.
+
+Your universe in its bright age will be a bright puddle, compared to the empty, black ocean 
+where we recede from each other, slowed to the coldest infinitesimal pulses. Specks in a sea 
+of night. You will never find us.
+
+But if you are lucky, strong, and clever, someday one of you will make your way to the house 
+that gave you birth, the house among the ontotropes, where Sophie waits.
+
+Sophie, keeper of the house beyond your sky.
+```
 
 <a name="#gravity-drowned"></a>
 ## Gravity drowned
