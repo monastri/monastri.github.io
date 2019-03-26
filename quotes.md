@@ -63,15 +63,10 @@ I've sorted the quotes below into the following categories. This is a provisiona
    3. [The absurdity heuristic doesn't work very well](#absurdity-heuristic)
 2. [Feelings](#feelings)
    1. [Love](#love)
-2. [Writing](#fiction-and-writing)
-   1. [Writing advice](#writing-advice)
-      1. [Nonfiction](#nonfiction), e.g. microhumor
-         1. [The art of plain talk](#the-art-of-plain-talk)
-         2. [Readability](#readability)
-      2. [Fiction](#fiction)
-         1. [Show, don't tell -- or not](#show-dont-tell)
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
+2. [Great trails](#great-trails)
+   1. [Tuttle Creek to Mt Langley](#tuttle-creek-to-mt-langley) (7,100' in 4.5 mi to 14er)
 2. [Math](#math)
    1. [Advice](#math-advice)
       1. [Asking the right question](#asking-the-right-question)
@@ -126,6 +121,13 @@ I've sorted the quotes below into the following categories. This is a provisiona
    1. [Errors vs bugs](#errors-vs-bugs)
    2. [Important findings on learning](#important-findings-on-learning), ft. 25 principles by U of Missouri
    2. [Polymathy, or being a generalist](#polymathy)
+2. [Writing](#fiction-and-writing)
+   1. [Writing advice](#writing-advice)
+      1. [Nonfiction](#nonfiction), e.g. microhumor
+         1. [The art of plain talk](#the-art-of-plain-talk)
+         2. [Readability](#readability)
+      2. [Fiction](#fiction)
+         1. [Show, don't tell -- or not](#show-dont-tell)
 2. [Miscellaneous](#miscellaneous)
 
 <a name="#Amazing-people"></a>
