@@ -9,6 +9,9 @@ Poems and quotes listed in reverse order of inclusion below.
 1. [A new kind of review](#a-new-kind-of-review), by 'a reader'
 2. [Aphyr](#aphyr) (Kyle Kingsbury)
 2. [A sunset glimpse of deep time](#a-sunset-glimpse-of-deep-time), by Lee Billings
+2. Benjamin Rosenbaum
+   1. [The House Beyond Your Sky](#The-House-Beyond-Your-Sky)
+   2. [Elsewhere](#elsewhere)
 2. [Bistromathic Drive](#Bistromathic-Drive), by Douglas Adams
 2. [Don't become a well-rounded person](#dont-become-a-well-rounded-person), by Bruce Sterling
 2. [Dover Beach, fourth stanza](#dover-beach-fourth-stanza), by Matthew Arnold
@@ -40,10 +43,76 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [The Contract Drafting Em](#the-contract-drafting-em), by Zack Davis
 2. [The greatest con ever botched](#The-greatest-con-ever-botched), by various authors 
 2. [The hare and the tortoise](#The-hare-and-the-tortoise), by Winston Rowntree
-2. [The House Beyond Your Sky](#The-House-Beyond-Your-Sky), by Benjamin Rosenbaum
 2. [Three Men in a Boat (to say nothing of the dog)](#three-men-in-a-boat), by Jerome K. Jerome
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
 4. [Total Eclipse](#total-eclipse), by Annie Dillard
+
+<a name="#Elsewhere"></a>
+## Elsewhere
+### by Benjamin Rosenbaum
+([overview](#overview))
+
+[Elsewhere](http://strangehorizons.com/fiction/elsewhere/) was just curiously *different* from anything else I've read. For one thing, the similes are as original as they come, and richly sensory. It's less than a thousand words, so you should just read the whole thing. 
+
+One:
+
+```markdown
+There's an angle, a_q, which is like breakfast in a muddy room, like the weight of the morning:
+pale-gold as butter and heavy as doubt.
+
+It lies between the angle a_p (sharp and rueful as sand under your bottom lip) and the angle a_r
+(stern and scouring as winds of incandescent plasma slashing through your fringe, as you make 
+your way through the cloud-vaults of some middle heliosphere).
+
+Let's call our protagonist Not Very—though a more accurate translation of en's actual name would
+be any linear function mapping the set of all sets containing algorithmically computable 
+functions onto the set of all sets containing no such functions.
+```
+
+Two:
+
+```markdown
+Not Very wandered among static images of Unlike Themselves' history, until en found the images
+in which Unlike Themselves was wandering among images of Not Very's now. That's how they beat 
+the time-skew problem: Not Very would express sentiments and opinions aloud, then shuffle through
+the images to find those which contained (and had always already contained) Unlike Themselves' 
+responses.
+
+Ontology still divided them. This "counting"—apparently a kind of measuring related to sets and 
+entities—seemed terribly important to Unlike Themselves. Not Very's world, in turn, was richer 
+in modality: Not Very had Coulds, and Woulds, and even Shoulds; en could be mournful or giddy 
+over hypotheticals. For Unlike Themselves, there was only Is.
+```
+
+Three:
+
+```markdown
+"Yes," said Unlike Themselves. "But here is something for you. You have infinity, yes?"
+
+Not Very nodded, suppressing a twinge of jealousy. Not Very's universe was physically finite, 
+so en had only mathematical infinity—it was one of the Coulds. It was as close as Not Very came
+to counting: none, Self, Other, some, infinity. But Unlike Themselves' universe had real infinity:
+its freedom, its terrifying oceanic release.
+
+There was no definite measure of size where Not Very was; no finite "biggers" and "smallers." 
+Certainly Not Very's world had no endpoint; certainly it was contiguous; certainly Not Very had 
+never fallen into some pothole of unbeing where world was lacking. Finity made little everyday 
+difference for Not Very. But still: Not Very's time and space were bounded, their countlessness 
+a symptom of poverty, not abundance.
+```
+
+More similes:
+
+```markdown
+Compared to the infinite, the finite is precisely nothing: were the first universe subtracted from
+the second, it would leave it utterly intact. Not Very felt an echo of that incessant outward 
+pressure within enself, a longing acute and ghostly as neutrinos slicing through a moon.
+
+...
+
+a_s was approaching, an angle drowsy and thick as a pattering rain of hydrogen nuclei falling onto
+the outer surface of a red and dying galaxy.
+```
 
 <a name="#The-House-Beyond-Your-Sky"></a>
 ## The House Beyond Your Sky
