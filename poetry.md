@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 26,800*
+*[Word count](https://wordcounter.net/): 28,500*
 
 <a name="#overview"></a>
 
@@ -17,7 +17,7 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [Dover Beach, fourth stanza](#dover-beach-fourth-stanza), by Matthew Arnold
 2. [Five English translations of Baudelaire’s L’Albatros](#Five-English-translations-of-Baudelaires-LAlbatros), by Charles Baudelaire
 2. [Genesis I, alliterative version](#), by Doug (and computer program)
-2. [GPT-2 samples](#gpt2-samples), by lewisandquark
+2. [GPT-2 samples](#gpt-2-samples), by lewisandquark
 2. [Gravity drowned](#gravity-drowned), by TALE-SPIN (an AI)
 2. [Ham radio](#ham-radio), by iceowl
 2. [High Flight](#high-flight), by John Gillespie Magee, Jr
@@ -36,7 +36,7 @@ Poems and quotes listed in reverse order of inclusion below.
    3. [Doubly-true anagram](#Doubly-true-anagram)
    4. [The Wiser Writer and the Inane Reader](#The-Wiser-Writer-and-the-Inane-Reader), alphametics
 2. [Moloch](#moloch), by Allen Ginsberg
-   1. [GPT-2's Moloch](#gpt2s-moloch), by OpenAI's [language model GPT-2](https://openai.com/blog/better-language-models/)
+   1. [GPT-2's Moloch](#gpt-2s-moloch), by OpenAI's [language model GPT-2](https://openai.com/blog/better-language-models/)
 2. [Mystical interpretation of a car](#Mystical-interpretation-of-a-car), by Umberto Eco
 2. [My Nietzschean Signature](#"My-Nietzschean-Signature), by atiguhya padma
 2. [Names do not matter](#Names-do-not-matter), by Roger Zelazny
@@ -50,14 +50,91 @@ Poems and quotes listed in reverse order of inclusion below.
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
 4. [Total Eclipse](#total-eclipse), by Annie Dillard
 
-<a name="#gpt2-samples"></a>
+<a name="#gpt-2-samples"></a>
 ## GPT-2 samples
 ### by lewisandquark
 ([overview](#overview))
 
-Lewisandquark (aka Janelle Shane) [had some fun](http://aiweirdness.com/post/182824715257/gpt-2-it-learned-on-the-internet) playing around with [small GPT-2](https://openai.com/blog/better-language-models) (you can also have fun yourself by checking out [the colaboratory version](https://colab.research.google.com/drive/1da54684tFMjPbR5idbvoCyjOoEGwIVwV), which works in-browser, no coding required; see also [below](#gpt2s-moloch)). Here are some of my favorites. 
+Lewisandquark (aka Janelle Shane) [had some fun](http://aiweirdness.com/post/182824715257/gpt-2-it-learned-on-the-internet) playing around with [small GPT-2](https://openai.com/blog/better-language-models) (you can also have fun yourself by checking out [the colaboratory version](https://colab.research.google.com/drive/1da54684tFMjPbR5idbvoCyjOoEGwIVwV), which works in-browser, no coding required; see also [below](#gpt-2s-moloch)). Here are some of my favorites. 
 
-<a name="#GPT2s-Moloch"></a>
+Fanfiction:
+
+```markdown
+Prompt: 
+Darth Vader entered the room, cape billowing. “What is the meaning of these… 
+festivities?”
+
+Response: 
+”Strange and solemn, now,“ Princess Leia replied. "Will pirates make jokes at Jabba’s 
+birthday cake? Oh, and for a moment, Darth Vader was too full of himself for that 
+ceremony, hence all the mirth.”
+
+“Did your father suffer there?” Vader roared and growled and turned to gaze up from the
+balcony.
+```
+
+For *much* better examples of GPT-2-written fanfiction check out [Janelle's Tweet](https://twitter.com/JanelleCShane/status/1097652984316481537), whose samples were written by the full model. Unfortunately she posted images, and I'm not having success at converting them to text via online OCR apps, so I'll just leave you with the link.
+
+Science facts:
+
+```markdown
+Prompt:
+Our solar system consists of the inner and outer planets, separated by an asteroid belt. 
+It has
+
+Response:
+Our solar system consists of the inner and outer planets, separated by an asteroid belt. 
+It has only one sun, Pluto.  Mercury rotates on its axis a little to allow a few planets,
+called gas giants, to be independently charged.  During some of these cycles periods between
+90% and 64% of the solar system’s surface might be charged.  (Not enough is needed for vermin
+but that is gradually fading away.)
+```
+
+```markdown
+Prompt:
+A carbon atom’s outer orbitals
+
+Response:
+A carbon atom’s outer orbitals are basically a ring of ions around the border of thin 
+mini-glaciers (usually colloquially referred to as bubble"). Like viruses, these planes
+are in islands in large weather groups. In and out they get all of their energy from many
+small regions of solar wind and dense cloud cover (usually thousands of square meters). 
+Like viruses, their weaponry is imaged to record the movement of material– (by deflecting
+rays, for instance) to complete waves or to cause the material to deform under shell impact.
+Capacitors–like gravity ids– produce buoyancy with the exhalation of liquid hydrogen 
+atmospheres, an essential electrolytic letdown when the material is what one calls a 
+watermelon. Heat range is quite long and space is limited so one must stick with watermelons
+for a stability boost at a given coordinate system vital to shelter those who require them 
+in space.
+```
+
+Recipes (only first half, check out the original for more):
+
+```markdown
+Prompt: 
+Quitterbread bars. Ingredients:
+
+Response (some formatting adjusted for readability):  
+
+Quitterbread bars.
+
+Ingredients:
+
+Creamy cole slaw, chopped fresh cilantro, garlic, etc.
+1  few very good options at lime-light, milky-white (at a light foodie) space
+1  medicated towel (albino & aluminum mesh - see a friend’s link to see if you can use it
+carefully & what you’re expecting)
+a few paraffin-y dice (sleep about half of the weight, use the 1 ounce plus 2 pounds extra 
+when handling these onto a hot baking sheet)
+20 baking sheets
+30 ½ lb. white sanding board
+1 didn’t dry paper cup
+1 cup extra hot water
+
+boil the butter and electrical polishing after 20 minutes 3LB neurons...
+```
+
+<a name="#GPT-2s-Moloch"></a>
 ## GPT-2's Moloch
 ### by small GPT-2 (curated by antinegationism, Qiaochu, Chelsea)
 ([overview](#overview))
@@ -171,6 +248,45 @@ Moloch the endless ever-splitting price of hell!
 Moloch the worldly bathing anchor in fungicide money! 
 Moloch the hideous empire in feeble lines! Moloch the death of the dreamless things! Moloch the
 glorious command of justice! Moloch the bloody trail!
+```
+
+Qiaochu and Chelsea join in; Scott Alexander curated it to "remove fluff and improve flow":
+
+```markdown
+Moloch whose brief mind is the barrel of gleaming stars! Moloch whose soul is choices of 
+fragrance! Moloch whose framing is glitz and half-cheerios!
+
+Moloch whose daily life is private; his daily strength hoarse! Moloch whose soft desires
+become culture burning smoke in a palace of eyes! Moloch whose breeding in the caves sweeps
+wild and rippling flower-like shapes!
+
+Moloch whose pleading is the breath of youth! Moloch whose prudence is the urine of 
+generations! Moloch whose nerves are not privileged; movies abound in quiet caves; people
+are dressed like ministers! Moloch whose hope receives some help too. Moloch whose eyes 
+are pitiful outstretched, but not blinded. Moloch whose lungs are burning with fire, but 
+not a cautious electrical girl!
+
+Moloch whose sanity is just filled with atoms, gluing beings in physics and complicated 
+libraries. Moloch whose eyes are all innocent animals! Moloch whose sweat and efforts make
+pure the ocean with burning annihilation! Moloch whose fields dissolve to lightning-ravaged
+storage houses! Moloch whose eyes sit haunting up Scottish springs!
+
+Moloch whose arms and men are Judah condemns and listens, having understood whom he was and
+what he man’s weaknesses oppose with iron. We will feast to it like Lord Kippa; we shall 
+play with it like our Pokemon.
+
+Moloch flickering under the pounds and sustaining more fights! Sports and yoga, equally 
+greedy for wealth as for lives! Moloch who had to split his limbs and society into fifty-two
+atoms! Moloch who cannot survey duty! Moloch for I do not believe in humanity! Moloch for I
+don’t believe in god! Moloch who, fought Sins and made Sin out of Sin!
+
+Moloch who left me in the glacier! Moloch who helped me to judge my behavior! Moloch who 
+lured me out of the eternal anguish. Moloch who makes all my faults my undoings! Moloch 
+whose deep conversation filled my soul with love and consolation! Moloch who curls up my 
+brains and crumps my heads and screams my scream! Moloch who prepares oil in my hands and 
+burns me alive! Moloch who cries out, “Why do men scream so loud?” Moloch who unleashes his
+poison in all rivers at high tide! Moloch whose ruins are filled with its cubits! Moloch 
+who fiddles at insidious clockwork!
 ```
 
 
