@@ -17,6 +17,7 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [Dover Beach, fourth stanza](#dover-beach-fourth-stanza), by Matthew Arnold
 2. [Five English translations of Baudelaire’s L’Albatros](#Five-English-translations-of-Baudelaires-LAlbatros), by Charles Baudelaire
 2. [Genesis I, alliterative version](#), by Doug (and computer program)
+2. [GPT-2 samples](#gpt2-samples), by lewisandquark
 2. [Gravity drowned](#gravity-drowned), by TALE-SPIN (an AI)
 2. [Ham radio](#ham-radio), by iceowl
 2. [High Flight](#high-flight), by John Gillespie Magee, Jr
@@ -35,6 +36,7 @@ Poems and quotes listed in reverse order of inclusion below.
    3. [Doubly-true anagram](#Doubly-true-anagram)
    4. [The Wiser Writer and the Inane Reader](#The-Wiser-Writer-and-the-Inane-Reader), alphametics
 2. [Moloch](#moloch), by Allen Ginsberg
+   1. [GPT-2's Moloch](#gpt2s-moloch), by OpenAI's [language model GPT-2](https://openai.com/blog/better-language-models/)
 2. [Mystical interpretation of a car](#Mystical-interpretation-of-a-car), by Umberto Eco
 2. [My Nietzschean Signature](#"My-Nietzschean-Signature), by atiguhya padma
 2. [Names do not matter](#Names-do-not-matter), by Roger Zelazny
@@ -47,6 +49,130 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [Three Men in a Boat (to say nothing of the dog)](#three-men-in-a-boat), by Jerome K. Jerome
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
 4. [Total Eclipse](#total-eclipse), by Annie Dillard
+
+<a name="#gpt2-samples"></a>
+## GPT-2 samples
+### by lewisandquark
+([overview](#overview))
+
+Lewisandquark (aka Janelle Shane) [had some fun](http://aiweirdness.com/post/182824715257/gpt-2-it-learned-on-the-internet) playing around with [small GPT-2](https://openai.com/blog/better-language-models) (you can also have fun yourself by checking out [the colaboratory version](https://colab.research.google.com/drive/1da54684tFMjPbR5idbvoCyjOoEGwIVwV), which works in-browser, no coding required; see also [below](#gpt2s-moloch)). Here are some of my favorites. 
+
+<a name="#GPT2s-Moloch"></a>
+## GPT-2's Moloch
+### by small GPT-2 (curated by antinegationism, Qiaochu, Chelsea)
+([overview](#overview))
+
+What is GPT-2? Quoting [OpenAI's post](https://openai.com/blog/better-language-models):
+
+```markdown
+GPT-2 is a large transformer-based language model with 1.5 billion parameters, trained on a dataset 
+of 8 million web pages. GPT-2 is trained with a simple objective: predict the next word, given all 
+of the previous words within 40 GB of internet text. The diversity of the dataset causes this simple goal to 
+contain naturally occurring demonstrations of many tasks across diverse domains.
+```
+
+What's so special about the dataset?
+
+```markdown
+We created a new dataset which emphasizes diversity of content, by scraping content from the Internet.
+In order to preserve document quality, we used only pages which have been curated/filtered by humans
+—specifically, we used outbound links from Reddit which received at least 3 karma. This can be thought
+of as a heuristic indicator for whether other users found the link interesting (whether educational or
+funny), leading to higher data quality than other similar datasets, such as CommonCrawl.
+```
+
+Are the samples below from the full GPT-2? No:
+
+```markdown
+Due to our concerns about malicious applications of the technology, we are not releasing the trained model.
+As an experiment in responsible disclosure, we are instead releasing a much smaller model for researchers 
+to experiment with...
+```
+
+in fact, it's [this one](https://github.com/openai/gpt-2/). If you want to play with it yourself, [here's the colaboratory version](https://colab.research.google.com/drive/1da54684tFMjPbR5idbvoCyjOoEGwIVwV), which works in-browser, no coding required.
+
+Quotes below are from antinegationism's [post](http://antinegationism.tumblr.com/post/182901133106/an-eternal-howl). The prompt is always the same:
+
+```markdown
+Moloch! Solitude! Filth! Ugliness! Ashcans and unobtainable dollars! […]
+Moloch whose smoke-stacks and antennae crown the cities 
+```
+
+And here are lobotomized GPT-2's responses. 
+
+This is the "kung-fu decimal system smashing our vibranium remains" continuation:
+
+```markdown
+!
+Moloch whose waters run from the hills, traversing the oceans, scorching the glaciers! 
+Moloch whose blasted air clings to our lungs! 
+Moloch whose membranes snare aerodynamically!
+Moloch whose singed wings hurtle before us! 
+Moloch whose darkness reminds us to stand up!
+Moloch whose Kung-fu decimal system smash our vibranium remains! 
+Moloch whose bricks deter curiosity! 
+Moloch whose polished scars prevent the curtain-closing murk!
+```
+
+The "birds mourn Dance for Love" continuation:
+
+```markdown
+in leveling crumbs!
+Moloch whose torment is the roar of gods! 
+Moloch whose streets hold rage courses! Civil strife! Crusades and war! 
+Moloch whose proponies have murdered thy young! 
+Moloch whose knowing dogs remain in telegraphs! 
+Moloch whose mustache is a beautiful nickel skull as old as nights as dark as night!
+Moloch whose scorched earth have you to keep alive for efflorescence!
+Moloch whose lamps touch the land deep in the ocean! 
+Moloch whose hundreds of breathless rifles fire high. 
+Moloch whose huge airships stand in the very middle of battle! 
+Moloch whose birds mourn Dance for Love.
+Moloch whose knights fight to the last man all alike. 
+Moloch whose horns and keys are mentioned by names that sum up the forbidden arts of the true God.
+```
+
+The "lovingly eats the food of many nations in endless gulps of lightning" continuation:
+
+```markdown
+! 
+Moloch whose flags rub soiled blood in peoples’ eyes! 
+Moloch whose virgins cry babies milk from their mothers! 
+Moloch whose body lovingly eats the food of many nations in endless gulps of lightning! 
+Moloch whose intellect ruthlessly annihilates Zuma! 
+Moloch whose mind punctures insects! 
+Moloch whose payload surpass transparent same Helphite! 
+Moloch whose spies indoctrinate society with the hope of conquering all mankind! 
+Moloch whose army advance toward their Manly leader! 
+Moloch’s army stretches out before their champions! 
+Moloch’s army marches on their strength! 
+Moloch’s army tears away the fear of grandeur! 
+Moloch’s army assaults the cities and villages in length whizzkid war! 
+Moloch’s army cleans them costly! 
+Moloch’s army holds their holy relics! 
+Moloch’s army destroys every glory!
+```
+
+The "worldly bathing anchor in fungicide money" continuation:
+
+```markdown
+...like a pile of wood! 
+Moloch whose huge flawless towers cry like song in the daytime! 
+Moloch whose buildings implode like a living Iometer of History! 
+Moloch whose bridges sag violently like a lattice apple falling on the stream! 
+Moloch whose court are the host of billions of millions of nerves of passion and anger still 
+raging up and down every dollar in the world! 
+Moloch the shadow world long, Americanized and red in red! 
+Moloch is cruel always and everywhere. 
+Moloch is perfect to human purposes! 
+Moloch is kept beyond height blind. Moloch the incorporeal skull of man! 
+Moloch the flag of equality! 
+Moloch the endless ever-splitting price of hell! 
+Moloch the worldly bathing anchor in fungicide money! 
+Moloch the hideous empire in feeble lines! Moloch the death of the dreamless things! Moloch the
+glorious command of justice! Moloch the bloody trail!
+```
+
 
 <a name="#The-Idea-of-Order-at-Key-West"></a>
 ## The Idea of Order at Key West
