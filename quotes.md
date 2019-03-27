@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 90,900*
+*[Word count](https://wordcounter.net/): 97,700*
 
 ## What is this?
 
@@ -112,6 +112,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Software development and computer science](#software-development-and-computer-science)
    1. [Practical magic](#practical-magic)
    2. [Premature optimization](#premature-optimization)
+   2. [Smalltalk](#smalltalk), ft. misconception corrections by Alan Kay
    3. [The conservative-liberal axis in software development](#yegges-conservative-liberal-axis)
 2. [Statistics](#statistics)
    1. [General](#general-stats)
@@ -655,9 +656,109 @@ So, I thought that maybe the time had come to try publishing it again.
 Meanwhile, the one exception in this dismal tale was Butler Lampson, who immediately understood the algorithm’s significance. He mentioned it in lectures and in a paper, and he interested Nancy Lynch in it. De Prisco, Lynch, and Lampson published their version of a specification and proof. Their papers made it more obvious that it was time for me to publish my paper. …
 ```
 
+<a name="#grigori-perelman"></a>
+### Grigori Perelman
+([overview](#overview))
+
+From Masha Gessen's biography *Perfect Rigor*, the "universal compactor" quote:
+
+```markdown
+Golovanov, who studied and occasionally competed alongside Perelman for more than ten years,
+tagged him as an unambiguous geometer: Perelman had a geometry problem solved in the time it 
+took Golovanov to grasp the question. This was because Golovanov was an algebraist. Sudakov, 
+who spent about six years studying and occasionally competing with Perelman, claimed Perelman
+reduced every problem to a formula. This, it appears, was because Sudakov was a geometer: his
+favorite proof of the classic theorem above was an entirely graphical one, requiring no 
+formulas and no language to demonstrate. 
+
+In other words, each of them was convinced Perelman’s mind was profoundly different from his 
+own. Neither had any hard evidence. Perelman did his thinking almost entirely inside his head,
+neither writing nor sketching on scrap paper. He did a lot of other things—he hummed, moaned, 
+threw a Ping-Pong ball against the desk, rocked back and forth, knocked out a rhythm on the 
+desk with his pen, rubbed his thighs until his pant legs shone, and then rubbed his hands 
+together—a sign that the solution would now be written down, fully formed. 
+
+For the rest of his career, even after he chose to work with shapes, he never dazzled colleagues
+with his geometric imagination, but he almost never failed to impress them with the single-
+minded precision with which he plowed through problems. His brain seemed to be a universal math 
+compactor, capable of compressing problems to their essence. Club mates eventually dubbed whatever
+it was he had inside his head the “Perelman stick”—a very large imaginary instrument with which 
+he sat quietly before striking an always-fatal blow.
+```
+
 <a name="#Alexander-Grothendieck"></a>
 ### Alexander Grothendieck
 ([overview](#overview))
+
+From Barry Mazur's 2016 retrospective [Thinking about Grothendieck](http://www.math.harvard.edu/~mazur/papers/Thinking.about.Grothendieck%285%29.pdf):
+
+```markdown
+During the early 60’s his conversations had a secure calmness. He would offer mathematical ideas
+with a smile that always had an expanse of generosity in it. Firm feet on the ground; sometimes
+barefoot. Transparency: his feelings towards people, towards things, were straightforwardly felt,
+straightforwardly expressed — often garnished with a sprig of morality. 
+
+But perhaps the word ‘morality’ doesn’t set the right tone: one expects a dour or dire music to 
+accompany any moral message. Grothendieck’s opinions, observations, would be delivered with an 
+upbeat, an optimism, a sense that “nothing could be easier in the world” than to view things as 
+he did. In fact, as many people have mentioned, Grothendieck didn’t butt against obstacles, but 
+rather he arranged for obstacles to be dissolved even before he approached them. The mathematical 
+road, he would seem to say, shows itself to be ‘the correct way’ by how easy it is to travel along
+it. This is, of course, a vastly different ‘ease’ than what was an intellectual abomination to 
+Grothendieck: something he called, with horror, “tourner la manivelle” (or ‘cranking it out’).
+
+...
+
+The mathematical talks I had with him—as I remember them now—were largely, perhaps only, about 
+viewpoint, never about specifics (with the exception of a conversation about differential 
+structures on conjugate complexifications of an algebraic variety over a number field). 
+Grothendieck’s message was clear throughout: that everything important will follow easily, will
+flow, from the right vantage. It was principally ‘the right vantage,’ a way of seeing mathematics,
+that he sought, and perhaps only on a lesser level, its by-products.
+```
+
+His simplicity and hospitality:
+
+```markdown
+Simplicity was a great virtue for him, in ideas, in material possessions, in food. The main objects
+in his living-room when he lived in an apartment at R´esidence Gratien, in Bures-sur-Yvette, were
+a wrought-iron statue of a goat, a large urn filled with oil-cured black olives, a small somewhat
+rickety table on which perched his typewriter (his work-space). You could meet him on the way
+from market, during the weekly market-day in Bures, carrying only one (ample) bag of grapes,
+eating them as he walked and offering them to you.
+
+His hospitality was startling. Later, when he lived near the RER stop Massy-Verri`ere he once
+invited an entire family who needed lodging, to stay in his basement and to bring with them their
+in-laws. He helped them install a taramasalata machine there to give them some economic activity.
+```
+
+His attitude towards shopping malls and non-math objects in general:
+
+```markdown
+In encountering a shopping mall when he visited Cambridge (USA) his only utterance was an
+Elizabethan “Let us flee.” How sparing he was in any activity other than mathematics during the
+sixties. As a result, some of his non-mathematical experiences at that time had revelatory force
+for him. He returned to Bures from Paris one day (this was probably the late sixties) saying that
+he’d just seen the first movie he had seen in 12 years (Butch Cassidy and the Sundance Kid)
+and was struck by its moral complexity. The one non-mathematical book I know he was reading
+with intense respect at that epoch was a volume entitled ”History of the Jews” (I’ve forgotten its
+author, or the language in which Grothendieck was reading it). John Tate writes that Moby Dick
+was Grothendieck’s favorite novel.
+```
+
+Leila Schneps' [Mathematics and creativity](http://people.math.jussieu.fr/~leila/grothendieckcircle/chap1.pdf) contains the following passage:
+
+```markdown
+Pierre Cartier observed that when Grothendieck took interest in some mathematical domain that he 
+had not considered up till then, finding a whole collection of theorems, results and concepts 
+already developed by others, he would continue building on this work ‘by turning it upside down’.
+Michel Demazure described his approach as ‘turning the problem into its own solution’. In fact, 
+Grothendieck’s spontaneous reaction to whatever appeared to be causing a difficulty - nilpotent 
+elements when taking spectra or rings, curve automorphisms for construction of moduli spaces - was
+to adopt and embrace the very phenomenon that was problematic, weaving it in as an integral 
+feature of the structure he was studying, and thus transforming it from a difficulty into a 
+clarifying feature of the situation. (p. 8)
+```
 
 Rene Thom, 1958 Fields Medalist:
 
@@ -1622,45 +1723,72 @@ initially know what to make of those clues, but they were a sort of red flag han
 Or this:
 
 ```markdown
-If one knows even a little bit about the Langlands correspondence and a little bit about conformal field theory on a Riemann surface, one can see an analogy between them. I wrote a paper that was motivated by that, but then I realized that my understanding was too superficial to lead to anything deep, so I abandoned the matter for a number of years.
+If one knows even a little bit about the Langlands correspondence and a little bit about conformal 
+field theory on a Riemann surface, one can see an analogy between them. I wrote a paper that was
+motivated by that, but then I realized that my understanding was too superficial to lead to
+anything deep, so I abandoned the matter for a number of years.
 ```
 
 Or this:
 
 ```markdown
-The work of Beilinson and Drinfeld on geometric Langlands bothered me.... They were using familiar ingredients of physics, but they were using them in ways that did not seem to fit. It looked like somebody had taken a bunch of chess pieces, or perhaps here in Japan I should say a bunch of shogi pieces, and placed them on the board at random. The way that the pieces were arranged did not make any sense to me. That bothered me, but I could not do anything about it.
+The work of Beilinson and Drinfeld on geometric Langlands bothered me.... They were using familiar
+ingredients of physics, but they were using them in ways that did not seem to fit. It looked like
+somebody had taken a bunch of chess pieces, or perhaps here in Japan I should say a bunch of shogi
+pieces, and placed them on the board at random. The way that the pieces were arranged did not make
+any sense to me. That bothered me, but I could not do anything about it.
 ```
 
 Or this:
 
 ```markdown
-Although I understood scarcely anything of what Beilinson and Drinfeld were saying, I did put them in touch with Hitchin’s work, and actually, in their very long, unpublished foundational paper on geometric Langlands that you can find on the Web, Beilinson and Drinfeld acknowledged me very generously, far overestimating how much I had understood. All that had really happened was that based on a guess, I told them about Hitchin’s work, and then I think that made all kinds of things obvious to them. Maybe they felt I knew some of those things, but I didn’t.
+Although I understood scarcely anything of what Beilinson and Drinfeld were saying, I did put them
+in touch with Hitchin’s work, and actually, in their very long, unpublished foundational paper on 
+geometric Langlands that you can find on the Web, Beilinson and Drinfeld acknowledged me very
+generously, far overestimating how much I had understood. All that had really happened was that 
+based on a guess, I told them about Hitchin’s work, and then I think that made all kinds of things
+obvious to them. Maybe they felt I knew some of those things, but I didn’t.
 ```
 
 Or this:
 
 ```markdown
-There were two long series of lectures and then there were a couple of outliers. The long series were very well done, but they did not help me very much.
+There were two long series of lectures and then there were a couple of outliers. The long series
+were very well done, but they did not help me very much.
 
-In addition, Ed Frenkel.... gave a series of lectures that, as far as I was concerned, were basically about the shogi board on which the pieces have been arranged at random. I really couldn’t get much out of those lectures either, because I already knew that people working on the geometric Langlands were taking familiar pieces from the shogi set and arranging them on the board at random as far as I was concerned.
+In addition, Ed Frenkel.... gave a series of lectures that, as far as I was concerned, were basically
+about the shogi board on which the pieces have been arranged at random. I really couldn’t get much 
+out of those lectures either, because I already knew that people working on the geometric Langlands
+were taking familiar pieces from the shogi set and arranging them on the board at random as far as
+I was concerned.
 ```
 
 Or this:
 
 ```markdown
-I personally concentrated on geometric Langlands rather than on number theory, and geometric Langlands was hard enough..... For example, I did not understand what Hiraku Nakajima explained yesterday at the Kyoto Prize Workshop.
+I personally concentrated on geometric Langlands rather than on number theory, and geometric Langlands
+was hard enough..... For example, I did not understand what Hiraku Nakajima explained yesterday at 
+the Kyoto Prize Workshop.
 ```
 
 Or this:
 
 ```markdown
-In some cases, I am still struggling to understand things that physicists did quite some time ago that are very relevant. Just to give one example, the Gopakumar-Vafa and Ooguri-Vafa formulas have been very influential for algebraic geometers, but as a physicist, I was never satisfied that I understood them. So I actually spent a lot of time in the last year with a student (Mykola Dedushenko) trying to understand these formulas better. In this work, I was doing some of the homework that I’d have to understand before even trying to answer your question.
+In some cases, I am still struggling to understand things that physicists did quite some time ago
+that are very relevant. Just to give one example, the Gopakumar-Vafa and Ooguri-Vafa formulas 
+have been very influential for algebraic geometers, but as a physicist, I was never satisfied
+that I understood them. So I actually spent a lot of time in the last year with a student (Mykola
+Dedushenko) trying to understand these formulas better. In this work, I was doing some of the 
+homework that I’d have to understand before even trying to answer your question.
 ```
 
 Or this, as a counterpoint to Seiberg's claim that he's "powerful in everything.... [including] the most sophisticated math":
 
 ```markdown
-Usually producing rigorous proofs requires very detailed methods. That makes it hard for a physicist, and so I myself have only done that in very special cases where I thought something was really missing that was actually simple enough that I could help do it if I had the right collaborator.
+Usually producing rigorous proofs requires very detailed methods. That makes it hard for a 
+physicist, and so I myself have only done that in very special cases where I thought something
+was really missing that was actually simple enough that I could help do it if I had the right
+collaborator.
 ```
 
 
@@ -2221,6 +2349,29 @@ Human-Computer Interaction Research. ACM Transactions on Computer-Human Interact
 ```
 
 In other words, says Sotala, "probably nothing to be worried about. Just normal human use of the environment."
+
+From Andy Clark's book *Supersizing the Mind*, a [comment by trent](https://nforum.ncatlab.org/discussion/1927/unpopularity-of-category-theory/) I found on the nForum showing how Feynman understood the notion of the external brain:
+
+```markdown
+When historian Charles Weiner found pages of Nobel Prize-winning physicist Richard Feynman’s
+notes, he saw it as a “record” of Feynman’s work. Feynman himself, however, insisted that the
+notes were not a record but the work itself. In Supersizing the Mind, Andy Clark argues that 
+our thinking doesn’t happen only in our heads but that “certain forms of human cognizing include
+inextricable tangles of feedback, feed-forward and feed-around loops: loops that promiscuously 
+criss-cross the boundaries of brain, body and world.” The pen and paper of Feynman’s thought
+are just such feedback loops, physical machinery that shape the flow of thought and enlarge the
+boundaries of mind.
+```
+
+For context, this whole thread was about trying to figure out why category theory was unpopular. Trent adds:
+
+```markdown
+I see theory as helping one adopt elegant solutions like that, and, more generally I think that
+the more physicists understand the role things seemingly outside of the mind such as notation
+play in cognition, the more they will see the importance of work in mathematical physics which 
+places physics in the most elegant possible notation. It’s not just theory addicts trying to 
+justify their work when they say that it aids in problem solving, it’s how cognition works.
+```
 
 Cosma Shalizi is a great read for collective cognition. Here's the introduction he wrote to the [Collective Cognition:
 Mathematical Foundations of Distributed Intelligence](http://csc.ucdavis.edu/~dynlearn/colcog/description.htm) workshop he co-organized awhile back, giving modern science and markets as examples:
@@ -2942,6 +3093,27 @@ This is interesting to me, because it runs counter to the standard advice.
 <a name="#software-development-and-computer-science"></a>
 ## Software development and computer science
 ([overview](#overview))
+
+<a name="#smalltalk"></a>
+### Smalltalk
+([overview](#overview))
+
+Alan Kay, in 1998, emphasizing comms/messaging over object properties or even behavior:
+
+```markdown
+Just a gentle reminder that I took some pains at the last OOPSLA to try to remind everyone that
+Smalltalk is not only NOT its syntax or the class library, it is not even about classes. I’m sorry
+that I long ago coined the term “objects” for this topic because it gets many people to focus on
+the lesser idea.
+
+The big idea is “messaging” - that is what the kernel of Smalltalk/Squeak is all about (and it’s 
+something that was never quite completed in our Xerox PARC phase). The Japanese have a small word
+- ma - for “that which is in between” - perhaps the nearest English equivalent is “interstitial”. 
+The key in making great and growable systems is much more to design how its modules communicate 
+rather than what their internal properties and behaviors should be. Think of the internet - to 
+live, it (a) has to allow many different kinds of ideas and realizations that are beyond any single
+standard and (b) to allow varying degrees of safe interoperability between these ideas.
+```
 
 <a name="#yegges-conservative-liberal-axis"></a>
 ### Yegge's conservative-liberal axis
@@ -6739,6 +6911,535 @@ explicit claims, use of evidence, and argument.
 <a name="#math-opinions"></a>
 ## Math opinions
 ([overview](#overview))
+
+<a name="#two-cultures"></a>
+### Two cultures
+([overview](#overview))
+
+There is already [an nLab note on this](https://ncatlab.org/davidcorfield/show/Two+Cultures) by the mathematical philosopher David Corfield summarizing most of what's been talked about online. I'll pick quotes I liked for my own worldview-training. 
+
+In the [original essay](http://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf) (17 pages), Tim Gowers was drawing attention/pointing out a parallel to the following asymmetry in understanding due to lack of communication between science and the humanities as exemplified by the following quote by CP Snow in his "Two Cultures" Rede lecture in 1959: 
+
+```markdown
+A good many times I have been present at gatherings of people who, by the standards
+of the traditional culture, are thought highly educated and who have with considerable
+gusto been expressing their incredulity at the illiteracy of scientists. Once or twice I
+have been provoked and have asked the company how many of them could describe
+the Second Law of Thermodynamics. The response was cold: it was also negative.
+Yet I was asking something which is about the scientific equivalent of: 
+*Have you read a work of Shakespeare’s?*
+```
+
+Gowers claims that "a similar sociological phenomenon can be observed within pure mathematics":
+
+```markdown
+Loosely speaking, I mean the distinction between mathematicians who regard their central
+aim as being to solve problems, and those who are more concerned with building and
+understanding theories. ...
+
+When I say that mathematicians can be classified into theory-builders and problem-solvers, 
+I am talking about their priorities, rather than making the ridiculous claim that they are
+exclusively devoted to only one sort of mathematical activity.
+
+As with most categorizations, it involves a certain oversimplification, but not so much as 
+to make it useless.
+```
+
+The oversimplification part shouldn't be a point of contention if you've internalized principal component analysis, or Box's "all models are wrong but some are useful" dictum. It is *understood* that the classification oversimplifies; the point is whether it's an illuminating classification.
+
+Gowers notes that he isn't the first to point this out. Here's Gian-Carlo Rota in *Indiscrete Thoughts*:
+
+```markdown
+Mathematicians can be subdivided into two types: problem solvers and theorizers. Most 
+mathematicians are a mixture of the two although it is easy to find extreme examples of both
+types.
+
+To the problem solver, the supreme achievement in mathematics is the solution to a problem
+that has been given up as hopeless. It matters little that the solution may be clumsy; all
+that counts is that it should be the first and that the proof be correct. Once the problem 
+solver finds the solution, he will permanently lose interest in it, and will listen to new
+simplified proofs with an air of condescension suffused with boredom.
+
+The problem solver is a conservative at heart. For him, mathematics consists of a sequence
+of challenges to be met, an obstacle course of problems. The mathematical concepts required
+to state mathematical problems are tacitly assumed to be eternal and immutable.
+
+Mathematical exposition is regarded as an inferior undertaking. New theories are viewed with
+deep suspicion, as intruders who must prove their worth by posing challenging problems before
+they can gain attention. The problem solver resents generalizations, especially those that 
+may succeed in trivializing the solution of one of his problems.
+
+The problem solver is the role model for budding young mathematicians. When we describe to the
+public the conquests of mathematics, our shining heroes are the problem solvers.
+
+To the theorizer, the supreme achievement of mathematics is a theory that sheds sudden light on
+some incomprehensible phenomenon. Success in mathematics does not lie in solving problems but 
+in their trivialization. The moment of glory comes with the discovery of a new theory that does
+not solve any of the old problems but renders them irrelevant.
+
+The theorizer is a revolutionary at heart. Mathematical concepts received from the past are
+regarded as imperfect instances of more general ones yet to be discovered. Mathematical exposition
+is considered a more difficult undertaking than mathematical research.
+
+To the theorizer, the only mathematics that will survive are the definitions. Great definitions 
+are what mathematicians contribute to the world. Theorems are tolerated as a necessary evil since
+they play a supporting role — or rather, as the theorizer will reluctantly admit, an essential 
+role — in the understanding of definitions.
+
+Theorizers often have trouble being recognized by the community of mathematicians. Their 
+consolation is the certainty, which may or may not be borne out by history, that their theories
+will survive long after the problems of the day have been forgotten.
+
+If I were a space engineer looking for a mathematician to help me send a rocket into space, I 
+would choose a problem solver. But if I were looking for a mathematician to give a good education 
+to my child, I would unhesitatingly prefer a theorizer.
+```
+
+Drossbucket quotes Poincare's [Intuition and logic in mathematics](http://www-history.mcs.st-andrews.ac.uk/Extras/Poincare_Intuition.html):
+
+```markdown
+It is impossible to study the works of the great mathematicians, or even those of the lesser,
+without noticing and distinguishing two opposite tendencies, or rather two entirely different 
+kinds of minds. 
+
+The one sort are above all preoccupied with logic; to read their works, one is tempted to believe
+they have advanced only step by step, after the manner of a Vauban who pushes on his trenches
+against the place besieged, leaving nothing to chance.
+
+The other sort are guided by intuition and at the first stroke make quick but sometimes 
+precarious conquests, like bold cavalrymen of the advance guard.
+```
+
+Atiyah casts it in terms of dominant visual vs sequential thinking in [What is geometry?](http://www.jstor.org/discover/10.2307/3616542?sid=21105166613741&uid=4&uid=3738032&uid=2):
+
+```markdown
+Broadly speaking I want to suggest that geometry is that part of mathematics in which 
+visual thought is dominant whereas algebra is that part in which sequential thought is
+dominant. This dichotomy is perhaps better conveyed by the words “insight” versus “rigour”
+and both play an essential role in real mathematical problems.
+```
+
+Mark Kac's "magician" quote:
+
+```markdown
+There are two kinds of geniuses: the ‘ordinary’ and the ‘magicians.’ an ordinary genius is a 
+fellow whom you and I would be just as good as, if we were only many times better. There is 
+no mystery as to how his mind works. Once we understand what they’ve done, we feel certain 
+that we, too, could have done it. It is different with the magicians... Feynman is a magician
+of the highest caliber.
+```
+
+Steven Weinberg's *Dreams of a Final Theory*:
+
+```markdown
+Theoretical physicists in their most successful work tend to play one of two roles: they are 
+either sages or magicians... It is possible to teach general relativity today by following 
+pretty much the same line of reasoning that Einstein used when he finally wrote up his work in 1915. 
+
+Then there are magician-physicists, who do not seem to be reasoning at all but who jump over 
+all intermediate steps to a new insight about nature. The authors of physics textbook are usually
+compelled to redo the work of the magicians so they seem like sages; otherwise no reader would 
+understand the physics.
+```
+
+Before we move on: why dichotomy? Why not trichotomy, or "quadrochotomy" [like Barry Mazur's tribes](#what-every-mathematician-should-know)? Commenter alkjash on drossbucket's post [Two types of mathematician](https://www.lesswrong.com/posts/5QnvHZpy4pGgCo3Pp/two-types-of-mathematician) says it's because a dichotomy corresponds to doing PCA:
+
+```markdown
+All over the place, we speak in terms of dichotomies and not trichotomies or more. The reason
+is basically that each dichotomy corresponds to doing PCA and projecting space onto a single 
+axis, and a one-dimensional line has two directions. This suggests that much of the interesting
+conversation about any given topic (i.e. axis) can be picked up by having exactly two people 
+talk about it. Two people will always differ slightly on the axis. Adding any additional people
+to a conversation has rapidly diminishing returns: you may have more total disagreement, but 
+rarely more total *dimensionality* in the disagreement.
+
+Applying the Solitaire Principle, for all the same reasons it's useful to have conversations
+between two people, it's most useful to draw dichotomies between two pieces of the mind instead
+of more. This is why we have Internal Double Crux instead of Triple or more. A conversation/internal
+conflict is always about something and should have a purpose, and that purpose projects the entire
+conversation onto the one relevant dimension, so it's really only necessary to divide into two sides
+along this axis. Thus we get S1/S2, Elephant/Rider, Episodic/Diachronic, etc.
+```
+
+Why project onto a single axis in the first place? Qiaochu:
+
+```markdown
+There are many reasons it's so tempting to project onto a single axis but maybe the foundational
+reason is the dichotomy between approaching and avoiding, or if you prefer, between positive and 
+negative reward in reinforcement learning terms. This blows up into good vs. evil, friend vs. enemy,
+and so forth.
+```
+
+So what's the asymmetry?
+
+```markdown
+Subjects that appeal to theory-builders are, at the moment,
+much more fashionable than the ones that appeal to problem-solvers.
+Moreover, mathematicians in the theory-building areas often regard what they are doing 
+as the central core (Atiyah uses this exact phrase) of mathematics, with subjects such 
+as combinatorics thought of as peripheral and not particularly relevant to the main aims 
+of mathematics. 
+
+One can almost imagine a gathering of highly educated mathematicians 
+expressing their incredulity at the ignorance of combinatorialists, most of whom could 
+say nothing intelligent about quantum groups, mirror symmetry, Calabi-Yau manifolds, the 
+Yang-Mills equation, solitons or even cohomology. If a combinatorialist were to interrupt 
+such a gathering and ask roughly how many subsets of {1, 2, . . . , n} can be found such that
+the symmetric difference of any two of them has size at least n/3, the response might very 
+well be a little frosty. (This problem is very easy if and only if one knows the appropriate
+technique, which is to choose sets randomly and show that the chances of any given pair of them
+having a symmetric difference of size less than n/3 are exponentially small. So the answer
+is e^cn for some constant c > 0.) ...
+
+My main purpose here is to defend some of the less fashionable subjects against
+criticisms commonly made of them. I shall devote most of my attention to combinatorics,
+since this is the area I know best.
+```
+
+A litmus test to see which camp you belong to:
+
+```markdown
+(i) The point of solving problems is to understand mathematics better.
+(ii) The point of understanding mathematics is to become better able to solve problems.
+
+Most mathematicians would say that there is truth in both (i) and (ii). Not all problems
+are equally interesting, and one way of distinguishing the more interesting ones is to
+demonstrate that they improve our understanding of mathematics as a whole. Equally,
+if somebody spends many years struggling to understand a difficult area of mathematics,
+but does not actually do anything with this understanding, then why should anybody else
+care? 
+
+However, many, and perhaps most, mathematicians will not agree equally strongly
+with the two statements.
+```
+
+A prototypical theory-builder would be Michael Atiyah (RIP). From a 1984 interview in the Mathematical Intelligencer:
+
+```markdown
+MINIO: How do you select a problem to study?
+
+ATIYAH: I think that presupposes an answer. I don’t think that’s the way I work
+at all. Some people may sit back and say, “I want to solve this problem” and they
+sit down and say, “How do I solve this problem?” I don’t. I just move around in
+the mathematical waters, thinking about things, being curious, interested, talking to
+people, stirring up ideas; things emerge and I follow them up. Or I see something
+which connects up with something else I know about, and I try to put them together
+and things develop. I have practically never started off with any idea of what I’m
+going to be doing or where it’s going to go. I’m interested in mathematics; I talk, I
+learn, I discuss and then interesting questions simply emerge. I have never started off
+with a particular goal, except the goal of understanding mathematics.
+```
+
+(Tangentially, this sounds like what John Baez does, as someone who's followed him for years.)
+
+A prototypical problem-solver would be Erdos. See also [Golovanov on Grigori Perelman](#grigori-perelman).
+
+Different branches of math, Gowers claims, "obviously" need different aptitudes (*orientations* is the more correct word here):
+
+```markdown
+In some, such as algebraic number theory, or the cluster of subjects
+now known simply as Geometry, it seems (to an outsider at least - I have no authority for
+what I am saying) to be important for many reasons to build up a considerable expertise
+and knowledge of the work of other mathematicians are doing, as progress is often the
+result of clever combinations of a wide range of existing results. Moreover, if one selects
+a problem, works on it in isolation for a few years and finally solves it, there is a danger,
+unless the problem is very famous, that it will no longer be regarded as all that significant.
+
+At the other end of the spectrum is, for example, graph theory, where the basic object,
+a graph, can be immediately comprehended. One will not get anywhere in graph theory
+by sitting in an armchair and trying to *understand graphs* better. Neither is it particularly
+necessary to read much of the literature before tackling a problem: it is of course helpful
+to be aware of some of the most important techniques, but the interesting problems tend
+to be open precisely because the established techniques cannot easily be applied.
+```
+
+Gowers continues with his defense of the problem-solving orientation/subculture:
+
+```markdown
+Why should problem-solving subjects be less highly regarded than theoretical ones?
+To answer this question we must consider a more fundamental one: what makes one piece
+of mathematics more interesting than another? 
+
+Atiyah makes the point (see for example [A2]) that so much
+mathematics is produced that it is not possible for all of it to be remembered. The processes
+of abstraction and generalization are therefore very important as a means of making sense
+of the huge mass of raw data (that is, proofs of individual theorems) and enabling at least
+some of it to be passed on. The results that will last are the ones that can be organized
+coherently and explained economically to future generations of mathematicians. Of course,
+some results will be remembered because they solve very famous problems, but even these,
+if they do not fit into an organizing framework, are unlikely to be studied in detail by more
+than a handful of mathematicians.
+
+Thus, it is useful to think not so much about the intrinsic interest of a mathematical
+result as about how effectively that result can be communicated to other mathematicians,
+both present and future. Combinatorics appears to many to consist of a large number
+of isolated problems and results, and therefore to be at a disadvantage in this respect.
+Each result individually may well require enormous ingenuity, but ingenious people exist,
+especially in Hungary, and future generations of combinatorialists will not have the time
+or inclination to read and admire more than a tiny fraction of their output.
+
+It is certainly rare in combinatorics for
+somebody to find a very general statement which suddenly places a large number of existing 
+results in their proper context. It is also true that many of the results proved by
+combinatorialists are somewhat isolated and will be completely forgotten (but this does
+not distinguish combinatorics from any other branch of mathematics). However, it is not
+true that there is no structure at all to the subject. The reason it appears to many mathe-
+maticians as though combinatorics is just a miscellaneous collection of individual problems
+and results is that the organizing principles are less explicit.
+
+If the processes of abstraction and generalization, which are so important in mathematics,
+are of only limited use in combinatorics, then how can the subject be transmitted
+to future generations? One way of thinking about this question is to ask what the 
+requirements of tomorrow’s combinatorialists are likely to be. As I have said already, their
+priority is likely to be solving problems, so their interest in one of today’s results will
+be closely related to whether, by understanding it, they will improve their own problem-
+solving ability. And this brings us straight to the heart of the matter. The important ideas
+of combinatorics do not usually appear in the form of precisely stated theorems, but more
+often as *general principles of wide applicability*.
+```
+
+Gowers points out that these principles are so powerful that problems can "suddenly switch from being impossible to being almost trivia". 
+
+An example of such a general principle comes from Erdos, which "opened the floodgates to probabilistic arguments in combinatoric":
+
+```markdown
+
+if one is trying to maximize the size of some structure under certain constraints, and
+if the constraints seem to force the extremal examples to be spread about in a uniform
+sort of way, then choosing an example randomly is likely to give a good answer.
+```
+
+This "general principles" phenomenon happens in in nonlinear PDEs too. Terry Tao says in his answer to the MO question [Why can’t there be a general theory of nonlinear PDE?](http://mathoverflow.net/questions/15292/why-cant-there-be-a-general-theory-of-nonlinear-pde):
+
+```markdown
+PDE does not have a general theory, but it does have a general set of principles and methods
+(e.g. continuity arguments, energy arguments, variational principles, etc.).
+
+Sergiu Klainerman's "PDE as a unified subject" discusses this topic fairly exhaustively.
+
+Any given system of PDE tends to have a combination of ingredients interacting with each
+other, such as dispersion, dissipation, ellipticity, nonlinearity, transport, surface tension,
+incompressibility, etc. Each one of these phenomena has a very different character. Often the
+main goal in analysing such a PDE is to see which of the phenomena "dominates", as this tends
+to determine the qualitative behaviour (e.g. blowup versus regularity, stability versus 
+instability, integrability versus chaos, etc.) But the sheer number of ways one could combine
+all these different phenomena together seems to preclude any simple theory to describe it all.
+This is in contrast with the more rigid structures one sees in the more algebraic sides of 
+mathematics, where there is so much symmetry in place that the range of possible behaviour is
+much more limited. (The theory of completely integrable systems is perhaps the one place where
+something analogous occurs in PDE, but the completely integrable systems are a very, very small 
+subset of the set of all possible PDE.)
+```
+
+Sergiu Klainerman's [PDE AS A UNIFIED SUBJECT](https://web.math.princeton.edu/~seri/homepage/papers/telaviv.pdf) has some great quotes itself expanding on what Terry said above, but Markdown screws with the quotes, so I'll just leave the link there.
+
+Related to the "general principles" phenomenon is the *"become the grand meta-theorem"* comment on drossbucket's LW post [Two types of mathematician](https://www.lesswrong.com/posts/5QnvHZpy4pGgCo3Pp/two-types-of-mathematician) by alkjash that I keep (1) misattributing to Qiaochu (2) losing, irritatingly, so I'm pinning it down here:
+
+```markdown
+My take on the "Two Cultures" model of problem-solvers and theory-builders: theory-building
+fields of mathematics like algebraic topology (say) are those where the goal is to articulate 
+grand meta-theorems that are bigger than any particular application. This was the work of a
+Grothendieck.
+
+Meanwhile, concrete problem-solving fields of mathematics like combinatorics are those where
+the goal is to become the grand meta-theorem that contains more understanding than any 
+particular theorem you can prove. This was the style of an Erdos. The inarticulate grand meta-
+theorems lived in his cognitive strategies so that the theorems he actually proved are 
+individually only faint impressions thereof. (I think I heard the "become grand meta-theorem" 
+phrasing originally from Alon & Spencer.)
+
+Of course reality is self-similar, so it's not surprising that there's currently a big divide
+in combinatorics between what I would call the "algebraic/enumerative" style of Richard Stanley
+containing the Flajolet and Sedgewick stuff, characterized by fancy algebra/explicit formulae/
+crystalline structures and the "analytic/extremal" style of Erdos, characterized by asymptotic
+formulae and less legibility. It's surprisingly rare to see a combinatorialist bridge this gap.
+```
+
+Qiaochu responds by casting the difference in terms of legibility:
+
+```markdown
+Yeah, there's something less legible about combinatorics compared to most other fields of 
+mathematics. People like Erdos know lots of important principles and meta-principles for 
+solving combinatorial problems but it's a tremendous chore to state those principles explicitly
+in terms of theorems and nobody really does it (the closest thing I've seen is Flajolet and 
+Sedgewick - by the way, amazing book, highly recommended). A concrete example here is the 
+exponential formula, which is orders of magnitude more complicated to state precisely than
+it is to understand and use.
+```
+
+Qiaochu, re: hammers and nails dichotomy:
+
+```markdown
+Theory-building hammers are legible: they're big theorems, or maybe big messes of definitions 
+and then theorems (the term of art for this is "machinery"). 
+
+Problem-solving hammers are illegible: they're a bunch of tacit knowledge sitting inside 
+some mathematician's head.
+```
+
+Sarah Constantin with a 2x2:
+
+```markdown
+Ok, here’s a 2x2 that captures a lot of the variation in OP:
+
+abstract/concrete x intuitive/methodical.
+
+Intuitive vs. Methodical is what Atiyah, Klein, and Poincare are talking about. 
+Abstract vs Concrete is what Gowers, Rota, and Dyson are talking about.
+
+Abstract and intuitive is like Grothendieck.
+
+Concrete and intuitive is like geometry or combinatorics.
+
+Concrete and methodical is like analysis.
+
+Abstract and methodical — I don’t know what goes in this space.
+```
+
+More examples by Terry Tao:
+
+```markdown
+There is a famous distinction in prime number theory between the number theorists who 
+like to multiply primes, and the number theorists who like to add primes. As the primes 
+are very heavily multiplicatively structured, the mathematics of multiplying primes is 
+very algebraic in nature, in particular involving field extensions, Galois representations,
+etc. But the primes are very additively unstructured, and so for adding primes we see the
+tools of analysis used instead (circle method, sieve theory, etc.).
+
+“Counting primes in arithmetic progressions” can be easily converted (via the multiplicative 
+Fourier transform) to “counting primes twisted by characters” - an eminently multiplicative
+question, and one which is handled by primarily algebraic means. “Counting arithmetic
+progressions in primes” however seems to be a stubbornly additive question and thus not 
+really amenable to algebraic attacks. (On the other hand, “counting geometric progressions 
+in primes” is very easy. :-) ).
+```
+
+Terry's comment on "structure" as part of structure/pseudorandom dichotomy and "structure" as seen by theory-builders, where he introduces the notion of "noisy" additive cohomologies and group theories:
+
+```markdown
+It does seem that categorification and similar theoretical frameworks are currently better 
+for manipulating the type of exact mathematical properties (identities, exact symmetries,
+etc.) that show up in structured objects than the fuzzier type of properties (correlation, 
+approximation, independence, etc.) that show up in pseudorandom objects, but this may well 
+be just a reflection of the state of the art than of some fundamental restriction. 
+
+For instance, in my work on the Gowers uniformity norms, there are hints of some sort of
+“noisy additive cohomology” beginning to emerge – for instance, one may have some sort of 
+function which is “approximately linear” in the sense that its second “derivative” is “mostly
+negligible”, and one wants to show that it in fact differs from a genuinely linear function
+by some “small” error; this strongly feels like a cohomological question, but we do not yet
+have the abstract theoretical machinery to place it in the classical cohomology framework
+(except perhaps in the ergodic theory limit of these problems, where there does seem to be
+a reasonable interpretation of these informal concepts). 
+
+Similarly, when considering inverse theorems in additive combinatorics, a lot of what we do 
+has the feel of “noisy group theory”, and we can already develop noisy analogues of some 
+primitive group theory concepts (e.g. quotient groups, group extensions, the homomorphism 
+theorems, etc.), but we are nowhere near the level of sophistication (and categorification,
+etc.) with noisy algebra that exact algebra enjoys right now. But perhaps that will change in
+the future.
+```
+
+Interesting remark by Dave Tweed on applied vs pure math as popular uprising vs army tank division:
+
+```markdown
+Disclaimer: I’m claiming “pure” mathematics is any activity where one has decreed that the entities
+in the problem “work this way” and then proceeds, even if the problem is pursued partly for some other
+reason. To me, “applied” really means one is constantly rejecting/modifying parts of the mathematics
+“on physical grounds”.
+
+Part of the justification for theory building is that it’s the equivalent of building an army tank
+division rather than using a popular uprising: by optimally structuring things you can accomplish
+exactly the same things but much, much easier. A good example of this is the theory of generating
+functions and precise asymptotic estimation of coefficients. People like Philippe Flajolet are 
+doing incredibly intricate and – to my mind – deep work putting together theories that can 
+pulverise some of the combinatorial problems that occur in algorithm analysis. This is theory to
+solve problems, rather than give pedantically correct names to everything. ...
+
+In contrast, one area I’d like to work in seems to scream out for an organising theory, namely 
+the mathematics/algorithmics of scene reconstruction given some subset of camera parameters and
+scene parameters/structures. Part of the reason it’s an area “I’d like to work in” rather than 
+“an area I do work in” is that there seems to be little structuring theory with sudden appearance 
+of different matrix decompositions and different classifications of the degenerate conditions,
+etc, at seemingly completely unrelated ways in the different algorithms, so it seems like 
+currently to get to the cutting (maybe bleeding :-) ) edge you’ve got to study each algorithm 
+from scratch. I’ve seen some work that claims to provide a theory for such things, but they all 
+look like “getting the names right” theories rather than “army tank division theories”. 
+
+...
+
+What I was trying to get at by hyperbole in the original post was that you can have theories 
+that “explain” things and “get the names right” and they’re good things to have developed. There
+seemed to me a sort-of subtext in your post that most theories were of this sort (which is
+probably a mis-reading based partly on the “aesthetic” point), so I was pointing out that there 
+are other theories which are more about systematizing powerful tools. (Indeed, it’s really a
+spectrum rather than a binary choice.) I’m not putting down explanatory theories but rather
+pointing out there are also some really rather splendid “tank division” theories around. (Indeed,
+arguably differential/integral calculus and linear algebra are more commonly used to “get 
+answers” rather than “explain”.)
+
+When I talk about “getting the names right” theories I just mean the cases where pains are taken
+in definitions yet it’s not clear that this buys you anything more than precise definitions. This
+is in contrast to, say, the more rigorous development of calculus in the nineteenth century which
+actually clarifies the errors in some “paradoxes/contradictions” that were “constructible” before.
+```
+
+Another difference between the cultures is given in [this comment by John Baez](https://golem.ph.utexas.edu/category/2007/05/the_two_cultures_of_mathematic_1.html#c009757) responding to Terry Tao's claim that
+
+```markdown
+Secondly, one thing about the “problem solving” culture as opposed to the “theory building” is
+that we tend to make progress by working upward from special cases, rather than downward from more
+general formulations.
+```
+
+with this:
+
+```markdown
+It’s all very complicated.
+
+Theory-builders may *act* as if general theories come full-blown into their heads, just waiting
+to be applied to special cases. But often the most exciting part is finding those general theories 
+in the first place. For this, one has to dream up patterns that would make sense of obscure clues.
+This often progresses from special to general.
+
+I think of my style as ‘finding paths of least resistance’, or ‘following the tao of mathematics’.
+I’m more of a hiker than a rock-climber. I prefer to know lots of fun trails, and occasionally bump
+into a new one while I’m strolling about, than spend my day trying to climb up a sheer cliff. 
+Instead of trying to do anything hard, I prefer to keep lots of facts, patterns and questions in
+mind, and make obvious guesses and deductions when I notice patterns turning up.
+
+Given this rather lazy approach to mathematics, the only way to discover anything new is by knowing
+a little about lots of things, and knowing some good patterns that haven’t been fully exploited. 
+‘Categorification’ is my favorite pattern, because it’s extremely broad, and nowhere near being 
+tapped out. But, it’s just one of many.
+
+We can imagine two extremes. At one extreme we have someone who tries very hard to open a specific
+door, perhaps melting the lock with an acetylene torch if necessary, or even blowing the door open 
+with dynamite. At the other extreme, we have someone who carries a huge ring of keys and tries them 
+all on any door they happen to walk by.
+```
+
+This reminds me of Julie Moronuki aka Monoid Mary aka Argumatronic's great essay [The Unreasonable Effectiveness of Metaphor](https://argumatronic.com/posts/2018-09-02-effective-metaphor.html), which I keep returning to but don't know where to categorize here.
+
+<a name="#How-mathematical-structures-are-defined"></a>
+### How mathematical structures are defined
+([overview](#overview))
+
+From Terry Tao's [post on Buzz](http://www.google.com/buzz/114134834346472219368/Mu6ZqEcaZkR/When-defining-the-concept-of-a-mathematical-space) via David Corfield's [notebook entry](https://ncatlab.org/davidcorfield/show/Two+Cultures) (the original link has succumbed to linkrot):
+
+```markdown
+When defining the concept of a mathematical space or structure (e.g. a group, a vector space, a Hilbert space, etc.), one needs to list a certain number of axioms or conditions that one wants the space to satisfy. Broadly speaking, one can divide these conditions into three classes:
+
+1. **closed conditions**. These are conditions that generally involve an = or a ≥ sign or the universal quantifier, and thus codify such things as algebraic structure, non-negativity, non-strict monotonicity, semi-definiteness, etc. As the name suggests, such conditions tend to be closed with respect to limits and morphisms.
+
+2. **open conditions**. These are conditions that generally involve a ≠ or a > sign or the existential quantifier, and thus codify such things as non-degeneracy, finiteness, injectivity, surjectivity, invertibility, positivity, strict monotonicity, definiteness, genericity, etc. These conditions tend to be stable with respect to perturbations.
+
+3. **hybrid conditions**. These are conditions that involve too many quantifiers and relations of both types to be either open or closed. Conditions that codify topological, smooth, or metric structure (e.g. continuity, compactness, completeness, connectedness, regularity) tend to be of this type (this is the notorious “epsilon-delta” business), as are conditions that involve subobjects (e.g. the property of a group being simple, or a representation being irreducible). These conditions tend to have fewer closure and stability properties than the first two (e.g. they may only be closed or stable in sufficiently strong topologies). (But there are sometimes some deep and powerful rigidity theorems that give more closure and stability here than one might naively expect.)
+
+Ideally, one wants to have one’s concept of a mathematical structure be both closed under limits, and also stable with respect to perturbations, but it is rare that one can do both at once. Instead, one often has to have two classes for a single concept: a larger class of “weak” spaces that only have the closed conditions (and so are closed under limits) but could possibly be degenerate or singular in a number of ways, and a smaller class of “strong” spaces inside that have the open and hybrid conditions also. A typical example: the class of Hilbert spaces is contained inside the larger class of pre-Hilbert spaces. Another example: the class of smooth functions is contained inside the larger class of distributions.
+
+As a general rule, algebra tends to favour closed and hybrid conditions, whereas analysis tends to favour open and hybrid conditions. Thus, in the more algebraic part of mathematics, one usually includes degenerate elements in a class (e.g. the empty set is a set; a line is a curve; a square or line segment is a rectangle; the zero morphism is a morphism; etc.), while in the more analytic parts of mathematics, one often excludes them (Hilbert spaces are strictly positive-definite; topologies are usually Hausdorff (or at least T_0); traces are usually faithful; etc.)
+```
 
 <a name="#why-tricki-failed"></a>
 ### Why Tricki failed
