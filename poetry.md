@@ -1532,18 +1532,40 @@ An Amazon book review of Stephen Wolfram's *A New Kind of Science* whose origina
 **A New Kind of Review**
 by "a reader"
 
-I can only imagine how fortunate you must feel to be reading my review. This review is the product of my lifetime of experience in meeting important people and thinking deep thoughts. This is a new kind of review, and will no doubt influence the way you think about the world around you and the way you think of yourself.
+I can only imagine how fortunate you must feel to be reading my review. This review is the
+product of my lifetime of experience in meeting important people and thinking deep thoughts.
+This is a new kind of review, and will no doubt influence the way you think about the world
+around you and the way you think of yourself.
 
-**Bigger than infinity** Although my review deserves thousands of pages to articulate, I am limiting many of my deeper thoughts to only single characters. I encourage readers of my review to dedicate the many years required to fully absorb the significance of what I am writing here. Fortunately, we live in exactly the time when my review can be widely disseminated by "internet" 
-technology and stored on "digital media", allowing current and future scholars to delve more deeply into my original and insightful use of commas, numbers, and letters.
+**Bigger than infinity** Although my review deserves thousands of pages to articulate, I am
+limiting many of my deeper thoughts to only single characters. I encourage readers of my 
+review to dedicate the many years required to fully absorb the significance of what I am
+writing here. Fortunately, we live in exactly the time when my review can be widely 
+disseminated by "internet" technology and stored on "digital media", allowing current and 
+future scholars to delve more deeply into my original and insightful use of commas, numbers,
+and letters.
 
-**My place in history** My review allows, for the first time, a complete and total understanding not only of this but *every single* book ever written. I call this "the principle of book equivalence." Future generations will decide the relative merits of this review compared with, for example, the works of Shakespeare. This effort will open new realms of scholarship.
+**My place in history** My review allows, for the first time, a complete and total
+understanding not only of this but *every single* book ever written. I call this "the principle
+of book equivalence." Future generations will decide the relative merits of this review 
+compared with, for example, the works of Shakespeare. This effort will open new realms of
+scholarship.
 
-**More about me** I first began writing reviews as a small child, where my talent was clearly apparent to those around me, including my mother. She preserved my early writings which, although simpler in structure, portend elements of my current style. I include one of them below (which I call review 30) to indicate the scholarly pedigree of the document now in your hands or on your screen or committed to your memory:
+**More about me** I first began writing reviews as a small child, where my talent was clearly
+apparent to those around me, including my mother. She preserved my early writings which, 
+although simpler in structure, portend elements of my current style. I include one of them 
+below (which I call review 30) to indicate the scholarly pedigree of the document now in your
+hands or on your screen or committed to your memory:
 
-*"The guy who wrote the book is also the publisher of the book. I guess he's the only person smart enough to understand what's in it. When I'm older I too will use a vanity press. Then I can write all the pages I want."...*
+*"The guy who wrote the book is also the publisher of the book. I guess he's the only person
+smart enough to understand what's in it. When I'm older I too will use a vanity press. Then
+I can write all the pages I want."...*
 
-It is staggering to contemplate that all the great works of literature can be derived from the letters I use in writing this review. I am pleased to have shared them with you, and hereby grant you the liberty to use up to twenty (20) of them consecutively without attribution. Any use of additional characters in print must acknowledge this review as source material since it contains, implicitly or explicitly, all future written documents.
+It is staggering to contemplate that all the great works of literature can be derived from the 
+letters I use in writing this review. I am pleased to have shared them with you, and hereby
+grant you the liberty to use up to twenty (20) of them consecutively without attribution. Any
+use of additional characters in print must acknowledge this review as source material since it
+contains, implicitly or explicitly, all future written documents.
 ```
 
 
