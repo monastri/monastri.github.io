@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 97,700*
+*[Word count](https://wordcounter.net/): 98,700*
 
 ## What is this?
 
@@ -48,7 +48,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Terry Tao](#terry-tao)
 2. [Artificial intelligence](#artificial-intelligence)
    1. [AGI, the Singularity, and all that razzmatazz](#agi-the-singularity-and-all-that-razzmatazz)
-   1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
+      1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
 2. [Biology](#biology)
    1. [Evolution](#evolution)
       1. [Gene-centered view](#gene-centered-view)
@@ -2696,6 +2696,61 @@ book at all.
 ## Fiction and writing
 ([overview](#overview))
 
+<a name="#rambling"></a>
+### Rambling
+([overview](#overview))
+
+From Robin Hanson's post [Better Babblers](http://www.overcomingbias.com/2017/03/better-babblers.html), which I found out about via Sarah Constantin's [Humans Who Are Not Concentrating Are Not General Intelligences](https://www.lesswrong.com/posts/4AHXDwcGab5PhKhHT/humans-who-are-not-concentrating-are-not-general) (about the implications of having GPT-2-level text around). Commenter Curt Adams notes that 'rambling' is a better word choice than 'babbling' for what Robin is talking about in his post, which is why I'm using it here. 
+
+```markdown
+You can think of knowing how to write as knowing how to correlate words. Given no words,
+what first word should you write. Then given one word, what second word best correlates
+with that. Then given two words, what third word best fits with those two. And so on. 
+Thus your knowledge of how to write can be broken into what you know at these different
+correlation orders: one word, two words, three words, and so on. Each time you pick a 
+new word you can combine knowledge at these different orders, by weighing all their 
+different recommendations for your next word.
+
+This correlation order approach can also be applied at different scales. For example,
+given some classification of your first sentence, what kind of second sentence should 
+follow? Given a classification of your first chapter, what kind of second chapter should
+follow? Many other kinds of knowledge can be similarly broken down into correlation 
+orders, at different scales. We can do this for music, paintings, interior decoration,
+computer programs, math theorems, and so on.
+
+Given a huge database, such as of writings, it is easy to get good at very low orders;
+you can just use the correlation frequencies found in your dataset. After that, simple 
+statistical models applied to this database can give you good estimates for correlations
+to use at somewhat higher orders. And if you have enough data (roughly ten million 
+examples per category I’m told) then recently popular machine learning techniques can 
+improve your estimates at a next set of higher orders.
+
+...
+
+After eighteen years of being a professor, I’ve graded *many* student essays. And while I 
+usually try to teach a deep structure of concepts, what the median student actually learns
+seems to mostly be a set of low order correlations. They know what words to use, which 
+words tend to go together, which combinations tend to have positive associations, and so
+on. But if you ask an exam question where the deep structure answer differs from answer 
+you’d guess looking at low order correlations, most students usually give the wrong answer.
+
+Simple correlations also seem sufficient to capture most polite conversation talk, such 
+as the weather is nice, how is your mother’s illness, and damn that other political party.
+Simple correlations are also most of what I see in inspirational TED talks, and when public
+intellectuals and talk show guests pontificate on topics they really don’t understand, such
+as quantum mechanics, consciousness, postmodernism, or the need always for more regulation
+everywhere. After all, media entertainers don’t need to understand deep structures any 
+better than do their audiences.
+
+Let me call styles of talking (or music, etc.) that rely mostly on low order correlations 
+“babbling”. Babbling isn’t meaningless, but to ignorant audiences it often appears to be 
+based on a deeper understanding than is actually the case. When done well, babbling can be
+entertaining, comforting, titillating, or exciting. It just isn’t usually a good place to
+learn deep insight.
+```
+
+See also [rambling and AI](#rambling-and-ai). 
+
 <a name="#writing-advice"></a>
 ### Writing advice
 ([overview](#overview))
@@ -4003,6 +4058,53 @@ simplifies the adaptively important task of recognizing a previously experienced
 <a name="#agi-the-singularity-and-all-that-razzmatazz"></a>
 ### AGI, the Singularity, and all that razzmatazz
 ([overview](#overview))
+
+<a name="#rambling-and-ai"></a>
+### Rambling and AI
+([overview](#overview))
+
+From Robin Hanson's post [Better Babblers](http://www.overcomingbias.com/2017/03/better-babblers.html), speculating on how the world might change in the proliferation of GPT-2s: 
+
+```markdown
+Let me call styles of talking (or music, etc.) that rely mostly on low order correlations 
+“babbling”. Babbling isn’t meaningless, but to ignorant audiences it often appears to be 
+based on a deeper understanding than is actually the case. When done well, babbling can be
+entertaining, comforting, titillating, or exciting. It just isn’t usually a good place to
+learn deep insight.
+
+As we slowly get better at statistics and machine learning, our machines will slowly get 
+better at babbling. The famous Eliza chatbot went surprisingly far using very low order
+correlations, and today chatbots best fool us into thinking they are human when they stick
+to babbling style conversations. So what does a world of better babblers look like?
+
+First, machines will better mimic low quality student essays, so schools will have to try 
+harder to keep such students from using artificial babblers.
+
+Second, the better machines get at babbling, the more humans will try to distinguish
+themselves from machines via non-babbling conversational styles. So expect less use of 
+simple easy-to-understand-and-predict speech in casual polite conversation, inspirational 
+speeches, and public intellectual talk.
+
+One option is to put a higher premium on talk that actually makes deep sense, in terms of 
+deep concepts that experts understand. That would be nice for those of us who have always 
+emphasized such things. But alas there are other options.
+
+A second option is to put a higher premium on developing very distinctive styles of talking.
+This would be like how typical popular songs from two centuries ago could be sung and 
+enjoyed by most anyone, compared to how popular music today is matched in great detail to 
+the particular features of particular artists. Imagine most all future speakers having as 
+distinct a personal talking style.
+
+A third option is more indirect, ironic, and insider style talk, such as we tend to see on
+Twitter today. People using words and phrases and cultural references in ways that only folks
+very near in cultural space can clearly accept as within recent local fashion. Artificial 
+babblers might not have enough data to track changing fashions in such narrow groups.
+
+Bottom line: the more kinds of conversation styles that simple machines can manage, the more 
+humans will try to avoid talking in those styles, a least when not talking to machines.
+```
+
+See also [rambling in writing, talking etc](#rambling). 
 
 <a name="#replacing-humans-at-every-step-of-the-economic-chain"></a>
 ### Replacing humans at every step of the economic chain
