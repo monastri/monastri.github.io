@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 24,500*
+*[Word count](https://wordcounter.net/): 26,800*
 
 <a name="#overview"></a>
 
