@@ -1,10 +1,895 @@
-TERRY TAO 
-
-<a name="#Great-trails"></a>
-### Great trails
+<a name="#Srinivasa-Ramanujan"></a>
+### Srinivasa Ramanujan
 ([overview](#overview))
 
-(UNDER AI)
+From JE Littlewood's review of “The Collected Papers of Srinivasa Ramanujan”:
+
+```markdown
+…the most important of [Ramanujan’s methods] were completely original. His intuition worked in
+analogies, sometimes, remote, and to an astonishing extent by empirical induction from particular
+numerical cases. …his most important weapon seems to have been a highly elaborate technique of 
+transformation by means of divergent series and integrals … He had no strict logical justification
+for his operations. He was not interested in rigour, which for that matter is not of first-rate 
+importance in analysis beyond the undergraduate stage, and can be supplied, given a real idea, by
+any competent professional. The clear-cut idea of what is *meant* by a proof, nowadays so familiar
+as to be taken for granted, he perhaps did not possess at all. If a significant piece of reasoning
+occurred somewhere, and the total mixture of evidence and intuition gave him certainty, he looked 
+no further. It is a minor indication of his quality that he can never have *missed* Cauchy’s
+theorem. With it he could have arrived more rapidly and conveniently at certain of his results, 
+but his own methods enabled him to survey the field with an equal comprehensiveness and as sure a 
+grasp.
+```
+
+<a name="#board-games"></a>
+## Board games
+([overview](#overview))
+
+Found a [Google+ post](https://groups.google.com/forum/?hl=en#!topic/fa.shogi/3aMMKIoYWhQ) by chess GM Larry Kaufman comparing various games in the chess/shogi family, apparently in response to a thread/interest in these comparisons that I can't find. 
+
+His credentials:
+
+```markdown
+I am the only person in the world to
+have earned a 2400 rating in both chess and shogi,  being an International
+Master in the former and an Amateur 5 Dan in the latter. I was once
+thought to be the strongest non-oriental player in the U.S. of Shang-chi
+(Chinese chess), and have played roughly ten games each of Junk-ki (Korean
+chess), Chu-Shogi, and Grand Chess (the modernized version of Capablanca's
+10x10 chess), enough to have some feel for the good and bad points of each.
+```
+
+Very nice! Okay, so what are some key points to consider in this comparison?
+
+```markdown
+In my opinion the key points to consider in comparing the games are the
+
+- frequency of draws in games between masters (less is better, though perhaps
+a small percentage of draws may be preferred by some to none at all), 
+
+- rough equality of chances of the two sides
+
+- the importance of memorizing opening theory (less is better), 
+
+- variety of play (a major objection to checkers and some might say to Go), 
+
+- history and tradition (very desirable), 
+
+- game length (not too short or too long, though this is subjective), 
+
+- strategical principles (more are better), and 
+
+- early interaction between the two sides (desirable, as if you can just do
+your own thing without looking at the other player's moves, the game lacks interest).
+```
+
+On to the comparison then. Chess:
+
+```markdown
+Let's start with chess, the most widely played game (geographically) of
+the family.  It ranks very highly on history and tradition, game length,
+strategical principles, and early interaction.  Unfortunately the draw
+percentage is too high (around 50% at high levels), and this is mostly due
+to the nature of the game rather than to lack of fighting spirit.  The
+chances of the two players are quite unequal, white winning about 5 games
+for each 3 won by black at high level.  Memorized opening theory is way too
+important at high level, though ideas like shuffle chess could solve this
+problem.  Variety of play is not bad but could be much better.  So chess
+gets 4 1/2 good grades out of 8.  Shuffle chess would score the same,
+gaining a point on memorized theory but losing it back on history and
+tradition, of which it has none.
+```
+
+Chinese chess and Korean chess:
+
+```markdown
+Now consider Chinese chess, the version of chess played by the largest
+number of people world-wide, I believe.  It also ranks very highly on
+history and tradition, game length, and early interaction.  I'll give it a
+medium score on strategical principles (there's plenty of strategy, but less
+than chess, I feel).  The draw percentage is perhaps a bit lower than in
+chess, but still too high (the restriction of the elephants and ministers to
+their own camp is the main reason for the draws, I believe).  The first
+player has a substantial edge, though perhaps a bit less than in chess.
+Memorized theory is a big problem, as in chess.  Variety of play is about
+like in chess.  So I'll give Chinese chess the same 4 1/2 score as chess
+got.
+
+Korean chess is a relative of Chinese chess.  It scores a bit lower on
+history and tradition, and a bit higher on the memorized theory problem,
+with other scores about the same.  Let's also give it 4 1/2.
+```
+
+Chu-shogi and larger versions:
+
+```markdown
+Okay, how about Chu-shogi, the topic of much discussion on this list.
+It certainly has history and tradition, though most of it is lost to us now,
+so let's give it 1/2 for this.  I suspect that the percentage of draws among
+masters would be very low, though I don't believe there are any masters in
+the world now to test this hypothesis.  Similarly I cannot imaging that the
+first move could be more than a trivial advantage, perhaps 51-49%.
+Memorized opening theory is obviously not a problem; even if it existed, it
+is very unlikely that this would ever be a decisive factor in such a complex
+and long game.  Variety of play is obviously enormous; in fact I'll only
+give it 1/2 credit because the variety of moves of the different promoted
+and unpromoted pieces is far more than anyone would ever need to enjoy the
+game, and simply serves to lower the standard of play by making it difficult
+to ever become proficient with all the different pieces.  Game length is
+much longer than most people would consider desirable, though the game is
+certainly of playable length.  Early interaction certainly can occur, though
+the space between the camps minimizes it, so I'll give Chu half credit here.
+As for strategical principles, in my opinion there are not so many here, as
+the tactical element seems to dominate the game, but I'll give it half
+credit, mostly due to my not being expert enough to say for sure.  So I give
+Chu 5 points, the best score so far, with the reservation that one would
+have to devote an enormous amount of time to the game to acquire any real
+proficiency.  I do enjoy playing the game on occasion, but since I have not
+played enough to know the moves of the promoted pieces without reference to
+the manual, both my skill and my enjoyment go way down late in the game.
+
+As for the larger relatives of Chu, I must agree with  Colin Adams that
+they are clearly less playable than Chu without offsetting advantages, and
+so I find the constant discussion of these "games" to be rather silly.  I am
+quite in agreement with George Hodges in the opinion that the really large
+versions were not really meant to be played at all.  In particular versions
+in which pieces demote on promotion would simply be drawish and boring.  Chu
+shogi already has too many pieces, probably the reason it died out, so even
+larger versions must simply be a joke.
+```
+
+Grand chess, the second-best of the lot by Kaufman's lights:
+
+```markdown
+As chu is to shogi, Grand chess is to chess.  The larger board and
+extra pieces (bishop + knight and rook + knight) add a whole new dimension
+to the game.  I'll have to give it a zero for history and tradition (a few
+games by Capablanca don't qualify it here).  I believe the draw percentage
+would be very low among masters (I haven't had one yet), and the advantage
+of first move small enough.  Memorized theory doesn't exist, though it could
+become a bit of a problem if the game became popular, so I'll give it 1/2
+here.  Variety of play is good, more than chess without reaching the point
+of overkill as with Chu, but perhaps still a bit less than I would like, so
+I'll give it 3/4.  Game length seems about right to me, a bit more than
+chess but nothing like Chu.  Early interaction is the same as in chess, and
+the strategical principles should be similar.   So Grand chess, despite its
+meager following, scores an amazing 6 1/4 out of 8 on my criteria, by far
+the best so far.  It really is an excellent game and deserves a bigger
+following.
+```
+
+Shogi, the best outright:
+
+```markdown
+Now for shogi, as it is currently played by millions of Japanese and a
+few thousand Westerners.  History and tradition are there in abundance,
+comparable to chess.  The draw % (about 2% in pro play, 1% in amateur) is
+minimal (some might argue it's too low!).  The advantage of first move is
+minimal (about 52-48%).  Variety of play is nearly ideal (ten piece types,
+including promoted rook and bishop, versus six in chess).  Memorized theory
+is a big problem, nearly as much as in chess, though the chances of turning
+around a bad opening are better in shogi, so I'll give it 1/4 (maybe we need
+shuffle-shogi !). Game length is ideal.  Early interaction is adequate,
+though a bit less than in chess, so I'll give it 3/4.  Strategic principles
+are quite ample, perhaps on a par with chess.  So shogi gets 7  out of 8,
+making it clearly the winner of this "competition".
+
+     Shogi is not a perfect game.  Some criticisms include the rather
+arbitrary moves of some pieces, the occasional draw due to there being no
+good way to start the fight in certain openings, the very unaesthetic need
+to resolve impasse games by point count, and the fact that many games begin
+with both sides moving into identical fortress formations before any
+interaction occurs.  Also the strength of the Left Anaguma castle is felt by
+many to be a spoiler in shogi, as for a while it seemed to relegate the
+ranging rook openings  to the dustbin of history, though the recent success
+of Fujii with his anti-Anaguma system seems to puncture a big hole in that
+criticism.  Despite these criticisms, I think the evidence is strong that
+shogi is the best game in the entire chess family, and with the risk of
+offending Go players (a game which I also play and respect greatly), perhaps
+the best game of all.
+```
+
+Michael Vaniver adds:
+
+```markdown
+Playing shogi is much more fun than playing chess for a novice.  The drop
+rule permits one to create the position one wants in many cases, which
+means that many tactical themes that occur only rarely in chess can be
+"manufactured" using drops in shogi.  I also think that the fact that pawns
+cannot capture forward in chess tends to create blockaded positions which
+sometimes makes it hard to get any attack going.  What usually seems to
+happen in these cases is that pieces get exchanged and before you know it
+you're in the endgame.  Thus chess games often become a war of
+attrition. This can't happen in shogi, and shogi endgames are vastly more
+interesting than chess endgames by any reasonable comparison.
+
+I agree with your assessment from my experience.  I think the only "flaw"
+in shogi is the standardization of the openings, and that something like
+"shuffle-shogi" will be necessary to keep the game from getting bogged down
+by opening theory.  Has anyone played shuffle-shogi?  I must add that most
+of what I've read on shogi seems to focus on tactics, giving the idea that
+the game is primarily tactical.  I suppose this is true in the endgame, but
+it would be interesting to read more about shogi strategy beyond analysis
+of the opening.
+
+I haven't played Chu (yet; I'm eager to try), but I find it hard to imagine
+that a game played on a 12x12 board with 92 pieces could have less
+strategical complexity than chess, played on an 8x8 board.  Perhaps you
+could elaborate here?  Wayne Schmittberger has argued that the tactical
+complexity of Chu is so great that, in fact, strategy dominates tactics
+because it's hard to read many moves deep, and so the important thing for
+Chu players is to learn to intuitively assess the merits of a position,
+much as Go players have to.
+```
+
+<a name="#Game-complexity-measures"></a>
+## Game complexity measures
+([overview](#overview))
+
+Found an interesting notion of "game depth" by renowned computer scientist and chess IM RJ Lipton in his post [The New Chess World Champion](https://rjlipton.wordpress.com/2014/12/28/the-new-chess-world-champion/). First the motivation/appetizer:
+
+```markdown
+GM Larry Kaufman and I have had closely similar chess ratings for four decades. However, in
+the last game we played he gave me odds of rook and bishop and beat me handily. Then he told 
+me that the world champion could probably beat him giving the same odds.
+
+This was not Western chess, where I would be pretty confident of beating anyone given just an
+extra bishop. It was Japanese chess, called Shogi. Shogi has no piece with the power of a queen,
+and the armies have just one rook and bishop each, so the odds I received were maximal. The main
+difference from Western chess is that captured pieces become their taker’s property and can be 
+“paratrooped” back into the game. This prevents the odds receiver from winning by attrition 
+through exchanges as prevails in chess, and throws upon the leader a burden of attack.
+
+It also makes Shogi *deeper* than chess in a way that can be defined mathematically.
+```
+
+Ooh, but what is this? Say more words!
+
+```markdown
+Say two players are a "class unit" apart if the stronger expects to score 75% against the
+weaker in a match. In chess, this corresponds to a difference of almost exactly 200 points
+in the standard Elo rating system. László Mérő, in his 1990 book Ways of Thinking, called 
+the number of class units from a typical beginning adult player to the human world champion
+the "depth" of a game.
+
+Tic-tac-toe may have a depth of 1: if you assume a beginner knows to block an immediate threat
+of three-in-a-row but plays randomly otherwise, then you can score over 75% by taking a corner
+when you go first and grifting a few games when you go second. Another school-recess game, 
+dots-and-boxes, is evidently deeper. We don’t know its depth for sure because it doesn’t have 
+a rating system and championship format like chess does.
+
+Chess ratings in the US go all the way down to the formal floor of 100 among scholastic players,
+but I concur with the estimate of Elo 600 for a young-adult beginner by a discussion of Mérő’s 
+book which I saw in the 1990s but did not preserve. This gave chess a depth of 11 class units up
+to 2800, which was world champion Garry Kasparov’s rating in 1990. If I recall correctly, 
+checkers (8x8) and backgammon had depth 10 while bridge tied chess at 11, but Shogi scored 14 and
+yet was dwarfed by Japan’s main head game, Go, at 25.
+```
+
+Whoa, *seriously*? Go's depth is 25?? 
+
+How this relates to computer players:
+
+```markdown
+Although it is coming on 18 years since Deep Blue beat Kasparov, humans are still barely fending
+off computers at shogi, while we retain some breathing room at Go. Since depth 14 translates to 
+Elo 3400 on the chess scale, while Komodo 8 is scraping 3300 on several chess rating lists, This 
+feels about right.
+
+Ten years ago, each doubling of speed was thought to add 50 Elo points to strength. Now the 
+estimate is closer to 30. Under the double-in-2-years version of Moore’s Law, using an average of
+50 Elo gained per doubling since Kasparov was beaten, one gets 450 Elo over 18 years, which again
+checks out.
+
+To be sure, the gains in computer chess have come from better algorithms not just speed, and 
+include nonlinear jumps, so Go should not count on a cushion of (25 – 14)*9 = 99 years.
+```
+
+Indeed it shouldn't. The post was written in 2014; AlphaGo beat the strongest player in the world only 3-4 years later.
+
+Weakness of this metric:
+
+```markdown
+One weakness in the notion of depth is dependence on how contests are aggregated. For tennis, 
+should we apply 75% expectation to games, pairs of games, sets, or matches—and how many games 
+in a set or sets in a match? 
+
+Another is that any game can be ‘reduced’ to depth 1 by flipping a coin; if heads the game is 
+played as-usual; if tails a second coin flip defines the outcome. Then nobody ever has more
+than 75% expectation. I regard both as beside the point for most board games, but both become
+nontrivial for games like backgammon that involve chance and are played with match stakes.
+```
+
+
+- rename to math maturity and understanding
+(UNDER MATH MATURITY)
+
+Michael Nielsen has [a great essay](http://cognitivemedium.com/srs-mathematics) talking about how he used spaced repetition via Anki flashcards to iteratively deepen his understanding of ("see through") a math concept. See also [Nielsen on augmenting long-term memory](#augmenting-long-term-memory). 
+
+First -- on understanding in math being not black and white but layered / spectrum:
+
+```markdown
+What does it mean to understand a piece of mathematics? Naively, we perhaps think of this 
+in relatively black and white terms: initially you don’t understand a piece of mathematics,
+then you go through a brief grey period where you’re learning it, and with some luck and 
+hard work you emerge out the other side “understanding” the mathematics.
+
+In reality, mathematical understanding is much more nuanced. My experience is that it’s
+nearly always possible to deepen one’s understanding of any piece of mathematics. This is 
+even true – perhaps especially true – of what appear to be very simple mathematical ideas.
+
+I first really appreciated this after reading an essay by the mathematician Andrey Kolmogorov.
+You might suppose a great mathematician such as Kolmogorov would be writing about some very 
+complicated piece of mathematics, but his subject was the humble equals sign: what made it a
+good piece of notation, and what its deficiencies were. Kolmogorov discussed this in loving 
+detail, and made many beautiful points along the way, e.g., that the invention of the equals
+sign helped make possible notions such as equations (and algebraic manipulations of equations).
+
+Prior to reading the essay I thought I understood the equals sign. Indeed, I would have been
+offended by the suggestion that I did not. But the essay showed convincingly that I could 
+understand the equals sign much more deeply.
+
+This experience suggested three broader points. First, it’s possible to understand other 
+pieces of mathematics far more deeply than I assumed. Second, mathematical understanding 
+is an open-ended process; it’s nearly always possible to go deeper. Third, even great
+mathematicians – perhaps, especially, great mathematicians – thought it worth their time
+to engage in such deepening.
+```
+
+Nielsen being Nielsen, he gets excited about how to make iterative deepening of mathematical understanding actionable via heuristics. He's collected "many such heuristics over the years"; his essay talks about Anki. 
+
+Does this really depend on Anki though? Not really:
+
+```markdown
+There’s very little in the above process that explicitly depended on me using Anki’s spaced-
+repetition flashcards. Rather, what I’ve described is a general process for pulling apart 
+the proof of a theorem and making much more sense of it, essentially by atomizing the 
+elements. There’s no direct connection to Anki at all – you could carry out the process 
+using paper and pencil.
+```
+
+Here's the "Ankification" of the proof of the following theorem: "a complex normal matrix is always diagonalizable by a unitary matrix".
+
+```markdown
+*Phase I: understanding the proof*: This involves multiple passes over the proof. Initially,
+it starts out with what I think of as grazing, picking out single elements of the proof and 
+converting to Anki cards. ... 
+
+I work hard to restate ideas in multiple ways. Indeed, I worked hard to simplify both questions
+and answers – the just given question-and-answer pair started out somewhat more complicated.
+Part of this was some minor complexity in the question, which I gradually trimmed down. The 
+answer I’ve stated above, though, is much better than in earlier versions. Earlier versions
+mentioned M explicitly (unnecessary), had more blocks in the matrices, used ⋯⋯ rather than 
+⋅⋅, and so on. You want to aim for the minimal answer, displaying the core idea as sharply as 
+possible. 
+
+I can’t emphasize enough the value of finding multiple different ways of thinking about the
+“same” mathematical ideas. Here’s a couple more related restatements:
+
+*Q: What’s a geometric interpretation of the diagonal entries in the matrix MM†?
+
+A: The lengths squared of the respective rows.
+
+Q: What’s a geometric interpretation of the diagonal entries in the matrix M†M?
+
+A: The lengths squared of the respective columns.
+
+Q: What do the diagonal elements of the normalcy condition MM†=M†M mean geometrically?
+
+A: The corresponding row and column lengths are the same.*
+
+What you’re trying to do at this stage is learn your way around the proof. Every piece
+should become a comfortable part of your mental furniture, ideally something you start to
+really feel. That means understanding every idea in multiple ways, and finding as many 
+connections between different ideas as possible.
+
+People inexperienced at mathematics sometimes memorize proofs as linear lists of statements.
+A more useful way is to think of proofs is as interconnected networks of simple observations.
+Things are rarely true for just one reason; finding multiple explanations for things gives 
+you an improved understanding. This is in some sense “inefficient”, but it’s also a way of
+deepening understanding and improving intuition. You’re building out the network of the proof,
+making more connections between nodes.
+
+One way of doing this is to explore minor variations. ...
+
+(By the way, it’s questions like these that make me think it helps to be fairly 
+mathematically experienced in carrying this Ankification process out. For someone who has
+done a lot of linear algebra these are very natural observations to make, and questions to
+ask. But I’m not sure they would be so natural for everyone. The ability to ask the “right”
+questions – insight-generating questions – is a limiting part of this whole process, and
+requires some experience.)
+
+I’ve been describing the grazing process, aiming to thoroughly familiarize yourself with
+every element of the proof. This is useful, but is also a rather undirected process, with 
+no clear end point, and not necessarily helping you understand the broader to structure of
+the proof. I also impose on myself a set of aspirational goals, all variations on the idea 
+of distilling the entire proof to one question and (simple) answer. The aim is to fill in 
+the answers to questions having forms like:
+
+*Q: In one sentence, what is the core reason a (complex) normal matrix is diagonalizable?
+
+And:
+
+Q: What is a simple visual representation of the proof that (complex) normal matrices are
+diagonalizable?*
+
+I think of these question templates as boundary conditions or forcing functions. They’re 
+things to aim for, and I try to write questions that will help me move toward answers. That 
+starts with grazing, but over time moves to more structural questions about the proof, and
+about how elements fit together.
+
+In general, it’s helpful to make both questions and answers as atomic as possible; it seems
+to help build clarity. That atomicity doesn’t mean the questions and answers can’t involve 
+quite sophisticated concepts, but they ideally express a single idea.
+
+In practice, as I understand the proof better and better the aspirational goal cards change
+their nature somewhat.
+
+What you really want is to feel every element (and the connections between them) in your 
+bones. Some substantial part of that feeling comes by actually constructing the cards. That’s
+a feeling you can’t get merely by reading an essay, it can only be experienced by going
+through the deep Ankification process yourself. Nonetheless, I find that process, as described
+up to now, is also not quite enough. You can improve upon it by asking further questions
+elaborating on different parts of the answer, with the intent of helping you understand the
+answer better.
+
+Another helpful trick is to have multiple ways of writing these top-level questions. Much of 
+my thinking is non-verbal (especially in subjects I’m knowledgeable about), but I still find
+it useful to force a verbal question-and-answer...
+
+*Phase II: variations, pushing the boundaries*: Let’s get back to details of how the
+Ankification process works. One way of deepening your understanding further is to find ways
+of pushing the boundaries of the proof and of the theorem. I find it helpful to consider many
+different ways of changing the assumptions of the theorem, and to ask how it breaks down (or
+generalizes). Another good strategy is to ask if the conditions can be weakened. ...
+
+This second phase really is open-ended: we can keep putting in variations essentially ad 
+infinitum. The questions are no longer directly about the proof, but rather are about poking
+it in various ways, and seeing what happens. The further I go, and the more I connect to other
+results, the better.
+```
+
+"Exhaust" cards:
+
+```markdown
+As described, this deep Ankification process can feel rather wasteful. Inevitably, over 
+time my understanding of the proof changes. When that happens it’s often useful to rewrite
+(and sometimes discard or replace) cards to reflect my improved understanding. And some of
+the cards written along the way have the flavor of exhaust, bad cards that seem to be
+necessary to get to good cards. I wish I had a good way of characterizing these, but I 
+haven’t gone through this often enough to have more than fuzzy ideas about it.
+```
+
+How it feels like to "be inside a piece of mathematics":
+
+```markdown
+Typically, my mathematical work begins with paper-and-pen and messing about, often in
+a rather ad hoc way. But over time if I really get into something my thinking starts to
+change. I gradually internalize the mathematical objects I’m dealing with. It becomes 
+easier and easier to conduct (most of) my work in my head. I will go on long walks, and
+simply think intensively about the objects of concern. Those are no longer symbolic or 
+verbal or visual in the conventional way, though they have some secondary aspects of 
+this nature. Rather, the sense is somehow of working directly with the objects of 
+concern, without any direct symbolic or verbal or visual referents. Furthermore, as my 
+understanding of the objects change – as I learn more about their nature, and correct my
+own misconceptions – my sense of what I can do with the objects changes as well. It’s as
+though they sprout new affordances, in the language of user interface design, and I get 
+much practice in learning to fluidly apply those affordances in multiple ways.
+
+This is a very difficult experience to describe in a way that I’m confident others will
+understand, but it really is central to my experience of mathematics – at least, of 
+mathematics that I understand well. I must admit I’ve shared it with some trepidation; 
+it seems to be rather unusual for someone to describe their inner mathematical experiences
+in these terms (or, more broadly, in the terms used in this essay).
+```
+
+Related is Einstein's musings in his letter to Hadamard describing his thought processes:
+
+```markdown
+The words or the language, as they are written or spoken, do not seem to play any role 
+in my mechanism of thought. The psychical entities which seem to serve as elements in 
+thought are certain signs and more or less clear images which can be “voluntarily” 
+reproduced and combined… The above-mentioned elements are, in my case, of visual and some
+of muscular type. Conventional words or other signs have to be sought for laboriously 
+only in a secondary stage, when the mentioned associative play is sufficiently established
+and can be reproduced at will.
+```
+
+Nielsen thinks this is all chunking:
+
+```markdown
+People who intensively study a subject gradually start to build mental libraries of “chunks” 
+– large-scale patterns that they recognize and use to reason. This is why some grandmaster 
+chess players can remember thousands of games move for move. They’re not remembering the 
+individual moves – they’re remembering the ideas those games express, in terms of larger 
+patterns. And they’ve studied chess so much that those ideas and patterns are deeply
+meaningful, much as the phrases in a lover’s letter may be meaningful. It’s why top 
+basketball players have extraordinary recall of games. Experts begin to think, perhaps only
+semi-consciously, using such chunks. The conventional representations – words or symbols in
+mathematics, or moves on a chessboard – are still there, but they are somehow secondary.
+```
+
+This segues into Terry Tao's [three stages of mathematical education](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/) article:
+
+```markdown
+One can roughly divide mathematical education into three stages:
+
+1. The “pre-rigorous” stage, in which mathematics is taught in an informal, intuitive 
+manner, based on examples, fuzzy notions, and hand-waving. (For instance, calculus is 
+usually first introduced in terms of slopes, areas, rates of change, and so forth.) 
+The emphasis is more on computation than on theory. This stage generally lasts until 
+the early undergraduate years.
+
+2. The “rigorous” stage, in which one is now taught that in order to do maths “properly”,
+one needs to work and think in a much more precise and formal manner (e.g. re-doing calculus
+by using epsilons and deltas all over the place). The emphasis is now primarily on theory;
+and one is expected to be able to comfortably manipulate abstract mathematical objects
+without focusing too much on what such objects actually “mean”. This stage usually occupies 
+the later undergraduate and early graduate years.
+
+3. The “post-rigorous” stage, in which one has grown comfortable with all the rigorous 
+foundations of one’s chosen field, and is now ready to revisit and refine one’s pre-
+rigorous intuition on the subject, but this time with the intuition solidly buttressed by 
+rigorous theory. (For instance, in this stage one would be able to quickly and accurately 
+perform computations in vector calculus by using analogies with scalar calculus, or informal
+and semi-rigorous use of infinitesimals, big-O notation, and so forth, and be able to 
+convert all such calculations into a rigorous argument whenever required.) The emphasis is 
+now on applications, intuition, and the “big picture”. This stage usually occupies the late
+graduate years and beyond.
+
+The transition from the first stage to the second is well known to be rather traumatic, with
+the dreaded “proof-type questions” being the bane of many a maths undergraduate. But the
+transition from the second to the third is equally important, and should not be forgotten.
+
+It is of course vitally important that you know how to think rigorously, as this gives you
+the discipline to avoid many common errors and purge many misconceptions. Unfortunately, this
+has the unintended consequence that “fuzzier” or “intuitive” thinking (such as heuristic
+reasoning, judicious extrapolation from examples, or analogies with other contexts such as 
+physics) gets deprecated as “non-rigorous”. All too often, one ends up discarding one’s
+initial intuition and is only able to process mathematics at a formal level, thus getting 
+stalled at the second stage of one’s mathematical education.  (Among other things, this can
+impact one’s ability to read mathematical papers; an overly literal mindset can lead to 
+“compilation errors” when one encounters even a single typo or ambiguity in such a paper.)
+
+The point of rigour is not to destroy all intuition; instead, it should be used to destroy 
+bad intuition while clarifying and elevating good intuition. It is only with a combination
+of both rigorous formalism and good intuition that one can tackle complex mathematical
+problems; one needs the former to correctly deal with the fine details, and the latter to 
+correctly deal with the big picture. Without one or the other, you will spend a lot of time
+blundering around in the dark (which can be instructive, but is highly inefficient). So once
+you are fully comfortable with rigorous mathematical thinking, you should revisit your
+intuitions on the subject and use your new thinking skills to test and refine these intuitions
+rather than discard them. One way to do this is to ask yourself dumb questions; another is 
+to relearn your field.
+
+The ideal state to reach is when every heuristic argument naturally suggests its rigorous 
+counterpart, and vice versa. Then you will be able to tackle maths problems by using both 
+halves of your brain at once – i.e., the same way you already tackle problems in “real life”.
+```
+
+See [this article](https://terrytao.wordpress.com/advice-on-writing-papers/on-compilation-errors-in-mathematical-reading-and-how-to-resolve-them/) by Terry for more on compilation errors.
+
+The kind of mistakes made by mathematicians of each stage:
+
+```markdown
+It is perhaps worth noting that mathematicians at all three of the above stages of 
+mathematical development can still make formal mistakes in their mathematical writing.
+However, the nature of these mistakes tends to be rather different, depending on what 
+stage one is at:
+
+1. Mathematicians at the pre-rigorous stage of development often make formal errors 
+because they are unable to understand how the rigorous mathematical formalism actually 
+works, and are instead applying formal rules or heuristics blindly.  It can often be 
+quite difficult for such mathematicians to appreciate and correct these errors even 
+when those errors are explicitly pointed out to them.
+
+2. Mathematicians at the rigorous stage of development can still make formal errors
+because they have not yet perfected their formal understanding, or are unable to perform
+enough “sanity checks” against intuition or other rules of thumb to catch, say, a sign
+error, or a failure to correctly verify a crucial hypothesis in a tool.  However, such 
+errors can usually be detected (and often repaired) once they are pointed out to them.
+
+3. Mathematicians at the post-rigorous stage of development are not infallible, and are
+still capable of making formal errors in their writing.  But this is often because they
+no longer need the formalism in order to perform high-level mathematical reasoning, and 
+are actually proceeding largely through intuition, which is then translated (possibly 
+incorrectly) into formal mathematical language.
+
+The distinction between the three types of errors can lead to the phenomenon (which can
+often be quite puzzling to readers at earlier stages of mathematical development) of a 
+mathematical argument by a post-rigorous mathematician which locally contains a number
+of typos and other formal errors, but is globally quite sound, with the local errors 
+propagating for a while before being cancelled out by other local errors.  (In contrast,
+when unchecked by a solid intuition, once an error is introduced in an argument by a pre-
+rigorous or rigorous mathematician, it is possible for the error to propagate out of 
+control until one is left with complete nonsense at the end of the argument.)
+```
+
+Commenter Chris makes the following claim:
+
+```markdown
+I’d call pre-rigorous the “cargo cult” stage. You’re not doing mathematics, you’re merely
+performing a very close approximation to it using rote learned rules. It was this sort of
+mathematics taught in the first year of the undergraduate curriculum at my university which 
+caused me to take physics as my major.
+
+Physicists and engineers call the third type of mathematics you propose a “back of the
+envelope” calculation. I suspect the less pretentious mathematicians do also. It is the
+step you use to flesh out a hypothesis before you apply rigour.
+```
+
+I only recorded it as context for Terry's response:
+
+```markdown
+Hmm. I think perhaps I would classify the “back of the envelope” calculations as a 
+fourth stage, let’s call it the “heuristic” stage, in the following, almost commuting square:
+
+pre-rigorous —> rigorous
+| ……………………….|
+v ……………………….v
+heuristic —> post-rigorous
+
+As I discussed in the post, mathematicians tend to proceed through the upper route, but I
+do see the point that physicists and engineers tend to proceed through the lower route. 
+Though, as I said, the diagram doesn’t quite commute; there are some significant cultural
+differences in doing mathematics that depend on which route one took to achieve the post-
+rigorous stage.
+
+The distinction between heuristic and post-rigorous is that in the latter, one uses
+intuition and rigour in an integrated fashion; one knows how to justify one’s intuition
+and convert it to rigorous arguments, and conversely one knows how to take rigorous 
+arguments and extract an intuitive explanation. For instance, one could convert arguments
+involving infinitesimals into rigorous epsilon-delta arguments whenever required, and vice
+versa. At the heuristic level, one could argue accurately with infinitesimals, but might 
+not be able to convert them into a rigorous argument.
+
+Just as mathematicians sometimes get stuck at the rigorous stage, unable to fully develop
+their intuition, I would imagine that the converse problem can happen to people educated 
+using the physicist/engineer approach, who then miss out on the stereoscopic view that one
+gets from using both rigour and intuition simultaneously.
+```
+
+Going back to Nielsen's chunking above, there's also Bill Thurston's legendary MO question [Thinking and explaining](https://mathoverflow.net/questions/38639/thinking-and-explaining), whose favorite answers I'm quoting wholesale below.
+
+Here's the [legendary answer by Anonymous Quoran](https://www.quora.com/What-is-it-like-to-understand-advanced-mathematics-Does-it-feel-analogous-to-having-mastery-of-another-language-like-in-programming-or-linguistics/answers/873950?amp&share=1&srid=p6KQ) I always have to much around in the Google search results to get at for some reason:
+
+```markdown
+**You can answer many seemingly difficult questions quickly**. But you are not very impressed
+by what can look like magic, because you know the trick. The trick is that your brain can
+quickly decide if a question is answerable by one of a few powerful general purpose "machines"
+(e.g., continuity arguments, the correspondences between geometric and algebraic objects,
+linear algebra, ways to reduce the infinite to the finite through various forms of
+compactness) combined with specific facts you have learned about your area. The number of
+fundamental ideas and techniques that people use to solve problems is, perhaps surprisingly,
+pretty small -- see http://www.tricki.org/tricki/map for a partial list, maintained by Timothy
+Gowers.
+
+**You are often confident that something is true long before you have an airtight proof for it
+(this happens especially often in geometry)**. The main reason is that you have a large 
+catalogue of connections between concepts, and you can quickly intuit that if X were to be 
+false, that would create tensions with other things you know to be true, so you are inclined 
+to believe X is probably true to maintain the harmony of the conceptual space. It's not so much 
+that you can imagine the situation perfectly, but you can quickly imagine many other things that
+are logically connected to it.
+
+**You are comfortable with feeling like you have no deep understanding of the problem you are 
+studying**. Indeed, when you do have a deep understanding, you have solved the problem and it 
+is time to do something else. This makes the total time you spend in life reveling in your mastery
+of something quite brief. One of the main skills of research scientists of any type is knowing how
+to work comfortably and productively in a state of confusion. More on this in the next few bullets.
+
+**Your intuitive thinking about a problem is productive and usefully structured, wasting little 
+time on being aimlessly puzzled**. For example, when answering a question about a high-dimensional
+space (e.g., whether a certain kind of rotation of a five-dimensional object has a "fixed point"
+which does not move during the rotation), you do not spend much time straining to visualize those 
+things that do not have obvious analogues in two and three dimensions. (Violating this principle
+is a huge source of frustration for beginning maths students who don't know that they shouldn't be
+straining to visualize things for which they don't seem to have the visualizing machinery.) Instead...
+
+**When trying to understand a new thing, you automatically focus on very simple examples that 
+are easy to think about, and then you leverage intuition about the examples into more impressive
+insights**. For example, you might imagine two- and three-dimensional rotations that are analogous
+to the one you really care about, and think about whether they clearly do or don't have the 
+desired property. Then you think about what was important to the examples and try to distill those
+ideas into symbols. Often, you see that the key idea in the symbolic manipulations doesn't depend
+on anything about two or three dimensions, and you know how to answer your hard question. 
+
+**As you get more mathematically advanced, the examples you consider easy are actually complex 
+insights built up from many easier examples; the "simple case" you think about now took you two
+years to become comfortable with**. But at any given stage, you do not strain to obtain a magical
+illumination about something intractable; you work to reduce it to the things that feel friendly.
+
+To me, **the biggest misconception that non-mathematicians have about how mathematicians work is that 
+there is some mysterious mental faculty that is used to crack a research problem all at once**. It's 
+true that sometimes you can solve a problem by pattern-matching, where you see the standard tool 
+that will work; the first bullet above is about that phenomenon. This is nice, but not fundamentally
+more impressive than other confluences of memory and intuition that occur in normal life, as when
+you remember a trick to use for hanging a picture frame or notice that you once saw a painting of 
+the street you're now looking at.
+
+In any case, by the time a problem gets to be a research problem, it's almost guaranteed that
+simple pattern matching won't finish it. So in one's professional work, the process is piecemeal:
+you think a few moves ahead, trying out possible attacks from your arsenal on simple examples 
+relating to the problem, trying to establish partial results, or looking to make analogies with 
+other ideas you understand. This is the same way that you solve difficult problems in your first
+real maths courses in university and in competitions. What happens as you get more advanced is 
+simply that the arsenal grows larger, the thinking gets somewhat faster due to practice, and you
+have more examples to try. Sometimes, during this process, a sudden insight comes, but it would 
+not be possible without the painstaking groundwork [ http://terrytao.wordpress.com/ca... ].
+
+Indeed, most of the bullet points here summarize feelings familiar to many serious students of 
+mathematics who are in the middle of their undergraduate careers; as you learn more mathematics,
+these experiences apply to "bigger" things but have the same fundamental flavor.
+
+**You go up in abstraction, "higher and higher"**. The main object of study yesterday becomes 
+just an example or a tiny part of what you are considering today. For example, in calculus
+classes you think about functions or curves. In functional analysis or algebraic geometry, you
+think of spaces whose points are functions or curves -- that is, you "zoom out" so that every
+function is just a point in a space, surrounded by many other "nearby" functions. Using this 
+kind of zooming out technique, you can say very complex things in short sentences -- things 
+that, if unpacked and said at the zoomed-in level, would take up pages. Abstracting and 
+compressing in this way makes it possible to consider extremely complicated issues with one's 
+limited memory and processing power.
+
+**The particularly "abstract" or "technical" parts of many other subjects seem quite accessible
+because they boil down to maths you already know. You generally feel confident about your ability
+to learn most quantitative ideas and techniques**. A theoretical physicist friend likes to say, 
+only partly in jest, that there should be books titled "______ for Mathematicians", where _____ 
+is something generally believed to be difficult (quantum chemistry, general relativity, securities
+pricing, formal epistemology). Those books would be short and pithy, because many key concepts in 
+those subjects are ones that mathematicians are well equipped to understand. Often, those parts 
+can be explained more briefly and elegantly than they usually are if the explanation can assume a
+knowledge of maths and a facility with abstraction. 
+
+Learning the domain-specific elements of a different field can still be hard -- for instance,
+physical intuition and economic intuition seem to rely on tricks of the brain that are not 
+learned through mathematical training alone. But the quantitative and logical techniques you 
+sharpen as a mathematician allow you to take many shortcuts that make learning other fields
+easier, as long as you are willing to be humble and modify those mathematical habits that are 
+not useful in the new field.
+
+**You move easily among multiple seemingly very different ways of representing a problem**. For
+example, most problems and concepts have more algebraic representations (closer in spirit to an 
+algorithm) and more geometric ones (closer in spirit to a picture). You go back and forth between
+them naturally, using whichever one is more helpful at the moment. 
+
+Indeed, some of the most powerful ideas in mathematics (e.g., duality, Galois theory, algebraic
+geometry) provide "dictionaries" for moving between "worlds" in ways that, ex ante, are very 
+surprising. For example, Galois theory allows us to use our understanding of symmetries of shapes
+(e.g., rigid motions of an octagon) to understand why you can solve any fourth-degree polynomial
+equation in closed form, but not any fifth-degree polynomial equation. Once you know these threads
+between different parts of the universe, you can use them like wormholes to extricate yourself 
+from a place where you would otherwise be stuck. The next two bullets expand on this.
+
+**Spoiled by the power of your best tools, you tend to shy away from messy calculations or long,
+case-by-case arguments unless they are absolutely unavoidable**. Mathematicians develop a powerful
+attachment to elegance and depth, which are in tension with, if not directly opposed to, mechanical
+calculation. Mathematicians will often spend days figuring out why a result follows easily from some 
+very deep and general pattern that is already well-understood, rather than from a string of 
+calculations. Indeed, you tend to choose problems motivated by how likely it is that there will be 
+some "clean" insight in them, as opposed to a detailed but ultimately unenlightening proof by
+exhaustively enumerating a bunch of possibilities. (Nevertheless, detailed calculation of an example 
+is often a crucial part of beginning to see what is really going on in a problem; and, depending on
+the field, some calculation often plays an essential role even in the best proof of a result.)
+
+In A Mathematician's Apology [http://www.math.ualberta.ca/~mss..., the most poetic book I know on what it is "like" to be a mathematician], G.H. Hardy wrote:
+
+"In both [these example] theorems (and in the theorems, of course, I include the proofs) there is a
+very high degree of unexpectedness, combined with inevitability and  economy. The arguments take so
+odd and surprising a form; the weapons used seem so childishly simple when compared with  the far-
+reaching results; but there is no escape from the conclusions. There are no complications of detail—
+one line of attack is enough in each case; and this is true too of the proofs of many much more 
+difficult theorems, the full appreciation of which demands quite a high degree of technical
+proficiency. We do not want many ‘variations’ in the proof of a mathematical theorem: ‘enumeration 
+of cases’, indeed, is one of the duller forms of mathematical argument. A mathematical proof should
+resemble a simple and clear-cut constellation, not a scattered cluster in the Milky Way."
+
+[...]
+
+"[A solution to a difficult chess problem] is quite genuine mathematics, and has its merits; but it
+is just that ‘proof by enumeration of cases’ (and of cases which do not, at bottom, differ at all
+profoundly) which a real mathematician tends to despise."
+
+**You develop a strong aesthetic preference for powerful and general ideas that connect hundreds of
+difficult questions, as opposed to resolutions of particular puzzles**. Mathematicians don't really
+care about "the answer" to any particular question; even the most sought-after theorems, like
+Fermat's Last Theorem, are only tantalizing because their difficulty tells us that we have to 
+develop very good tools and understand very new things to have a shot at proving them. It is
+what we get in the process, and not the answer per se, that is the valuable thing. The 
+accomplishment a mathematician seeks is finding a new dictionary or wormhole between different 
+parts of the conceptual universe. As a result, many mathematicians do not focus on deriving the 
+practical or computational implications of their studies (which can be a drawback of the hyper-
+abstract approach!); instead, they simply want to find the most powerful and general connections.
+Timothy Gowers has some interesting comments on this issue, and disagreements within the 
+mathematical community about it [ http://www.dpmms.cam.ac.uk/~wtg1... ].
+
+**Understanding something abstract or proving that something is true becomes a task a lot like
+building something**. You think: "First I will lay this foundation, then I will build this framework
+using these familiar pieces, but leave the walls to fill in later, then I will test the beams..." 
+All these steps have mathematical analogues, and structuring things in a modular way allows you to 
+spend several days thinking about something you do not understand without feeling lost or frustrated.
+(I should say, "without feeling unbearably lost and frustrated"; some amount of these feelings is 
+inevitable, but the key is to reduce them to a tolearable degree.)
+
+Andrew Wiles, who proved Fermat's Last Theorem, used an "exploring" metaphor:
+
+"Perhaps I can best describe my experience of doing mathematics in terms of a journey through a
+dark unexplored mansion. You enter the first room of the mansion and it's completely dark. You 
+stumble around bumping into the furniture, but gradually you learn where each piece of furniture
+is. Finally, after six months or so, you find the light switch, you turn it on, and suddenly it's
+all illuminated. You can see exactly where you were. Then you move into the next room and spend 
+another six months in the dark. So each of these breakthroughs, while sometimes they're momentary,
+sometimes over a period of a day or two, they are the culmination of—and couldn't exist without—
+the many months of stumbling around in the dark that proceed them." [ http://www.pbs.org/wgbh/nova/phy... ]
+
+**In listening to a seminar or while reading a paper, you don't get stuck as much as you used to**
+in youth because you are good at modularizing a conceptual space, taking certain calculations or
+arguments you don't understand as "black boxes", and considering their implications anyway. You
+can sometimes make statements you know are true and have good intuition for, without understanding
+all the details. You can often detect where the delicate or interesting part of something is based
+on only a very high-level explanation. (I first saw these phenomena highlighted by Ravi Vakil, who
+offers insightful advice on being a mathematics student: http://math.stanford.edu/~vakil/... .)
+
+**You are good at generating your own definitions and your own questions in thinking about some new
+kind of abstraction**. One of the things one learns fairly late in a typical mathematical education 
+(often only at the stage of starting to do research) is how to make good, useful definitions.
+Something I've reliably heard from people who know parts of mathematics well but never went on to be
+professional mathematicians (i.e., write articles about new mathematics for a living) is that they
+were good at proving difficult propositions that were stated in a textbook exercise, but would be
+lost if presented with a mathematical structure and asked to find and prove some interesting facts 
+about it. Concretely, the ability to do this amounts to being good at making definitions and, using
+the newly defined concepts, formulating precise results that other mathematicians find intriguing or
+enlightening. 
+
+This kind of challenge is like being given a world and asked to find events in it that come together 
+to form a good detective story. You have to figure out who the characters should be (the concepts 
+and objects you define) and what the interesting mystery might be. To do these things, you use 
+analogies with other detective stories (mathematical theories) that you know and a taste for what
+is surprising or deep. How this process works is perhaps the most difficult aspect of mathematical
+work to describe precisely but also the thing that I would guess is the strongest thing that 
+mathematicians have in common.
+
+**You are easily annoyed by imprecision in talking about the quantitative or logical**. This is
+mostly because you are trained to quickly think about counterexamples that make an imprecise claim
+seem obviously false.
+
+**On the other hand, you are very comfortable with intentional imprecision or "hand-waving" in areas
+you know, because you know how to fill in the details**. Terence Tao is very eloquent about this here 
+[ http://terrytao.wordpress.com/ca... ]: 
+
+"[After learning to think rigorously, comes the] 'post-rigorous' stage, in which one has grown 
+comfortable with all the rigorous foundations of one’s chosen field, and is now ready to revisit
+and refine one’s pre-rigorous intuition on the subject, but this time with the intuition solidly
+buttressed by rigorous theory. (For instance, in this stage one would be able to quickly and 
+accurately perform computations in vector calculus by using analogies with scalar calculus, or
+informal and semi-rigorous use of infinitesimals, big-O notation, and so forth, and be able to
+convert all such calculations into a rigorous argument whenever required.) The emphasis is now 
+on applications, intuition, and the 'big picture'. This stage usually occupies the late graduate
+years and beyond."
+
+In particular, an idea that took hours to understand correctly the first time ("for any arbitrarily
+small epsilon I can find a small delta so that this statement is true") becomes such a basic element
+of your later thinking that you don't give it conscious thought.
+
+Before wrapping up, it is worth mentioning that mathematicians are not immune to the limitations 
+faced by most others. They are not typically intellectual superheroes. For instance, they often 
+become resistant to new ideas and uncomfortable with ways of thinking (even about mathematics) 
+that are not their own. They can be defensive about intellectual turf, dismissive of others, or
+petty in their disputes. Above, I have tried to summarize how the mathematical way of thinking 
+feels and works at its best, without focusing on personality flaws of mathematicians or on the 
+politics of various mathematical fields. These issues are worthy of their own long answers!
+
+**You are humble about your knowledge because you are aware of how weak maths is, and you are comfortable
+with the fact that you can say nothing intelligent about most problems**. There are only very few
+mathematical questions to which we have reasonably insightful answers. There are even fewer questions,
+obviously, to which any given mathematician can give a good answer. After two or three years of a 
+standard university curriculum, a good maths undergraduate can effortlessly write down hundreds of
+mathematical questions to which the very best mathematicians could not venture even a tentative answer.
+(The theoretical computer scientist Richard Lipton lists some examples of potentially "deep" ignorance 
+here: http://rjlipton.wordpress.com/20...) This makes it more comfortable to be stumped by most problems;
+a sense that you know roughly what questions are tractable and which are currently far beyond our abilities
+is humbling, but also frees you from being very intimidated, because you do know you are familiar with the
+most powerful apparatus we have for dealing with these kinds of problems.
+```
 
 
 (UNDER WRITING)
