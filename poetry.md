@@ -49,10 +49,10 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [Three Men in a Boat (to say nothing of the dog)](#three-men-in-a-boat), by Jerome K. Jerome
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
 4. [Total Eclipse](#total-eclipse), by Annie Dillard
-5. [Why did the chicken cross the road?](#Why-did-the-chicken-cross-the-road?), by Accenture Consulting
+5. [Why did the chicken cross the road?](#Why-did-the-chicken-cross-the-road), by Accenture Consulting
 
-<a name="#Why-did-the-chicken-cross-the-road?"></a>
-## Why did the chicken cross the road?
+<a name="#Why-did-the-chicken-cross-the-road"></a>
+## Why did the chicken cross the road
 ### by Accenture Consulting
 ([overview](#overview))
 
