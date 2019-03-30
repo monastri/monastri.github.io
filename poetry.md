@@ -49,6 +49,43 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [Three Men in a Boat (to say nothing of the dog)](#three-men-in-a-boat), by Jerome K. Jerome
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
 4. [Total Eclipse](#total-eclipse), by Annie Dillard
+5. [Why did the chicken cross the road?](#Why-did-the-chicken-cross-the-road?), by Accenture Consulting
+
+<a name="#Why-did-the-chicken-cross-the-road?"></a>
+## Why did the chicken cross the road?
+### by Accenture Consulting
+([overview](#overview))
+
+From [this answer](https://qr.ae/TW1hrP):
+
+```markdown
+**Why did the chicken cross the road?**
+
+**ACCENTURE CONSULTING**: Deregulation of the chicken's side of the road was
+threatening its dominant market position. The chicken was faced with  significant
+challenges to create and develop the competencies required  for the newly 
+competitive market. 
+
+Accenture Consulting, in a partnering  relationship with the client, helped the 
+chicken by rethinking its  physical distribution strategy and implementation 
+processes. Using the  Poultry Integration Model (PIM), Accenture helped the 
+chicken use its  skills, methodologies, knowledge, capital and experiences to 
+align the  chicken's people, processes and technology in support of its overall
+strategy within a Program Management framework. Accenture Consulting  convened a 
+diverse cross-spectrum of road analysts and best chickens  along with Accenture's
+consultants with deep skills in the transportation industry to engage in a two-day
+itinerary of meetings in order to  leverage their personal knowledge capital, both
+tacit and explicit, and  to enable them to synergize with each other in order to 
+achieve the  implicit goals of delivering and successfully architecture and 
+implement an enterprise-wide value framework across the continuum of  poultry cross-
+median processes. 
+
+The meeting was held in a park-like  setting, enabling and creating an impactful 
+environment which was  strategically based, industry-focused, and built upon a
+consistent, clear, and unified market message and aligned with the chicken's mission,
+vision, and core values. This was conducive towards the  creation of a total business
+integration solution. Accenture Consulting helped the chicken to become more successful.
+```
 
 <a name="#gpt-2-samples"></a>
 ## GPT-2 samples
