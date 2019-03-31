@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 98,700*
+*[Word count](https://wordcounter.net/): 131,200*
 
 ## What is this?
 
@@ -27,15 +27,24 @@ So this suggests a solution: never start. Merely have perpetual drafts, which on
 time. And the rest takes care of itself.
 ```
 
-This is my first experiment in that vein. The quotes here have been collected over more than half a decade, albeit in different pages. I intend for them to shape my worldview; doing so like this allows, or so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping.
+There's also this quote from Paul Graham's essay [You weren't meant to have a boss](http://www.paulgraham.com/boss.html), [paraphrased](https://meltingasphalt.com/about/) by Kevin Simler:
 
-Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/) (indeed his [entire oeuvre](http://bactra.org/)) is another major inspiration behind this document. 
+```markdown
+An obstacle downstream propagates upstream. If you're not allowed to implement new ideas, 
+you stop having them. And vice versa: when you can do whatever you want, you have more 
+ideas about what to do. So [keeping a blog] makes your brain more powerful in the same way
+a low-restriction exhaust system makes an engine more powerful.
+```
+
+This is my first experiment in Gwern's vein. The quotes here have been collected over more than half a decade, albeit in different pages. I intend for them to shape my worldview; doing so like this allows, or so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping.
+
+Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/) (indeed his [entire oeuvre](http://bactra.org/)) are another major inspiration behind this document. 
 
 <a name="#overview"></a>
 
 ## Overview
 
-I've sorted the quotes below into the following categories. This is a provisional clustering, subject to perpetual refactoring. The categories are ordered alphabetically; the actual quotes are chronological.
+I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
 1. [Amazing people](#amazing-people)
    1. [Alexander Grothendieck](#alexander-grothendieck)
@@ -43,12 +52,14 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Butler Lampson](#Butler-Lampson)
    2. [Charlie Fefferman](#charlie-fefferman)
    2. [Ed Witten](#ed-witten)
+   2. [Jeff Bezos](#Jeff-Bezos)
    2. [Johnny von Neumann](#johnny-von-neumann)
    2. [LeBron James](#lebron-james)
+   2. [Richard Feynman](##Richard-Feynman)
+   2. [Robin Hanson](#robin-hanson)
+   2. [Scott Alexander](#Scott-alexander)
+   2. [Srinivasa Ramanujan](#Srinivasa-Ramanujan)
    2. [Terry Tao](#terry-tao)
-2. [Artificial intelligence](#artificial-intelligence)
-   1. [AGI, the Singularity, and all that razzmatazz](#agi-the-singularity-and-all-that-razzmatazz)
-      1. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
 2. [Biology](#biology)
    1. [Evolution](#evolution)
       1. [Gene-centered view](#gene-centered-view)
@@ -63,6 +74,9 @@ I've sorted the quotes below into the following categories. This is a provisiona
    3. [The absurdity heuristic doesn't work very well](#absurdity-heuristic)
 2. [Feelings](#feelings)
    1. [Love](#love)
+2. [Games](#games)
+   1. [Board games](#board-games)
+   2. [Game complexity measures](#Game-complexity-measures)
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
 2. [Great trails](#great-trails)
@@ -75,7 +89,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Opinions and observations](#math-opinions)
       1. [Good mathematics](#good-mathematics)
       2. [How famous open problems get solved](#solving-famous-open-problems)
-      2. [Mathematical maturity](#mathematical-maturity)
+      2. [#Defining combinatorics](##Defining-combinatorics)
+      2. [Mathematical maturity and understanding](#mathematical-maturity)
       3. [What every mathematician should know](#what-every-mathematician-should-know)
       3. [Why didn't the Tricki take off?](#why-tricki-failed)   
 2. [Memory and the brain](#memory-and-the-brain)
@@ -84,6 +99,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Externalizing the brain](#external-brain), e.g. Google, writing, Cosma on collective cognition
    3. [Cognitive science](#cognitive-science)
    3. [Names matter](#names-matter)
+   4. [Steve Yegge on memory](#Yegge-on-memory)
+   5. [Wisdom](#wisdom)
 2. [Philosophy](#philosophy)
    1. [General](#general-philosophy)
    2. [Diseased philosophy](#diseased-philosophy)
@@ -101,19 +118,33 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Signaling](#signaling)
       1. [X isn't about Y](#x-isnt-about-y)
       2. [Countersignaling](#countersignaling), including metacontrarianism
+2. [Reading and writing](#reading-and-writing)
+   1. [Writing advice](#writing-advice)
+      1. [Nonfiction](#nonfiction), e.g. microhumor
+         1. [The art of plain talk](#the-art-of-plain-talk)
+         2. [Readability](#readability)
+      2. [Fiction](#fiction)
+         1. [Show, don't tell -- or not](#show-dont-tell)
 2. [Research and academia](#research-and-academia)
    1. [The general function of intellectual traditions](#role-of-intellectual-traditions)
    2. [Research in industry](#research-in-industry)
    2. [Why academic writing sucks](#why-academic-writing-sucks)
+   2. [Why I left academia](#Why-I-left-academia)
    2. [Tactics and advice](#research-tactics)
       1. [Using Anki to read a paper in an unfamiliar field thoroughly](#anki-in-research)
    2. [Mindset](#research-mindset)
    2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
 2. [Software development and computer science](#software-development-and-computer-science)
-   1. [Practical magic](#practical-magic)
+   1. [Amazon vs Google comparison (2011)](#Amazon-vs-Google-2011)
+   2. [Codebase as organism](#codebase-as-organism)
+   2. [Practical magic](#practical-magic)
    2. [Premature optimization](#premature-optimization)
+   2. [Why platforms matter](#platforms)
    2. [Smalltalk](#smalltalk), ft. misconception corrections by Alan Kay
    3. [The conservative-liberal axis in software development](#yegges-conservative-liberal-axis)
+   4. [CS is beyond the glass ceiling of popular science](#CS-is-beyond-the-glass-ceiling-of-pop-science)
+   5. [Theoretical CS contributions, or, CS as quantitative epistemology](#Theoretical-CS-contributions)
+   5. [Second-system effect, or well-intended redesign bloat](#Second-system-effect)
 2. [Statistics](#statistics)
    1. [General](#general-stats)
    2. [The role of statistics in doing science](#the-role-of-statistics-in-science)
@@ -122,13 +153,14 @@ I've sorted the quotes below into the following categories. This is a provisiona
    1. [Errors vs bugs](#errors-vs-bugs)
    2. [Important findings on learning](#important-findings-on-learning), ft. 25 principles by U of Missouri
    2. [Polymathy, or being a generalist](#polymathy)
-2. [Writing](#fiction-and-writing)
-   1. [Writing advice](#writing-advice)
-      1. [Nonfiction](#nonfiction), e.g. microhumor
-         1. [The art of plain talk](#the-art-of-plain-talk)
-         2. [Readability](#readability)
-      2. [Fiction](#fiction)
-         1. [Show, don't tell -- or not](#show-dont-tell)
+2. [Technology and futurism](#Technology-and-Futurism)
+   1. [The Singularity](#the-singularity)
+      1. [The three main schools of thought](#Three-Singularity-schools)
+      2. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
+      2. [Disneyland with no children](#Disneyland-with-no-children)
+      3. [The Singularity has already happened](#the-singularity-has-happened)
+   2. [The origins of information society](#Origins-of-information-society)
+   3. [Rambling and AI](#rambling-and-ai)
 2. [Miscellaneous](#miscellaneous)
 
 
@@ -190,9 +222,883 @@ Mountaineers Route, and that talus scramble is a pain).
 
 [This](http://peaksforfreaks.blogspot.com/2013/05/tuttle-peak-mt-langley-via-northeast.html) is the best website/report I've found.
 
+<a name="#games"></a>
+## Games
+([overview](#overview))
+
+<a name="#board-games"></a>
+### Board games
+([overview](#overview))
+
+Found a [Google+ post](https://groups.google.com/forum/?hl=en#!topic/fa.shogi/3aMMKIoYWhQ) by chess GM Larry Kaufman comparing various games in the chess/shogi family, apparently in response to a thread/interest in these comparisons that I can't find. 
+
+His credentials:
+
+```markdown
+I am the only person in the world to
+have earned a 2400 rating in both chess and shogi,  being an International
+Master in the former and an Amateur 5 Dan in the latter. I was once
+thought to be the strongest non-oriental player in the U.S. of Shang-chi
+(Chinese chess), and have played roughly ten games each of Junk-ki (Korean
+chess), Chu-Shogi, and Grand Chess (the modernized version of Capablanca's
+10x10 chess), enough to have some feel for the good and bad points of each.
+```
+
+Very nice! Okay, so what are some key points to consider in this comparison?
+
+```markdown
+In my opinion the key points to consider in comparing the games are the
+
+- frequency of draws in games between masters (less is better, though perhaps
+a small percentage of draws may be preferred by some to none at all), 
+
+- rough equality of chances of the two sides
+
+- the importance of memorizing opening theory (less is better), 
+
+- variety of play (a major objection to checkers and some might say to Go), 
+
+- history and tradition (very desirable), 
+
+- game length (not too short or too long, though this is subjective), 
+
+- strategical principles (more are better), and 
+
+- early interaction between the two sides (desirable, as if you can just do
+your own thing without looking at the other player's moves, the game lacks interest).
+```
+
+On to the comparison then. Chess:
+
+```markdown
+Let's start with chess, the most widely played game (geographically) of
+the family.  It ranks very highly on history and tradition, game length,
+strategical principles, and early interaction.  Unfortunately the draw
+percentage is too high (around 50% at high levels), and this is mostly due
+to the nature of the game rather than to lack of fighting spirit.  The
+chances of the two players are quite unequal, white winning about 5 games
+for each 3 won by black at high level.  Memorized opening theory is way too
+important at high level, though ideas like shuffle chess could solve this
+problem.  Variety of play is not bad but could be much better.  So chess
+gets 4 1/2 good grades out of 8.  Shuffle chess would score the same,
+gaining a point on memorized theory but losing it back on history and
+tradition, of which it has none.
+```
+
+Chinese chess and Korean chess:
+
+```markdown
+Now consider Chinese chess, the version of chess played by the largest
+number of people world-wide, I believe.  It also ranks very highly on
+history and tradition, game length, and early interaction.  I'll give it a
+medium score on strategical principles (there's plenty of strategy, but less
+than chess, I feel).  The draw percentage is perhaps a bit lower than in
+chess, but still too high (the restriction of the elephants and ministers to
+their own camp is the main reason for the draws, I believe).  The first
+player has a substantial edge, though perhaps a bit less than in chess.
+Memorized theory is a big problem, as in chess.  Variety of play is about
+like in chess.  So I'll give Chinese chess the same 4 1/2 score as chess
+got.
+
+Korean chess is a relative of Chinese chess.  It scores a bit lower on
+history and tradition, and a bit higher on the memorized theory problem,
+with other scores about the same.  Let's also give it 4 1/2.
+```
+
+Chu-shogi and larger versions:
+
+```markdown
+Okay, how about Chu-shogi, the topic of much discussion on this list.
+It certainly has history and tradition, though most of it is lost to us now,
+so let's give it 1/2 for this.  I suspect that the percentage of draws among
+masters would be very low, though I don't believe there are any masters in
+the world now to test this hypothesis.  Similarly I cannot imaging that the
+first move could be more than a trivial advantage, perhaps 51-49%.
+Memorized opening theory is obviously not a problem; even if it existed, it
+is very unlikely that this would ever be a decisive factor in such a complex
+and long game.  Variety of play is obviously enormous; in fact I'll only
+give it 1/2 credit because the variety of moves of the different promoted
+and unpromoted pieces is far more than anyone would ever need to enjoy the
+game, and simply serves to lower the standard of play by making it difficult
+to ever become proficient with all the different pieces.  Game length is
+much longer than most people would consider desirable, though the game is
+certainly of playable length.  Early interaction certainly can occur, though
+the space between the camps minimizes it, so I'll give Chu half credit here.
+As for strategical principles, in my opinion there are not so many here, as
+the tactical element seems to dominate the game, but I'll give it half
+credit, mostly due to my not being expert enough to say for sure.  So I give
+Chu 5 points, the best score so far, with the reservation that one would
+have to devote an enormous amount of time to the game to acquire any real
+proficiency.  I do enjoy playing the game on occasion, but since I have not
+played enough to know the moves of the promoted pieces without reference to
+the manual, both my skill and my enjoyment go way down late in the game.
+
+As for the larger relatives of Chu, I must agree with  Colin Adams that
+they are clearly less playable than Chu without offsetting advantages, and
+so I find the constant discussion of these "games" to be rather silly.  I am
+quite in agreement with George Hodges in the opinion that the really large
+versions were not really meant to be played at all.  In particular versions
+in which pieces demote on promotion would simply be drawish and boring.  Chu
+shogi already has too many pieces, probably the reason it died out, so even
+larger versions must simply be a joke.
+```
+
+Grand chess, the second-best of the lot by Kaufman's lights:
+
+```markdown
+As chu is to shogi, Grand chess is to chess.  The larger board and
+extra pieces (bishop + knight and rook + knight) add a whole new dimension
+to the game.  I'll have to give it a zero for history and tradition (a few
+games by Capablanca don't qualify it here).  I believe the draw percentage
+would be very low among masters (I haven't had one yet), and the advantage
+of first move small enough.  Memorized theory doesn't exist, though it could
+become a bit of a problem if the game became popular, so I'll give it 1/2
+here.  Variety of play is good, more than chess without reaching the point
+of overkill as with Chu, but perhaps still a bit less than I would like, so
+I'll give it 3/4.  Game length seems about right to me, a bit more than
+chess but nothing like Chu.  Early interaction is the same as in chess, and
+the strategical principles should be similar.   So Grand chess, despite its
+meager following, scores an amazing 6 1/4 out of 8 on my criteria, by far
+the best so far.  It really is an excellent game and deserves a bigger
+following.
+```
+
+Shogi, the best outright:
+
+```markdown
+Now for shogi, as it is currently played by millions of Japanese and a
+few thousand Westerners.  History and tradition are there in abundance,
+comparable to chess.  The draw % (about 2% in pro play, 1% in amateur) is
+minimal (some might argue it's too low!).  The advantage of first move is
+minimal (about 52-48%).  Variety of play is nearly ideal (ten piece types,
+including promoted rook and bishop, versus six in chess).  Memorized theory
+is a big problem, nearly as much as in chess, though the chances of turning
+around a bad opening are better in shogi, so I'll give it 1/4 (maybe we need
+shuffle-shogi !). Game length is ideal.  Early interaction is adequate,
+though a bit less than in chess, so I'll give it 3/4.  Strategic principles
+are quite ample, perhaps on a par with chess.  So shogi gets 7  out of 8,
+making it clearly the winner of this "competition".
+
+     Shogi is not a perfect game.  Some criticisms include the rather
+arbitrary moves of some pieces, the occasional draw due to there being no
+good way to start the fight in certain openings, the very unaesthetic need
+to resolve impasse games by point count, and the fact that many games begin
+with both sides moving into identical fortress formations before any
+interaction occurs.  Also the strength of the Left Anaguma castle is felt by
+many to be a spoiler in shogi, as for a while it seemed to relegate the
+ranging rook openings  to the dustbin of history, though the recent success
+of Fujii with his anti-Anaguma system seems to puncture a big hole in that
+criticism.  Despite these criticisms, I think the evidence is strong that
+shogi is the best game in the entire chess family, and with the risk of
+offending Go players (a game which I also play and respect greatly), perhaps
+the best game of all.
+```
+
+Michael Vaniver adds:
+
+```markdown
+Playing shogi is much more fun than playing chess for a novice.  The drop
+rule permits one to create the position one wants in many cases, which
+means that many tactical themes that occur only rarely in chess can be
+"manufactured" using drops in shogi.  I also think that the fact that pawns
+cannot capture forward in chess tends to create blockaded positions which
+sometimes makes it hard to get any attack going.  What usually seems to
+happen in these cases is that pieces get exchanged and before you know it
+you're in the endgame.  Thus chess games often become a war of
+attrition. This can't happen in shogi, and shogi endgames are vastly more
+interesting than chess endgames by any reasonable comparison.
+
+I agree with your assessment from my experience.  I think the only "flaw"
+in shogi is the standardization of the openings, and that something like
+"shuffle-shogi" will be necessary to keep the game from getting bogged down
+by opening theory.  Has anyone played shuffle-shogi?  I must add that most
+of what I've read on shogi seems to focus on tactics, giving the idea that
+the game is primarily tactical.  I suppose this is true in the endgame, but
+it would be interesting to read more about shogi strategy beyond analysis
+of the opening.
+
+I haven't played Chu (yet; I'm eager to try), but I find it hard to imagine
+that a game played on a 12x12 board with 92 pieces could have less
+strategical complexity than chess, played on an 8x8 board.  Perhaps you
+could elaborate here?  Wayne Schmittberger has argued that the tactical
+complexity of Chu is so great that, in fact, strategy dominates tactics
+because it's hard to read many moves deep, and so the important thing for
+Chu players is to learn to intuitively assess the merits of a position,
+much as Go players have to.
+```
+
+<a name="#Game-complexity-measures"></a>
+### Game complexity measures
+([overview](#overview))
+
+Found an interesting notion of "game depth" by renowned computer scientist and chess IM RJ Lipton in his post [The New Chess World Champion](https://rjlipton.wordpress.com/2014/12/28/the-new-chess-world-champion/). First the motivation/appetizer:
+
+```markdown
+GM Larry Kaufman and I have had closely similar chess ratings for four decades. However, in
+the last game we played he gave me odds of rook and bishop and beat me handily. Then he told 
+me that the world champion could probably beat him giving the same odds.
+
+This was not Western chess, where I would be pretty confident of beating anyone given just an
+extra bishop. It was Japanese chess, called Shogi. Shogi has no piece with the power of a queen,
+and the armies have just one rook and bishop each, so the odds I received were maximal. The main
+difference from Western chess is that captured pieces become their taker’s property and can be 
+“paratrooped” back into the game. This prevents the odds receiver from winning by attrition 
+through exchanges as prevails in chess, and throws upon the leader a burden of attack.
+
+It also makes Shogi *deeper* than chess in a way that can be defined mathematically.
+```
+
+Ooh, but what is this? Say more words!
+
+```markdown
+Say two players are a "class unit" apart if the stronger expects to score 75% against the
+weaker in a match. In chess, this corresponds to a difference of almost exactly 200 points
+in the standard Elo rating system. László Mérő, in his 1990 book Ways of Thinking, called 
+the number of class units from a typical beginning adult player to the human world champion
+the "depth" of a game.
+
+Tic-tac-toe may have a depth of 1: if you assume a beginner knows to block an immediate threat
+of three-in-a-row but plays randomly otherwise, then you can score over 75% by taking a corner
+when you go first and grifting a few games when you go second. Another school-recess game, 
+dots-and-boxes, is evidently deeper. We don’t know its depth for sure because it doesn’t have 
+a rating system and championship format like chess does.
+
+Chess ratings in the US go all the way down to the formal floor of 100 among scholastic players,
+but I concur with the estimate of Elo 600 for a young-adult beginner by a discussion of Mérő’s 
+book which I saw in the 1990s but did not preserve. This gave chess a depth of 11 class units up
+to 2800, which was world champion Garry Kasparov’s rating in 1990. If I recall correctly, 
+checkers (8x8) and backgammon had depth 10 while bridge tied chess at 11, but Shogi scored 14 and
+yet was dwarfed by Japan’s main head game, Go, at 25.
+```
+
+Whoa, *seriously*? Go's depth is 25?? 
+
+How this relates to computer players:
+
+```markdown
+Although it is coming on 18 years since Deep Blue beat Kasparov, humans are still barely fending
+off computers at shogi, while we retain some breathing room at Go. Since depth 14 translates to 
+Elo 3400 on the chess scale, while Komodo 8 is scraping 3300 on several chess rating lists, This 
+feels about right.
+
+Ten years ago, each doubling of speed was thought to add 50 Elo points to strength. Now the 
+estimate is closer to 30. Under the double-in-2-years version of Moore’s Law, using an average of
+50 Elo gained per doubling since Kasparov was beaten, one gets 450 Elo over 18 years, which again
+checks out.
+
+To be sure, the gains in computer chess have come from better algorithms not just speed, and 
+include nonlinear jumps, so Go should not count on a cushion of (25 – 14)*9 = 99 years.
+```
+
+Indeed it shouldn't. The post was written in 2014; AlphaGo beat the strongest player in the world only 3-4 years later.
+
+Weakness of this metric:
+
+```markdown
+One weakness in the notion of depth is dependence on how contests are aggregated. For tennis, 
+should we apply 75% expectation to games, pairs of games, sets, or matches—and how many games 
+in a set or sets in a match? 
+
+Another is that any game can be ‘reduced’ to depth 1 by flipping a coin; if heads the game is 
+played as-usual; if tails a second coin flip defines the outcome. Then nobody ever has more
+than 75% expectation. I regard both as beside the point for most board games, but both become
+nontrivial for games like backgammon that involve chance and are played with match stakes.
+```
+
 <a name="#Amazing-people"></a>
 ## Amazing people
 ([overview](#overview))
+
+<a name="#Srinivasa-Ramanujan"></a>
+### Srinivasa Ramanujan
+([overview](#overview))
+
+From JE Littlewood's review of “The Collected Papers of Srinivasa Ramanujan”:
+
+```markdown
+…the most important of [Ramanujan’s methods] were completely original. His intuition worked in
+analogies, sometimes, remote, and to an astonishing extent by empirical induction from particular
+numerical cases. …his most important weapon seems to have been a highly elaborate technique of 
+transformation by means of divergent series and integrals … He had no strict logical justification
+for his operations. He was not interested in rigour, which for that matter is not of first-rate 
+importance in analysis beyond the undergraduate stage, and can be supplied, given a real idea, by
+any competent professional. The clear-cut idea of what is *meant* by a proof, nowadays so familiar
+as to be taken for granted, he perhaps did not possess at all. If a significant piece of reasoning
+occurred somewhere, and the total mixture of evidence and intuition gave him certainty, he looked 
+no further. It is a minor indication of his quality that he can never have *missed* Cauchy’s
+theorem. With it he could have arrived more rapidly and conveniently at certain of his results, 
+but his own methods enabled him to survey the field with an equal comprehensiveness and as sure a 
+grasp.
+```
+
+<a name="#Richard-Feynman"></a>
+### Richard Feynman
+([overview](#overview))
+
+A lot of great quotes from Danny Hillis' retrospective of [his experiences with Dick](http://longnow.org/essays/richard-feynman-connection-machine/). I'll try not to quote the entire essay. 
+
+How they met, and how Dick agreed to help Danny & Co. work on the million-processor Connection Machine:
+
+```markdown
+One day when I was having lunch with Richard Feynman, I mentioned to him that I was planning
+to start a company to build a parallel computer with a million processors. His reaction was 
+unequivocal, "That is positively the dopiest idea I ever heard." For Richard a crazy idea was
+an opportunity to either prove it wrong or prove it right. Either way, he was interested. By 
+the end of lunch he had agreed to spend the summer working at the company.
+
+Richard's interest in computing went back to his days at Los Alamos, where he supervised the 
+"computers," that is, the people who operated the mechanical calculators. There he was
+instrumental in setting up some of the first plug-programmable tabulating machines for physical
+simulation. His interest in the field was heightened in the late 1970's when his son, Carl,
+began studying computers at MIT.
+
+I got to know Richard through his son. I was a graduate student at the MIT Artificial Intelligence
+Lab and Carl was one of the undergraduates helping me with my thesis project. I was trying to
+design a computer fast enough to solve common sense reasoning problems. The machine, as we 
+envisioned it, would contain a million tiny computers, all connected by a communications network.
+We called it a "Connection Machine." Richard, always interested in his son's activities, followed
+the project closely. He was skeptical about the idea, but whenever we met at a conference or I 
+visited CalTech, we would stay up until the early hours of the morning discussing details of the
+planned machine. The first time he ever seemed to believe that we were really going to try to build
+it was the lunchtime meeting.
+```
+
+Funny anecdote:
+
+```markdown
+Richard arrived in Boston the day after the company was incorporated. We had been busy raising the 
+money, finding a place to rent, issuing stock, etc. We set up in an old mansion just outside of the
+city, and when Richard showed up we were still recovering from the shock of having the first few 
+million dollars in the bank. No one had thought about anything technical for several months. We were
+arguing about what the name of the company should be when Richard walked in, saluted, and said, 
+"Richard Feynman reporting for duty. OK, boss, what's my assignment?" The assembled group of not-
+quite-graduated MIT students was astounded.
+
+After a hurried private discussion ("I don't know, you hired him..."), we informed Richard that his
+assignment would be to advise on the application of parallel processing to scientific problems.
+
+"That sounds like a bunch of baloney," he said. "Give me something real to do."
+
+So we sent him out to buy some office supplies. While he was gone, we decided that the part of the
+machine that we were most worried about was the router that delivered messages from one processor 
+to another. We were not sure that our design was going to work. When Richard returned from buying 
+pencils, we gave him the assignment of analyzing the router.
+```
+
+The router problem:
+
+```markdown
+The router of the Connection Machine was the part of the hardware that allowed the processors to
+communicate. It was a complicated device; by comparison, the processors themselves were simple. 
+Connecting a separate communication wire between each pair of processors was impractical since a 
+million processors would require $10^{12}$ wires. Instead, we planned to connect the processors in
+a 20-dimensional hypercube so that each processor would only need to talk to 20 others directly. 
+Because many processors had to communicate simultaneously, many messages would contend for the same
+wires. The router's job was to find a free path through this 20-dimensional traffic jam or, if it 
+couldn't, to hold onto the message in a buffer until a path became free. Our question to Richard 
+Feynman was whether we had allowed enough buffers for the router to operate efficiently.
+
+During those first few months, Richard began studying the router circuit diagrams as if they were
+objects of nature. He was willing to listen to explanations of how and why things worked, but 
+fundamentally he preferred to figure out everything himself by simulating the action of each of 
+the circuits with pencil and paper. ...
+
+The technical side of the project was definitely stretching our capacities. We had decided to 
+simplify things by starting with only 64,000 processors, but even then the amount of work to do
+was overwhelming. We had to design our own silicon integrated circuits, with processors and a
+router. We also had to invent packaging and cooling mechanisms, write compilers and assemblers, 
+devise ways of testing processors simultaneously, and so on. Even simple problems like wiring the
+boards together took on a whole new meaning when working with tens of thousands of processors. In
+retrospect, if we had had any understanding of how complicated the project was going to be, we
+never would have started.
+```
+
+Solving the router problem the physicist's way -- PDEs instead of discrete math:
+
+```markdown
+By the end of that summer of 1983, Richard had completed his analysis of the behavior of the 
+router, and much to our surprise and amusement, he presented his answer in the form of a set of 
+partial differential equations. To a physicist this may seem natural, but to a computer designer,
+treating a set of boolean circuits as a continuous, differentiable system is a bit strange. 
+Feynman's router equations were in terms of variables representing continuous quantities such as
+"the average number of 1 bits in a message address." I was much more accustomed to seeing analysis
+in terms of inductive proof and case analysis than taking the derivative of "the number of 1's" 
+with respect to time. Our discrete analysis said we needed seven buffers per chip; Feynman's
+equations suggested that we only needed five. We decided to play it safe and ignore Feynman.
+
+The decision to ignore Feynman's analysis was made in September, but by next spring we were up
+against a wall. The chips that we had designed were slightly too big to manufacture and the only way 
+to solve the problem was to cut the number of buffers per chip back to five. Since Feynman's 
+equations claimed we could do this safely, his unconventional methods of analysis started looking
+better and better to us. We decided to go ahead and make the chips with the smaller number of buffers.
+
+Fortunately, he was right. When we put together the chips the machine worked. The first program
+run on the machine in April of 1985 was Conway's game of Life.
+```
+
+Dick's "Los Alamos" Great Reference Point, and "Let's Get Organized":
+
+```markdown
+I had never managed a large group before and I was clearly in over my head. Richard volunteered 
+to help out. "We've got to get these guys organized," he told me. "Let me tell you how we did it
+at Los Alamos."
+
+Every great man that I have known has had a certain time and place in their life that they use 
+as a reference point; a time when things worked as they were supposed to and great things were 
+accomplished. For Richard, that time was at Los Alamos during the Manhattan Project. Whenever 
+things got "cockeyed," Richard would look back and try to understand how now was different than
+then. Using this approach, Richard decided we should pick an expert in each area of importance
+in the machine, such as software or packaging or electronics, to become the "group leader" in 
+this area, analogous to the group leaders at Los Alamos.
+
+Part Two of Feynman's "Let's Get Organized" campaign was that we should begin a regular seminar 
+series of invited speakers who might have interesting things to do with our machine. Richard's
+idea was that we should concentrate on people with new applications, because they would be less
+conservative about what kind of computer they would use. For our first seminar he invited John 
+Hopfield, a friend of his from CalTech, to give us a talk on his scheme for building neural 
+networks. In 1983, studying neural networks was about as fashionable as studying ESP, so some 
+people considered John Hopfield a little bit crazy. Richard was certain he would fit right in at
+Thinking Machines Corporation.
+
+What Hopfield had invented was a way of constructing an [associative memory], a device for 
+remembering patterns. To use an associative memory, one trains it on a series of patterns, such 
+as pictures of the letters of the alphabet. Later, when the memory is shown a new pattern it is 
+able to recall a similar pattern that it has seen in the past. A new picture of the letter "A" 
+will "remind" the memory of another "A" that it has seen previously. Hopfield had figured out how
+such a memory could be built from devices that were similar to biological neurons.
+
+Not only did Hopfield's method seem to work, but it seemed to work well on the Connection Machine.
+Feynman figured out the details of how to use one processor to simulate each of Hopfield's neurons,
+with the strength of the connections represented as numbers in the processors' memory. Because of 
+the parallel nature of Hopfield's algorithm, all of the processors could be used concurrently with
+100% efficiency, so the Connection Machine would be hundreds of times faster than any conventional 
+computer.
+```
+
+Dick's love for detail:
+
+```markdown
+Concentrating on the algorithm for a basic arithmetic operation was typical of Richard's approach.
+He loved the details. In studying the router, he paid attention to the action of each individual
+gate and in writing a program he insisted on understanding the implementation of every instruction.
+He distrusted abstractions that could not be directly related to the facts. When several years 
+later I wrote a general interest article on the Connection Machine for [Scientific American], he
+was disappointed that it left out too many details. He asked, "How is anyone supposed to know that
+this isn't just a bunch of crap?"
+
+Feynman's insistence on looking at the details helped us discover the potential of the machine for
+numerical computing and physical simulation. We had convinced ourselves at the time that the 
+Connection Machine would not be efficient at "number-crunching," because the first prototype had no
+special hardware for vectors or floating point arithmetic. Both of these were "known" to be
+requirements for number-crunching. Feynman decided to test this assumption on a problem that he was
+familiar with in detail: quantum chromodynamics.
+
+Quantum chromodynamics is a theory of the internal workings of atomic particles such as protons.
+Using this theory it is possible, in principle, to compute the values of measurable physical 
+quantities, such as a proton's mass. In practice, such a computation requires so much arithmetic
+that it could keep the fastest computers in the world busy for years. One way to do this calculation
+is to use a discrete four-dimensional lattice to model a section of space-time. Finding the solution
+involves adding up the contributions of all of the possible configurations of certain matrices on 
+the links of the lattice, or at least some large representative sample. (This is essentially a 
+Feynman path integral.) The thing that makes this so difficult is that calculating the contribution
+of even a single configuration involves multiplying the matrices around every little loop in the 
+lattice, and the number of loops grows as the fourth power of the lattice size. Since all of these
+multiplications can take place concurrently, there is plenty of opportunity to keep all 64,000 
+processors busy.
+
+To find out how well this would work in practice, Feynman had to write a computer program for QCD.
+Since the only computer language Richard was really familiar with was Basic, he made up a parallel
+version of Basic in which he wrote the program and then simulated it by hand to estimate how fast 
+it would run on the Connection Machine.
+
+He was excited by the results. "Hey Danny, you're not going to believe this, but that machine of
+yours can actually do something [useful]!" According to Feynman's calculations, the Connection 
+Machine, even without any special hardware for floating point arithmetic, would outperform a machine
+that CalTech was building for doing QCD calculations. From that point on, Richard pushed us more and
+more toward looking at numerical applications of the machine.
+```
+
+Dick's attitude towards explanations:
+
+```markdown
+In the meantime, we were having a lot of trouble explaining to people what we were doing with
+cellular automata. Eyes tended to glaze over when we started talking about state transition diagrams
+and finite state machines. Finally Feynman told us to explain it like this,
+
+"We have noticed in nature that the behavior of a fluid depends very little on the nature of the
+individual particles in that fluid. For example, the flow of sand is very similar to the flow of
+water or the flow of a pile of ball bearings. We have therefore taken advantage of this fact to 
+invent a type of imaginary particle that is especially simple for us to simulate. This particle is
+a perfect ball bearing that can move at a single speed in one of six directions. The flow of these
+particles on a large enough scale is very similar to the flow of natural fluids."
+
+This was a typical Richard Feynman explanation. On the one hand, it infuriated the experts who had
+worked on the problem because it neglected to even mention all of the clever problems that they had
+solved. On the other hand, it delighted the listeners since they could walk away from it with a real
+understanding of the phenomenon and how it was connected to physical reality.
+
+We tried to take advantage of Richard's talent for clarity by getting him to critique the technical
+presentations that we made in our product introductions. Before the commercial announcement of the
+Connection Machine CM-1 and all of our future products, Richard would give a sentence-by-sentence 
+critique of the planned presentation. "Don't say `reflected acoustic wave.' Say [echo]." Or, "Forget
+all that `local minima' stuff. Just say there's a bubble caught in the crystal and you have to shake
+it out." Nothing made him angrier than making something simple sound complicated.
+```
+
+Dick hated being asked for advice, and would often say "not my department":
+
+```markdown
+Getting Richard to give advice like that was sometimes tricky. He pretended not to like working on 
+any problem that was outside his claimed area of expertise. Often, at Thinking Machines when he was
+asked for advice he would gruffly refuse with "That's not my department." I could never figure out 
+just what his department was, but it did not matter anyway, since he spent most of his time working
+on those "not-my-department" problems. Sometimes he really would give up, but more often than not he
+would come back a few days after his refusal and remark, "I've been thinking about what you asked the
+other day and it seems to me..." This worked best if you were careful not to expect it.
+
+I do not mean to imply that Richard was hesitant to do the "dirty work." In fact, he was always
+volunteering for it. Many a visitor at Thinking Machines was shocked to see that we had a Nobel 
+Laureate soldering circuit boards or painting walls. But what Richard hated, or at least pretended to
+hate, was being asked to give advice. So why were people always asking him for it? Because even when 
+Richard didn't understand, he always seemed to understand better than the rest of us. And whatever he
+understood, he could make others understand as well. Richard made people feel like a child does, when
+a grown-up first treats him as an adult. He was never afraid of telling the truth, and however foolish 
+your question was, he never made you feel like a fool.
+```
+
+I do this too! "What's the simplest example", etc, albeit at a lot lower level:
+
+```markdown
+As it turned out, building a big computer is a good excuse to talk to people who are working on some of
+the most exciting problems in science. We started working with physicists, astronomers, geologists, 
+biologists, chemists --- everyone of them trying to solve some problem that it had never been possible
+to solve before. Figuring out how to do these calculations on a parallel machine requires understanding
+of the details of the application, which was exactly the kind of thing that Richard loved to do.
+
+For Richard, figuring out these problems was a kind of a game. He always started by asking very basic
+questions like, "What is the simplest example?" or "How can you tell if the answer is right?" He asked
+questions until he reduced the problem to some essential puzzle that he thought he would be able to solve.
+Then he would set to work, scribbling on a pad of paper and staring at the results. While he was in the
+middle of this kind of puzzle solving he was impossible to interrupt. "Don't bug me. I'm busy," he would
+say without even looking up. Eventually he would either decide the problem was too hard (in which case he
+lost interest), or he would find a solution (in which case he spent the next day or two explaining it to
+anyone who listened). In this way he worked on problems in database searches, geophysical modeling, 
+protein folding, analyzing images, and reading insurance forms.
+```
+
+Retracing experts as amateurs, a quote I also really relate to -- this one on punctuated equilibrium:
+
+```markdown
+The last project that I worked on with Richard was in simulated evolution. I had written a program that
+simulated the evolution of populations of sexually reproducing creatures over hundreds of thousands of 
+generations. The results were surprising in that the fitness of the population made progress in sudden
+leaps rather than by the expected steady improvement. The fossil record shows some evidence that real 
+biological evolution might also exhibit such "punctuated equilibrium," so Richard and I decided to look
+more closely at why it happened. He was feeling ill by that time, so I went out and spent the week with
+him in Pasadena, and we worked out a model of evolution of finite populations based on the Fokker Planck
+equations. When I got back to Boston I went to the library and discovered a book by Kimura on the 
+subject, and much to my disappointment, all of our "discoveries" were covered in the first few pages.
+When I called back and told Richard what I had found, he was elated. "Hey, we got it right!" he said.
+"Not bad for amateurs."
+
+In retrospect I realize that in almost everything that we worked on together, we were both amateurs. 
+In digital physics, neural networks, even parallel computing, we never really knew what we were doing.
+But the things that we studied were so new that no one else knew exactly what they were doing either. 
+It was amateurs who made the progress.
+```
+
+<a name="#Robin-Hanson"></a>
+### Robin Hanson
+([overview](#overview))
+
+Scott Alexander, writing about Robin in his book review [Age of Em](https://slatestarcodex.com/2016/05/28/book-review-age-of-em/):
+
+```markdown
+There are some people who are destined to become adjectives. Pick up a David Hume book you’ve 
+never read before and it’s easy to recognize the ideas and style as Humean. Everything Tolkien
+wrote is Tolkienesque in a non-tautological sense. This isn’t meant to denounce either writer 
+as boring. Quite the opposite. They produced a range of brilliant and diverse ideas. But there
+was a hard-to-define and very consistent ethos at the foundation of both. Both authors were 
+*very much like themselves.*
+
+Robin Hanson is more like himself than anybody else I know. He’s obviously brilliant – a PhD in
+economics, a masters in physics, work for DARPA, Lockheed, NASA, George Mason, and the Future of
+Humanity Institute. But his greatest aptitude is in being really, really Hansonian.
+
+Bryan Caplan describes it as well as anybody:
+
+*When the typical economist tells me about his latest research, my standard reaction is ‘Eh, maybe.’
+Then I forget about it. When Robin Hanson tells me about his latest research, my standard reaction 
+is ‘No way! Impossible!’ Then I think about it for years.*
+
+This is my experience too. I think I said my first “No way! Impossible!” sometime around 2008 after
+reading his blog Overcoming Bias. Since then he’s influenced my thinking more than almost anyone
+else I’ve ever read. When I heard he was writing a book, I was – well, I couldn’t even imagine a
+book by Robin Hanson. When you read a thousand word blog post by Robin Hanson, you have to sit down 
+and think about it and wait for it to digest and try not to lose too much sleep worrying about it.
+A whole book would be *something.*
+```
+
+Redditor and English professor u/werttrew's [A Robin Hanson primer](https://www.reddit.com/r/slatestarcodex/comments/3sjtar/a_robin_hanson_primer/) has a nice summary of his main ideas. He has this flattering remark:
+
+```markdown
+I think Hanson is important not necessarily because he’s always right but because he provides some
+startling and fresh ways of looking how the world works. I can probably safely attest that my 
+thinking of the world is heavily influenced by his ideas. (I am an English professor, and I find
+myself talking about Hanson’s ideas in my classes more often Weber or Foucault or Freud any other
+thinker).
+```
+
+u/werttrew talks about Robin's "inductive style":
+
+```markdown
+Robin tends to work inductively—big idea speculated first, then thought-experiments as to how it 
+would reveal itself. Like many economists, for better or worse Robin tends to work with interpretive
+frameworks that cannot be falsified empirically. This means that economic models do not always have
+the epistemic status of models in the physical sciences, which can be falsified through experiments.
+```
+
+<a name="#Scott-alexander"></a>
+### Scott Alexander
+([overview](#overview))
+
+TheZvi commenting on Scott's post [Does age bring wisdom?](https://slatestarcodex.com/2017/11/07/does-age-bring-wisdom/):
+
+```markdown
+Happy birthday, indeed. Since no one else seems to have pointed it out yet, let me state
+what seems to me to be completely obvious, which is that #2 is a load of bull.
+
+You are special. You can and do change the world.
+
+I’m not saying that to the proverbial/general you; this isn’t a “everyone is beautiful in
+every single way” thing, or a “anyone can change the world” pep talk. This is a “You are
+Scott Alexander and you have a voice and platform that actually matters” pep talk. People
+really do actually listen to you. People who matter. Your opinions filter in to the general
+discussion. I’m not talking only about rationalists or people in Berkeley, I’m talking
+about people like Tyler Cohen and Ezra Klein. If I had to list “blogs/people everyone in
+my office reads that aren’t explicitly about our work” you’d be on the list at #3 behind
+Tyler Cohen and Matt Levine.
+
+Maybe 10 years ago it would have been reasonable to say that you (probably) weren’t special
+and couldn’t change the world. But why would you believe that less now rather than more? 
+You’ve actually already changed it, and mostly for the better. So when you notice you’re 
+doing things that quash truth, or worse encourage others to quash or disregard truth for 
+other values (as you’ve done recently and explicitly), you’re not just fitting in. You’re
+doing real, sizable harm. Snap out of it.
+
+Act like you matter. Because you do.
+
+In general, it seems like you’re making the mistake of thinking that because there are
+hidden/complex reasons behind the things people do, and you’ve seen some of those reasons
+but not others, and at least some of those reasons are good reasons, that this means that 
+there’s a good reason for most (seemingly dumb) things people do and believe. No. A reason,
+or even worse an explanation, does not mean a good reason!
+
+Anyway, that’s what I have time for right now, except the reminder that yes Facebook is
+ruining everything and seriously you have all the information and know full well that 
+it’s true, and implying that it isn’t true by associating it with low-status in the form 
+of an old-person stereotype really isn’t helping.
+```
+
+#2 is [this point](#wisdom) (under Scott's "does age bring wisdom" musings).
+
+<a name="#Jeff-Bezos"></a>
+### Jeff Bezos
+([overview](#overview))
+
+As we should, we'll start with the legendary Steve Yegge [giant brain post](https://plus.google.com/110981030061712822816/posts/AaygmbzVeRq) on Google+ (which sadly no longer exists):
+
+```markdown
+**Amazon War Story #1:  Jeff Bezos**
+
+Over the years I watched people give presentations to Jeff Bezos and come back bruised: 
+emotionally, intellectually, often career-ily.  If you came back with a nod or a signoff,
+you were jumping for joy.  Presenting to Jeff is a gauntlet that tends to send people 
+back to the cave to lick their wounds and stay out of the sunlight for a while.
+
+I say “presentations” and you probably think PowerPoint, but no:  he outlawed PowerPoint
+there many years ago.  It’s not allowed on the campus.  If you present to Jeff, you write
+it as prose.
+
+One day it came time for me to present to Jeff.  It felt like... I don’t know, maybe how
+they swarm around you when you’re going to meet the President.  People giving you last-
+minute advice, wishing you luck, ushering you past regiments of admins and security guards.
+It’s like you’re in a movie.  A gladiator movie.
+
+Fortunately I’d spent years watching Jeff in action before my turn came, and I had prepared
+in an unusual way.  My presentation -- which, roughly speaking was about the core skills a
+generalist engineer ought to know -- was a resounding success.  He loved it.  Afterwards 
+everyone was patting me on the back and congratulating me like I’d just completed a game-
+winning hail-mary pass or something.  One VP told me privately:  “Presentations with Jeff
+never go that well.”
+
+But here’s the thing:  I had already suspected Jeff was going to like my presentation. 
+You see, I had noticed two things about him, watching him over the years, that others had
+either not caught on to, or else they had not figured out how to make the knowledge actionable.
+
+Here is how I prepared.  Amazon people, take note.  This will help you.  I am dead serious.
+
+To prepare a presentation for Jeff, first make damn sure you know everything there is to know
+about the subject. Then write a prose narrative explaining the problem and solution(s).   
+Write it exactly the way you would write it for a leading professor or industry expert on the
+subject.
+
+That is:  assume he already knows *everything* about it.  Assume he knows more than you do
+about it.  Even if you have groundbreakingly original ideas in your material, just pretend it’s
+old hat for him.  Write your prose in the succinct, direct, no-explanations way that you would 
+write for a world-leading expert on the material.
+
+You’re almost done.  The last step before you’re ready to present to him is this:  
+*Delete every third paragraph.*
+
+Now you’re ready to present!
+
+Back in the mid-1800s there was this famous-ish composer/pianist named Franz Liszt.  He is
+widely thought to have been the greatest sight-reader who ever lived.  He could sight-read
+*anything* you gave him, including crazy stuff not even written for piano, like opera scores.
+He was so staggeringly good at sight-reading that his brain was only fully engaged on the first
+run-through.  After that he’d get bored and start embellishing with his own additions.
+
+Bezos is so goddamned smart that you have to turn it into a game for him or he’ll be bored and
+annoyed with you.  That was my first realization about him.  Who knows how smart he was before 
+he became a billionaire -- let’s just assume it was “really frigging smart”, since he did build 
+Amazon from scratch.  But for years he’s had armies of people taking care of *everything* for
+him.  He doesn’t have to do anything at all except dress himself in the morning and read 
+presentations all day long.  So he’s really, REALLY good at reading presentations.  He’s like the
+Franz Liszt of sight-reading presentations.
+
+So you have to start tearing out whole paragraphs, or even pages, to make it interesting for him.
+He will fill in the gaps himself without missing a beat.  And his brain will have less time to
+get annoyed with the slow pace of your brain.
+
+I mean, imagine what it would be like to start off as an incredibly smart person, arguably a first-
+class genius, and then somehow wind up in a situation where you have a general’s view of the 
+industry battlefield for ten years.  Not only do you have more time than anyone else, and access
+to more information than anyone else, you also have this long-term eagle-eye perspective that only
+a handful of people in the world enjoy.
+
+In some sense you wouldn’t even be human anymore.  People like Jeff are better regarded as hyper-
+intelligent aliens with a tangential interest in human affairs.
+
+But how do you prepare a presentation for a giant-brained alien?  Well, here’s my second realization:
+He *will* outsmart you.  Knowing everything about your subject is only a first-line defense for you.
+It’s like armor that he’ll eat through in the first few minutes.  He is going to have at least one 
+deep insight about the subject, right there on the spot, and it’s going to make you look like a 
+complete buffoon.
+
+Trust me folks, I saw this happen time and again, for *years*.  Jeff Bezos has all these incredibly
+intelligent, experienced domain experts surrounding him at huge meetings, and on a daily basis he 
+thinks of shit that they never saw coming.  It’s a guaranteed facepalm fest.
+
+So I knew he was going to think of something that I hadn’t.  I didn’t know what it might be, because
+I’d spent weeks trying to think of everything.  I had reviewed the material with *dozens* of people.
+But it didn’t matter.  I knew he was going to blindside me, because that’s what happens when you 
+present to Jeff.
+
+If you assume it’s coming, then it’s not going to catch you quite as off-guard.
+
+And of course it happened.  I forgot Data Mining.  Wasn’t in the list.  He asked me point-blank, 
+very nicely:  “Why aren’t Data Mining and Machine Learning in this list?”  And I laughed right in 
+his face, which sent a shock wave through the stone-faced jury of VPs who had been listening in 
+silence, waiting for a cue from Jeff as to whether he was going to be happy or I was headed for the
+salt mines.
+
+I laughed because I was *delighted*.  He’d caught me with my pants down around my ankles, right in 
+front of everyone, despite all my excruciating weeks of preparation.  I had even deleted about a third
+of the exposition just to keep his giant brain busy, but it didn’t matter.  He’d done it again, and I
+looked like a total ass-clown in front of everyone.  It was frigging awesome.
+
+So yeah, of course I couldn’t help laughing.  And I said:  “Yup, you got me.  I don’t know why it’s not
+in there.  It should be.  I’m a dork.  I’ll add it.”  And he laughed, and we moved on, and everything 
+was great.  Even the VPs started smiling.  It annoyed the hell out of me that they’d had to wait for a 
+cue, but whatever.  Life was good.
+
+You have to understand:  most people were scared around Bezos because they were waaaay too worried about
+trying to keep their jobs.  People in high-level positions sometimes have a little too much personal 
+self-esteem invested in their success.  Can you imagine how annoying it must be for him to be around 
+timid people all day long?  But me -- well, I thought I was going to get fired every single day.  So 
+fuck timid.  Might as well aim high and go out in a ball of flame.
+
+That’s where the “Dread Pirate Bezos” line came from.  I worked hard and had fun, but every day I honestly
+worried they might fire me in the morning.  Sure, it was a kind of paranoia.  But it was sort of healthy
+in a way.  I kept my resume up to date, and I kept my skills up to date, and I never worried about saying
+something stupid and ruining my career.  Because hey, they were most likely going to fire me in the morning.
+```
+
+And this one is from his legendary [platforms rant](https://gist.github.com/chitchcock/1281611):
+
+```markdown
+But there's one thing they (Amazon) do really really well that pretty much makes up for ALL 
+of their political, philosophical and technical screw-ups.
+
+Jeff Bezos is an infamous micro-manager. He micro-manages every single pixel of Amazon's
+retail site. He hired Larry Tesler, Apple's Chief Scientist and probably the very most famous
+and respected human-computer interaction expert in the entire world, and then ignored every
+goddamn thing Larry said for three years until Larry finally -- wisely -- left the company.
+Larry would do these big usability studies and demonstrate beyond any shred of doubt that 
+nobody can understand that frigging website, but Bezos just couldn't let go of those pixels,
+all those millions of semantics-packed pixels on the landing page. They were like millions of
+his own precious children. So they're all still there, and Larry is not.
+
+Micro-managing isn't that third thing that Amazon does better than us, by the way. I mean, 
+yeah, they micro-manage really well, but I wouldn't list it as a strength or anything. I'm 
+just trying to set the context here, to help you understand what happened. We're talking about
+a guy who in all seriousness has said on many public occasions that people should be paying 
+him to work at Amazon. He hands out little yellow stickies with his name on them, reminding 
+people "who runs the company" when they disagree with him. The guy is a regular... well, Steve
+Jobs, I guess. Except without the fashion or design sense. Bezos is super smart; don't get me
+wrong. He just makes ordinary control freaks look like stoned hippies.
+```
+
+Khe Hy is [far more reverent](https://radreads.co/weis-wisdom-jeff-bezos-on-leadership-and-business-strategy/) of Bezos. The following all come from Eugene Wei, whose blog [Remains of the Day](https://www.eugenewei.com/) is also pretty great. 
+
+Compression as a form of business leverage:
+
+```markdown
+He understood that you had to do a good job of encapsulating company strategy in a succinct 
+and memorable way because the company was just so large and sprawling that it was so easy for
+the message to dissipate as it traveled from person to person. He did a good job of encoding
+the message and using rituals to ensure that the message was always emphasized.
+```
+
+Encoding a message:
+
+```markdown
+Amazon had different themes for different years [like in Infinite Jest]. One year, we had studied
+different companies in history and discovered that at $1 Bn in revenue companies go sideways or 
+topple over due to scaling. Jeff was conscious of heading that off. We had a year called “Getting 
+our House in Order” and the acronym was G.O.H.I.O. There was a contest to name the year and this 
+was the most memorable name. You ask anyone at Amazon who was there at that year and they’ll say 
+“Oh there was that year of G.O.H.I.O. with a concrete set of projects.” You go to most companies 
+today and ask them, what’s our theme this year and they’ll have no idea. It seems silly to have a
+contest to name a theme, but it really hit home with every group of the company. You’d have that 
+repeated at every meeting.
+```
+
+The power of rituals:
+
+```markdown
+An example of a ritual was that Jeff was worried that in organizations, as they get larger, they 
+get slower moving. People spot problems but don’t feel the same impulse to fix a problem as they 
+did when it was a small company. We had an award called the “Just Do It” Award and he’d announce 
+it at every all-hands meetings, he’d give out any number of awards. And you could nominate people 
+for this. And the rule was that it was something that you did on your own, without asking for 
+permission, it didn’t have to work. You just spotted a problem, you tried to tackle it in some
+way. And you would get a single Nike shoe on a plaque. That was just reinforcing the idea that
+“Hey, we’re a culture that constantly tries to spot and fix problems.”
+```
+
+Bezos separating the company from the business:
+
+```markdown
+He was very good at separating the company from the business. The company is Amazon, a bunch 
+of capabilities, people, organizations and processes and then there’s Amazon.com the retail 
+business and he knew that these were two separate things. You had to work at the organism of
+the organization and the culture, processes. And sometimes you had to think about basic business
+strategy at Amazon.com. We’re very attached to a model of the tech CEO as a “product visionary,”
+the Steve Jobs model of rolling up your sleeves, nitpicking the product details; we probably
+underestimate Steve Jobs the company-builder.
+```
 
 <a name="#Andrey-Kolmogorov"></a>
 ### Andrey Kolmogorov
@@ -481,6 +1387,196 @@ Wolfram on von Neumann, from [John von Neumann's 100th birthday](http://blog.ste
 Some scientists (such as myself) spend most of their lives pursuing their own grand programs, ultimately in a fairly isolated way. John von Neumann was instead someone who always liked to interact with the latest popular issues—and the people around them—and then contribute to them in his own characteristic way.
 
 He worked hard, often on many projects at once, and always seemed to have fun. In retrospect, he chose most of his topics remarkably well. He studied each of them with a definite practical mathematical style. And partly by being the first person to try applying serious mathematical methods in various areas, he was able to make important and unique contributions.
+```
+
+More from Steve -- he's interesting to read, because it's by one of the few people on the planet whose sheer mental horsepower was within striking distance of Johnny.
+
+```markdown
+Today (December 28, 2003) would have been John von Neumann’s 100th birthday—if he had
+not died at age 54 in 1957. I’ve been interested in von Neumann for many years—not least
+because his work touched on some of my most favorite topics. He is mentioned in 12 
+separate places in my book—second in number only to Alan Turing, who appears 19 times.
+
+I always feel that one can appreciate people’s work better if one understands the people
+themselves better. And from talking to many people who knew him, I think I’ve gradually 
+built up a decent picture of John von Neumann as a man.
+
+He would have been fun to meet. He knew a lot, was very quick, always impressed people,
+and was lively, social and funny.
+
+One video clip of him has survived. In 1955 he was on a television show called Youth Wants
+to Know, which today seems painfully hokey. Surrounded by teenage kids, he is introduced
+as a commissioner of the Atomic Energy Commission—which in those days was a big deal. He
+is asked about an exhibit of equipment. He says very seriously that it’s mostly radiation
+detectors. But then a twinkle comes into his eye, and he points to another item, and says
+deadpan, “Except this, which is a carrying case.” And that’s the end of the only video 
+record of John von Neumann that exists.
+
+Some scientists (such as myself) spend most of their lives pursuing their own grand programs,
+ultimately in a fairly isolated way. John von Neumann was instead someone who always liked 
+to interact with the latest popular issues—and the people around them—and then contribute
+to them in his own characteristic way.
+
+He worked hard, often on many projects at once, and always seemed to have fun. In retrospect,
+he chose most of his topics remarkably well. He studied each of them with a definite 
+practical mathematical style. And partly by being the first person to try applying serious
+mathematical methods in various areas, he was able to make important and unique contributions.
+
+But I’ve been told that he was never completely happy with his achievements because he thought
+he missed some great discoveries. And indeed he was close to a remarkable number of important
+mathematics-related discoveries of the twentieth century: Godel’s theorem, Bell’s inequalities,
+information theory, Turing machines, computer languages—as well as my own more recent favorite
+core NKS discovery of complexity from simple rules.
+
+But somehow he never quite made the conceptual shifts that were needed for any of these 
+discoveries.
+
+There were, I think, two basic reasons for this. First, he was so good at getting new results 
+by the mathematical methods he knew that he was always going off to get more results, and never 
+had a reason to pause and see whether some different conceptual framework should be considered. 
+And second, he was not particularly one to buck the system: he liked the social milieu of 
+science and always seemed to take both intellectual and other authority seriously. ...
+
+By the 1930s von Neumann was publishing several papers a year, on a variety of popular topics
+in mainstream mathematics, often in collaboration with contemporaries of significant later 
+reputation (Wigner, Koopman, Jordan, Veblen, Birkhoff, Kuratowski, Halmos, Chandrasekhar, etc.).
+Von Neumann’s work was unquestionably good and innovative, though very much in the flow of
+development of the mathematics of its time.
+
+Despite von Neumann’s early interest in logic and the foundations of math, he (like most of the
+math community) moved away from this by the mid-1930s. In Cambridge and then in Princeton he
+encountered the young Alan Turing—even offering him a job as an assistant in 1938. But he 
+apparently paid little attention to Turing’s classic 1936 paper on Turing machines and the
+concept of universal computation, writing in a recommendation letter on June 1, 1937 that
+“[Turing] has done good work on … theory of almost periodic functions and theory of continuous
+groups”.
+
+As it did for many scientists, von Neumann’s work on the Manhattan Project appears to have 
+broadened his horizons, and seems to have spurred his efforts to apply his mathematical prowess
+to problems of all sorts—not just in traditional mathematics. His pure mathematical colleagues 
+seem to have viewed such activities as a peculiar and somewhat suspect hobby, but one that could
+generally be tolerated in view of his respectable mathematical credentials.
+
+Among several of von Neumann’s interests outside of mainstream pure mathematics was his attempt 
+to develop a mathematical theory of biology and life (see the NKS book, page 876). In the 
+mid-1940s there had begun to be—particularly from wartime work on electronic control systems—
+quite a bit of discussion about analogies between “natural and artificial automata”, and 
+“cybernetics”. And von Neumann decided to apply his mathematical methods to this. I’ve been told
+he was particularly impressed by the work of McCullough and Pitts on formal models of the analogy
+between brains and electronics (see the NKS book, page 1099). (There were undoubtedly other 
+influences too: John McCarthy told me that around 1948 he visited von Neumann, and told him about
+applying information theory ideas to thinking about the brain as an automaton; von Neumann’s main
+response at the time was just, “Write it up!”)
+
+Von Neumann was in many ways a traditional mathematician, who (like Turing) believed he needed to
+turn to partial differential equations in describing natural systems. I’ve been told that at Los 
+Alamos von Neumann was very taken with electrically stimulated jellyfish, which he appears to have
+viewed as doing some kind of continuous analog of the information processing of an electronic
+circuit. In any case, by about 1947, he had conceived the idea of using partial differential 
+equations to model a kind of factory that could reproduce itself, like a living organism.
+
+Von Neumann always seems to have been very taken with children, and I am told that it was in playing
+with an erector set owned by the son of his game-theory collaborator Oskar Morgenstern that von
+Neumann realized that his self-reproducing factory could actually be built out of discrete robotic-
+like parts. (There was already something of a tradition of building computers out of Meccano—and 
+indeed for example some of Hartree’s early articles on analog computers appeared in Meccano Magazine.)
+
+An electrical engineer named Julian Bigelow, who worked on von Neumann’s IAS computer project,
+pointed out that 3D parts were not necessary, and that 2D would work just as well. (When I was 
+at the Institute in the early 1980s Bigelow was still there, though unfortunately viewed as a 
+slightly peculiar relic of von Neumann’s project.)
+
+Stan Ulam told me that he had independently thought about making mathematical models of biology,
+but in any case, around 1951 he appears to have suggested to von Neumann that one should be able
+to use a simplified, essentially combinatorial model—based on something like the infinite matrices
+that Ulam had encountered in the so-called Scottish Book of math problems (named after a café in 
+Poland) to which he had contributed.
+
+The result of all this was a model that was formally a two-dimensional cellular automaton. Systems
+equivalent to two-dimensional cellular automata were arising in several other contexts around the
+same time (see the NKS book, page 876). Von Neumann seems to have viewed his version as a convenient
+framework in which to construct a mathematical system that could emulate engineered computer systems—
+especially the EDVAC on which von Neumann worked.
+
+In the period 1952–53 von Neumann sketched an outline of a proof that it was possible for a formal 
+system to support self reproduction. Whenever he needed a different kind of component (wire, 
+oscillator, logic element, etc.) he just added it as a new state of his cellular automaton, with 
+new rules. He ended up with a 29-state system, and a 200,000-cell configuration that could reproduce
+itself. (Von Neumann himself did not complete the construction. This was done in the early 1960s by
+a former assistant of von Neumann’s named Arthur Burks, who had left the IAS computer project to
+concentrate on his interests in philosophy, though who maintains even today an interest in cellular
+automata.)
+
+From the point of view of NKS, von Neumann’s system now seems almost grotesquely complicated. But
+von Neumann’s intuition told him that one could not expect a simpler system to show something as 
+sophisticated and biological as self reproduction. What he said was that he thought that below a
+certain level of complexity, systems would always be “degenerative”, and always generate what 
+amounts to behavior simpler than their rules. But then, from seeing the example of biology, and 
+of systems like Turing machines, he believed that above some level, there should be an “explosive”
+increase in complexity, with systems able to generate other systems more complex than themselves. 
+But he said that he thought the threshold for this would be systems with millions of parts.
+
+Twenty-five years ago I might not have disagreed too strongly with that. And certainly for me it 
+took several years of computer experimentation to understand that in fact it takes only very simple 
+rules to produce even the most complex behavior. So I do not think it surprising—or unimpressive—
+that von Neumann failed to realize that simple rules were enough. ...
+
+I have asked many people who knew him why von Neumann never considered simpler rules. Marvin Minsky
+told me that he actually asked von Neumann about this directly, but that von Neumann had been 
+somewhat confused by the question. It would have been much more Ulam’s style than von Neumann’s to
+have come up with simpler rules, and Ulam indeed did try making a one-dimensional analog of 2D 
+cellular automata, but came up not with 1D cellular automata, but with a curious number-theoretical
+system (see the NKS book, page 908).
+
+In the last ten years of his life, von Neumann got involved in an impressive array of issues.
+Some of his colleagues seem to have felt that he spent too little time on each one, but still 
+his contributions were usually substantial—sometimes directly in terms of content, and usually 
+at least in terms of lending his credibility to emerging areas.
+
+He made mistakes, of course. He thought that each logical step in computation would necessarily
+dissipate a certain amount of heat, whereas in fact reversible computation is in principle 
+possible. He thought that the unreliability of components would be a major issue in building large
+computer systems; he apparently did not have an idea like error-correcting codes. He is reputed to 
+have said that no computer program would ever be more than a few thousand lines long. He was 
+probably thinking about proofs of theorems—but did not think about subroutines, the analog of lemmas.
+
+Von Neumann was a great believer in the efficacy of mathematical methods and models, perhaps 
+implemented by computers. In 1950 he was optimistic that accurate numerical weather forecasting
+would soon be possible (see the NKS book page 1132). In addition, he believed that with methods
+like game theory it should be possible to understand much of economics and other forms of human 
+behavior (see the NKS book page 1135).
+
+Von Neumann was always quite a believer in using the latest methods and tools (I’m sure he would 
+have been a big Mathematica user today). He typically worked directly with one or two collaborators,
+sometimes peers, sometimes assistants, though he maintained contact with a large network of
+scientists. (A typical communication was a letter he wrote to Alan Turing in 1949, in which he asks,
+“What are the problems on which you are working now, and what is your program for the immediate 
+future?”) In his later years he often operated as a distinguished consultant, brought in by the
+government, or other large organizations. His work was then often presented as a report, that was 
+accorded particular weight because of his distinguished consultant status. (It was also often a good
+and clear piece of work.) He was often viewed a little ambivalently as an outsider in the fields he 
+entered—positively because he brought his distinction to the field, negatively because he was not in
+the clique of experts in the field.
+
+Particularly in the early 1950s, von Neumann became deeply involved in military consulting, and 
+I wonder how much of the intellectual style of Cold War US military strategic thinking actually
+originated with him. He seems to have been quite flattered that he was called upon to do this
+consulting, and he certainly treated the government with considerably more respect than many 
+other scientists of his day. Except sometimes in his exuberance to demonstrate his mathematical 
+and calculational prowess, he seems to have always been quite mature and diplomatic. The transcript
+of his testimony at the Oppenheimer security hearing certainly for example bears this out.
+
+Nevertheless, von Neumann’s military consulting involvements left some factions quite negative
+about him. It’s sometimes said, for example, that von Neumann might have been the model for the
+sinister Dr. Strangelove character in Stanley Kubrick’s movie of that name (and indeed von Neumann
+was in a wheelchair for the last year of his life). And vague negative feelings about von Neumann
+surface for example in a typical statement I heard recently from a science historian of the period—
+that “somehow I don’t like von Neumann, though I can’t remember exactly why”.
+
+I recently met von Neumann’s only child—his daughter Marina, who herself has had a distinguished
+career, mostly at General Motors. She reinforced my impression that until his unpleasant final 
+illness, John von Neumann was a happy and energetic man, working long hours on mathematical topics,
+and always having fun.
 ```
 
 The fullest version of the Dantzig-meets-von Neumann story I’ve seen comes from the [IFORS Operational Research Hall of Fame article](http://www.cs.xu.edu/~neyer/Math/NumberTheory/Research/VonNeumann.pdf) on the latter:
@@ -2143,6 +3239,242 @@ be very cautious while using them.
 ## Memory and the brain
 ([overview](#overview))
 
+<a name="#wisdom"></a>
+### Wisdom
+([overview](#overview))
+
+Scott Alexander on wisdom in [Does age bring wisdom?](https://slatestarcodex.com/2017/11/07/does-age-bring-wisdom/) resonated pretty strongly with me:
+
+```markdown
+We’ve been talking recently about the high-level frames and heuristics that organize other 
+concepts. They’re hard to transmit, and you have to rediscover them on your own, sometimes
+with the help of lots of different explanations and viewpoints (or one very good one). 
+They’re not obviously apparent when you’re missing them; if you’re not ready for them, they
+just sound like platitudes and boring things you’ve already internalized.
+
+Wisdom seems like the accumulation of those, or changes in higher-level heuristics you get
+once you’ve had enough of those. I look back on myself now vs. ten years ago and notice
+I’ve become more cynical, more mellow, and more prone to believing things are complicated. 
+For example:
+
+1. Less excitement about radical utopian plans to fix everything in society at once
+2. Less belief that I’m special and can change the world
+3. Less trust in any specific system, more resignation to the idea that anything useful
+requires a grab bag of intuitions, heuristics, and almost-unteachable skills.
+4. More willingness to assume that other people are competent in aggregate in certain
+ways, eg that academic fields aren’t making incredibly stupid mistakes or pointlessly
+circlejerking in ways I can easily detect.
+5. More willingness to believe that power (as in “power structures” or “speak truth to
+power”) matters and infects everything.
+6. More belief in Chesterton’s Fence.
+7. More concern that I’m wrong about everything, even the things I’m right about, on 
+the grounds that I’m missing important other paradigms that think about things completely 
+differently.
+8. Less hope that everyone would just get along if they understood each other a little
+better.
+9. Less hope that anybody cares about truth (even though ten years ago I would have
+admitted that nobody cares about truth).
+
+All these seem like convincing insights. But most of them are in the direction of elite 
+opinion. There’s an innocent explanation for this: intellectual elites are pretty wise, 
+so as I grow wiser I converge to their position. But the non-innocent explanation is that 
+I’m not getting wiser, I’m just getting *better socialized*. Maybe in medieval Europe, the 
+older I grew, the more I would realize that the Pope was right about everything.
+```
+
+A particular example:
+
+```markdown
+I’m pretty embarassed by Parable On Obsolete Ideologies, which I wrote eight years ago. 
+It’s not just that it’s badly written, or that it uses an ill-advised Nazi analogy. It’s
+that it’s an impassioned plea to jettison everything about religion immediately, because
+institutions don’t matter and only raw truth-seeking is important. If I imagine myself 
+entering that debate today, I’d be more likely to take the opposite side. But when I read 
+Parable, there’s…nothing really wrong with it. It’s a good argument for what it argues for.
+I don’t have much to say against it. Ask me what changed my mind, and I’ll shrug, tell you
+that I guess my priorities shifted. But I can’t help noticing that eight years ago, New 
+Atheism was really popular, and now it’s really unpopular. Or that eight years ago I was in
+a place where having Richard Dawkins style hyperrationalism was a useful brand, and now I’m
+(for some reason) in a place where having James C. Scott style intellectual conservativism 
+is a useful brand. A lot of the “wisdom” I’ve “gained” with age is the kind of wisdom that
+helps me channel James C. Scott instead of Richard Dawkins; how sure am I that this is the
+right path?
+```
+
+This is the "money quote", the whole reason I started this subheading:
+
+```markdown
+Sometimes I can almost feel this happening. First I believe something is true, and say so.
+Then I realize it’s considered low-status and cringeworthy. Then I make a principled decision 
+to avoid saying it – or say it only in a very careful way – in order to protect my reputation 
+and ability to participate in society. Then when other people say it, I start looking down on
+them for being bad at public relations. Then I start looking down on them just for being low-
+status or cringeworthy. Finally the idea of “low-status” and “bad and wrong” have merged so 
+fully in my mind that the idea seems terrible and ridiculous to me, and I only remember it’s
+true if I force myself to explicitly consider the question. And even then, it’s in a 
+condescending way, where I feel like the people who say it’s true deserve low status for not
+being smart enough to remember not to say it. This is endemic, and I try to quash it when I 
+notice it, but I don’t know how many times it’s slipped my notice all the way to the point 
+where I can no longer remember the truth of the original statement.
+```
+
+Are old people really wiser? Why do they sound so crankily conservative? A model:
+
+```markdown
+And if I accept my intellectual changes as “gaining wisdom”, shouldn’t I also believe that 
+old people are wiser than I am? And old people mostly seem to go around being really 
+conservative and saying that everything was better in the old days and the youth are corrupt
+and Facebook is going to be the death of us. I could model this as two different processes –
+a real wisdom-related process that ends exactly where I am now, plus a false rose-colored-
+glasses-related process that ends with your crotchety great-uncle talking about how things 
+have been going downhill since the war – but that’s a lot of special pleading. I remember 
+when I was twenty, I thought the only reason adults were less utopian than I was, was
+because of their hidebound rose-colored self-serving biases. Pretty big coincidence that I 
+was wrong then, but I’m right about everyone older than me *now.*
+```
+
+John "Erisology" Nerst responds:
+
+```markdown
+I think there could be selection effect. Not all people get wiser as they age and many hit 
+a ceiling at some time. Maybe those are the ones most likely to make their opinions heard 
+(I mean, it’s hardly the case that the wisest are the loudest among the younger population
+either). And the really wise ones stay silent because their wisdom has become impossible to
+communicate?
+
+It reminds me of the quote from Julian Barnes’ Staring at the Sun:
+
+*Everything you wanted to say required a context. If you gave the full context, people
+thought you a rambling old fool. If you didn’t give the context, people thought you a
+laconic old fool.”*
+```
+
+Worst-case scenario -- wisdom as "NMDA reception function change with age":
+
+```markdown
+There’s one more possibility that bothers me even worse than the socialization or
+traumatization theory. I’m going to use science-y sounding terms just as an example, but I 
+don’t actually think it’s this in particular – we know that the genes for liberal-conservative 
+differences are mostly NMDA receptors in the brain. And we know that NMDA receptor function 
+changes with aging. It would be pretty awkward if everything we thought was “gaining wisdom
+with age” was just “brain receptors consistently functioning differently with age”. If we
+were to find that were true – and furthermore, that the young version was intact and the older 
+version was just the result of some kind of decay or oxidation or something – could I trust 
+those results? Intuitively, going back to earlier habits of mind would feel inherently 
+regressive, like going back to drawing on the wall with crayons. But I don’t have any *proof.*
+```
+
+This is pithily captured in the quote (attribution unknown, phrasing by "Keith"):
+
+```markdown
+He who isn’t radical as a youth has no heart. 
+And he who isn’t conservative as an adult has no brain.
+```
+
+What this looks like in science -- the "grand old academics" phenomenon:
+
+```markdown
+I’ve noticed a vaguely related trend in science:
+
+you get a number of grand old academics, the kind of people who continue to hang out at the
+institution long after they’re officially retired who are an absolute goldmine for various 
+minutiae of their subject.
+
+They’ve tried many approaches over the decades and can warn you about dead ends….
+
+but they also often have an overabundance of cynicism.
+
+Often they remember that approach X didn’t work, they may not remember the exact details as 
+to why. their memory of the event gets pared down to “that’s a dead end”… and then at some 
+point a new generation of grad students come along and eventually someone ignores the advice 
+that X is a dead end and it turns out that in the 30 years that have passed the things that 
+made X a dead end no longer apply. The sequencing methods can now read through long-repeats 
+or the chemistry used for some step is improved or some background piece of knowledge has
+been added to the field that now allows people to power through the former roadblock.
+
+Is that wisdom? Knowing lots of dead ends can be useful and can save resources…but it can also
+be maladaptive as the world changes around you.
+```
+
+Commenter Deej's response:
+
+```markdown
+we need to distinguish between individual people changing their views as they get older, 
+and the centre grounds shifting as younger people are more liberal than their predecessors.
+My feeling is that for economic issues people’s individual views probably do shift 
+rightwards as they get older, but for social issues it’s seems likely that it’s the centre
+ground that’s moving. Although for today’s more exterme identity politics left youths that
+might change.
+
+Third. I think it’s worth distinguising between types of people and how their views might 
+change. People who are properly interested in politics, for example, are – I would exepct 
+– much more likely top have big changes in their views, than those that aren’t. See ex-
+trotskists now in the Tory party or at least Blairite in the UK. I expect that the people
+interested in politics changes are likely to be relatively more driven by learning from 
+experience and reflective thought than people just slowly change their views over time from,
+for example, a bit left to a bit right of centre. Or left to a bit left less left, right to
+a bit less right etc.
+```
+
+Somewhat relevant are these quotes from Robin Hanson's *Age of Em*:
+
+```markdown
+Controlling for birth cohort, individual productivity does not peak until at least age 60,
+and may never peak (Cardoso et al. 2011; Göbel and Zwick 2012). […] Also, any falling
+productivity after age 60 for humans today may be primarily caused by declining physical
+abilities, not declining mental abilities
+
+Today, our abilities at different kinds of tasks peak at different ages. For example, raw 
+cognitive processing peaks in late teens, learning and remembering names in early 20s, 
+short-term memory about age 30, face recognition in early 30s, social understanding about
+age 50, and word knowledge above age 65 (Hartshorne and Germine 2015).
+```
+
+<a name="#Yegge-on-memory"></a>
+### Yegge on memory
+([overview](#overview))
+
+From one of his more memorable posts, [Done and gets things smart](https://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html):
+
+```markdown
+So we all think we're smart for different reasons. Mine was memorization. Smart, eh? 
+In reality I was just a giant, uncomprehending parrot. I got my first big nasty surprise
+when I was in the Navy Nuclear Power School program in Orlando, Florida, and I was 
+setting historical records for the highest scores on their exams. The courses and exams 
+had been carefully designed over some 30 years to maximize and then test "literal 
+retention" of the material. They gave you all the material in outline form, and made you
+write it in your notebook, and your test answers were graded on edit-distance from the 
+original notes. (I'm not making this up or exaggerating in the slightest.) They had set 
+up the ultimate parrot game, and I happily accepted. I memorized the entire notebooks 
+word-for-word, and aced their tests.
+
+They treated me like some sort of movie star — that is, until the Radar final lab exam in
+electronics school, in which we had to troubleshoot an actual working (well, technically,
+not-working) radar system. I failed spectacularly: I'd arguably set another historical 
+record, because I had no idea what to do. I just stood there hemming and hawing and pooing
+myself for three hours. I hadn't understood a single thing I'd memorized. Hey man, I was 
+just playing their game! But I lost. I mean, I still made it through just fine, but I lost
+the celebrity privileges in a big way.
+
+Having a good memory is a serious impediment to understanding. It lets you cheat your way
+through life. I've never learned to read sheet music to anywhere near the level I can play
+(for both guitar and piano.) I have large-ish repertoires and, at least for guitar, good 
+technique from lots of lessons, but since I could memorize the sheet music in one sitting,
+I never learned how to read it faster than about a measure a minute. (It's not a 
+photographic memory - I have to work a little to commit it to memory. But it was a lot 
+less work than learning to read the music.) And as a result, my repertoire is only a 
+thousandth what it could be if I knew how to read.
+
+My memory (and, you know, overall laziness) has made me musically illiterate.
+
+But when you combine the Dunning-Kruger effect (which affects me just as much as it does 
+you) with having one or two things I've been good at in the past, it's all too easy to 
+fall into the trap of thinking of myself as "smart", even if I know better now. All you 
+have to do, to be "smart", is have a little competency at something, anything at all, just
+enough to be dangerous, and then the Dunning-Kruger Effect makes you think you're God's 
+gift to that field, discipline, or what have you.
+```
+
 <a name="#augmenting-long-term-memory"></a>
 ### Augmenting long-term memory
 ([overview](#overview))
@@ -2692,9 +4024,39 @@ may be an inefficient way to memorize the main points, but is better than having
 book at all.
 ```
 
-<a name="#fiction-and-writing"></a>
-## Fiction and writing
+<a name="#reading-and-writing"></a>
+## Reading and writing
 ([overview](#overview))
+
+<a name="#Reading-styles"></a>
+### Reading styles
+([overview](#overview))
+
+Eugene Wei, who authors the excellent [Remains of the Day](https://www.eugenewei.com/) blog, reads asynchronously, crediting it with helping him form cross-domain connections and insights. From [this interview](https://radreads.co/eugene-wei-remains-of-the-day/):
+
+```markdown
+The way I read now is only possible because of the Kindle. 
+
+I tend to read multiple non-fiction books in parallel. I only came to this later in life
+and used to be one of those people who read one book cover-to-cover. 
+
+Now I do this thing that resembles a modern social media feed of content from books, but
+I’m creating it by just following my interests. I open the Kindle [where I have hundreds 
+of books] and I pick the one that most interests me at the moment, and just tell myself to
+read at least one full chapter. If it keeps my interest, I keep going for another chapter. 
+But if not, I’ll jump to another book and read a full chapter. 
+
+You can’t do this with fiction because you tend to lose the train of the plot and narrative,
+but non-fiction, so little of it is so linearly linked that you can disaggregate it in this
+way. 
+
+The reason that I read this way and the advantage is that I start to see patterns across 
+books in different topics. You may be reading one book on astronomy, business strategy, and
+another on language or rhetoric. Then suddenly something pops up that connects between those.
+It’s an advantage for me because it lets your interests pull you along rather than self-
+imposing a deadline to finish a book. And if a book doesn’t interest you, you just abandon it
+to save time and move to something more interesting.
+```
 
 <a name="#rambling"></a>
 ### Rambling
@@ -3149,6 +4511,560 @@ This is interesting to me, because it runs counter to the standard advice.
 ## Software development and computer science
 ([overview](#overview))
 
+<a name="#Second-system-effect"></a>
+### Second-system effect
+([overview](#overview))
+
+From Wikipedia:
+
+```markdown
+The second-system effect (also known as second-system syndrome) is the tendency of small,
+elegant, and successful systems, to be succeeded by over-engineered, bloated systems, due 
+to inflated expectations and overconfidence.
+```
+
+This *always* reminds me of that *great* Quora answer I've never been able to find, about an enterprise-level solution to an exceedingly trivial coding problem. First-class dry humor. 
+
+Bit of nuance here. This is what Adam Turoff [has to say about software rewrite projects](http://notes-on-haskell.blogspot.com/2007/08/rewriting-software.html):
+
+```markdown
+One of the clearest opinions is from Joel Spolsky, who says rewrites are “the single worst 
+strategic mistake that any software company can make”. His essay is seven years old, and in
+it, he takes Netscape to task for open sourcing Mozilla, and immediately throwing all the 
+code away and rewriting it from scratch. Joel was right, and for a few years Mozilla was a 
+festering wasteland of nothingness, wrapped up in abstractions, with an unhealthy dose of
+gratuitous complexity sprinkled on top. 
+
+But this is open source, and open source projects have a habit of over-estimating the short
+term and under-estimating the long term. ...
+
+What’s missing from the discussion is an idea from Brian Eno about the differences between 
+the “small here” vs. the “big here”, and the “short now” vs. the “long now”. Capsule summary:
+we can either live in a “small here” (a great apartment in a crappy part of town) or a “big 
+here” (a beautiful city in a great location with perfect weather and amazing vistas), and we 
+can live in a “short now” (my deadline is my life) or a “long now” (how does this project 
+change the company, the industry or the planet?).
+
+On the one hand, Joel’s logic is irrefutable. If you’re dealing with a small here and a short
+now, then there is no time to rewrite software. There are revenue goals to meet, and time 
+spent redoing work is retrograde, and in nearly every case poses a risk to the bottom line 
+because it doesn’t deliver end user value in a timely fashion.
+
+On the other hand, Joel’s logic has got more holes in it than a fishing net. If you’re dealing 
+with a big here and a long now, whatever work you do right now is completely inconsequential 
+compared to where the project will be five years from today or five million users from now. 
+Requirements change, platforms go away, and yesterday’s baggage has negative value — it leads
+to hard-to-diagnose bugs in obscure edge cases everyone has forgotten about. The best way to 
+deal with this code is to rewrite, refactor or remove it.
+
+Joel Spolsky is arguing that the Great Mozilla rewrite was a horrible decision in the short 
+term, while Adam Wiggins is arguing that the same project was a wild success in the long term.
+Note that these positions do not contradict each other. Clearly, there is no one rule that fits
+all situations.
+
+The key to estimating whether a rewrite project is likely to succeed is to first understand when
+it needs to succeed. If it will be evaluated in the short term (because the team lives in a small
+here and a short now), then a rewrite project is quite likely to fail horribly. On the other hand,
+if the rewrite will be evaluated in the long term (because the team lives in a big here and a long
+now), then a large rewrite project just might succeed and be a healthy move for the project.
+```
+
+Why might rewrites be bad? Neil Gunton's [Rewrites Considered Harmful? When is "good enough" enough?](http://www.neilgunton.com/doc/?o=1mr&doc_id=8583):
+
+```markdown
+You might read all this and think what an idiot I am for suggesting that older, crappier, buggier,
+dirtier, messier, more complex software might be better than newer, cleaner, faster rewrites. Well,
+the point is a subtle one - in a nutshell, when you rewrite, you lose all those little fixes and 
+improvements that made the older version good to use and reliable. New software always introduces 
+new bugs. Often, the rewrite process seems to be driven by a desire to make the product somehow 
+more theoretically consistent and complete - which in turn often ends up losing the simplicity and 
+elegance that made the original so compelling and useful. Rewriting, especially when it breaks 
+existing systems, results in multiple versions of software that makes it confusing for new users and
+perplexing for old users.
+
+And, let's face it - programmers just like to write new code. It's natural. We all do it - it's easier
+to start from scratch than it is to make the old version better. Also, it's more glamorous - everybody
+wants to be credited with creating something themselves, rather than maintaining and developing an 
+existing thing. So, I can quite understand why things are the way they are.
+
+Mind you, I am not saying that we should never rewrite code - sometimes it's just a necessary thing,
+because of new platforms or changes to underlying API's. It's all a question of degree - do you 
+totally rewrite, or do you evolve existing, working code? Rewrites are so often done without any
+regard to the old code at all. In my experience, new programmers often come on board, and it's just 
+too much trouble to look through and really understand all the little nooks and crannies. We have
+seen it plenty of times in business - there is an old version of the application, but you're brought
+in to put together a new version. Usually the new spec has so many functional/UI differences from 
+the old one that the old is simply discarded as being irrelevant. And yet, many times, the underlying
+functional differences are not actually all that great. So, unfortunately, years of patches, special
+cases and wisdom are just abandoned.
+
+There is a "cost" involved with totally rewriting any application, in terms of "lost wisdom". If you
+have a package that is very popular, used by many people and has had a lot of bugfixes and patches 
+applied over time, then it is more likely that a total rewrite will have a higher cost. Also if you
+change the way it works in the process, you create a chasm between the new and old versions that has
+to be crossed by users, and this causes stress. Which version to use - the old, reliable, well known
+but out-of-date version, or the newer, sleaker, incompatible, more buggy version? Hmmm. If your
+software (or standard) is not used by many people and doesn't have any significant history behind it
+(in terms of "accumulated wisdom") then clearly there are no real issues involved in rewriting - the
+cost is low. So I am not making a blanket statement that rewriting is bad; the whole point of this
+article was to focus on tools and standards that have attained great success and are used by many
+people. Such software/standards will inevitably have had a large amount of wisdom invested over time, 
+because nothing is perfect first time out. Thus it is the most popular tools and packages that are
+most likely to be casualties of total rewrites.
+
+So in summary, I would say that the "cost" of a total rewrite depends on three factors:
+
+1. Amount of "accumulated wisdom" (bug fixes, tweaks and useful patches) in the old version that will be discarded
+2. How incompatible the new version is with the old version (API, data formats, protocols etc)
+3. How many people used the old version and will be affected by the changes
+
+A suggestion: If you have a very successful application, don't look at all that old, messy code as
+being "stale". Look at it as a living organism that can perhaps be healed, and can evolve. You can 
+refactor, you can rewrite portions of the internals to work better, many things can be accomplished
+without abandoning all the experience and error correction that went into that codebase. When you 
+rewrite you are abandoning history and condemning yourself to relive it.
+```
+
+Neil's last remark reminds me of Kevin Simler's [A Codebase is an Organism](https://meltingasphalt.com/a-codebase-is-an-organism/), which is a distinct enough idea that I also want to remember that I've created [its own subheading](#codebase-as-organism).
+
+<a name="#codebase-as-organism"></a>
+### Codebase as organism
+([overview](#overview))
+
+Kevin Simler's blog [Melting Asphalt](https://meltingasphalt.com/about/) is always a great read. Here's one of my favorite essays of his, [A Codebase is an Organism](https://meltingasphalt.com/a-codebase-is-an-organism/).
+
+The introduction alone is gold:
+
+```markdown
+Here's what no one tells you when you graduate with a degree in computer science and take
+up a job in software engineering:
+
+*The computer is a machine, but a codebase is an organism.*
+
+This will make sense to anyone who's worked on a large or even medium-sized software project
+— but it's often surprising to new grads. Why? Because nothing in your education prepares you
+for how to deal with an organism.
+
+Computer science is all about how to control the machine: to make it do exactly what you want,
+during execution, on the time scale of nano- and milliseconds. But when you build real software
+— especially as part of a team — you have to learn how to control not only the (very obedient) 
+machine, but also a large, sprawling, and often unruly codebase.
+
+This turns out to require a few 'softer' skills. Unlike a computer, which always does exactly 
+what it's told, code can't really be bossed around. Perhaps this is because code is ultimately
+managed by people. But whatever the reason, you can't tell a codebase what to do and expect to
+be obeyed. Instead, the most you can do (in order to maximize your influence) is try to steward
+the codebase, nurture it as it grows over a period of months and years.
+
+When you submit a CS homework assignment, it's done. Fixed. Static. Either your algorithm is 
+correct and efficient or it's not. But push the same algorithm into a codebase and there's a
+very real sense in which you're releasing it into the wild.
+
+Out there in the codebase, all alone, your code will have to fend for itself. It will be 
+tossed and torn, battered and bruised, by other developers — which will include yourself, of
+course, at later points in time. Exposed to the elements (bug fixes, library updates, drive-by
+refactorings), your code will suffer all manner of degradations, "the slings and arrows of 
+outrageous fortune... the thousand natural shocks that flesh is heir to."
+```
+
+The nursing metaphor, or "codebase as sick patient":
+
+```markdown
+The organic nature of code manifests itself in the dual forces of growth and decay.
+
+Let's start with decay. Realizing that code can wither, decay, or even die leads us to the
+nursing metaphor, or codebase as sick patient.
+
+Code doesn't decay on its own, of course. Left completely untouched, it will survive as long 
+as you care to archive it. Decay — often called code rot or software rot — only sets in when 
+changes are made, either to the code itself or to any of its dependencies. So as a rule of thumb,
+we can say that most code is decaying during most of its existence. It's like entropy. You never
+'win' against entropy; you just try to last as long as you can.
+
+In a healthy piece of code, entropic decay is typically staved off by dozens of tiny interventions 
+— bug fixes, test fixes, small refactors, migrating off a deprecated API, that sort of thing.
+These are the standard maintenance operations that all developers undertake on behalf of code
+that they care about. It's when the interventions stop happening, or don't happen often enough,
+that code rot sets in.
+
+We can assess a module in terms of 'risk factors' for this kind of decay. The older a module is,
+for example, the more likely it is to be suffering from code rot. More important than age, however, 
+is the time since last major refactor. (Recently-refactored code is a lot like new code, for good
+or ill.) Also, the more dependencies a module has, and the more those dependencies have recently 
+changed, the more likely the module is to have gone bad.
+
+But all of these risk factors pale in importance next to how much execution a piece of code has
+been getting. Execution by itself isn't quite enough, though — it has to be in a context where 
+someone is paying attention to the results. This type of execution is also known as testing.
+
+Testing can take many forms — automated or manual, ad hoc developer testing, and even 'testing' 
+through use in production. As long as the code is getting executed in a context where the results
+matter, it counts. The more regularly this happens, of course, the better.
+
+I find it useful to think of execution as the lifeblood of a piece of code — the vital flow of
+control? electronic pulse? — and testing as medical instrumentation, like a heart rate monitor. 
+You never know when a piece of code, which is rotting all the time, will atrophy in a way that 
+causes a serious bug. If your code is being tested regularly, you'll find out soon and will be 
+able to intervene. But without testing, no one will notice that your code has flatlined. Errors
+will begin to pile up. After a month or two, a module can easily become so rotten that it's 
+impossible to resuscitate.
+
+Thus teams are often confronting the uncomfortable choice between a risky refactoring operation 
+and clean amputation. The best developers can be positively gleeful about amputating a diseased 
+piece of code (even when it's their own baby, so to speak), recognizing that it's often the best
+choice for the overall health of the project. Better a single module should die than continue to
+bog down the rest of the project.
+```
+
+Code growth:
+
+```markdown
+Now you might assume that while decay is problematic, growth is always good. But of course it's 
+not so simple.
+
+Certainly it's true that a project needs to grow in order to become valuable, so the problem 
+isn't growth per se, but rather unfettered or opportunistic growth. Haphazard growth. Growth by
+means of short-sighted, local optimizations. And this kind of growth seems to be the norm —
+perhaps because developers are often themselves short-sighted and opportunistic, if not outright
+lazy. But even the best, most conscientious developers fall pitifully short of making globally-
+optimal decisions all the time.
+
+Left to 'its' own devices, then, a codebase can quickly devolve into a tangled mess. And the more
+it grows, the more volume it has to maintain against the forces of entropy. In this way, a project
+can easily collapse under its own weight.
+
+For these reasons, any engineer worth her salt soon learns to be paranoid of code growth.
+
+She assumes, correctly, that whenever she ceases to be vigilant, the code will get itself into 
+trouble. She knows, for example, that two modules will tend to grow ever more dependent on each 
+other unless separated by hard ('physical') boundaries. She's had to do that surgery — to separate
+two modules that had become inappropriately entangled with each other. Afraid of such spaghetti 
+code (rat's nests), she strives relentlessly to arrange her work (and the work of others) into
+small, encapsulated, decoupled modules.
+
+Faced with the necessity of growth but also its dangers, the seasoned engineer therefore seeks a
+balance between nurture and discipline. She knows she can't be too permissive; coddled code won't
+learn its boundaries. But she also can't be too tyrannical. Code needs some freedom to grow at the
+optimal rate.
+
+In this way, building software isn't at all like assembling a car. In terms of managing growth, it's
+more like raising a child or tending a garden.
+```
+
+The benefit of failing fast -- failure as conflict of interest between computer and codebase:
+
+```markdown
+Finally, here's an idea that took me many years to appreciate on a gut level (but which is completely
+obvious now in hindsight): the benefits of failing fast. What I should have understood is that failure
+(on unexpected inputs) reflects a conflict of interest between the computer and the codebase.
+
+From the perspective of the machine on which the code is executing right now, it's better not to fail 
+and hope that everything will be OK — hope that some other part of the stack will handle the failure 
+gracefully. Maybe we can recover. Maybe the user won't notice. Why crash when we could at least try 
+to keep going? And everything in my CS education taught me to do what's right for the machine.
+
+But from the perspective of the codebase — whose success depends not on any single execution, but
+rather on long-term health — it's far better to fail fast (and loud), in order to call immediate 
+attention to the problem so it can be fixed.
+
+Coddled code will fester. Spare the rod, spoil the child.
+```
+
+<a name="#Theoretical-CS-contributions"></a>
+### Theoretical CS contributions
+([overview](#overview))
+
+From Scott Aaronson's post [Logicians on safari](https://www.scottaaronson.com/blog/?p=152), responding to Sean Carroll's claim:
+
+```markdown
+I’m happy to admit that I don’t know anything about “one-way functions and interactive proofs.”
+So, in what sense has theoretical computer science contributed more in the last 30 years to our
+basic understanding of the universe than particle physics or cosmology? (Despite the fact that
+I’m a cosmologist, I don’t doubt your statement — I’d just like to be able to explain it in public.)
+```
+
+The context for Sean's comment was [this post of Scott's](https://www.scottaaronson.com/blog/?p=151), lamenting and criticquing Steve Lohr's NYT essay that started off like so:
+
+```markdown
+Computer science is not only a comparatively young field, but also one that has had to prove it 
+is really science. Skeptics in academia would often say that after Alan Turing described the
+concept of the “universal machine” in the late 1930’s — the idea that a computer in theory could
+be made to do the work of any kind of calculating machine, including the human brain — all that 
+remained to be done was mere engineering.
+
+The more generous perspective today is that decades of stunningly rapid advances in processing 
+speed, storage and networking, along with the development of increasingly clever software, have
+brought computing into science, business and culture in ways that were barely imagined years ago.
+The quantitative changes delivered through smart engineering opened the door to qualitative changes.
+```
+
+which resulted in Scott's rueful rant:
+
+```markdown
+Even among the commenters on this post by Chad Orzel — which Dave Bacon forwarded to me with the
+subject line “bait” — awareness of any third possibility seems depressingly rare. Judging from the
+evidence, it’s not that people have engaged the mysteries of P versus NP, randomness and 
+determinism, one-way functions and interactive proofs, and found them insufficiently deep. Rather, 
+as bizarre as it sounds, it’s that people don’t know these mysteries exist — just as they wouldn’t 
+know about black holes or the Big Bang if no one told them. If you want to understand why our
+subject — which by any objective standard, has contributed at least as much over the last 30 years
+as (say) particle physics or cosmology to humankind’s basic picture of the universe — receives a
+whopping $5 million a year from the NSF (with even that in constant danger), look no further.
+```
+
+Enough backtracking/context-setting. Here's what Scott has to say in response to Sean; this is also the origin of the "theoretical CS is quantitative epistemology" quote:
+
+```markdown
+Of course I was joking when I mentioned “objective standards” for ranking scientific fields. 
+Depending on which questions keep you up at night, different parts of “humankind’s basic picture
+of the universe” will seem larger or smaller. (To say that, of course, is not to suggest any 
+relativism about the picture itself.)
+
+What I can do, though, is to tell you why — by my own subjective standards — the contributions 
+of theoretical computer science over the last 30 years rival those of theoretical physics or any 
+other field I know about. Of course, people will say I only think that because I’m a theoretical 
+computer scientist, but that gets the causal arrow wrong: I became a theoretical computer
+scientist because, as a teenager, I thought it!
+
+It’s probably best to start with some examples.
+
+1. We now know that, if an alien with enormous computational powers came to Earth, it could prove to
+us whether White or Black has the winning strategy in chess. To be convinced of the proof, we would
+not have to trust the alien or its exotic technology, and we would not have to spend billions of 
+years analyzing one move sequence after another. We’d simply have to engage in a short conversation
+with the alien about the sums of certain polynomials over finite fields.
+
+2. There’s a finite (and not unimaginably-large) set of boxes, such that if we knew how to pack those 
+boxes into the trunk of your car, then we’d also know a proof of the Riemann Hypothesis. Indeed,
+every formal proof of the Riemann Hypothesis with at most (say) a million symbols corresponds to
+some way of packing the boxes into your trunk, and vice versa. Furthermore, a list of the boxes 
+and their dimensions can be feasibly written down.
+
+3. Supposing you do prove the Riemann Hypothesis, it’s possible to convince someone of that fact, 
+without revealing anything other than the fact that you proved it. It’s also possible to write the
+proof down in such a way that someone else could verify it, with very high confidence, having only
+seen 10 or 20 bits of the proof.
+
+4. If every second or so your computer’s memory were wiped completely clean, except for the input data; 
+the clock; a static, unchanging program; and a counter that could only be set to 1, 2, 3, 4, or 5,
+it would still be possible (given enough time) to carry out an arbitrarily long computation — just
+as if the memory weren’t being wiped clean each second. This is almost certainly not true if the
+counter could only be set to 1, 2, 3, or 4. The reason 5 is special here is pretty much the same
+reason it’s special in Galois’ proof of the unsolvability of the quintic equation.
+
+5. It would be great to prove that RSA is unbreakable by classical computers. But every known technique 
+for proving that would, if it worked, simultaneously give an algorithm for breaking RSA! For example,
+if you proved that RSA with an n-bit key took n^5 steps to break, you would’ve discovered an algorithm
+for breaking it in 2n^1/5 steps. If you proved that RSA took 2n^1/3 steps to break, you would’ve 
+discovered an algorithm for breaking it in n(log n)^2 steps. As you show the problem to be harder,
+you simultaneously show it to be easier.
+
+Alright, let me stop before I get carried away. The examples I’ve listed (and hundreds more like them) 
+are not exactly discoveries about physics, but they don’t have the flavor of pure math either. And 
+even if they have some practical implications for computing (which they do), they certainly don’t have
+the flavor of nitty-gritty software engineering.
+
+So what are they then? Maybe it’s helpful to think of them as “quantitative epistemology”: discoveries
+about the capacities of finite beings like ourselves to learn mathematical truths. On this view, the
+theoretical computer scientist is basically a mathematical logician on a safari to the physical world: 
+someone who tries to understand the universe by asking what sorts of mathematical questions can and 
+can’t be answered within it. Not whether the universe is a computer, but what kind of computer it is!
+Naturally, this approach to understanding the world tends to appeal most to people for whom math (and
+especially discrete math) is reasonably clear, whereas physics is extremely mysterious.
+
+In my opinion, one of the biggest challenges for our time is to integrate the enormous body of
+knowledge in theoretical computer science (or quantitative epistemology, or whatever you want to call
+it) with the rest of what we know about the universe. In the past, the logical safari mostly stayed
+comfortably within 19th-century physics; now it’s time to venture out into the early 20th century. 
+Indeed, that’s exactly why I chose to work on quantum computing: not because I want to build quantum
+computers (though I wouldn’t mind that), but because I want to know what a universe that allows
+quantum computers is like.
+
+Incidentally, it’s also why I try hard to keep up with your field. If I’m not mistaken, less than a 
+decade ago cosmologists made an enormous discovery about the capacity of finite beings to learn 
+mathematical truths: namely, that no computation carried out in the physical world can ever involve
+more than 1/Λ ~ 10^122 bits.
+```
+
+Or in more straightforward (if impenetrable to me) jargon:
+
+```markdown
+Oh, alright:
+
+(1) IP=PSPACE (Shamir 1990).
+
+(2) 3-dimensional bin-packing is NP-complete.
+
+(3) NP has zero-knowledge proofs (Goldreich-Micali-Wigderson 1986); the PCP Theorem.
+
+(4) Width-5 branching programs can compute NC1 (Barrington 1986); corollary pointed out by
+Ogihara 1994 that width-5 bottleneck Turing machines can compute PSPACE
+
+(5) Natural proofs (Razborov-Rudich 1993); in particular Wigderson’s observation about
+natural proofs for discrete log.
+```
+
+Gil Kalai's own list is also great, and admirably straight to the point:
+
+```markdown
+Hi Scott
+
+Let me try to suggest a skeleton for a good answer to Sean Carroll on some main insights
+developed in theoretical computer science which with more effort can be explained to a 
+layperson. I would personally prefer a description which at the end is not polemic, 
+apologetic, or too sophisticated.
+
+1. The notion of an algorithm. Some basic insights from the theory of algorithms: the 
+importance of storing of hashing and of backtracking
+
+2. The idea that a computer cannot do everything. Intractability and the NP = P problem
+
+3. What computers can (magically) do very quickly. FFT and other basic algorithms in
+mathematical and scientific computing.
+
+4. What computers can do but hardly: Linear programming. Semi definite programming and 
+related optimization problems.
+
+5. “Beyond a reasonable doubt:” the notion of probabilistic proof
+
+6. The notion of interactive proofs. Like in court, interactive process can raise the 
+ability of reaching the truth.
+
+7. Secrets and lies. The depth and fundamental importance of cryptography. (And while 
+talking about crypthography, sure, the bizzare and amazing notion of zero-knowledge proofs.)
+
+8. (If we want to reach the cutting edge:) The notion of probabilistically checkable proofs 
+and hardness of approximation.
+
+9. Distributed system. The difficulty of cooperation and synchronization.
+
+10. Underatnding, using tools developed in theoretical computer science, the notions of 
+“learning” and “knowledge”.
+
+11. Merging computation and economics: lies and strategies.
+
+12. Quantum computation.
+
+Of course, this refer only to a small part of theoretical computer science (STOC/FOCS).
+```
+
+In response to Greg's comment that TCS "doesn't sound different from what we do in pure math":
+
+```markdown
+Greg: I’m delighted you agree with me that TCS, whatever else it is, is also “perfectly 
+satisfactory as pure math”! But alas, not all mathematicians see things the way you do: to
+many of them, the goal of “real” or “deep” math is to start from dizzyingly-general theorems
+about infinite-dimensional spaces and then generalize them even further. The TCS goal, of 
+course, is to take laughably-concrete problems that we can’t solve and then identify special
+cases that we still can’t solve. Same standards for deciding what’s true; different aesthetic.
+
+That said, the TCS and math aesthetics drew noticeably closer in just the past decade (see 
+Luca’s blog for more on that theme), and maybe they’ll be indistinguishable at some point in 
+the future. Basically, I see TCS and math as Galapagos finches that lived on different islands
+for quite a while, but that are probably still interfertile.
+```
+
+Greg isn't happy at all with Scott's response:
+
+```markdown
+Of course I can’t be happy about this description of pure mathematics, and frankly I’m a 
+little surprised to hear it from you. As I said, pure math comes in many different flavors.
+Naturally, when you see a flavor of it that is far from your own, it might impress you as 
+excessively abstract and on top of that pretentious. But wouldn’t it be safe to suppose, if
+well-regarded people are doing the research, that their area can also be made to look 
+unpretentious and beautiful?
+
+More specifically, the presence of infinite-dimensional spaces is a strange criterion for 
+deciding that topic is counting angels on the heads of pins. I don’t see that any of the seven
+Clay Prize problems directly refer to infinite-dimensional spaces. The Yang-Mills problem 
+comes the closest, but that’s because it’s a problem from physics!
+
+But even if an area does use infinite-dimensional spaces, is that so bad? After all, P (i.e.,
+boolean functions computable in polynomial time) is an infinite-dimensional vector space over
+the field with two elements, and so is Delta^nP. Should I say that the conjecture that the
+polynomial-time hierarchy does not collapse is exactly one of your absurdly general
+conjectures about infinite-dimensional spaces?
+
+Granted, non-collapse is a conjecture rather than a theorem. The set of oracles is also an 
+infinite-dimensional vector space over Z/2, and the set of generic oracles is a highly 
+abstract subset of this vector space. Do you think that it pushes the limits to prove a 
+separation result using generic oracles?
+
+But maybe these examples are too clever by half. If any theorem naturally fits the description
+of an absurdly general fact about infinite-dimensional spaces, it would be the spectral 
+theorem for self-adjoint operators on a Hilbert space. Do you seriously mean to say, given
+that you are a quantum information theorist, that the spectral theorem is too abstract to 
+matter?
+
+*The TCS goal, of course, is to take laughably-concrete problems that we can’t solve and then
+identify special cases that we still can’t solve.*
+
+That is sometimes the goal, except that it’s usually a disingenuous goal because everyone knows
+that the special cases are just as hard as the general cases. At least, so it went with Avi 
+Wigderson’s special case of P vs #P at the ICM in Madrid.
+
+*That said, the TCS and math aesthetics drew noticeably closer in just the past decade (see 
+Luca’s blog for more on that theme), and maybe they’ll be indistinguishable at some point in 
+future. Basically, I see TCS and math as Galapagos finches that lived on different islands for
+quite a while, but that are probably still interfertile.*
+
+I don’t know quite when or whether TCS drew closer to pure mathematics, but I can point to 
+the fact that both Luca and Avi gave invited talks at the International Congress of
+Mathematicians. Could the TCS community be disregarding some important olive branches? It is
+true that TCS and math are on different “islands”, in the trivial sense of being in different
+departments. That, I think, is the only real schism. It’s like what they say about America and
+Britain: two nations divided by a common language.
+```
+
+<a name="#CS-is-beyond-the-glass-ceiling-of-pop-science"></a>
+### CS is beyond the glass ceiling of pop science
+([overview](#overview))
+
+Greg Kuperberg's comment on Scott Aaronson's post [Logicians on safari](https://www.scottaaronson.com/blog/?p=152), responding to "There are zillions of pop science books about physics, math, biology… but honestly, I can’t think of any notable popular theoretical computer science books":
+
+```markdown
+I respect popular science writing as much as anyone, but it is easy to spend too much time 
+kicking yourself if your area doesn’t benefit from it. At the end of the day, popular science
+is written to entertain people, and hopefully to attract interest, but not to teach them. It 
+isn’t another form of school. Popular science will inevitably overreward some areas and 
+underreward others.
+
+In particular, popular science has a “glass ceiling” that will prevent you from communicating 
+many great ideas. I had an epiphany about this when I was at the house of a relative many years
+ago. He was a smart guy with a far-above-average interest in poular science, but he did not 
+have advanced training in mathematics. I think that he had more mathematics books than I do;
+certainly he had more math biographies.
+
+At one point he was interested in the Rubik’s cube. The Rubik’s cube is different from other 
+popular mathematics, becuase it goads you to actually solve the damn thing instead of just 
+reading about mathematicians at work. So he bought four books on how to solve the Rubik’s cube.
+But with a good understanding of undergraduate group theory, one would have been more than 
+enough! Without some solid mathematical intuition of some kind (not necessarily a group theory
+course), books on the Rubik’s cube are downright painful. That really revealed the glass ceiling.
+
+It seems that TCS is generally beyond the glass ceiling of popular science. I think that it’s
+because TCS is made up of theorems. It’s not so hard explain what a theorem is. But it is hard
+to explain, except to those who have joined the club, how much it matters to prove theorems. 
+In fact some science journalists have discussed their impression that theorems are just a chore
+that can be skipped, postponed, or hopefully soon relegated to computers.
+```
+
+And in response to "I have to respectfully disagree about Theoretical Computer Science being beyond the glass ceiling of popular science":
+
+```markdown
+The glass ceiling is in different places for different people, and in different venues. I am 
+thinking of what gets published in the New York Times Science section. That is not at the 
+level of what is written by a PhD that you might find interesting, but rather more at the 
+level of what you might write for people on the next rung down the ladder.
+
+Look at how much the Times watered down Sara Robinson’s article on the result that primality 
+is in P. It was still a very nice article, but it was radically restricted to the basics. The
+Times really seems to believe that the significance of theorems is all but beyond their
+readership, that is only worth mentioning when the story is as big as the Poincare Conjecture 
+or Fermat’s Last Theorem. Although I personally think that the Times is too conservative on 
+this point, they probably aren’t completely wrong.
+```
+
 <a name="#smalltalk"></a>
 ### Smalltalk
 ([overview](#overview))
@@ -3168,6 +5084,263 @@ The key in making great and growable systems is much more to design how its modu
 rather than what their internal properties and behaviors should be. Think of the internet - to 
 live, it (a) has to allow many different kinds of ideas and realizations that are beyond any single
 standard and (b) to allow varying degrees of safe interoperability between these ideas.
+```
+
+<a name="#platforms"></a>
+### Platforms
+([overview](#overview))
+
+The following couple of quotes are all from Steve Yegge's legendary [platforms rant](https://gist.github.com/chitchcock/1281611). Yegge starts with the Big Mandate to set things up:
+
+```markdown
+One day Jeff Bezos issued a mandate. He's doing that all the time, of course, and people 
+scramble like ants being pounded with a rubber mallet whenever it happens. But on one 
+occasion -- back around 2002 I think, plus or minus a year -- he issued a mandate that was
+so out there, so huge and eye-bulgingly ponderous, that it made all of his other mandates 
+look like unsolicited peer bonuses.
+
+His Big Mandate went something along these lines:
+
+1. All teams will henceforth expose their data and functionality through service interfaces.
+
+2. Teams must communicate with each other through these interfaces.
+
+3. There will be no other form of interprocess communication allowed: no direct linking, 
+no direct reads of another team's data store, no shared-memory model, no back-doors whatsoever.
+The only communication allowed is via service interface calls over the network.
+
+4. It doesn't matter what technology they use. HTTP, Corba, Pubsub, custom protocols -- doesn't
+matter. Bezos doesn't care.
+
+5. All service interfaces, without exception, must be designed from the ground up to be
+externalizable. That is to say, the team must plan and design to be able to expose the interface 
+to developers in the outside world. No exceptions.
+
+6. Anyone who doesn't do this will be fired.
+
+7. Thank you; have a nice day!
+
+Ha, ha! You 150-odd ex-Amazon folks here will of course realize immediately that #7 was a little
+joke I threw in, because Bezos most definitely does not give a shit about your day.
+
+#6, however, was quite real, so people went to work. Bezos assigned a couple of Chief Bulldogs to
+oversee the effort and ensure forward progress, headed up by Uber-Chief Bear Bulldog Rick Dalzell.
+Rick is an ex-Armgy Ranger, West Point Academy graduate, ex-boxer, ex-Chief Torturer slash CIO at 
+Wal*Mart, and is a big genial scary man who used the word "hardened interface" a lot. Rick was a 
+walking, talking hardened interface himself, so needless to say, everyone made LOTS of forward 
+progress and made sure Rick knew about it.
+
+Over the next couple of years, Amazon transformed internally into a service-oriented architecture.
+They learned a tremendous amount while effecting this transformation. There was lots of existing 
+documentation and lore about SOAs, but at Amazon's vast scale it was about as useful as telling 
+Indiana Jones to look both ways before crossing the street. Amazon's dev staff made a lot of 
+discoveries along the way. A teeny tiny sampling of these discoveries included:
+
+- pager escalation gets way harder, because a ticket might bounce through 20 service calls before the
+real owner is identified. If each bounce goes through a team with a 15-minute response time, it 
+can be hours before the right team finally finds out, unless you build a lot of scaffolding and 
+metrics and reporting.
+
+- every single one of your peer teams suddenly becomes a potential DOS attacker. Nobody can make any
+real forward progress until very serious quotas and throttling are put in place in every single 
+service.
+
+- monitoring and QA are the same thing. You'd never think so until you try doing a big SOA. But when
+your service says "oh yes, I'm fine", it may well be the case that the only thing still 
+functioning in the server is the little component that knows how to say "I'm fine, roger roger, 
+over and out" in a cheery droid voice. In order to tell whether the service is actually responding,
+you have to make individual calls. The problem continues recursively until your monitoring is doing
+comprehensive semantics checking of your entire range of services and data, at which point it's 
+indistinguishable from automated QA. So they're a continuum.
+
+- if you have hundreds of services, and your code MUST communicate with other groups' code via these
+services, then you won't be able to find any of them without a service-discovery mechanism. And you
+can't have that without a service registration mechanism, which itself is another service. So Amazon
+has a universal service registry where you can find out reflectively (programmatically) about every
+service, what its APIs are, and also whether it is currently up, and where.
+
+- debugging problems with someone else's code gets a LOT harder, and is basically impossible unless
+there is a universal standard way to run every service in a debuggable sandbox.
+
+That's just a very small sample. There are dozens, maybe hundreds of individual learnings like these
+that Amazon had to discover organically. There were a lot of wacky ones around externalizing services
+, but not as many as you might think. Organizing into services taught teams not to trust each other 
+in most of the same ways they're not supposed to trust external developers.
+
+This effort was still underway when I left to join Google in mid-2005, but it was pretty far advanced.
+From the time Bezos issued his edict through the time I left, Amazon had transformed culturally into 
+a company that thinks about everything in a services-first fashion. It is now fundamental to how they
+approach all designs, including internal designs for stuff that might never see the light of day 
+externally.
+
+At this point they don't even do it out of fear of being fired. I mean, they're still afraid of that;
+it's pretty much part of daily life there, working for the Dread Pirate Bezos and all. But they do 
+services because they've come to understand that it's the Right Thing. There are without question 
+pros and cons to the SOA approach, and some of the cons are pretty long. But overall it's the right
+thing because SOA-driven design enables Platforms.
+```
+
+Why did Bezos want to platformize Amazon?
+
+```markdown
+But Bezos realized long before the vast majority of Amazonians that Amazon needs to be a platform.
+
+You wouldn't really think that an online bookstore needs to be an extensible, programmable platform.
+Would you?
+
+Well, the first big thing Bezos realized is that the infrastructure they'd built for selling and
+shipping books and sundry could be transformed an excellent repurposable computing platform. So 
+now they have the Amazon Elastic Compute Cloud, and the Amazon Elastic MapReduce, and the Amazon 
+Relational Database Service, and a whole passel' o' other services browsable at aws.amazon.com. 
+These services host the backends for some pretty successful companies, reddit being my personal 
+favorite of the bunch.
+
+The other big realization he had was that he can't always build the right thing. I think Larry 
+Tesler might have struck some kind of chord in Bezos when he said his mom couldn't use the goddamn
+website. It's not even super clear whose mom he was talking about, and doesn't really matter, 
+because nobody's mom can use the goddamn website. In fact I myself find the website disturbingly 
+daunting, and I worked there for over half a decade. I've just learned to kinda defocus my eyes 
+and concentrate on the million or so pixels near the center of the page above the fold.
+```
+
+Platforms matter because they allow Accessibility:
+
+```markdown
+I'm not really sure how Bezos came to this realization -- the insight that he can't build one 
+product and have it be right for everyone. But it doesn't matter, because he gets it. There's
+actually a formal name for this phenomenon. It's called Accessibility, and it's the most 
+important thing in the computing world.
+
+The. Most. Important. Thing.
+
+If you're sorta thinking, "huh? You mean like, blind and deaf people Accessibility?" then you're
+not alone, because I've come to understand that there are lots and LOTS of people just like you:
+people for whom this idea does not have the right Accessibility, so it hasn't been able to get 
+through to you yet. It's not your fault for not understanding, any more than it would be your
+fault for being blind or deaf or motion-restricted or living with any other disability. When 
+software -- or idea-ware for that matter -- fails to be accessible to anyone for any reason, 
+it is the fault of the software or of the messaging of the idea. It is an Accessibility failure.
+
+Like anything else big and important in life, Accessibility has an evil twin who, jilted by the 
+unbalanced affection displayed by their parents in their youth, has grown into an equally 
+powerful Arch-Nemesis (yes, there's more than one nemesis to accessibility) named Security. And 
+boy howdy are the two ever at odds.
+
+But I'll argue that Accessibility is actually more important than Security because dialing 
+Accessibility to zero means you have no product at all, whereas dialing Security to zero can still
+get you a reasonably successful product such as the Playstation Network. 
+```
+
+Platform-product relationship:
+
+```markdown
+A product is useless without a platform, or more precisely and accurately, 
+a platform-less product will always be replaced by an equivalent platform-ized product.
+
+I apologize to those (many) of you for whom all this stuff I'm saying is incredibly obvious,
+because yeah. It's incredibly frigging obvious. Except we're (Google) not doing it. We don't get 
+Platforms, and we don't get Accessibility. The two are basically the same thing, because platforms
+solve accessibility. A platform is accessibility.
+```
+
+<a name="#Amazon-vs-Google-2011"></a>
+### Amazon vs Google 2011
+([overview](#overview))
+
+From Steve Yegge's legendary [platforms rant](https://gist.github.com/chitchcock/1281611).
+
+Amazon:
+
+```markdown
+I was at Amazon for about six and a half years, and now I've been at Google for that long. 
+One thing that struck me immediately about the two companies -- an impression that has been
+reinforced almost daily -- is that Amazon does everything wrong, and Google does everything 
+right. Sure, it's a sweeping generalization, but a surprisingly accurate one. It's pretty 
+crazy. There are probably a hundred or even two hundred different ways you can compare the 
+two companies, and Google is superior in all but three of them, if I recall correctly. I a
+ctually did a spreadsheet at one point but Legal wouldn't let me show it to anyone, even 
+though recruiting loved it.
+
+I mean, just to give you a very brief taste: Amazon's recruiting process is fundamentally 
+flawed by having teams hire for themselves, so their hiring bar is incredibly inconsistent
+across teams, despite various efforts they've made to level it out. And their operations 
+are a mess; they don't really have SREs and they make engineers pretty much do everything,
+which leaves almost no time for coding - though again this varies by group, so it's luck of
+the draw. They don't give a single shit about charity or helping the needy or community 
+contributions or anything like that. Never comes up there, except maybe to laugh about it.
+Their facilities are dirt-smeared cube farms without a dime spent on decor or common meeting 
+areas. Their pay and benefits suck, although much less so lately due to local competition 
+from Google and Facebook. But they don't have any of our perks or extras -- they just try 
+to match the offer-letter numbers, and that's the end of it. Their code base is a disaster,
+with no engineering standards whatsoever except what individual teams choose to put in place.
+
+To be fair, they do have a nice versioned-library system that we really ought to emulate, and
+a nice publish-subscribe system that we also have no equivalent for. But for the most part 
+they just have a bunch of crappy tools that read and write state machine information into
+relational databases. We wouldn't take most of it even if it were free.
+
+I think the pubsub system and their library-shelf system were two out of the grand total of 
+three things Amazon does better than google.
+
+I guess you could make an argument that their bias for launching early and iterating like mad
+is also something they do well, but you can argue it either way. They prioritize launching 
+early over everything else, including retention and engineering discipline and a bunch of
+other stuff that turns out to matter in the long run. So even though it's given them some
+competitive advantages in the marketplace, it's created enough other problems to make it
+something less than a slam-dunk. 
+```
+
+Google: 
+
+```markdown
+That one last thing that Google doesn't do well is Platforms. We don't understand platforms.
+We don't "get" platforms. Some of you do, but you are the minority. This has become painfully
+clear to me over the past six years. I was kind of hoping that competitive pressure from 
+Microsoft and Amazon and more recently Facebook would make us wake up collectively and start 
+doing universal services. Not in some sort of ad-hoc, half-assed way, but in more or less the 
+same way Amazon did it: all at once, for real, no cheating, and treating it as our top priority
+from now on.
+
+But no. No, it's like our tenth or eleventh priority. Or fifteenth, I don't know. It's pretty 
+low. There are a few teams who treat the idea very seriously, but most teams either don't think
+about it all, ever, or only a small percentage of them think about it in a very small way.
+
+It's a big stretch even to get most teams to offer a stubby service to get programmatic access
+to their data and computations. Most of them think they're building products. And a stubby 
+service is a pretty pathetic service. Go back and look at that partial list of learnings from
+Amazon, and tell me which ones Stubby gives you out of the box. As far as I'm concerned, it's
+none of them. Stubby's great, but it's like parts when you need a car. ...
+
+Google+ is a prime example of our complete failure to understand platforms from the very 
+highest levels of executive leadership (hi Larry, Sergey, Eric, Vic, howdy howdy) down to the
+very lowest leaf workers (hey yo). We all don't get it. The Golden Rule of platforms is that 
+you Eat Your Own Dogfood. The Google+ platform is a pathetic afterthought. We had no API at all
+at launch, and last I checked, we had one measly API call. One of the team members marched in 
+and told me about it when they launched, and I asked: "So is it the Stalker API?" She got all
+glum and said "Yeah." I mean, I was joking, but no... the only API call we offer is to get 
+someone's stream. So I guess the joke was on me.
+
+Microsoft has known about the Dogfood rule for at least twenty years. It's been part of their
+culture for a whole generation now. You don't eat People Food and give your developers Dog Food.
+Doing that is simply robbing your long-term platform value for short-term successes. Platforms
+are all about long-term thinking.
+
+Google+ is a knee-jerk reaction, a study in short-term thinking, predicated on the incorrect 
+notion that Facebook is successful because they built a great product. But that's not why they
+are successful. Facebook is successful because they built an entire constellation of products 
+by allowing other people to do the work. So Facebook is different for everyone. Some people 
+spend all their time on Mafia Wars. Some spend all their time on Farmville. There are hundreds
+or maybe thousands of different high-quality time sinks available, so there's something there 
+for everyone.
+
+Our Google+ team took a look at the aftermarket and said: "Gosh, it looks like we need some 
+games. Let's go contract someone to, um, write some games for us." Do you begin to see how 
+incredibly wrong that thinking is now? The problem is that we are trying to predict what people 
+want and deliver it for them.
+
+You can't do that. Not really. Not reliably. There have been precious few people in the world,
+over the entire history of computing, who have been able to do it reliably. Steve Jobs was one
+of them. We don't have a Steve Jobs here. I'm sorry, but we don't.
 ```
 
 <a name="#yegges-conservative-liberal-axis"></a>
@@ -4051,13 +6224,212 @@ lighting and thereby ensure that the same surface is perceptually the “same co
 simplifies the adaptively important task of recognizing a previously experienced object on future encounters.
 ```
 
-<a name="#artificial-intelligence"></a>
-## Artificial intelligence
+<a name="#Technology-and-Futurism"></a>
+## Technology and futurism
 ([overview](#overview))
 
-<a name="#agi-the-singularity-and-all-that-razzmatazz"></a>
-### AGI, the Singularity, and all that razzmatazz
+<a name="#Origins-of-information-society"></a>
+### Origins of information society
 ([overview](#overview))
+
+From Cosma Shalizi's [book review](http://bactra.org/reviews/beniger/) of James Beniger's *The Control Revolution: Technological and Economic Origins of the Information Society*:
+
+```markdown
+I was going to say that this is undoubtedly the best work ever done by a professor of communications, but that would be praising it with faint damns, and it deserves better. This is not a speculation or a vague schema but a very detailed history of the rise of technologies and techniques of communication and information-processing, and their use for controlling social and economic processes, prefaced by a general discussion of these subjects and their importance for history. 
+
+His thesis is that modern information technologies, and with them the ``information society,'' began to take shape in the 1830s with the introduction of railroads, and really took off after 1880 with full industrialization. Because machine industry involves huge, fast flows of goods, it cannot be managed without a high level of information technology (in which Beniger includes things like product standardization, bureaucracy and advertising, as well as the usual mechanical devices): and if it isn't managed it simply cannot work. The first part of the economy to move at industrial speed were the railroads, and the accompanying jump in the size of the information sector is dramatic. So industrial production is a good reason to improve your information technology; and conversely, improved control technology makes new industrial developments possible.
+
+Beniger puts the modern synthesis (not his phrase) of industry and information in the period 1880-1920. By the latter date, the technology of control had been so perfected that the economies of all the warring powers in the Great War could be managed by central planning --- those of the Allies, by combined planning. (Since this performance was repeated during the Second War, I'm tempted to say that market forces are simply too inefficient to be trusted with anything important, but this is not the place for those rants.) Since then, he says, we have been in essentially the same industrial-economic-technological phase. The advent of computers was obviously very important, but they didn't usher in the information society, because we already were one (which, I suspect, is why they were able to spread so quickly --- Beniger does not, alas, discuss computerization in detail).
+```
+
+<a name="#the-singularity"></a>
+### The Singularity
+([overview](#overview))
+
+<a name="#Three-Singularity-schools"></a>
+### Three Singularity schools
+([overview](#overview))
+
+Eliezer Yudkowsky's [essay](http://yudkowsky.net/singularity/schools/) continues to be a good summary of how things stand. First a complaint:
+
+```markdown
+I’ve heard (many) other definitions of the Singularity attempted, but I usually find them 
+to lack separate premises and conclusions. For example, the old Extropian FAQ used to define
+the “Singularity” as the Inflection Point, “the time when technological development will be
+at its fastest” and just before it starts slowing down. 
+
+But what makes this an interesting point in history apart from its definition? What are the
+consequences of this assumption? To qualify as a school of thought or even a thesis, one needs
+an internal structure of argument, not just a definition.
+```
+
+On to the three schools: 
+
+```markdown
+**Accelerating Change:**
+
+Core claim: Our intuitions about change are linear; we expect roughly as much change as has
+occurred in the past over our own lifetimes. But technological change feeds on itself, and 
+therefore accelerates. Change today is faster than it was 500 years ago, which in turn is 
+faster than it was 5000 years ago. Our recent past is not a reliable guide to how much change
+we should expect in the future.
+
+Strong claim: Technological change follows smooth curves, typically exponential. Therefore we
+can predict with fair precision when new technologies will arrive, and when they will cross key
+thresholds, like the creation of Artificial Intelligence.
+
+Advocates: Ray Kurzweil, Alvin Toffler(?), John Smart
+
+**Event Horizon:**
+
+Core claim: For the last hundred thousand years, humans have been the smartest intelligences 
+on the planet. All our social and technological progress was produced by human brains. Shortly,
+technology will advance to the point of improving on human intelligence (brain-computer 
+interfaces, Artificial Intelligence). This will create a future that is weirder by far than most
+science fiction, a difference-in-kind that goes beyond amazing shiny gadgets.
+
+Strong claim: To know what a superhuman intelligence would do, you would have to be at least
+that smart yourself. To know where Deep Blue would play in a chess game, you must play at Deep
+Blue’s level. Thus the future after the creation of smarter-than-human intelligence is absolutely
+unpredictable.
+
+Advocates: Vernor Vinge
+
+**Intelligence Explosion:**
+
+Core claim: Intelligence has always been the source of technology. If technology can significantly 
+improve on human intelligence – create minds smarter than the smartest existing humans – then this
+closes the loop and creates a positive feedback cycle. What would humans with brain-computer
+interfaces do with their augmented intelligence? One good bet is that they’d design the next 
+generation of brain-computer interfaces. Intelligence enhancement is a classic tipping point; the
+smarter you get, the more intelligence you can apply to making yourself even smarter.
+
+Strong claim: This positive feedback cycle goes FOOM, like a chain of nuclear fissions gone 
+critical – each intelligence improvement triggering an average of>1.000 further improvements of
+similar magnitude – though not necessarily on a smooth exponential pathway. Technological progress 
+drops into the characteristic timescale of transistors (or super-transistors) rather than human
+neurons. The ascent rapidly surges upward and creates superintelligence (minds orders of magnitude
+more powerful than human) before it hits physical limits.
+
+Advocates: I. J. Good, Eliezer Yudkowsky
+```
+
+Note that while the core claims support each other, the strong claims are contradictory:
+
+```markdown
+If you extrapolate our existing version of Moore’s Law past the point of smarter-than-human AI to 
+make predictions about 2099, then you are contradicting both the strong version of the Event 
+Horizon (which says you can’t make predictions because you’re trying to outguess a transhuman mind)
+and the strong version of the Intelligence Explosion (because progress will run faster once smarter-
+than-human minds and nanotechnology drop it into the speed phase of transistors).
+```
+
+<a name="#the-singularity-has-happened"></a>
+### The Singularity has happened
+([overview](#overview))
+
+Cosma Shalizi is usually hard to do justice to when quoting him, because he's so densely hyperlinked to so many cool further reads. That caveat out of the way, here's from [The Singularity in Our Past Light-Cone](http://bactra.org/weblog/699.html).
+
+He's also great because in contrast to others of "his type", he's very well read in history, and so tends to provide appropriate historical contextualizing to recent events like general civilizational tech progress or whatever. This shows in the quote below.
+
+```markdown
+The Singularity has happened; we call it "the industrial revolution" or "the long nineteenth 
+century". It was over by the close of 1918.
+
+Exponential yet basically unpredictable growth of technology, rendering long-term extrapolation 
+impossible (even when attempted by geniuses)? Check.
+
+Massive, profoundly dis-orienting transformation in the life of humanity, extending to our 
+ecology, mentality and social organization? Check.
+
+Annihilation of the age-old constraints of space and time? Check.
+
+Embrace of the fusion of humanity and machines? Check.
+
+Creation of vast, inhuman distributed systems of information-processing, communication and
+control, "the coldest of all cold monsters"? Check; we call them "the self-regulating market 
+system" and "modern bureaucracies" (public or private), and they treat men and women, even those 
+whose minds and bodies instantiate them, like straw dogs.
+
+An implacable drive on the part of those networks to expand, to entrain more and more of the world
+within their own sphere? Check. ("Drive" is the best I can do; words like "agenda" or "purpose" 
+are too anthropomorphic, and fail to acknowledge the radical novely and strangeness of these 
+assemblages, which are not even intelligent, as we experience intelligence, yet ceaselessly 
+calculating.)
+
+Why, then, since the Singularity is so plainly, even intrusively, visible in our past, does science
+fiction persist in placing a pale mirage of it in our future? Perhaps: the owl of Minerva flies at 
+dusk; and we are in the late afternoon, fitfully dreaming of the half-glimpsed events of the day, 
+waiting for the stars to come out.
+```
+
+<a name="#Disneyland-with-no-children"></a>
+### Disneyland with no children
+([overview](#overview))
+
+Finally dug up this quote! From Scott Alexander's legendary [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), quoting Nick Bostrom's *Superintelligence*:
+
+```markdown
+It is conceivable that optimal efficiency would be attained by grouping capabilities in
+aggregates that roughly match the cognitive architecture of a human mind… But in the 
+absence of any compelling reason for being confident that this so, we must countenance 
+the possibility that human-like cognitive architectures are optimal only within the
+constraints of human neurology (or not at all). When it becomes possible to build 
+architectures that could not be implemented well on biological neural networks, new design
+space opens up; and the global optima in this extended space need not resemble familiar 
+types of mentality. Human-like cognitive organizations would then lack a niche in a
+competitive post-transition economy or ecosystem.
+
+We could thus imagine, as an extreme case, a technologically highly advanced society,
+containing many complex structures, some of them far more intricate and intelligent than 
+anything that exists on the planet today – a society which nevertheless lacks any type of
+being that is conscious or whose welfare has moral significance. In a sense, this would be
+an uninhabited society. It would be a society of economic miracles and technological 
+awesomeness, with nobody there to benefit. A Disneyland with no children.
+```
+
+Scott then argues:
+
+```markdown
+The last value we have to sacrifice is being anything at all, having the lights on inside.
+With sufficient technology we will be “able” to give up even the final spark.
+
+*(Moloch whose eyes are a thousand blind windows!)*
+
+Everything the human race has worked for – all of our technology, all of our civilization,
+all the hopes we invested in our future – might be accidentally handed over to some kind of
+unfathomable blind idiot alien god that discards all of them, and consciousness itself, in
+order to participate in some weird fundamental-level mass-energy economy that leads to it 
+disassembling Earth and everything on it for its component atoms.
+
+*(Moloch whose fate is a cloud of sexless hydrogen!)*
+
+Bostrom realizes that some people fetishize intelligence, that they are rooting for that 
+blind alien god as some sort of higher form of life that ought to crush us for its own 
+“higher good” the way we crush ants. He argues (Superintelligence, p. 219):
+
+*The sacrifice looks even less appealing when we reflect that the superintelligence could 
+realize a nearly-as-great good (in fractional terms) while sacrificing much less of our own
+potential well-being. Suppose that we agreed to allow almost the entire accessible universe
+to be converted into hedonium – everything except a small preserve, say the Milky Way, which
+would be set aside to accommodate our own needs. Then there would still be a hundred billion
+galaxies dedicated to the maximization of [the superintelligence’s own values]. But we would
+have one galaxy within which to create wonderful civilizations that could last for billions 
+of years and in which humans and nonhuman animals could survive and thrive, and have the 
+opportunity to develop into beatific posthuman spirits.*
+
+Remember: Moloch can’t agree even to this 99.99999% victory. Rats racing to populate an island
+don’t leave a little aside as a preserve where the few rats who live there can live happy lives
+producing artwork. Cancer cells don’t agree to leave the lungs alone because they realize it’s
+important for the body to get oxygen. Competition and optimization are blind idiotic processes
+and they fully intend to deny us even one lousy galaxy.
+
+*They broke their backs lifting Moloch to Heaven! Pavements, trees, radios, tons! lifting the 
+city to Heaven which exists and is everywhere about us!*
+
+We will break our back lifting Moloch to Heaven, but unless something changes it will be his 
+victory and not ours.
+```
 
 <a name="#rambling-and-ai"></a>
 ### Rambling and AI
@@ -4108,7 +6480,7 @@ See also [rambling in writing, talking etc](#rambling).
 
 <a name="#replacing-humans-at-every-step-of-the-economic-chain"></a>
 ### Replacing humans at every step of the economic chain
-([overview](#overview)
+([overview](#overview))
 
 Scott Alexander’s [Book Review: Age of Em](https://slatestarcodex.com/2016/05/28/book-review-age-of-em/) has a cute little throwaway thought experiment/short story I find myself grasping for a few times already in the last several years. Every time I’ve had to dig around for a while because I keep thinking it’s in the 15,000-word Moloch post, or the ones with Bostrom’s “Disneyland with no children”, but it’s not, it’s in Scott’s review of Robin Hanson’s book. This shouldn’t be surprising since Scott and Robin’s opinions are diametrically opposed when it comes to the latter’s em-run-possible-future, which is the whole motivation behind the thought experiment, but somehow I keep forgetting. So I’m recording it here for my own future reference:
 
@@ -5049,6 +7421,63 @@ to recommend ruining your life, and people are strongly conditioned to avoid the
 Recognizing partial, as opposed to impartial, motives (personal projects, selfishness, family, tribalism) 
 and not trying to rationalize everything with a 100% impartial facade, can help more comfortably think
 about questions like average well-being, or the real trade-off between burnout and effort, etc.
+```
+
+<a name="#Why-I-left-academia"></a>
+### Why I left academia
+([overview](#overview))
+
+I like [research distillation](https://distill.pub/2017/research-debt/) more than research "generation", but:
+
+```markdown
+Lots of people want to work on research distillation. Unfortunately, it’s very difficult 
+to do so, because we don’t support them.
+
+There is a strange kind of informal support for people working on research distillation.
+Christopher (Olah) has personally benefitted a great deal from this. But it’s unreliable
+and not widely advertised, which makes it hard to build a career on.
+
+An aspiring research distiller lacks many things that are easy to take for granted: 
+a career path, places to learn, examples and role models. Underlying this is a deeper issue: 
+their work isn’t seen as a real research contribution. 
+```
+
+From [Richard Wills' answer](https://qr.ae/TW1GCR) to the Quora question "What made you decide to leave academia after being in a PhD program in Mathematics or Physics?":
+
+```markdown
+After five years of grad school (at Caltech, in the lab of a Nobel Laureate) and three years
+of post-doc’ing (at UCLA and Caltech), I decided to get out of academic science and find 
+something personally more rewarding. Why?
+
+1. Although I really enjoyed “doing” science, that is, actually dreaming up and doing the 
+experiments, that was not what I saw Assistant Professors (my next step up in the academic 
+ladder) doing.
+
+2. What I saw them doing was managing a lab (consisting of others), which I had no desire to
+do, and spending great gobs of time and energy applying for research grants, which I had no 
+desire whatsoever to do. Frankly, being an Assistant Professor and working my way up from 
+there just did not appeal. Among other reasons, I hate committee work and find sitting in 
+committee meetings boring as hell. I admit it: I’m an introvert and not a team player. I
+want to be left alone to do my own thing (for which grad school and post-doc’ing were ideal).
+
+3. I also wanted to have the choice of where I and my family would live and had no desire 
+to live in some podunk town where I might get a job as an Assistant Professor. I had lived 
+in LA and its environs for eight years, and I had no desire to leave. (Am I the minority 
+of one who actually enjoys LA?)
+
+4. Also, I will admit that it became clear to me that after grad school and post-doc’ing,
+while I may be smart and creative, I was not the next Feynman, Watson, or Crick, and that 
+I was not going to get a faculty job at Caltech, Stanford, Harvard, etc., as when I had begun
+this process, I had initially thought that I might. That changed my perspectives to where it
+became more important to me to find myself in a life’s work that I enjoyed than being the top
+dog in it.
+
+5. Lastly, although it was not one of the reasons I left science for the law, one pleasant
+outcome of that has been that I imagine lawyering has left me far more financially secure 
+than remaining in academic science would have. (I was making a multiple of what a top
+professor in the Ivies made. But far more to the point, I got to do what I enjoyed, work for
+the clients I enjoyed, work on the legal challenges that I enjoyed, be my own Boss —- what’s
+not to like about that?
 ```
 
 <a name="#distillation-and-research-debt"></a>
@@ -7014,6 +9443,102 @@ explicit claims, use of evidence, and argument.
 ## Math opinions
 ([overview](#overview))
 
+<a name="#Defining-combinatorics"></a>
+### Defining combinatorics
+([overview](#overview))
+
+I took an introduction to combinatorics course with Igor Pak back in the day, and found him a fascinating character. Later Googling made me realize he was a pretty big-shot figure -- this gets lost in the Taos and Manolescus of the university, but he's still pretty influential in his subfield -- which made his pontifications somehow endearing. Here's his webpage [What is combinatorics?](https://igorpak.wordpress.com/2013/05/14/what-is-combinatorics/), where he first considers and dismisses popular definitions, and settles on the one given by Gian-Carlo Rota.
+
+Igor rejects the usual "discrete stuff" approach:
+
+```markdown
+Few themes emerge.  First, that combinatorics is some kind of discrete universe which 
+deals with discrete “configurations”, their existence and counting.  Where to begin?  
+This is “sort of” correct, but largely useless.  Should we count logic, rectifiable 
+knots and finite fields in, and things like Borsuk conjecture and algebraic combinatorics
+out?  This is sort of like defining an elephant as a “large animal with a big trunk and
+big ears”.  This “descriptive” definition may work for Webster’s dictionary, but if you 
+have never seen an elephant, you really don’t know how big should be the ears, and have
+a completely wrong idea about what is a trunk.  And if you have seen an elephant, this 
+definition asks you to reject a baby elephant whose trunk and ears are smaller.  
+Not good.
+```
+
+Igor rejects the "it's defined by its tools and methods, or lack of thereof" approach:
+
+```markdown
+Second theme: combinatorics is defined by its tools and methods, or lack of thereof.  
+This is more of a wishful thinking than a working definition.  It is true that
+practitioners in different parts of combinatorics place a great value on developing new
+extensions and variations of the available tools, as well as ingenuous ad hoc arguments. 
+But a general attitude, it seems, is basically “when it comes to problem solving, one 
+can use whatever works”.  For example, our recent paper proves unimodality results for
+the classical Gaussian coefficients and their generalizations via technical results for
+Kronecker coefficients, a tool never been used for that before.  Does that make our 
+paper “less combinatorial” somehow?  In fact, some experts openly advocate that the more 
+advanced the tools are, the better, while others think that “term ‘combinatorial methods’,
+has an oxymoronic character”.
+```
+
+Igor rejects the "it's ineffable" approach:
+
+```markdown
+Third theme: combinatorics is “special” and cannot be defined.  Ugh…  This reminds me of 
+an old (1866), but sill politically potent Russian verse (multiple English translations)
+by Tyutchev.  I can certainly understand the unwillingness to define combinatorics, but 
+saying it is not possible is just not true.
+```
+
+Igor rejects the piecemeal approach:
+
+```markdown
+Either going over a long list of topics, or giving detailed and technical rules why 
+something is and something isn’t combinatorics.  But this bound to raise controversy, 
+like who decides?  For example, take PCM’s “few constraints” rule.  Really?  Somebody
+thinks block designs, distance-regular graphs or coding theory have too few constraints? 
+I don’t see it that way.  In general, this is an encyclopedia style approach.  It can 
+work on Wikipedia which is constantly updated and the controversies are avoided by
+constant search for a compromise (see also my old post), but it’s not a definition.
+```
+
+"Combinatorics is similarly formed by the (historical) battles, and can only be defined as such":
+
+```markdown
+After some reading and thinking, I concluded that Gian-Carlo Rota’s 44 y.o. explanation in 
+“Discrete thoughts” is exactly right.  Let me illustrate it with my own (lame) metaphor.
+
+Imagine you need to define Russia (not Tyutchev-style).  You can say it’s the largest country
+by land mass, but that’s a description, not a definition.  The worst thing you can do is try
+to define it as a “country in the North” or via its lengthy borders.  You see, Russia is huge, 
+spead out and disconnected.  It lies to the North of China but has a disconnected common 
+border, it has a 4253 mile border with Kazakhstan (longer than the US-Canada border excluding
+Alaska), surrounding the country from three sides, it lies North-West of Japan, East of 
+Latvia, South-West of Lithuania (look it up!), etc.  It even borders North Korea, not that 
+this tiny border is much in use.  Basically, Russian borders are complicated and are a result
+of numerous wars and population shifts; they have changed many times and might change again.
+
+Now, Rota argues that Combinatorics is similarly formed by the battles, and can only be 
+defined as such.  It is a large interconnected field concentrated (but not coinciding!) around
+basic discrete tools and problems, but with tentacles reaching deep into “foreign territory”.
+Its current shape is a result of numerous “wars” – the borderline problems are tested on which
+tools are more successful, and whoever “wins”, gets to absorb a new subfield.  For example, in
+its “war” with topology, combinatorics “won” graph theory and “lost” knot theory (despite a 
+strong combinatorial influence).  In other areas, such as computer science and discrete 
+probability, Rota argues there a lot of cooperation, a mutually beneficial “joint governance” 
+(all lame metaphors are mine).  But as a consequence, if one is to define Combinatorics (or 
+Russia), the historical-cultural approach would go best.  Not all that different from Sheldon’s
+approach to define Physics “from the beginning”.
+
+In conclusion, let’s acknowledge that Combinatorics can indeed be defined in the same (lengthy
+historical) manner as a large diverse country, but such definition would be neither short nor
+enlightening, more like a short survey.  As Danny Kleitman writes, in practice this lack of a
+clear and meaningful definition of the subject “never bothered him”, and we agree.  I think 
+it’s time to stop worrying about that.  But if someone makes blank general statements painting
+all of combinatorics in a certain way, this is just indefensible.
+```
+
+There's also a huge collection of quotes by Igor [here](http://www.math.ucla.edu/~pak/hidden/papers/Quotes/Combinatorics-quotes.htm).
+
 <a name="#two-cultures"></a>
 ### Two cultures
 ([overview](#overview))
@@ -8108,6 +10633,594 @@ jumped a level and did not really realize it.
 Later when I went back for grad school in Materials Engineering, the Thermo seemed so easy, I was surprised 
 at what I was so hard now seemed so clear. I could explain almost anything with Gibbs Free Energy, and 
 the math was not that hard. But the concept took a while to sink in.
+```
+
+Michael Nielsen has [a great essay](http://cognitivemedium.com/srs-mathematics) talking about how he used spaced repetition via Anki flashcards to iteratively deepen his understanding of ("see through") a math concept. See also [Nielsen on augmenting long-term memory](#augmenting-long-term-memory). 
+
+First -- on understanding in math being not black and white but layered / spectrum:
+
+```markdown
+What does it mean to understand a piece of mathematics? Naively, we perhaps think of this 
+in relatively black and white terms: initially you don’t understand a piece of mathematics,
+then you go through a brief grey period where you’re learning it, and with some luck and 
+hard work you emerge out the other side “understanding” the mathematics.
+
+In reality, mathematical understanding is much more nuanced. My experience is that it’s
+nearly always possible to deepen one’s understanding of any piece of mathematics. This is 
+even true – perhaps especially true – of what appear to be very simple mathematical ideas.
+
+I first really appreciated this after reading an essay by the mathematician Andrey Kolmogorov.
+You might suppose a great mathematician such as Kolmogorov would be writing about some very 
+complicated piece of mathematics, but his subject was the humble equals sign: what made it a
+good piece of notation, and what its deficiencies were. Kolmogorov discussed this in loving 
+detail, and made many beautiful points along the way, e.g., that the invention of the equals
+sign helped make possible notions such as equations (and algebraic manipulations of equations).
+
+Prior to reading the essay I thought I understood the equals sign. Indeed, I would have been
+offended by the suggestion that I did not. But the essay showed convincingly that I could 
+understand the equals sign much more deeply.
+
+This experience suggested three broader points. First, it’s possible to understand other 
+pieces of mathematics far more deeply than I assumed. Second, mathematical understanding 
+is an open-ended process; it’s nearly always possible to go deeper. Third, even great
+mathematicians – perhaps, especially, great mathematicians – thought it worth their time
+to engage in such deepening.
+```
+
+Nielsen being Nielsen, he gets excited about how to make iterative deepening of mathematical understanding actionable via heuristics. He's collected "many such heuristics over the years"; his essay talks about Anki. 
+
+Does this really depend on Anki though? Not really:
+
+```markdown
+There’s very little in the above process that explicitly depended on me using Anki’s spaced-
+repetition flashcards. Rather, what I’ve described is a general process for pulling apart 
+the proof of a theorem and making much more sense of it, essentially by atomizing the 
+elements. There’s no direct connection to Anki at all – you could carry out the process 
+using paper and pencil.
+```
+
+Here's the "Ankification" of the proof of the following theorem: "a complex normal matrix is always diagonalizable by a unitary matrix".
+
+```markdown
+*Phase I: understanding the proof*: This involves multiple passes over the proof. Initially,
+it starts out with what I think of as grazing, picking out single elements of the proof and 
+converting to Anki cards. ... 
+
+I work hard to restate ideas in multiple ways. Indeed, I worked hard to simplify both questions
+and answers – the just given question-and-answer pair started out somewhat more complicated.
+Part of this was some minor complexity in the question, which I gradually trimmed down. The 
+answer I’ve stated above, though, is much better than in earlier versions. Earlier versions
+mentioned M explicitly (unnecessary), had more blocks in the matrices, used ⋯⋯ rather than 
+⋅⋅, and so on. You want to aim for the minimal answer, displaying the core idea as sharply as 
+possible. 
+
+I can’t emphasize enough the value of finding multiple different ways of thinking about the
+“same” mathematical ideas. Here’s a couple more related restatements:
+
+*Q: What’s a geometric interpretation of the diagonal entries in the matrix MM†?
+
+A: The lengths squared of the respective rows.
+
+Q: What’s a geometric interpretation of the diagonal entries in the matrix M†M?
+
+A: The lengths squared of the respective columns.
+
+Q: What do the diagonal elements of the normalcy condition MM†=M†M mean geometrically?
+
+A: The corresponding row and column lengths are the same.*
+
+What you’re trying to do at this stage is learn your way around the proof. Every piece
+should become a comfortable part of your mental furniture, ideally something you start to
+really feel. That means understanding every idea in multiple ways, and finding as many 
+connections between different ideas as possible.
+
+People inexperienced at mathematics sometimes memorize proofs as linear lists of statements.
+A more useful way is to think of proofs is as interconnected networks of simple observations.
+Things are rarely true for just one reason; finding multiple explanations for things gives 
+you an improved understanding. This is in some sense “inefficient”, but it’s also a way of
+deepening understanding and improving intuition. You’re building out the network of the proof,
+making more connections between nodes.
+
+One way of doing this is to explore minor variations. ...
+
+(By the way, it’s questions like these that make me think it helps to be fairly 
+mathematically experienced in carrying this Ankification process out. For someone who has
+done a lot of linear algebra these are very natural observations to make, and questions to
+ask. But I’m not sure they would be so natural for everyone. The ability to ask the “right”
+questions – insight-generating questions – is a limiting part of this whole process, and
+requires some experience.)
+
+I’ve been describing the grazing process, aiming to thoroughly familiarize yourself with
+every element of the proof. This is useful, but is also a rather undirected process, with 
+no clear end point, and not necessarily helping you understand the broader to structure of
+the proof. I also impose on myself a set of aspirational goals, all variations on the idea 
+of distilling the entire proof to one question and (simple) answer. The aim is to fill in 
+the answers to questions having forms like:
+
+*Q: In one sentence, what is the core reason a (complex) normal matrix is diagonalizable?
+
+And:
+
+Q: What is a simple visual representation of the proof that (complex) normal matrices are
+diagonalizable?*
+
+I think of these question templates as boundary conditions or forcing functions. They’re 
+things to aim for, and I try to write questions that will help me move toward answers. That 
+starts with grazing, but over time moves to more structural questions about the proof, and
+about how elements fit together.
+
+In general, it’s helpful to make both questions and answers as atomic as possible; it seems
+to help build clarity. That atomicity doesn’t mean the questions and answers can’t involve 
+quite sophisticated concepts, but they ideally express a single idea.
+
+In practice, as I understand the proof better and better the aspirational goal cards change
+their nature somewhat.
+
+What you really want is to feel every element (and the connections between them) in your 
+bones. Some substantial part of that feeling comes by actually constructing the cards. That’s
+a feeling you can’t get merely by reading an essay, it can only be experienced by going
+through the deep Ankification process yourself. Nonetheless, I find that process, as described
+up to now, is also not quite enough. You can improve upon it by asking further questions
+elaborating on different parts of the answer, with the intent of helping you understand the
+answer better.
+
+Another helpful trick is to have multiple ways of writing these top-level questions. Much of 
+my thinking is non-verbal (especially in subjects I’m knowledgeable about), but I still find
+it useful to force a verbal question-and-answer...
+
+*Phase II: variations, pushing the boundaries*: Let’s get back to details of how the
+Ankification process works. One way of deepening your understanding further is to find ways
+of pushing the boundaries of the proof and of the theorem. I find it helpful to consider many
+different ways of changing the assumptions of the theorem, and to ask how it breaks down (or
+generalizes). Another good strategy is to ask if the conditions can be weakened. ...
+
+This second phase really is open-ended: we can keep putting in variations essentially ad 
+infinitum. The questions are no longer directly about the proof, but rather are about poking
+it in various ways, and seeing what happens. The further I go, and the more I connect to other
+results, the better.
+```
+
+"Exhaust" cards:
+
+```markdown
+As described, this deep Ankification process can feel rather wasteful. Inevitably, over 
+time my understanding of the proof changes. When that happens it’s often useful to rewrite
+(and sometimes discard or replace) cards to reflect my improved understanding. And some of
+the cards written along the way have the flavor of exhaust, bad cards that seem to be
+necessary to get to good cards. I wish I had a good way of characterizing these, but I 
+haven’t gone through this often enough to have more than fuzzy ideas about it.
+```
+
+How it feels like to "be inside a piece of mathematics":
+
+```markdown
+Typically, my mathematical work begins with paper-and-pen and messing about, often in
+a rather ad hoc way. But over time if I really get into something my thinking starts to
+change. I gradually internalize the mathematical objects I’m dealing with. It becomes 
+easier and easier to conduct (most of) my work in my head. I will go on long walks, and
+simply think intensively about the objects of concern. Those are no longer symbolic or 
+verbal or visual in the conventional way, though they have some secondary aspects of 
+this nature. Rather, the sense is somehow of working directly with the objects of 
+concern, without any direct symbolic or verbal or visual referents. Furthermore, as my 
+understanding of the objects change – as I learn more about their nature, and correct my
+own misconceptions – my sense of what I can do with the objects changes as well. It’s as
+though they sprout new affordances, in the language of user interface design, and I get 
+much practice in learning to fluidly apply those affordances in multiple ways.
+
+This is a very difficult experience to describe in a way that I’m confident others will
+understand, but it really is central to my experience of mathematics – at least, of 
+mathematics that I understand well. I must admit I’ve shared it with some trepidation; 
+it seems to be rather unusual for someone to describe their inner mathematical experiences
+in these terms (or, more broadly, in the terms used in this essay).
+```
+
+Related is Einstein's musings in his letter to Hadamard describing his thought processes:
+
+```markdown
+The words or the language, as they are written or spoken, do not seem to play any role 
+in my mechanism of thought. The psychical entities which seem to serve as elements in 
+thought are certain signs and more or less clear images which can be “voluntarily” 
+reproduced and combined… The above-mentioned elements are, in my case, of visual and some
+of muscular type. Conventional words or other signs have to be sought for laboriously 
+only in a secondary stage, when the mentioned associative play is sufficiently established
+and can be reproduced at will.
+```
+
+Nielsen thinks this is all chunking:
+
+```markdown
+People who intensively study a subject gradually start to build mental libraries of “chunks” 
+– large-scale patterns that they recognize and use to reason. This is why some grandmaster 
+chess players can remember thousands of games move for move. They’re not remembering the 
+individual moves – they’re remembering the ideas those games express, in terms of larger 
+patterns. And they’ve studied chess so much that those ideas and patterns are deeply
+meaningful, much as the phrases in a lover’s letter may be meaningful. It’s why top 
+basketball players have extraordinary recall of games. Experts begin to think, perhaps only
+semi-consciously, using such chunks. The conventional representations – words or symbols in
+mathematics, or moves on a chessboard – are still there, but they are somehow secondary.
+```
+
+This segues into Terry Tao's [three stages of mathematical education](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/) article:
+
+```markdown
+One can roughly divide mathematical education into three stages:
+
+1. The “pre-rigorous” stage, in which mathematics is taught in an informal, intuitive 
+manner, based on examples, fuzzy notions, and hand-waving. (For instance, calculus is 
+usually first introduced in terms of slopes, areas, rates of change, and so forth.) 
+The emphasis is more on computation than on theory. This stage generally lasts until 
+the early undergraduate years.
+
+2. The “rigorous” stage, in which one is now taught that in order to do maths “properly”,
+one needs to work and think in a much more precise and formal manner (e.g. re-doing calculus
+by using epsilons and deltas all over the place). The emphasis is now primarily on theory;
+and one is expected to be able to comfortably manipulate abstract mathematical objects
+without focusing too much on what such objects actually “mean”. This stage usually occupies 
+the later undergraduate and early graduate years.
+
+3. The “post-rigorous” stage, in which one has grown comfortable with all the rigorous 
+foundations of one’s chosen field, and is now ready to revisit and refine one’s pre-
+rigorous intuition on the subject, but this time with the intuition solidly buttressed by 
+rigorous theory. (For instance, in this stage one would be able to quickly and accurately 
+perform computations in vector calculus by using analogies with scalar calculus, or informal
+and semi-rigorous use of infinitesimals, big-O notation, and so forth, and be able to 
+convert all such calculations into a rigorous argument whenever required.) The emphasis is 
+now on applications, intuition, and the “big picture”. This stage usually occupies the late
+graduate years and beyond.
+
+The transition from the first stage to the second is well known to be rather traumatic, with
+the dreaded “proof-type questions” being the bane of many a maths undergraduate. But the
+transition from the second to the third is equally important, and should not be forgotten.
+
+It is of course vitally important that you know how to think rigorously, as this gives you
+the discipline to avoid many common errors and purge many misconceptions. Unfortunately, this
+has the unintended consequence that “fuzzier” or “intuitive” thinking (such as heuristic
+reasoning, judicious extrapolation from examples, or analogies with other contexts such as 
+physics) gets deprecated as “non-rigorous”. All too often, one ends up discarding one’s
+initial intuition and is only able to process mathematics at a formal level, thus getting 
+stalled at the second stage of one’s mathematical education.  (Among other things, this can
+impact one’s ability to read mathematical papers; an overly literal mindset can lead to 
+“compilation errors” when one encounters even a single typo or ambiguity in such a paper.)
+
+The point of rigour is not to destroy all intuition; instead, it should be used to destroy 
+bad intuition while clarifying and elevating good intuition. It is only with a combination
+of both rigorous formalism and good intuition that one can tackle complex mathematical
+problems; one needs the former to correctly deal with the fine details, and the latter to 
+correctly deal with the big picture. Without one or the other, you will spend a lot of time
+blundering around in the dark (which can be instructive, but is highly inefficient). So once
+you are fully comfortable with rigorous mathematical thinking, you should revisit your
+intuitions on the subject and use your new thinking skills to test and refine these intuitions
+rather than discard them. One way to do this is to ask yourself dumb questions; another is 
+to relearn your field.
+
+The ideal state to reach is when every heuristic argument naturally suggests its rigorous 
+counterpart, and vice versa. Then you will be able to tackle maths problems by using both 
+halves of your brain at once – i.e., the same way you already tackle problems in “real life”.
+```
+
+See [this article](https://terrytao.wordpress.com/advice-on-writing-papers/on-compilation-errors-in-mathematical-reading-and-how-to-resolve-them/) by Terry for more on compilation errors.
+
+The kind of mistakes made by mathematicians of each stage:
+
+```markdown
+It is perhaps worth noting that mathematicians at all three of the above stages of 
+mathematical development can still make formal mistakes in their mathematical writing.
+However, the nature of these mistakes tends to be rather different, depending on what 
+stage one is at:
+
+1. Mathematicians at the pre-rigorous stage of development often make formal errors 
+because they are unable to understand how the rigorous mathematical formalism actually 
+works, and are instead applying formal rules or heuristics blindly.  It can often be 
+quite difficult for such mathematicians to appreciate and correct these errors even 
+when those errors are explicitly pointed out to them.
+
+2. Mathematicians at the rigorous stage of development can still make formal errors
+because they have not yet perfected their formal understanding, or are unable to perform
+enough “sanity checks” against intuition or other rules of thumb to catch, say, a sign
+error, or a failure to correctly verify a crucial hypothesis in a tool.  However, such 
+errors can usually be detected (and often repaired) once they are pointed out to them.
+
+3. Mathematicians at the post-rigorous stage of development are not infallible, and are
+still capable of making formal errors in their writing.  But this is often because they
+no longer need the formalism in order to perform high-level mathematical reasoning, and 
+are actually proceeding largely through intuition, which is then translated (possibly 
+incorrectly) into formal mathematical language.
+
+The distinction between the three types of errors can lead to the phenomenon (which can
+often be quite puzzling to readers at earlier stages of mathematical development) of a 
+mathematical argument by a post-rigorous mathematician which locally contains a number
+of typos and other formal errors, but is globally quite sound, with the local errors 
+propagating for a while before being cancelled out by other local errors.  (In contrast,
+when unchecked by a solid intuition, once an error is introduced in an argument by a pre-
+rigorous or rigorous mathematician, it is possible for the error to propagate out of 
+control until one is left with complete nonsense at the end of the argument.)
+```
+
+Commenter Chris makes the following claim:
+
+```markdown
+I’d call pre-rigorous the “cargo cult” stage. You’re not doing mathematics, you’re merely
+performing a very close approximation to it using rote learned rules. It was this sort of
+mathematics taught in the first year of the undergraduate curriculum at my university which 
+caused me to take physics as my major.
+
+Physicists and engineers call the third type of mathematics you propose a “back of the
+envelope” calculation. I suspect the less pretentious mathematicians do also. It is the
+step you use to flesh out a hypothesis before you apply rigour.
+```
+
+I only recorded it as context for Terry's response:
+
+```markdown
+Hmm. I think perhaps I would classify the “back of the envelope” calculations as a 
+fourth stage, let’s call it the “heuristic” stage, in the following, almost commuting square:
+
+pre-rigorous —> rigorous
+| ……………………….|
+v ……………………….v
+heuristic —> post-rigorous
+
+As I discussed in the post, mathematicians tend to proceed through the upper route, but I
+do see the point that physicists and engineers tend to proceed through the lower route. 
+Though, as I said, the diagram doesn’t quite commute; there are some significant cultural
+differences in doing mathematics that depend on which route one took to achieve the post-
+rigorous stage.
+
+The distinction between heuristic and post-rigorous is that in the latter, one uses
+intuition and rigour in an integrated fashion; one knows how to justify one’s intuition
+and convert it to rigorous arguments, and conversely one knows how to take rigorous 
+arguments and extract an intuitive explanation. For instance, one could convert arguments
+involving infinitesimals into rigorous epsilon-delta arguments whenever required, and vice
+versa. At the heuristic level, one could argue accurately with infinitesimals, but might 
+not be able to convert them into a rigorous argument.
+
+Just as mathematicians sometimes get stuck at the rigorous stage, unable to fully develop
+their intuition, I would imagine that the converse problem can happen to people educated 
+using the physicist/engineer approach, who then miss out on the stereoscopic view that one
+gets from using both rigour and intuition simultaneously.
+```
+
+Going back to Nielsen's chunking above, there's also Bill Thurston's legendary MO question [Thinking and explaining](https://mathoverflow.net/questions/38639/thinking-and-explaining), whose favorite answers I'm quoting wholesale below.
+
+Here's the [legendary answer by Anonymous Quoran](https://www.quora.com/What-is-it-like-to-understand-advanced-mathematics-Does-it-feel-analogous-to-having-mastery-of-another-language-like-in-programming-or-linguistics/answers/873950?amp&share=1&srid=p6KQ) I always have to much around in the Google search results to get at for some reason:
+
+```markdown
+**You can answer many seemingly difficult questions quickly**. But you are not very impressed
+by what can look like magic, because you know the trick. The trick is that your brain can
+quickly decide if a question is answerable by one of a few powerful general purpose "machines"
+(e.g., continuity arguments, the correspondences between geometric and algebraic objects,
+linear algebra, ways to reduce the infinite to the finite through various forms of
+compactness) combined with specific facts you have learned about your area. The number of
+fundamental ideas and techniques that people use to solve problems is, perhaps surprisingly,
+pretty small -- see http://www.tricki.org/tricki/map for a partial list, maintained by Timothy
+Gowers.
+
+**You are often confident that something is true long before you have an airtight proof for it
+(this happens especially often in geometry)**. The main reason is that you have a large 
+catalogue of connections between concepts, and you can quickly intuit that if X were to be 
+false, that would create tensions with other things you know to be true, so you are inclined 
+to believe X is probably true to maintain the harmony of the conceptual space. It's not so much 
+that you can imagine the situation perfectly, but you can quickly imagine many other things that
+are logically connected to it.
+
+**You are comfortable with feeling like you have no deep understanding of the problem you are 
+studying**. Indeed, when you do have a deep understanding, you have solved the problem and it 
+is time to do something else. This makes the total time you spend in life reveling in your mastery
+of something quite brief. One of the main skills of research scientists of any type is knowing how
+to work comfortably and productively in a state of confusion. More on this in the next few bullets.
+
+**Your intuitive thinking about a problem is productive and usefully structured, wasting little 
+time on being aimlessly puzzled**. For example, when answering a question about a high-dimensional
+space (e.g., whether a certain kind of rotation of a five-dimensional object has a "fixed point"
+which does not move during the rotation), you do not spend much time straining to visualize those 
+things that do not have obvious analogues in two and three dimensions. (Violating this principle
+is a huge source of frustration for beginning maths students who don't know that they shouldn't be
+straining to visualize things for which they don't seem to have the visualizing machinery.) Instead...
+
+**When trying to understand a new thing, you automatically focus on very simple examples that 
+are easy to think about, and then you leverage intuition about the examples into more impressive
+insights**. For example, you might imagine two- and three-dimensional rotations that are analogous
+to the one you really care about, and think about whether they clearly do or don't have the 
+desired property. Then you think about what was important to the examples and try to distill those
+ideas into symbols. Often, you see that the key idea in the symbolic manipulations doesn't depend
+on anything about two or three dimensions, and you know how to answer your hard question. 
+
+**As you get more mathematically advanced, the examples you consider easy are actually complex 
+insights built up from many easier examples; the "simple case" you think about now took you two
+years to become comfortable with**. But at any given stage, you do not strain to obtain a magical
+illumination about something intractable; you work to reduce it to the things that feel friendly.
+
+To me, **the biggest misconception that non-mathematicians have about how mathematicians work is that 
+there is some mysterious mental faculty that is used to crack a research problem all at once**. It's 
+true that sometimes you can solve a problem by pattern-matching, where you see the standard tool 
+that will work; the first bullet above is about that phenomenon. This is nice, but not fundamentally
+more impressive than other confluences of memory and intuition that occur in normal life, as when
+you remember a trick to use for hanging a picture frame or notice that you once saw a painting of 
+the street you're now looking at.
+
+In any case, by the time a problem gets to be a research problem, it's almost guaranteed that
+simple pattern matching won't finish it. So in one's professional work, the process is piecemeal:
+you think a few moves ahead, trying out possible attacks from your arsenal on simple examples 
+relating to the problem, trying to establish partial results, or looking to make analogies with 
+other ideas you understand. This is the same way that you solve difficult problems in your first
+real maths courses in university and in competitions. What happens as you get more advanced is 
+simply that the arsenal grows larger, the thinking gets somewhat faster due to practice, and you
+have more examples to try. Sometimes, during this process, a sudden insight comes, but it would 
+not be possible without the painstaking groundwork [ http://terrytao.wordpress.com/ca... ].
+
+Indeed, most of the bullet points here summarize feelings familiar to many serious students of 
+mathematics who are in the middle of their undergraduate careers; as you learn more mathematics,
+these experiences apply to "bigger" things but have the same fundamental flavor.
+
+**You go up in abstraction, "higher and higher"**. The main object of study yesterday becomes 
+just an example or a tiny part of what you are considering today. For example, in calculus
+classes you think about functions or curves. In functional analysis or algebraic geometry, you
+think of spaces whose points are functions or curves -- that is, you "zoom out" so that every
+function is just a point in a space, surrounded by many other "nearby" functions. Using this 
+kind of zooming out technique, you can say very complex things in short sentences -- things 
+that, if unpacked and said at the zoomed-in level, would take up pages. Abstracting and 
+compressing in this way makes it possible to consider extremely complicated issues with one's 
+limited memory and processing power.
+
+**The particularly "abstract" or "technical" parts of many other subjects seem quite accessible
+because they boil down to maths you already know. You generally feel confident about your ability
+to learn most quantitative ideas and techniques**. A theoretical physicist friend likes to say, 
+only partly in jest, that there should be books titled "______ for Mathematicians", where _____ 
+is something generally believed to be difficult (quantum chemistry, general relativity, securities
+pricing, formal epistemology). Those books would be short and pithy, because many key concepts in 
+those subjects are ones that mathematicians are well equipped to understand. Often, those parts 
+can be explained more briefly and elegantly than they usually are if the explanation can assume a
+knowledge of maths and a facility with abstraction. 
+
+Learning the domain-specific elements of a different field can still be hard -- for instance,
+physical intuition and economic intuition seem to rely on tricks of the brain that are not 
+learned through mathematical training alone. But the quantitative and logical techniques you 
+sharpen as a mathematician allow you to take many shortcuts that make learning other fields
+easier, as long as you are willing to be humble and modify those mathematical habits that are 
+not useful in the new field.
+
+**You move easily among multiple seemingly very different ways of representing a problem**. For
+example, most problems and concepts have more algebraic representations (closer in spirit to an 
+algorithm) and more geometric ones (closer in spirit to a picture). You go back and forth between
+them naturally, using whichever one is more helpful at the moment. 
+
+Indeed, some of the most powerful ideas in mathematics (e.g., duality, Galois theory, algebraic
+geometry) provide "dictionaries" for moving between "worlds" in ways that, ex ante, are very 
+surprising. For example, Galois theory allows us to use our understanding of symmetries of shapes
+(e.g., rigid motions of an octagon) to understand why you can solve any fourth-degree polynomial
+equation in closed form, but not any fifth-degree polynomial equation. Once you know these threads
+between different parts of the universe, you can use them like wormholes to extricate yourself 
+from a place where you would otherwise be stuck. The next two bullets expand on this.
+
+**Spoiled by the power of your best tools, you tend to shy away from messy calculations or long,
+case-by-case arguments unless they are absolutely unavoidable**. Mathematicians develop a powerful
+attachment to elegance and depth, which are in tension with, if not directly opposed to, mechanical
+calculation. Mathematicians will often spend days figuring out why a result follows easily from some 
+very deep and general pattern that is already well-understood, rather than from a string of 
+calculations. Indeed, you tend to choose problems motivated by how likely it is that there will be 
+some "clean" insight in them, as opposed to a detailed but ultimately unenlightening proof by
+exhaustively enumerating a bunch of possibilities. (Nevertheless, detailed calculation of an example 
+is often a crucial part of beginning to see what is really going on in a problem; and, depending on
+the field, some calculation often plays an essential role even in the best proof of a result.)
+
+In A Mathematician's Apology [http://www.math.ualberta.ca/~mss..., the most poetic book I know on what it is "like" to be a mathematician], G.H. Hardy wrote:
+
+"In both [these example] theorems (and in the theorems, of course, I include the proofs) there is a
+very high degree of unexpectedness, combined with inevitability and  economy. The arguments take so
+odd and surprising a form; the weapons used seem so childishly simple when compared with  the far-
+reaching results; but there is no escape from the conclusions. There are no complications of detail—
+one line of attack is enough in each case; and this is true too of the proofs of many much more 
+difficult theorems, the full appreciation of which demands quite a high degree of technical
+proficiency. We do not want many ‘variations’ in the proof of a mathematical theorem: ‘enumeration 
+of cases’, indeed, is one of the duller forms of mathematical argument. A mathematical proof should
+resemble a simple and clear-cut constellation, not a scattered cluster in the Milky Way."
+
+[...]
+
+"[A solution to a difficult chess problem] is quite genuine mathematics, and has its merits; but it
+is just that ‘proof by enumeration of cases’ (and of cases which do not, at bottom, differ at all
+profoundly) which a real mathematician tends to despise."
+
+**You develop a strong aesthetic preference for powerful and general ideas that connect hundreds of
+difficult questions, as opposed to resolutions of particular puzzles**. Mathematicians don't really
+care about "the answer" to any particular question; even the most sought-after theorems, like
+Fermat's Last Theorem, are only tantalizing because their difficulty tells us that we have to 
+develop very good tools and understand very new things to have a shot at proving them. It is
+what we get in the process, and not the answer per se, that is the valuable thing. The 
+accomplishment a mathematician seeks is finding a new dictionary or wormhole between different 
+parts of the conceptual universe. As a result, many mathematicians do not focus on deriving the 
+practical or computational implications of their studies (which can be a drawback of the hyper-
+abstract approach!); instead, they simply want to find the most powerful and general connections.
+Timothy Gowers has some interesting comments on this issue, and disagreements within the 
+mathematical community about it [ http://www.dpmms.cam.ac.uk/~wtg1... ].
+
+**Understanding something abstract or proving that something is true becomes a task a lot like
+building something**. You think: "First I will lay this foundation, then I will build this framework
+using these familiar pieces, but leave the walls to fill in later, then I will test the beams..." 
+All these steps have mathematical analogues, and structuring things in a modular way allows you to 
+spend several days thinking about something you do not understand without feeling lost or frustrated.
+(I should say, "without feeling unbearably lost and frustrated"; some amount of these feelings is 
+inevitable, but the key is to reduce them to a tolearable degree.)
+
+Andrew Wiles, who proved Fermat's Last Theorem, used an "exploring" metaphor:
+
+"Perhaps I can best describe my experience of doing mathematics in terms of a journey through a
+dark unexplored mansion. You enter the first room of the mansion and it's completely dark. You 
+stumble around bumping into the furniture, but gradually you learn where each piece of furniture
+is. Finally, after six months or so, you find the light switch, you turn it on, and suddenly it's
+all illuminated. You can see exactly where you were. Then you move into the next room and spend 
+another six months in the dark. So each of these breakthroughs, while sometimes they're momentary,
+sometimes over a period of a day or two, they are the culmination of—and couldn't exist without—
+the many months of stumbling around in the dark that proceed them." [ http://www.pbs.org/wgbh/nova/phy... ]
+
+**In listening to a seminar or while reading a paper, you don't get stuck as much as you used to**
+in youth because you are good at modularizing a conceptual space, taking certain calculations or
+arguments you don't understand as "black boxes", and considering their implications anyway. You
+can sometimes make statements you know are true and have good intuition for, without understanding
+all the details. You can often detect where the delicate or interesting part of something is based
+on only a very high-level explanation. (I first saw these phenomena highlighted by Ravi Vakil, who
+offers insightful advice on being a mathematics student: http://math.stanford.edu/~vakil/... .)
+
+**You are good at generating your own definitions and your own questions in thinking about some new
+kind of abstraction**. One of the things one learns fairly late in a typical mathematical education 
+(often only at the stage of starting to do research) is how to make good, useful definitions.
+Something I've reliably heard from people who know parts of mathematics well but never went on to be
+professional mathematicians (i.e., write articles about new mathematics for a living) is that they
+were good at proving difficult propositions that were stated in a textbook exercise, but would be
+lost if presented with a mathematical structure and asked to find and prove some interesting facts 
+about it. Concretely, the ability to do this amounts to being good at making definitions and, using
+the newly defined concepts, formulating precise results that other mathematicians find intriguing or
+enlightening. 
+
+This kind of challenge is like being given a world and asked to find events in it that come together 
+to form a good detective story. You have to figure out who the characters should be (the concepts 
+and objects you define) and what the interesting mystery might be. To do these things, you use 
+analogies with other detective stories (mathematical theories) that you know and a taste for what
+is surprising or deep. How this process works is perhaps the most difficult aspect of mathematical
+work to describe precisely but also the thing that I would guess is the strongest thing that 
+mathematicians have in common.
+
+**You are easily annoyed by imprecision in talking about the quantitative or logical**. This is
+mostly because you are trained to quickly think about counterexamples that make an imprecise claim
+seem obviously false.
+
+**On the other hand, you are very comfortable with intentional imprecision or "hand-waving" in areas
+you know, because you know how to fill in the details**. Terence Tao is very eloquent about this here 
+[ http://terrytao.wordpress.com/ca... ]: 
+
+"[After learning to think rigorously, comes the] 'post-rigorous' stage, in which one has grown 
+comfortable with all the rigorous foundations of one’s chosen field, and is now ready to revisit
+and refine one’s pre-rigorous intuition on the subject, but this time with the intuition solidly
+buttressed by rigorous theory. (For instance, in this stage one would be able to quickly and 
+accurately perform computations in vector calculus by using analogies with scalar calculus, or
+informal and semi-rigorous use of infinitesimals, big-O notation, and so forth, and be able to
+convert all such calculations into a rigorous argument whenever required.) The emphasis is now 
+on applications, intuition, and the 'big picture'. This stage usually occupies the late graduate
+years and beyond."
+
+In particular, an idea that took hours to understand correctly the first time ("for any arbitrarily
+small epsilon I can find a small delta so that this statement is true") becomes such a basic element
+of your later thinking that you don't give it conscious thought.
+
+Before wrapping up, it is worth mentioning that mathematicians are not immune to the limitations 
+faced by most others. They are not typically intellectual superheroes. For instance, they often 
+become resistant to new ideas and uncomfortable with ways of thinking (even about mathematics) 
+that are not their own. They can be defensive about intellectual turf, dismissive of others, or
+petty in their disputes. Above, I have tried to summarize how the mathematical way of thinking 
+feels and works at its best, without focusing on personality flaws of mathematicians or on the 
+politics of various mathematical fields. These issues are worthy of their own long answers!
+
+**You are humble about your knowledge because you are aware of how weak maths is, and you are comfortable
+with the fact that you can say nothing intelligent about most problems**. There are only very few
+mathematical questions to which we have reasonably insightful answers. There are even fewer questions,
+obviously, to which any given mathematician can give a good answer. After two or three years of a 
+standard university curriculum, a good maths undergraduate can effortlessly write down hundreds of
+mathematical questions to which the very best mathematicians could not venture even a tentative answer.
+(The theoretical computer scientist Richard Lipton lists some examples of potentially "deep" ignorance 
+here: http://rjlipton.wordpress.com/20...) This makes it more comfortable to be stumped by most problems;
+a sense that you know roughly what questions are tractable and which are currently far beyond our abilities
+is humbling, but also frees you from being very intimidated, because you do know you are familiar with the
+most powerful apparatus we have for dealing with these kinds of problems.
 ```
 
 Ravi Vakil's [advice page](http://math.stanford.edu/~vakil/potentialstudents.html) for potential PhD students has some great quotes. The most memorable is this one:
