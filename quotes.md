@@ -89,7 +89,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Opinions and observations](#math-opinions)
       1. [Good mathematics](#good-mathematics)
       2. [How famous open problems get solved](#solving-famous-open-problems)
-      2. [#Defining combinatorics](##Defining-combinatorics)
+      2. [Defining combinatorics](##Defining-combinatorics)
       2. [Mathematical maturity and understanding](#mathematical-maturity)
       3. [What every mathematician should know](#what-every-mathematician-should-know)
       3. [Why didn't the Tricki take off?](#why-tricki-failed)   
