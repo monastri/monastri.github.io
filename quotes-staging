@@ -1,14 +1,26 @@
+ADD TO INTRO 
+Another reason is that I want to avoid a repeat of a [Jeremy Bentham episode](#Jeremy-bentham).
+
+[Doing good](#doing-good)
+  1. [Effective altruism](#effective-altruism)
+    1. [Weird EA](#weird-EA)
+    2. [Jeremy Bentham's thinking was inseparably batshit and shockingly ahead of his time], because principled axiomatic thinking 
+[Erisology and thinking less wrongly](#Erisology-and-thinking-less-wrongly)  (CHANGE!!!)
 [Business, finance, entrepreneurship, management](#business-finance-entrepreneurship-management)
-  [Management](#Management)
-    [Business success measures](#Business-success-measures)
-    [Dealing with message distortion](#Dealing-with-message-distortion)
-    [High organizational standards](#high-standards)
-    [Resisting organizational stasis, or, it is always Day 1](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends *(KIV for content list refactoring)*
-  [Venture capital](#venture-capital)
-    [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
-  [Insurance](#Insurance)
-    [The main function of the insurance sector in an economy](#Main-function-of-insurance-sector-in-economy)
-[Donald Trump](#donald-trump) (I had to include [Scott's review](https://slatestarcodex.com/2016/03/19/book-review-the-art-of-the-deal/))
+  1. [Consulting](#consulting)
+    1. [Consulting's value-add](#consultings-value-add)
+  2. [Management](#Management)
+    1. [Business success measures](#Business-success-measures)
+    2. [Dealing with message distortion](#Dealing-with-message-distortion)
+    2. [High organizational standards](#high-standards)
+    2. [Leadership principles](#Leadership-principles)
+    2. [Resisting organizational stasis, or, it is always Day 1](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends *(KIV for content list refactoring)*
+  2. [Venture capital](#venture-capital)
+    1. [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
+  3. [Insurance](#Insurance)
+    1. [The main function of the insurance sector in an economy](#Main-function-of-insurance-sector-in-economy)
+[Donald Trump](#donald-trump) as autistic child with real estate development special interest 
+[Jeremy Bentham](#Jeremy-bentham)'s thinking was inseparably (1) batshit, (2) shockingly ahead of his time
 
 (JEFF BEZOS)
 Eugene Wei, whose blog [Remains of the Day](https://www.eugenewei.com/) is just great in general, has a post called [Compress to impress](https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas) (URL: "JPEG your ideas") that pithily captures and expounds on a bunch of stuff I've vaguely thought about and seen elsewhere. I covered the quotables [here](#Dealing-with-message-distortion); this is just about Jeff himself. 
@@ -51,23 +63,661 @@ of inputs.
 
 This agrees with Steve Yegge's funny quotes above.
 
+------------------------------
+<a name="#Doing-good"></a>
+## Doing good
+([overview](#overview))
 
+<a name="#Effective-altruism"></a>
+### Effective altruism
+([overview](#overview))
+
+<a name="#Weird-EA"></a>
+### Weird EA
+([overview](#overview))
+
+The subheading for this section makes it sound like I'm making fun of the weirder parts of EA. Rest assured I'm not -- I am weird myself, and have always loved and sought out the weird. (That's what pretty much half this document *is*.)
+
+The following are from Scott Alexander's [Fear and Loathing at EA Global 2017](https://slatestarcodex.com/2017/08/16/fear-and-loathing-at-effective-altruism-global-2017/), one of the more moving posts on EA he's written (and he's written a lot on this). 
+
+Context:
+
+```markdown
+Effective altruism is the movement devoted to finding the highest-impact ways to help 
+other people and the world. Philosopher William MacAskill described it as “doing for 
+the pursuit of good what the Scientific Revolution did for the pursuit of truth”. They 
+have an annual global conference to touch base and discuss strategy. This year it was 
+in the Palace of Fine Arts in San Francisco, and I got a chance to check it out.
+
+The official conference theme was “Doing Good Together”. The official conference 
+interaction style was “earnest”. The official conference effectiveness level was “very”.
+And it was impossible to walk away from some of the talks without being impressed. ...
+
+The whole conference was flawlessly managed, from laser-fast registration to polished-
+sounding speakers to friendly unobtrusive reminders to use the seventeen different apps
+that would keep track of your conference-related affairs for you. And the of course the
+venue, which really was amazing.
+```
+
+The "underbelly of the movement", where the weird stuff is:
+
+```markdown
+But walk a little bit outside of the perfectly-scheduled talks, or linger in the common
+areas a little bit after the colorfully-arranged vegetarian lunches, and you run into the
+shadow side of all of this, the hidden underbelly of the movement.
+
+William MacAskill wanted a “scientific revolution in doing good”. But the Scientific
+Revolution progressed from “I wonder why apples fall down” to “huh, every particle is in
+an infinite number of places simultaneously, and also cats can be dead and alive at the 
+same time”. The effective altruists’ revolution started with “I wonder if some charities
+work better than others”. But even at this early stage, it’s gotten to some pretty weird
+places.
+
+I got to talk to some people from Wild Animal Suffering Research. They start with the 
+standard EA animal rights argument – if you think animals have moral relevance, you can 
+save zillions of them for almost no cost. A campaign for cage-free eggs, minimal in the 
+grand scheme of things, got most major corporations to change their policies and gave two
+hundred million chickens an improved quality of life. But WASR points out that even this
+isn’t the most neglected cause. There are up to a trillion reptiles, ten quintillion
+insects, and maybe a sextillion zooplankton. And as nasty as factory farms are, life in the
+state of nature is nasty, brutish, short, and prone to having parasitic wasps paralyze you
+so that their larvae can eat your organs from the inside out while you are still alive. 
+WASR researches ways we can alleviate wild animal suffering, from euthanizing elderly 
+elephants (probably not high-impact) to using more humane insecticides (recommended as an 
+‘interim solution’) to neutralizing predator species in order to relieve the suffering of
+prey (still has some thorny issues that need to be resolved).
+
+Wild Animal Suffering Research was nowhere near the weirdest people at Effective Altruism
+Global.
+
+I got to talk to people from the Qualia Research Institute, who point out that everyone 
+else is missing something big: the hedonic treadmill. People have a certain baseline 
+amount of happiness. Fix their problems, and they’ll be happy for a while, then go back to 
+baseline. The only solution is to hack consciousness directly, to figure out what exactly
+happiness is – unpack what we’re looking for when we describe some mental states as having 
+higher positive valence than others – and then add that on to every other mental state
+directly. This isn’t quite the dreaded wireheading, the widely-feared technology that will
+make everyone so doped up on techno-super-heroin (or direct electrical stimulation of the 
+brain’s pleasure centers) that they never do anything else. It’s a rewiring of the brain
+that creates a “perpetual but varied bliss” that “reengineers the network of transition 
+probabilities between emotions” while retaining the capability to do economically useful 
+work. Partly this last criteria is to prevent society from collapsing, but the ultimate
+goal is:
+
+    …the possibility of a full-fledged qualia economy: when people have spare
+    resources and are interested in new states of consciousness, anyone good at
+    mining the state-space for precious gems will have an economic advantage. In 
+    principle the whole economy may eventually be entirely based on exploring the 
+    state-space of consciousness and trading information about the most valuable
+    contents discovered doing so.
+
+The Qualia Research Institute was nowhere near the weirdest people at Effective Altruism 
+Global.
+
+I got to talk to some people from the Foundational Research Institute. They do a lot of 
+research, and a lot of it is very good, but they’re most infamous within the community for
+their particle work. It goes like this: the universe is really really big. So if suffering 
+made up an important part of the structure of the universe, this would be so tremendously 
+outrageously unconscionably bad that we can’t even conceive of how bad it could be. So the
+most important cause might be to worry about whether fundamental physical particles are 
+capable of suffering – and, if so, how to destroy physics. From their writeup:
+
+    Speculative scenarios to change the long-run future of physics may dominate any
+    concrete work to affect the welfare of intelligent computations — at least within 
+    the fraction of our brain’s moral parliament that cares about fundamental physics. 
+    The main value (or disvalue) of intelligence would be to explore physics further 
+    and seek out tricks by which its long-term character could be transformed. 
+    
+    For instance, if false-vacuum decay did look beneficial with respect to reducing
+    suffering in physics, civilization could wait until its lifetime was almost over 
+    anyway (letting those who want to create lots of happy and meaningful intelligent 
+    beings run their eudaimonic computations) and then try to ignite a false-vacuum 
+    decay for the benefit of the remainder of the universe (assuming this wouldn’t 
+    impinge on distant aliens whose time wasn’t yet up). Triggering such a decay might
+    require extremely high-energy collisions — presumably more than a million times 
+    those found in current particle accelerators — but it might be possible. On the 
+    other hand, such decay may happen on its own within billions of years, suggesting
+    little benefit to starting early relative to the cosmic scales at stake. 
+    
+    In any case, I’m not suggesting vacuum decay as the solution — just that there may be 
+    many opportunities like it waiting to be found, and that these possibilities may
+    dwarf anything else that happens with intelligent life.
+```
+
+Scott subscribes to the Lovecraftian "it was not meant that we should voyage far" from our "placid island of ignorance in the midst of black seas of infinity":
+
+```markdown
+We live on a placid island of ignorance in the midst of black seas of infinity, 
+and it was not meant that we should voyage far. The sciences, each straining in 
+its own direction, have hitherto harmed us little; but some day the piecing 
+together of dissociated knowledge will open up such terrifying vistas of reality, 
+and of our frightful position therein, that we shall either go mad from the 
+revelation or flee from the deadly light into the peace and safety of a new dark age.
+```
+
+Scott adds:
+
+```markdown
+Morality wasn’t supposed to be like this. Most of the effective altruists I met were 
+nonrealist utilitarians. They don’t believe in some objective moral law imposed by an 
+outside Power. They just think that we should pursue our own human-parochial moral values
+effectively. If there was ever a recipe for a safe and milquetoast ethical system, that
+should be it. And yet once you start thinking about what morality is – really thinking,
+the kind where you try to use mathematical models and formal logic – it opens up into 
+these dark eldritch vistas of infinities and contradictions. The effective altruists
+started out wanting to do good. And they did: whole nine-digit-sums worth of good,
+spreadsheets full of lives saved and diseases cured and disasters averted. But if you 
+really want to understand what you’re doing – get past the point where you can catch 
+falling apples, to the point where you have a complete theory of gravitation – you end 
+up with something as remote from normal human tenderheartedness as the conference lunches
+were from normal human food.
+```
+
+And this is the money quote that made me start this section in the first place, because it touched me deeply (perhaps part of it is simply Scott's rhetoric working on me?):
+
+```markdown
+But I worry I’m painting a misleading picture here. It isn’t that effective altruism is
+divided into two types of people: the boring effective suits, and the wacky explorers of
+bizarre ethical theories. I mean, there’s always going to be *some* division. But by and 
+large these were the same people, or at least you couldn’t predict who was who. They 
+would go up and give a talk about curing river blindness in Nigeria, and then you’d catch 
+them later and learn that they were worried that maybe the most effective thing was 
+preventing synthetic biology from taking over the ecosystem. Or you would hear someone 
+give their screed, think “what a weirdo”, and then learn they were a Harvard professor who 
+served on a bunch of Fortune 500 company boards. Maybe the right analogy would be physics.
+A lot of physicists work on practical things like solar panels and rechargeable batteries.
+A tiny minority work on stranger things like wormholes and alternate universes. But it’s 
+not like these are two different factions in physics that hate each other. And every so 
+often a solar panel engineer might look into the math behind alternate universes, or a
+wormhole theorist might have opinions on battery design. They’re doing really different 
+stuff, but it’s within the same tradition.
+
+The movement’s unofficial leader is William MacAskill. He’s a pretty typical overachiever
+– became an Oxford philosophy professor at age 28 (!), founded three successful non-profits,
+and goes around hobnobbing with rich people trying to get them to donate money (he himself
+has pledged to give away everything he earns above $36,000). I had always assumed he was 
+just a random dignified suit-wearing person who was slightly exasperated at having to put 
+up with the rest of the movement. But I got a chance to talk to him – just for a few minutes,
+before he had to run off and achieve something – and I was shocked at how much he knew about
+all the weirdest aspects of the community, and how protective he felt of them. And in his 
+closing speech, he urged the attendees to “keep EA weird”, giving examples of times when 
+seemingly bizarre ideas won out and became accepted by the mainstream.
+
+If it were just the senior research analysts at their spreadsheets, we could dismiss them as
+the usual Ivy League lizard people and move on. If it were just the fringes ranting about 
+cyber-neuro-metaphilosophy, we could dismiss them as loonies and forget about it. And if it 
+were just the two groups, separate and doing their own thing, we could end National Geographic-
+style, intoning in our best David Attenborough voice that “Effective Altruism truly is a land
+of contrasts”. But it’s more than that. Some animating spirit gives rise to the whole thing, 
+some unifying aesthetic that can switch to either pole and back again on a whim. After a lot
+of thought, I have only one guess about what it might be.
+
+I think the effective altruists are genuinely good people.
+
+Over lunch, a friend told me about his meeting with an EA philosopher who hadn’t been able 
+to make it to the conference. This friend had met the philosopher, and as they were walking,
+the philosopher had stopped to pick up worms writhing on the sidewalk and put them back in 
+the moist dirt.
+
+And this story struck me, because I had taken a walk with one of the speakers earlier, and 
+seen her do the same thing. She had been apologetic, said she knew it was a waste of her 
+time and mine. She’d wondered if it was pathological, whether maybe she needed to be checked
+for obsessive compulsive disorder. But when I asked her whether she wanted to stop doing it,
+she’d thought about it a little, and then – finally – saved the worm.
+
+And there was a story about the late great moral philosopher Derek Parfit, himself a member
+of the effective altruist movement. This is from Larissa MacFarquhar:
+
+    As for his various eccentricities, I don’t think they add anything to an understanding 
+    of his philosophy, but I find him very moving as a person. When I was interviewing him 
+    for the first time, for instance, we were in the middle of a conversation and suddenly 
+    he burst into tears. It was completely unexpected, because we were not talking about 
+    anything emotional or personal, as I would define those things. I was quite startled, 
+    and as he cried I sat there rewinding our conversation in my head, trying to figure out
+    what had upset him. Later, I asked him about it. It turned out that what had made him 
+    cry was the idea of suffering. We had been talking about suffering in the abstract. I 
+    found that very striking.
+
+    Now, I don’t think any professional philosopher is going to make this mistake, but 
+    nonprofessionals might think that utilitarianism, for instance (Parfit is a utilitarian),
+    or certain other philosophical ways of think about morality, are quite unemotional, 
+    quite calculating, quite cold; and so because as I am writing mostly for nonphilosophers,
+    it seemed like a good corrective to know that for someone like Parfit these issues are 
+    extremely emotional, even in the abstract.
+
+    The weird thing was that the same thing happened again with a philosophy graduate student
+    whom I was interviewing some months later. Now you’re going to start thinking it’s me, 
+    but I was interviewing a philosophy graduate student who, like Parfit, had a very
+    unemotional demeanor; we started talking about suffering in the abstract, and he burst 
+    into tears. I don’t quite know what to make of all this but I do think that insofar as 
+    one is interested in the relationship of ideas to people who think about them, and not 
+    just in the ideas themselves, those small events are moving and important.
+    
+I imagine some of those effective altruists, picking up worms, and I can see them here too. 
+I can see them sitting down and crying at the idea of suffering, at allowing it to exist.
+
+Larissa MacFarquhar says she doesn’t know what to make of this. I think I sort of do. I’m not
+much of an effective altruist – at least, I’ve managed to evade the 80,000 Hours coaches long
+enough to stay in medicine. But every so often, I can see the world as they have to. Where 
+the very existence of suffering, any suffering at all, is an immense cosmic wrongness, an 
+intolerable gash in the world, distressing and enraging. Where a single human lifetime seems
+frighteningly inadequate compared to the magnitude of the problem. Where all the normal 
+interpersonal squabbles look trivial in the face of a colossal war against suffering itself, 
+one that requires a soldier’s discipline and a general’s eye for strategy.
+
+All of these Effecting Effective Effectiveness people don’t obsess over efficiency out of 
+bloodlessness. They obsess because the struggle is so desperate, and the resources so few. 
+Their efficiency is military efficiency. Their cooperation is military discipline. Their unity 
+is the unity of people facing a common enemy. And they are winning. Very slowly, WWI trench-
+warfare-style. But they really are.
+```
+
+
+-----------------------------
+(UNDER ROBIN HANSON)
+Robin may well be [the Bentham of our time](#jeremy-bentham).
+
+(UNDER AMAZING PEOPLE)
+<a name="#Jeremy-bentham"></a>
+### Jeremy Bentham
+([overview](#overview))
+
+I found [this FB post by Rikk Hill](https://www.facebook.com/rikkhill/posts/10155063688827423) entirely at random, made the *very* lucky step of saving it all in a Word doc somewhere within the bowels of my laptop, and then forgot nearly everything about it except the strong sense that Jeremy Bentham was important to utilitarianism and weird EA because of his thinking style. I forgot *so much* about it that I couldn't find it back after concerted searching, all my search terms being wrong; in fact, it was only today that I realized I even had the Word doc, from which I could later retrieve the original source. That was a deeply frustrating experience. Not all of these experiences have a similarly happy ending; indeed this was an exception. This class of experiences is in fact one of *the* main drivers behind the existence of this entire sprawling document. 
+
+But I digress. Anyway:
+
+It was really, deeply important that Jeremy Bentham's thinking was weird, as a side effect of being utterly, undeviatingly principled; in that sense he was the first weird EAist, decades and centuries ahead of his time. (For more on weird EA see [here](#weird-EA)). Also, rereading Rikk's post made me think of [Scott on Robin Hanson](#robin-hanson). Robin may well be the Bentham of our time. 
+
+Last point before we dive in: Bentham, like Hanson, and like myself (except for the part where I don't have any intellectual output), is an inveterate [sequence thinker](https://blog.givewell.org/2014/06/10/sequence-thinking-vs-cluster-thinking/); most people are cluster thinkers, and there is a lot of value in that as well (chiefly sandboxing weird conclusions from dominating via calculations).
+
+Here's Rikk's post in full.
+
+```markdown
+I’d like to talk a little bit about moral philosopher Jeremy Bentham, and why he has a weird level of celebrity status among people who think like I do.
+
+Jeremy Bentham lived in the late 18th and early 19th Centuries, in what we think of as the 
+mid-late Georgian era. That’s important. This is the period in which Jane Austen wrote all 
+her novels. The global policy issue of the era was motivating the abolition of the 
+international slave trade. 3% of the population of England and Wales had the right to vote. 
+Over this period, the Industrial and Agricultural revolutions in Britain mean that instead 
+of 45% of the labour force working in agriculture, a mere 22% of the labour force was
+required for feeding the nation. At the time, using just under a quarter of your working
+population to produce enough food was seen as nothing short of a miracle. Today, this number
+is less than 1%.
+
+He lived in a very different time, is what I’m saying. I can’t stress this enough. It’s 
+desperately important to remember this when thinking about Jeremy Bentham, because his 
+intellectual output is principally characterised by being 
+
+(a) utterly batshit, and 
+(b) shockingly, eerily, uncannily ahead of its time.
+
+Let’s deal with the batshit stuff first. Jeremy Bentham was a wildly eccentric dude, perhaps
+best demonstrated by the fact that I used to walk past his corpse every day. It sits in a 
+glass case in University College London. He instructed that after his death, his body should
+be dissected for medical science, and afterwards, his taxidermied corpse should be put on 
+display. He called this an “auto-icon”; why build a statue to someone when you can just 
+exhibit their body? If you’re around Fitzrovia on a weekday, you can pop in and see it.
+
+He thought the social mores and taboos of his time were arbitrary or unhelpful or outright 
+wrong, and the social mores and taboos around death and the dead were just one example of this.
+In later life, he became fixated on the role of bodies after death, and suggested decorating
+public spaces with mummified corpses instead of trees. He also shared his bed with the pig he
+kept as a house pet, pioneered a form of jogging (which he called “ante-prandial 
+circumgyration”), and maintained largely-unsolicited correspondence with different heads of 
+state from all over the world on the subjects of legal and constitutional reform.
+
+Some of this is to be expected. If you reject the norms of your time and try to re-derive the 
+social order from first principles, you might end up spooning a pig and writing to the President
+of the United States about codifying the common law. What you might *also* end up doing is
+independently inventing much of 21st Century Western liberalism, which is what Bentham also did.
+
+There is a sense in which Jeremy Bentham literally invented a lot of the concepts we take for
+granted as the founder of utilitarianism and a prolific Enlightenment thinker, but there is 
+another sense in which, almost as a side-effect, he came to a variety of conclusions about the
+social order which wouldn’t gain widespread traction until decades or even centuries after his
+death. Universal suffrage, sexual equality, decriminalisation of homosexuality, abolition of 
+the death penalty, animal welfare, no-fault divorce… the list of stuff which he essentially 
+inferred from first principles yet ran strongly counter to the prevailing cultural norms is 
+striking.
+
+He was notoriously bad at getting his work published, and almost all of what he wrote had to be
+collated and published posthumously by friends and proteges. A lot of editorial work went into 
+making these works acceptable to the public, to the point where his defence of homosexuality 
+didn’t come to light until 1931, over a century after he wrote it.
+
+Many of the ideas he advocated have been part of the society we all grew up in for so long that
+we don’t even recognise them as active choices of how our society is organised, but others are 
+weirdly specific contemporary progressive ideas. For example, he very specifically drew attention
+to sexual promiscuity of women as being judged disproportionately harshly compared to that of men.
+He claimed there were other norms, such as sexual fidelity, that undercut any harms that might
+result from sexual promiscuity, and shaming women on the basis of their sexual appetite just 
+harmed everybody. This is a point that contemporary feminists are still having to make two 
+centuries later. With a few small tweaks, a lot of what he wrote on sexuality could have come 
+straight out of a contemporary discussion on sex-positivity. A reminder: he was writing this at 
+about the same time Jane Austen was writing Mansfield Park.
+
+I am going somewhere with this. I’m not just yammering on about how cool I think Jeremy Bentham 
+is. So here we go. Here we get to the point of this little rant.
+
+Treating everything you know about the world as suspect and trying to reason about it from as 
+small a set of assumptions as possible is, to my mind, one of the fundamental tools of analytical
+thought. Not everyone agrees with me on this. There is a particularly annoying strand of post-
+cultural-turn thought which rears its head whenever I try this in public. “What’s that?” it’ll
+say, “you’re trying to infer objectively-grounded facts about the universe? Well you *can’t*, you
+naive silly sausage, because whether you like it or not, you’re in a *culture*, and that culture 
+permeates your entire conception of reality, and you can’t ever really know anything, so there!” 
+Then it sits there, like a cat that’s inordinately smug about what it’s just dropped in the litter
+box.
+
+I’m not *entirely* unsympathetic to this idea. We are a product of the culture we’re raised in.
+It would be silly to think that if I grew up 12th Century Saxony or early Imperial China that I
+would have the same moral and political sensibilities that I do now. I would probably believe 
+what most other people in those times and places believed. Given that, maybe it is unreasonable
+to think that I can somehow discard the biases of my own culture.
+
+But then I look at Jeremy Bentham, who, at a time when the morality of chattel-slavery was still
+a hotly-debated topic, was saying that It’s Okay to Be Gay and we shouldn’t slut-shame. Throw in
+a Belle and Sebastian album and an animated gif of a puppy fighting it’s own reflection, and he 
+could be on Tumblr.
+
+Jeremy Bentham’s method is my method. My justification for progressive liberalism comes from
+starting at the same premises he started at and playing them forward. It’s phenomenally easier for
+me to do that than it was for Jeremy Bentham, because we’ve had 200 years of progress and I’m 
+surrounded by other people who have the same set of object-level beliefs as I do. Those people 
+are happy to support this method when it’s advocating LGBT+ rights and sex-positivity, but if it
+delivers anything from left-field, that’s when the knives come out.
+
+Here is a radical proposition: Jeremy Bentham wasn’t just ahead of his time — he was ahead of *our*
+time. This was definitely true as recently as 1967 when homosexuality was decriminalised in the UK.
+Maybe in another hundred years we’ll all be taking our pigs for an ante-prandial circumgyration 
+along a row of mummified corpses. Taking a less facetious tack, over half of his writings have 
+never been published. Who knows what he wrote which we would find bizarre today but which our great-
+grandchildren wouldn’t bat an eyelid at.
+
+More generally, maybe you can’t have the visionary foresight without the eccentricity. Even among
+progressive people, who pay a lot of lip-service to celebrating diversity, there is a surprising 
+amount of hostility to weird nerds re-deriving the social order from first principles. When we’re
+judging people for doing this, maybe we should remember Jeremy Bentham. Perhaps this method has 
+more value than meets the eye.
+```
+
+-----------------------------
+CHANGEEEE
+<a name="#Erisology-and-thinking-less-wrongly"></a>
+## Erisology and thinking less wrongly
+([overview](#overview))
+
+
+
+----------------------
 <a name="#business-finance-entrepreneurship-management"></a>
 ## Business, finance, entrepeneurship, management
 ([overview](#overview))
+
+<a name="#Consulting"></a>
+### Consulting
+([overview](#overview))
+
+<a name="#consultings-value-add"></a>
+### Consulting's value-add
+([overview](#overview))
+
+Loku cofounder Raj Ramanan's [answer](https://qr.ae/TW1HiJ) to the Quora question 
+
+```markdown
+"What value do consulting firms (like McKinsey, Bain, et al.) really add to an 
+operation? What exactly is it that they do that commands such premium compensation
+and, more importantly, has created an entire sustainable and enduring industry?"
+```
+
+is apparently very well-received, including by a number of "top-shelf consultants" from the MBB firms themselves. So:
+
+```markdown
+I interned at Bain & Co., started my career at McKinsey & Co, worked in the operations
+/turnaround group at KKR with ex-BCG consultants, worked at an internal consulting 
+function at Bear Stearns, and was an independent consultant to small and medium
+businesses before co-founding a company (Loku).
+
+I first want to make the distinction between generalist strategy consulting shops 
+(McKinsey, Bain, and BCG) vs. specialized or technical shops (Accenture, boutiques).
+I can only speak credibly about the former (though, as a former consultant, a lack of
+credibility has never stopped me from talking on any subject...).
+
+Cynicism aside, the real **value a consulting firm provides is**:
+
+1. **Political leverage**: CEOs that want or need to make an unpopular decision often 
+bring in a consulting firm to help. This provides ammunition to recommend an unpopular
+or risky decision to the board (expansion into a new business line or geography, or 
+shutting down a plant). The CEO can also distance herself from an unpopular decision by
+blaming the consultants. Finally, if things go wrong, consultants are a handy scapegoat. 
+
+2. **Pool knowledge across functions**: Consultants are not part of the client's culture,
+politics, or org culture. In the first month, as the firm builds a fact base, consultants 
+usually interview people across functions. In large companies, cross-functional problem-
+solving rarely happens. Just getting different functions in a room typically unlocks
+creative problem solving.
+
+3. **Pool knowledge across levels**: Similarly, consultants interview, watch, and tag
+along with people down the org structure, often starting with customers and moving through
+sales and line roles. CEOs and the exec team of large companies rarely do this (exception
+being their largest customers). There are tremendous insights to be had by doing this.
+
+4. **Deep focus on one problem**: The biggest value is that you have a dedicated team of
+pretty smart people who are generally unbiased that can focus deeply on one particular 
+problem. At a company, in any role, you have a day job and at best can focus only a 
+portion of your time on a particular issue. Nowhere is this more true than at a startup, 
+but that's another Quora post.
+
+I want to point out that even though you could group all of this as "telling you what you
+already know," all of this is real value that impacts the bottom line however you measure 
+it, and that in the absence of strong leadership or a big, risky culture change, could not
+have been accomplished without the consultant.
+
+**What value does a consulting firm NOT provide?**
+
+1. **Subject matter expertise**: The people who are doing the bulk of the work are fresh
+out of college (like I was) or business school, often from a range of majors, with little-
+to-no work experience. They don't know anything. They are really smart and very hard-
+working and resourceful and well-trained, but they know absolutely nothing coming in about
+your industry, company, or particular issue. More interestingly, the director or partner
+on the project is not really a subject matter expert either. She has built her career in
+a particular industry or practice area and has served a range of clients across a range
+of problems. Her value is pattern recognition, but there is no way she can know more about
+the client's industry, company, or problem then someone who lives it every single day for
+years. And most partners and directors are career consultants, not industry vets (certainly
+true at the big 3 shops).
+
+2. **Executive coaching**: The firms love to provide long-term, ongoing, ambiguous projects 
+on a retainer. If you are a CEO, get a therapist. Or some friends. Or a board that is 
+actually helpful. Or a best friend. You don't want a partner at a firm who spends a half
+hour a month thinking about you or your problem to bill you on a retainer. 
+
+3. **Actual decision making**: Consultants are great at assembling facts from the outside 
+world, bringing in perspective from all functions and levels of your company, finding
+interesting patterns, and providing you with a point of view. They will jump in the line of
+fire on controversial decisions and fall on the sword if things go wrong. But they can never
+actually make the tough decision. No outsider can every truly understand the needs of the 
+various stakeholders. No outsider has as much at stake personally and professionally. It is
+so incredibly different to recommend layoffs for 10% of a plant (100 people) vs. actually 
+firing a single person. I've done both and the former does not have the emotional or 
+cultural consequences of the latter. Only the CEO or other leader at a company can actually
+pull the trigger; the consultant can at best show you how to hold the gun and maybe give you
+a few targets to aim at.
+
+
+Would I ever hire a consultant?
+
+I believe good leadership (promoting cross-functional decision-making, a flat or open org
+structure, autonomy across roles; spending time with customers, talking to folks on the 
+front line; and all the other stuff HBR publishes) can provide much more value than hiring 
+an outside consultant can.
+
+But, if I could do the following, in certain cases, I would hire a consultant:
+
+1. **Impose limits**: Make sure it is a defined, narrow problem well before the consultants 
+show up. Make sure it's a project of defined length, with a defined number and type of 
+resource. Demand frequent updates and check-ins. Have the option of aborting the project if
+you are not getting what you want or if the directional answer is good enough.
+
+2. **Use a bid process**: The big 3 will lecture you and their individual differences and 
+when I interviewed at the firms, I was obsessed about what made them different. They are the
+same. They hire from the same talent pool. They are interchangeable. Put them through a 
+competitive bid process (sealed bid or auction), with pre-set milestones. They will hate this.
+They will tell you that they don't participate in auctions. They will try to wiggle out by 
+defining the problem differently or changing the milestones or taking you out to dinner. Don't
+do it. Force the process. They will comply. I've done it myself by sourcing consulting services
+on behalf of Bear Stearns.
+
+3. **Demand partner time**: It's your (or really your investors' or shareholders') money and
+you are paying a fixed monthly fee. Demand partner time. Earlier objections notwithstanding,
+I'd rather spend time with someone with 10 or 20 years of consulting experience who has at
+least seen my problem in a different industry or knows anything about my industry than a 22 
+year old with a fresh diploma who has never actually made a business decision. I know because
+I was that kid. Best of intentions and a killer work ethic, but I'd want partner time.
+
+I have a ton of respect for the firms I worked at and the colleagues I worked with. I learned 
+a tremendous amount and made lifelong friends. Consulting as an industry and these three firms
+in particular provide real business value; companies just need to know how to appropriately 
+use these service providers.
+```
 
 <a name="#Management"></a>
 ### Management
 ([overview](#overview))
 
+<a name="#Leadership-principles"></a>
+### Leadership principles
+([overview](#overview))
+
+From Amazon's 
+
 <a name="#High-standards"></a>
 ### High standards
 ([overview](#overview))
 
-From Jeff Bezos' [2017 annual letter to shareholders](https://blog.aboutamazon.com/company-news/2015-letter-to-shareholders), giving "high standards" as the answer to "how to keep ahead of customers' divine discontent":
+Jeff Bezos' [2017 annual letter to shareholders](https://blog.aboutamazon.com/company-news/2015-letter-to-shareholders) gives "high standards" as the answer to "how to keep ahead of customers' divine discontent" and talks a bit more about what high standards entail in practice. 
+
+In summary: 
 
 ```markdown
+The four elements of high standards as we see it: 
 
+they are *teachable*, 
+they are *domain specific*, 
+you must *recognize* them, and 
+you must explicitly coach realistic *scope*.
+```
+
+Jeff believes high standards are teachable:
+
+```markdown
+First, there’s a foundational question: are high standards intrinsic or teachable? If you 
+take me on your basketball team, you can teach me many things, but you can’t teach me to be
+taller. Do we first and foremost need to *select* for “high standards” people? If so, this 
+letter would need to be mostly about hiring practices, but I don’t think so. I believe high
+standards are teachable. In fact, people are pretty good at learning high standards simply 
+through exposure. High standards are contagious. Bring a new person onto a high standards 
+team, and they’ll quickly adapt. The opposite is also true. If low standards prevail, those
+too will quickly spread. And though exposure works well to teach high standards, I believe 
+you can accelerate that rate of learning by articulating a few core principles of high 
+standards, which I hope to share in this letter.
+```
+
+Jeff also notes that high standards are domain-specific:
+
+```markdown
+Another important question is whether high standards are universal or domain specific. In 
+other words, if you have high standards in one area, do you automatically have high standards
+elsewhere? I believe high standards are domain specific, and that you have to learn high 
+standards separately in every arena of interest. When I started Amazon, I had high standards
+on inventing, on customer care, and (thankfully) on hiring. But I didn’t have high standards
+on operational process: how to keep fixed problems fixed, how to eliminate defects at the 
+root, how to inspect processes, and much more. I had to learn and develop high standards on 
+all of that (my colleagues were my tutors).
+
+Understanding this point is important because it keeps you humble. You can consider yourself
+a person of high standards *in general* and still have debilitating blind spots. There can 
+be whole arenas of endeavor where you may not even *know* that your standards are low or non
+-existent, and certainly not world class. It’s critical to be open to that likelihood.
+```
+
+It's also important to recognize high standards, and know scope, i.e. realistic expectations for how hard it should be (how much work it will take) to achieve that result -- this isn't as obvious as you may think:
+
+```markdown
+First, you have to be able to *recognize* what good looks like in that domain.
+
+A close friend recently decided to learn to do a perfect free-standing handstand. No leaning
+against a wall. Not for just a few seconds. Instagram good. She decided to start her journey 
+by taking a handstand workshop at her yoga studio. She then practiced for a while but wasn’t 
+getting the results she wanted. So, she hired a handstand coach. Yes, I know what you’re 
+thinking, but evidently this is an actual thing that exists. In the very first lesson, the 
+coach gave her some wonderful advice. “Most people,” he said, “think that if they work hard,
+they should be able to master a handstand in about two weeks. The reality is that it takes 
+about six months of daily practice. If you think you should be able to do it in two weeks,
+you’re just going to end up quitting.” Unrealistic beliefs on scope – often hidden and 
+undiscussed – kill high standards. To achieve high standards yourself or as part of a team,
+you need to form and proactively communicate realistic beliefs about how hard something is
+going to be – something this coach understood well.
+```
+
+"Recognizing high standards" and "scope" also come into play together in Jeff's famous (or infamous) 6-page memos in lieu of PPT slides:
+
+```markdown
+We don’t do PowerPoint (or any other slide-oriented) presentations at Amazon. Instead, we 
+write narratively structured six-page memos. We silently read one at the beginning of each
+meeting in a kind of “study hall.” Not surprisingly, the quality of these memos varies widely.
+Some have the clarity of angels singing. They are brilliant and thoughtful and set up the 
+meeting for high-quality discussion. Sometimes they come in at the other end of the spectrum.
+
+In the handstand example, it’s pretty straightforward to *recognize* high standards. It 
+wouldn’t be difficult to lay out in detail the requirements of a well-executed handstand, 
+and then you’re either doing it or you’re not. The writing example is very different. The 
+difference between a great memo and an average one is much squishier. It would be extremely 
+hard to write down the detailed requirements that make up a great memo. Nevertheless, I find
+that much of the time, readers react to great memos very similarly. They know it when they 
+see it. The standard is there, and it is real, even if it’s not easily describable.
+
+Here’s what we’ve figured out. Often, when a memo isn’t great, it’s not the writer’s 
+inability to *recognize* the high standard, but instead a wrong expectation on *scope*: they
+mistakenly believe a high-standards, six-page memo can be written in one or two days or even
+a few hours, when really it might take a week or more! They’re trying to perfect a handstand
+in just two weeks, and we’re not coaching them right. The great memos are written and re-
+written, shared with colleagues who are asked to improve the work, set aside for a couple of
+days, and then edited again with a fresh mind. They simply can’t be done in a day or two. The
+key point here is that you can improve results through the simple act of teaching scope – that
+a great memo probably should take a week or more.
+```
+
+Note that nowhere does Jeff talk about needing "skill" for meeting high standards. He addresses this explicitly w.r.t. the memo writing example:
+
+```markdown
+Beyond recognizing the standard and having realistic expectations on scope, how about skill?
+Surely to write a world class memo, you have to be an extremely skilled writer? Is it another
+required element? In my view, not so much, at least not for the individual in the context of 
+teams. The football coach doesn’t need to be able to throw, and a film director doesn’t need 
+to be able to act. But they both do need to recognize high standards for those things and 
+teach realistic expectations on scope. Even in the example of writing a six-page memo, that’s 
+teamwork. Someone on the team needs to have the skill, but it doesn’t have to be you. (As a 
+side note, by tradition at Amazon, authors’ names never appear on the memos – the memo is 
+from the whole team.)
+```
+
+Benefits of high standards:
+
+```markdown
+1. Naturally and most obviously, you’re going to build better products and services for 
+customers – this would be reason enough!
+
+2. Perhaps a little less obvious: people are drawn to high standards – they help with 
+recruiting and retention.
+
+3. More subtle: a culture of high standards is protective of all the “invisible” but crucial 
+work that goes on in every company. I’m talking about the work that no one sees. The work that
+gets done when no one is watching. In a high standards culture, doing that work well is its own
+reward – it’s part of what it means to be a professional.
+
+4. And finally, high standards are fun! Once you’ve tasted high standards, there’s no going back.
 ```
 
 <a name="#Business-success-measures"></a>
