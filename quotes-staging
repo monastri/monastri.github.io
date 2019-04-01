@@ -1,13 +1,1075 @@
+[Business, finance, entrepeneurship, management](#business-finance-entrepeneurship-management)
+  [Management](#Management)
+    [Dealing with message distortion](#Dealing-with-message-distortion)
+    [Resisting organizational stasis, or, it is always Day 1](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends *(KIV for content list refactoring)*
+  [Venture capital](#venture-capital)
+    [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
+  [Insurance](#Insurance)
+    [The main function of the insurance sector in an economy](#Main-function-of-insurance-sector-in-economy)
+[Donald Trump](#donald-trump) (I had to include [Scott's review](https://slatestarcodex.com/2016/03/19/book-review-the-art-of-the-deal/))
+
+(JEFF BEZOS)
+Eugene Wei, whose blog [Remains of the Day](https://www.eugenewei.com/) is just great in general, has a post called [Compress to impress](https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas) (URL: "JPEG your ideas") that pithily captures and expounds on a bunch of stuff I've vaguely thought about and seen elsewhere. I covered the quotables [here](#Dealing-with-message-distortion); this is just about Jeff himself. 
+
+Eugene:
+
+```markdown
+Jeff understood the power of rhetoric. Time spent coming up with the right words to package 
+a key concept in a memorable way was time well spent. People fret about what others say about
+them when they're not in the room, but Jeff was solving the issue of getting people to say 
+what he'd say when he wasn't in the room.
+
+It was so important to him that we even had company-wide contests to come up with the most 
+memorable ways to name our annual themes. ...
+
+I have a list of dozens of Jeff sayings filed away in memory, and I'm not alone. It's one 
+reason he's one of the world's most effective CEO's. What's particularly impressive is that
+Jeff is so brilliant that it would be easy for him to state his thinking in complex ways that
+us mere mortals wouldn't grok. But true genius is stating the complex simply.
+
+Ironically, Jeff employs the reverse of this for his own information inflows. It's well known
+that he banned Powerpoint at Amazon because he was increasingly frustrated at the lossy nature
+that medium. As Edward Tufte has long railed against, Powerpoint encourage people to reduce 
+their thinking to a series of bullet points. Whenever someone would stand up in front of Jeff
+to present, Jeff would have rifled through to the end of the presentation before they would've 
+finished a handful of slides, and Jeff would just jump in and start asking questions about 
+slide 35 when someone was still talking to slide 3.
+
+As a hyper intelligent person, Jeff didn't want lossy compression or lazy thinking, he wanted
+the raw feed in a structured form, and so we all shifted to writing our arguments out as essays
+that he'd read silently in meetings. Written language is a lossy format, too, but it has the 
+advantage of being less forgiving of broken logic flows than slide decks.
+
+To summarize, Jeff's outbound feedback was carefully encoded and compressed for maximum fidelity
+of transmission across hundreds of thousands of employees all over the world, but his inbound 
+data feed was raw and minimally compressed. In structure, this pattern resembles what a great 
+designer or photographer does. Find the most elegant and stable output from a complex universe 
+of inputs.
+```
+
+This of course agrees with Steve Yegge's funny quotes above.
 
 
+<a name="#business-finance-entrepeneurship-management"></a>
+## Business, finance, entrepeneurship, management
+([overview](#overview))
+
+<a name="#Management"></a>
+### Management
+([overview](#overview))
+
+<a name="#always-day-1"></a>
+### Always Day 1
+([overview](#overview))
+
+Jeff's [2016 annual letter to shareholders](https://blog.aboutamazon.com/company-news/2016-letter-to-shareholders) has some great quotes about how he resists organizational stasis at Amazon.
+
+Responding to the question "Jeff, what does Day 2 look like?" at a recent all-hands meeting:
+
+```markdown
+    Day 2 is stasis. 
+    Followed by irrelevance. 
+    Followed by excruciating, painful decline. 
+    Followed by death. 
+    And that is why it is *always* Day 1.
+```
+
+The "starter pack" of "essentials for Day 1 defense:
+
+```markdown
+Such a question can’t have a simple answer. There will be many elements, multiple paths, 
+and many traps. I don’t know the whole answer, but I may know bits of it: 
+
+- customer obsession
+- a skeptical view of proxies
+- the eager adoption of external trends
+- high-velocity decision making.
+```
+
+Or, as Jeff wraps up:
+
+```markdown
+So, have you settled only for decision quality, or are you mindful of decision velocity too?
+Are the world’s trends tailwinds for you?
+Are you falling prey to proxies, or do they serve you?
+And most important of all, are you delighting customers?
+```
+
+Customer obsession matters most by far:
+
+```markdown
+There are many ways to center a business. You can be competitor focused, you can be product
+focused, you can be technology focused, you can be business model focused, and there are more.
+But in my view, obsessive customer focus is by far the most protective of Day 1 vitality.
+
+Why? There are many advantages to a customer-centric approach, but here’s the big one: 
+
+Customers are always beautifully, wonderfully dissatisfied, even when they report being happy
+and business is great. Even when they don’t yet know it, customers want something better, and 
+your desire to delight customers will drive you to invent on their behalf. No customer ever 
+asked Amazon to create the Prime membership program, but it sure turns out they wanted it, and
+I could give you many such examples.
+
+Staying in Day 1 requires you to experiment patiently, accept failures, plant seeds, protect 
+saplings, and double down when you see customer delight. A customer-obsessed culture best 
+creates the conditions where all of that can happen.
+```
+
+This mirrors what he said in his very first annual letter:
+
+```markdown
+From the beginning, our focus has been on offering our customers compelling value. We realized
+that the Web was, and still is, the World Wide Wait. Therefore, we set out to offer customers 
+something they simply could not get any other way, and began serving them with books. We brought
+them much more selection than was possible in a physical store (our store would now occupy 6
+football fields), and presented it in a useful, easy-to-search, and easy-to-browse format in a 
+store open 365 days a year, 24 hours a day. We maintained a dogged focus on improving the 
+shopping experience, and in 1997 substantially enhanced our store. We now offer customers gift
+certificates, 1-Click shopping, and vastly more reviews, content, browsing options, and 
+recommendation features. We dramatically lowered prices, further increasing customer value. Word
+of mouth remains the most powerful customer acquisition tool we have, and we are grateful for 
+the trust our customers have placed in us. Repeat purchases and word of mouth have combined to 
+make Amazon.com the market leader in online bookselling.
+```
+
+In the 2017 annual letter, Jeff again echoes this with the "divine discontent" quote:
+
+```markdown
+One thing I love about customers is that they are divinely discontent. Their expectations are
+never static — they go up. It’s human nature. We didn’t ascend from our hunter-gatherer days by
+being satisfied. People have a voracious appetite for a better way, and yesterday’s ‘wow’ quickly
+becomes today’s ‘ordinary’. I see that cycle of improvement happening at a faster rate than ever
+before. It may be because customers have such easy access to more information than ever before —
+in only a few seconds and with a couple taps on their phones, customers can read reviews, compare
+prices from multiple retailers, see whether something’s in stock, find out how fast it will ship
+or be available for pick-up, and more. These examples are from retail, but I sense that the same
+customer empowerment phenomenon is happening broadly across everything we do at Amazon and most 
+other industries as well. You cannot rest on your laurels in this world. Customers won’t have it.
+```
+
+Specific product examples from Jeff's [previous year's annual letter](https://ir.aboutamazon.com/static-files/f124548c-5d0b-41a6-a670-d85bb191fcec):
+
+```markdown
+Many companies describe themselves as customer-focused, but few walk the walk. Most big technology
+companies are competitor focused. They see what others are doing, and then work to fast follow. In contrast, 90
+to 95% of what we build in AWS is driven by what customers tell us they want. A good example is our new
+database engine, Amazon Aurora. Customers have been frustrated by the proprietary nature, high cost, and
+licensing terms of traditional, commercial-grade database providers. And while many companies have started
+moving toward more open engines like MySQL and Postgres, they often struggle to get the performance they
+need. Customers asked us if we could eliminate that inconvenient trade-off, and that’s why we built Aurora. It
+has commercial-grade durability and availability, is fully compatible with MySQL, has up to 5 times better
+performance than the typical MySQL implementation, but is 1/10th the price of the traditional, commercial-grade
+database engines. This has struck a resonant chord with customers, and Aurora is the fastest-growing service in
+the history of AWS. Nearly this same story could be told about Redshift, our managed data warehouse service,
+which is the second fastest growing service in AWS history – both small and large companies are moving their
+data warehouses to Redshift.
+
+Our approach to pricing is also driven by our customer-centric culture – we’ve dropped prices 51 times, in
+many cases before there was any competitive pressure to do so. In addition to price reductions, we’ve also
+continued to launch new lower cost services like Aurora, Redshift, QuickSight (our new Business Intelligence
+service), EC2 Container Service (our new compute container service), and Lambda (our pioneering server-less
+computing capability), while extending our services to offer a range of highly cost-effective options for running
+just about every type of application or IT use case imaginable. We even roll out and continuously improve
+services like Trusted Advisor, which alerts customers when they can save money – resulting in hundreds of
+millions of dollars in savings for our customers. I’m pretty sure we’re the only IT vendor telling customers how
+to stop spending money with us
+```
+
+The part where you experiment and accept failures and plant seeds etc in the first quote isn't just talk -- Brad Stone covers it in great detail w.r.t. how Prime was created in his 2013 book *The Everything Store*. Again Jeff also covers it in the [previous year's annual letter](https://ir.aboutamazon.com/static-files/f124548c-5d0b-41a6-a670-d85bb191fcec):
+
+```markdown
+One area where I think we are especially distinctive is failure. I believe we are the best 
+place in the world to fail (we have plenty of practice!), and failure and invention are 
+inseparable twins. To invent you have to experiment, and if you know in advance that it’s 
+going to work, it’s not an experiment. Most large organizations embrace the idea of invention,
+but are not willing to suffer the string of failed experiments necessary to get there. 
+Outsized returns often come from betting against conventional wisdom, and conventional wisdom
+is usually right. Given a ten percent chance of a 100 times payoff, you should take that bet 
+every time. But you’re still going to be wrong nine times out of ten. We all know that if you
+swing for the fences, you’re going to strike out a lot, but you’re also going to hit some home 
+runs. The difference between baseball and business, however, is that baseball has a truncated 
+outcome distribution. When you swing, no matter how well you connect with the ball, the most 
+runs you can get is four. In business, every once in a while, when you step up to the plate, 
+you can score 1,000 runs. This long-tailed distribution of returns is why it’s important to be 
+bold. Big winners pay for so many experiments.
+
+AWS, Marketplace and Prime are all examples of bold bets at Amazon that worked, and we’re 
+fortunate to have those three big pillars. They have helped us grow into a large company, and 
+there are certain things that only large companies can do. With a tip of the hat to our Seattle 
+neighbors, no matter how good an entrepreneur you are, you’re not going to build an all-composite 
+787 in your garage startup – not one you’d want to fly in anyway. Used well, our scale enables us 
+to build services for customers that we could otherwise never even contemplate. But also, if we’re 
+not vigilant and thoughtful, size could slow us down and diminish our inventiveness.
+```
+
+This segues naturally into Ben Thompson's article [Divine Discontent: Disruption’s Antidote](https://stratechery.com/2018/divine-discontent-disruptions-antidote/). There are two advantages to this obsessive customer focus, argues Ben:
+
+```markdown
+Critically, when it comes to Internet-based services, this customer focus does not come at the 
+expense of a focus on infrastructure or distribution or suppliers: while those were the means to
+customers in the analog world, in the online world controlling the customer relationship gives a
+company power over its suppliers, the capital to build out infrastructure, and control over 
+distribution. Bezos is not so much choosing to prioritize customers insomuch as he has unlocked the
+key to controlling value chains in an era of aggregation.
+
+Bezos’s letter, though, reveals another advantage of focusing on customers: it makes it impossible 
+to overshoot. When I wrote that piece five years ago, I was thinking of the opportunity provided by
+a focus on the user experience as if it were an asymptote: one could get ever closer to the ultimate
+user experience, but never achieve it. ...
+
+In fact, though, consumer expectations are not static: they are, as Bezos’ memorably states, 
+“divinely discontent”. What is amazing today is table stakes tomorrow, and, perhaps surprisingly, 
+that makes for a tremendous business opportunity: if your company is predicated on delivering the 
+best possible experience for consumers, then your company will never achieve its goal.
+
+In the case of Amazon, that this unattainable and ever-changing objective is embedded in the company’s
+culture is, in conjunction with the company’s demonstrated ability to spin up new businesses on the 
+profits of established ones, a sort of perpetual motion machine; I’m not sure that Amazon will beat 
+Apple to $1 trillion, but they surely have the best shot at two.
+```
+
+Eugene also quotes Ben above, and [adds](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes) that "you can't overserve on user experience":
+
+```markdown
+Pattern recognition is the default operation mode of much of Silicon Valley and other fields, but
+it is almost always, by its very nature, backwards-looking. One can hardly blame most people for
+resorting to it because it's a way of minimizing blame, and the economic returns of the Valley are
+so amplified by the structural advantages of winners that even matching market beta makes for a 
+comfortable living.
+
+However, if consumer desires are shifting, it's always just a matter of time before pattern 
+recognition leads to an invisible asymptote. One reason startups are often the tip of the spear for
+innovation in technology is that they can't rely on market beta to just roll along. Achieving 
+product-market fit for them is an existential challenge, and they have no backup plans. Imagine an 
+investor who has to achieve alpha to even survive.
+
+You can't overserve on user experience... as a product person, I'd argue, in parallel,
+that it is difficult and likely impossible to understand your customer too deeply. Amazon's mission 
+to the be the world's most customer-centric company is inherently a long-term strategy because it is
+a one with an infinite time scale and no asymptote to its slope.
+```
+
+The next most important is to resist managing by proxy -- like process as proxy, or surveys as proxy for customers. This is a direct instance of Goodhart's law, and it's so important I'm thinking of giving it its own subheading, or slotting it under a high-level category called "Goodhart-type failures":
+
+```markdown
+As companies get larger and more complex, there’s a tendency to manage to proxies. This comes
+in many shapes and sizes, and it’s dangerous, subtle, and very Day 2.
+
+A common example is process as proxy. Good process serves you so you can serve customers. But
+if you’re not watchful, the process can become the thing. This can happen very easily in large 
+organizations. The process becomes the proxy for the result you want. You stop looking at 
+outcomes and just make sure you’re doing the process right. Gulp. It’s not that rare to hear a 
+junior leader defend a bad outcome with something like, “Well, we followed the process.” A more 
+experienced leader will use it as an opportunity to investigate and improve the process. The 
+process is not the thing. It’s always worth asking, do we own the process or does the process 
+own us? In a Day 2 company, you might find it’s the second.
+
+Another example: market research and customer surveys can become proxies for customers – 
+something that’s especially dangerous when you’re inventing and designing products. “Fifty-five
+percent of beta testers report being satisfied with this feature. That is up from 47% in the
+first survey.” That’s hard to interpret and could unintentionally mislead.
+
+Good inventors and designers *deeply* understand their customer. They spend tremendous energy 
+developing that intuition. They study and understand many anecdotes rather than only the averages
+you’ll find on surveys. They live with the design.
+
+I’m not against beta testing or surveys. But you, the product or service owner, must understand
+the customer, have a vision, and love the offering. Then, beta testing and research can help you
+find your blind spots. A remarkable customer experience starts with heart, intuition, curiosity,
+play, guts, taste. You won’t find any of it in a survey.
+```
+
+The third is to embrace "powerful external trends quickly", because "fighting them is fighting the future; embrace them and you have a tailwind" -- here Jeff focuses on ML+AI in particular:
+
+```markdown
+The outside world can push you into Day 2 if you won’t or can’t embrace powerful trends quickly. 
+If you fight them, you’re probably fighting the future. Embrace them and you have a tailwind.
+
+These big trends are not that hard to spot (they get talked and written about a lot), but they 
+can be strangely hard for large organizations to embrace. We’re in the middle of an obvious one
+right now: machine learning and artificial intelligence.
+
+Over the past decades computers have broadly automated tasks that programmers could describe 
+with clear rules and algorithms. Modern machine learning techniques now allow us to do the same
+for tasks where describing the precise rules is much harder.
+
+At Amazon, we’ve been engaged in the practical application of machine learning for many years
+now. Some of this work is highly visible: our autonomous Prime Air delivery drones; the Amazon 
+Go convenience store that uses machine vision to eliminate checkout lines; and Alexa,1 our 
+cloud-based AI assistant. (We still struggle to keep Echo in stock, despite our best efforts. A
+high-quality problem, but a problem. We’re working on it.)
+
+But much of what we do with machine learning happens beneath the surface. Machine learning drives
+our algorithms for demand forecasting, product search ranking, product and deals recommendations,
+merchandising placements, fraud detection, translations, and much more. Though less visible, much
+of the impact of machine learning will be of this type – quietly but meaningfully improving core
+operations.
+
+Inside AWS, we’re excited to lower the costs and barriers to machine learning and AI so
+organizations of all sizes can take advantage of these advanced techniques.
+
+Using our pre-packaged versions of popular deep learning frameworks running on P2 compute 
+instances (optimized for this workload), customers are already developing powerful systems 
+ranging everywhere from early disease detection to increasing crop yields. And we’ve also made
+Amazon’s higher level services available in a convenient form. Amazon Lex (what’s inside Alexa),
+Amazon Polly, and Amazon Rekognition remove the heavy lifting from natural language understanding, 
+speech generation, and image analysis. They can be accessed with simple API calls – no machine 
+learning expertise required. Watch this space. Much more to come.
+```
+
+The last one is high-velocity decision-making, or what Jeff memorably calls "disagree and commit" -- this is what startups do, but it doesn't scale naturally unless your org design explicitly deals with it:
+
+```markdown
+Day 2 companies make high-quality decisions, but they make high-quality decisions slowly. To
+keep the energy and dynamism of Day 1, you have to somehow make high-quality, high-velocity 
+decisions. Easy for start-ups and very challenging for large organizations. The senior team 
+at Amazon is determined to keep our decision-making velocity high. Speed matters in business
+– plus a high-velocity decision making environment is more fun too. We don’t know all the 
+answers, but here are some thoughts.
+
+First, never use a one-size-fits-all decision-making process. Many decisions are reversible, 
+two-way doors. Those decisions can use a light-weight process. For those, so what if you’re
+wrong? I wrote about this in more detail in last year’s letter.
+
+Second, most decisions should probably be made with somewhere around 70% of the information you
+wish you had. If you wait for 90%, in most cases, you’re probably being slow. Plus, either way,
+you need to be good at quickly recognizing and correcting bad decisions. If you’re good at
+course correcting, being wrong may be less costly than you think, whereas being slow is going
+to be expensive for sure.
+
+Third, use the phrase “disagree and commit.” This phrase will save a lot of time. If you have
+conviction on a particular direction even though there’s no consensus, it’s helpful to say, 
+“Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?” By 
+the time you’re at this point, no one can know the answer for sure, and you’ll probably get a 
+quick yes.
+
+This isn’t one way. If you’re the boss, you should do this too. I disagree and commit all the 
+time. We recently greenlit a particular Amazon Studios original. I told the team my view: 
+debatable whether it would be interesting enough, complicated to produce, the business terms 
+aren’t that good, and we have lots of other opportunities. They had a completely different 
+opinion and wanted to go ahead. I wrote back right away with “I disagree and commit and hope it
+becomes the most watched thing we’ve ever made.” Consider how much slower this decision cycle
+would have been if the team had actually had to convince me rather than simply get my commitment.
+
+Note what this example is not: it’s not me thinking to myself “well, these guys are wrong and
+missing the point, but this isn’t worth me chasing.” It’s a genuine disagreement of opinion, a
+candid expression of my view, a chance for the team to weigh my view, and a quick, sincere 
+commitment to go their way. And given that this team has already brought home 11 Emmys, 6 Golden
+Globes, and 3 Oscars, I’m just glad they let me in the room at all!
+
+Fourth, recognize true misalignment issues early and escalate them immediately. Sometimes teams
+have different objectives and fundamentally different views. They are not aligned. No amount of
+discussion, no number of meetings will resolve that deep misalignment. Without escalation, the 
+default dispute resolution mechanism for this scenario is exhaustion. Whoever has more stamina 
+carries the decision.
+
+I’ve seen many examples of sincere misalignment at Amazon over the years. When we decided to 
+invite third party sellers to compete directly against us on our own product detail pages – that
+was a big one. Many smart, well-intentioned Amazonians were simply not at all aligned with the 
+direction. The big decision set up hundreds of smaller decisions, many of which needed to be 
+escalated to the senior team.
+
+“You’ve worn me down” is an awful decision-making process. It’s slow and de-energizing. 
+Go for quick escalation instead – it’s better.
+```
+
+Jeff expands upon the "never use a one-size-fits-all decision-making process" remark above in the previous annual letter, by distinguishing between two types of decisions:
+
+```markdown
+There are some subtle traps that even high-performing large organizations can fall into 
+as a matter of course, and we’ll have to learn as an institution how to guard against 
+them. One common pitfall for large organizations – one that hurts speed and inventiveness 
+– is “one-size-fits-all” decision making.
+
+Some decisions are consequential and irreversible or nearly irreversible – one-way doors
+– and these decisions must be made methodically, carefully, slowly, with great 
+deliberation and consultation. If you walk through and don’t like what you see on the
+other side, you can’t get back to where you were before. We can call these Type 1 
+decisions. But most decisions aren’t like that – they are changeable, reversible – they’re
+two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with 
+the consequences for that long. You can reopen the door and go back through. Type 2
+decisions can and should be made quickly by high judgment individuals or small groups.
+
+As organizations get larger, there seems to be a tendency to use the heavy-weight Type 1 
+decision-making *process* on most decisions, including many Type 2 decisions. The end result
+of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and 
+consequently diminished invention.1 We’ll have to figure out how to fight that tendency.
+```
+
+<a name="#Dealing-with-message-distortion"></a>
+### Dealing with message distortion
+([overview](#overview))
+
+Eugene Wei, whose blog [Remains of the Day](https://www.eugenewei.com/) is just great in general, has a post called [Compress to impress](https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas) (URL: "JPEG your ideas") that pithily captures and expounds on a bunch of stuff I've vaguely thought about and seen elsewhere. 
+
+The main issue:
+
+```markdown
+Even with modern communication infrastructure, however, any modern CEO deals with
+amplification and distortion issues with any message. Humans learn about this problem 
+very early on by playing telephone or operator, or what I just learned is more
+canonically known outside the U.S. as Chinese whispers. One person whispers a message 
+in another person's ear, and it's passed on down the line to see if the original phrase
+can survive intact to the last person in the chain. Generally, errors accumulate along
+the way and what makes it to the end is some shockingly defective copy of the original.
+
+Despite learning this lesson early on, most people in leadership positions still 
+underestimate just how pervasive this problem is. This is why any manager or executive 
+is familiar with how much time they spend on communicating the same things to different
+groups in the organization. It feels like it's all you do sometimes, and yet you still
+encounter people who feel like they're in the dark.
+```
+
+Since Eugene worked at Amazon back in the day, he falls back to [Jeff Bezos](#jeff-bezos) as an example of a CEO who grokked this issue and came up with good ways to deal with it, in the process singling out the core problem of information flow as being what drives organizational design:
+
+```markdown
+I suspect that very early on in his career as CEO, Jeff noticed the Chinese whispers 
+problem as the company scaled. Anyone who is lucky enough to lead a successful company 
+very quickly senses the impossibility of scaling one's own time to all corners of the 
+organization, but Jeff was laser focused on the more serious problem that presented, 
+that of maintaining consistent strategy in all important decisions, many of which were
+made outside his purview each day. At scale, maintaining strategic alignment feels like
+an organizational design problem, but much of the impact of organizational design is
+centered around how it impacts information flow.
+
+This problem is made more vexing by not just the telephone game issue but by the human 
+inability to carry around a whole lot of directives in their minds. Jeff could spend a 
+ton of time in All Hands meetings or with his direct reports and other groups inside
+Amazon, explaining his thinking in excruciating detail and hoping it sank in, but then 
+he'd never have any time to do anything else.
+```
+
+I'm reminded of the term "Jeff bots" from Brad Stone's 2013 book *The Everything Store*, an almost compulsively-readable business book if there ever was one. 
+
+How have people traditionally ensured message integrity when transmitted via the lossy media of oral tradition and hierarchical organizations? Distinctive message encoding:
+
+```markdown
+One of these is to encode you message in a very distinctive format. There are many 
+rhetorical tricks that have stood the test of time, like alliteration or anadiplosis.
+Perhaps supreme among these rhetorical forms is verse, especially when it rhymes. Both 
+the rhythm and the rhyme (alliteration intentional) allow humans to compress and recall 
+a message with greater accuracy than prose.
+
+    Fe fi fo fum, I smell the blood of an Englishman.
+ 
+It's thought that bards of old could recite epics like Homer's Odyssey entirely from
+memory because the stories were in verse form (and through the use of memorization tricks
+like memory palaces and visual encoding). I don't know many people who can recite any 
+novels from memory, but I've occasionally run across someone who can recite a long poem by 
+heart. That's the power of verse.
+```
+
+How Jeff encodes his messages distinctively -- Day 1 (more [here](#always-day-1)):
+
+```markdown
+I never chatted with Bezos about this, so I don't know if it was an explicit strategy on 
+his part, but one of his great strengths as a communicator was the ability to encode the 
+most important strategies for Amazon in very concise and memorable forms.
+
+Take one example "Day 1." I don't know when he first said this to the company, but it was 
+repeated endlessly all my years at Amazon. It's still Day 1. Jeff has even named one of the
+Amazon buildings Day 1. In fact, I bet most of my readers know what Day 1 means, and Jeff 
+doesn't even bother explaining what Day 1 is at the start of his letter to shareholders, so 
+familiar is it to all followers of the company. Instead, he just jumps straight into talking
+about how to fend off Day 2, which he doesn't even need to define because we all can probably
+infer it from the structure of his formulation, but he does so anyway.
+
+    Day 2 is stasis. 
+    Followed by irrelevance. 
+    Followed by excruciating, painful decline. 
+    Followed by death. 
+    And that is why it is always Day 1.
+ 
+An entire philosophy, packed with ideas, compressed into two words. Day 1.
+```
+
+Another example of ideas codifed for maximum recall -- catchy annual themes to remind employees of that year's company goals:
+
+```markdown
+Go back even further, and there are dozens of examples of Bezos codifying key ideas for 
+maximum recall. For example, every year I was at Amazon had a theme (reminiscent of how 
+David Foster Wallace imagined in Infinite Jest that in the future corporate sponsors could
+buy the rights to name years). These themes were concise and memorable ways to help 
+everyone remember the most important goal of the company that year.
+
+One year, when our primary goal was to grow our revenue and order volume as quickly as
+possible to achieve the economies of scale that would capitalize on our high fixed cost
+infrastructure investments and put wind into our flywheel, the theme was "Get Big Fast 
+Baby." You can argue whether the "baby" at the end was necessary, but I think it's more 
+memorable with it than without. Much easier to remember than "Grow revenues 80%" or 
+"achieve economies of scale" or something like that.
+
+Another time, as we looked out and saw the $1B revenue milestone approaching, one of Jeff's
+chief concerns was whether our company's processes could scale to handle that volume of 
+orders without breaking (I'll write another time about the $1B revenue scaling phenomenon). 
+To head off any such stumbles, we set aside an entire year at the company for GOHIO. It 
+stood for "Getting our house in order".
+
+As the first analyst in the strategic planning group, I produced an order volume projection 
+for $1B in revenue and also generated forecasts for other metrics of relevance for every 
+group in the company. For example, the customer service department would have to handle a 
+higher volume of customer contacts, and the website would have to handle a greater traffic
+load.
+
+Every group had that year of GOHIO to figure out how to scale to handle that volume without 
+just linearly scaling its headcount and/or spending. If every group were just growing their
+headcount and costs linearly with order volume, our business model wouldn't work. The 
+exercise was intended to find those processes that would break at such theoretical load and
+begin the work of finding where the economies of scale lay. An example was building customer
+self-service mechanisms to offload the most common customer service inquiries like printing 
+return labels.
+
+I could continue on through the years, but what stands out is that I can recite these from 
+memory even now, over a decade later, and so could probably everyone who worked at Amazon 
+those years.
+
+Here's a good test of how strategically aligned a company is. Walk up to anyone in the
+company in the hallway and ask them if they know what their current top priority or mission 
+is. Can they recite it from memory?
+
+What Jeff understood was the power of rhetoric. Time spent coming up with the right words to
+package a key concept in a memorable way was time well spent. People fret about what others 
+say about them when they're not in the room, but Jeff was solving the issue of getting people 
+to say what he'd say when he wasn't in the room.
+
+It was so important to him that we even had company-wide contests to come up with the most 
+memorable ways to name our annual themes. One year Jeff announced at an All Hands meeting 
+that someone I knew, Barnaby Dorfman, had won the contest. Jeff said the prize was that he'd
+buy something off the winner's Amazon wish list, but after pulling Barnaby's wish list up in
+front of the whole company on the screen, he said he didn't think any of the items was good 
+enough so instead he went over to the product page for image stabilized binoculars from Canon,
+retailing for over $1000, and bought those instead.
+```
+
+Well-codified ideas need little maintenance. Jeff-relevant:
+
+```markdown
+One of the great advantages of identifying and codifying first principles is how little 
+maintenance they need. Write once, remember forever. As testament to that, ever year, Bezos
+ends his Letter to Shareholders the same way.
+
+As always, I attach a copy of our original 1997 letter. It remains Day 1.
+ 
+It's his annual mic drop. Shareholders must feel so secure with their Amazon shares. Bezos is
+basically saying he figured out some enduring principles when he started his company, and 
+they're so universal and stable that he doesn't have much to add some twenty years later
+except to point people back at his first letter to shareholders.
+
+Other CEO's and leaders I've encountered are gifted at this as well ("Lean in" "Yes we can" 
+"Move fast and break things" "Innovation is saying no to a thousand things" "Just do it" "I 
+have a dream") but I gravitate to those from Jeff because I saw them arise from distinct needs
+in the moment, and not just for notoriety's sake. As such, it's a strategy applicable to more
+than just philosophers and CEO's.
+
+...
+
+There will come a day when you'll come up with some brilliant theory or concept and want 
+it to spread and stick. You want to lay claim to that idea. It's then that you'll want to
+set aside some time to state it distinctively, even if you're not a gifted rhetorician. A
+memorable turn of phrase need not incorporate sophisticated techniques like parataxis or 
+polysyndeton. Most everyone in tech is familiar with Marc Andreessen's "software is eating
+the world" and Stewart Brand's "information wants to be free." Often mere novelty is enough
+to elevate the mundane. You've spent all that time cooking your idea, why not spend an 
+extra few moments plating it?
+```
+
+Examples in other domains:
+
+```markdown
+Tyler Cowen named his latest book The Complacent Class. It's a really thought-provoking read,
+but the alliteration in the title helps. Now economists everywhere are referring to a broad
+set of phenomena by the term "complacent class." It wouldn't be nearly as memorable if called
+Complacent People or The Dangers of Self-Satisfaction. Can you name the subtitle of the book?
+It's "the self-defeating quest for the American Dream" but no one remembers that part.
+
+Venkatesh Rao once wrote a memorable post about management principles encoded in the American
+version of the TV show The Office. Anyone familiar with the post probably remembers it by the
+first part of its title: "The Gervais Principle." Very few, I'd suspect, remember the rest of
+the title—"Or The Office according to The Office"—though it does employ a clever bit of word 
+repetition.
+
+Whatever you think of Hillary Clinton as compared to Donald Trump as Presidential candidates,
+I'd venture that more people can recite Trump's mantra—Make America Great Again—than Clinton's.
+I don't know if she had a slogan, or if she did I don't remember what it was. Her most
+memorable turn of phrase from the campaign trail was probably "then deal me in" at the end of 
+a much longer phase, “if fighting for women's healthcare and paid family leave and equal pay is
+playing the woman card, then deal me in." It's difficult to think of a phrase more emblematic 
+of her problems in articulating what she stood for. The first part of the sentence is long and 
+wonky, and I couldn't recall it from memory, and she never followed up on the second enough.
+
+If she'd used it repeatedly in a speech, it could have been a form of epistrophe like Obama's 
+"Yes we can" or Martin Luther King's "I have a dream." Imagine if she had an entire speech
+where she kept hammering on what other cards she wanted to deal. "If ensuring that everyone in 
+the country has an equal opportunity to reasonable healthcare is playing the [?] card then deal
+me in. If ensuring everyone in this country has the right to a good education is playing the 
+[?] card then deal me in." And so on. But she would only use it once in a while, or once in a 
+speech, whereas Obama had entire speeches where he would circle back to "Yes we can" again and 
+again. [Maybe there isn't an equivalent to "woman card" that makes this epistrophe scalable but 
+the broad point about her weak use of rhetoric holds.]
+
+That's not to say "Make American Great Again" is some slogan for the ages, but it is succinct
+and has a loose bit of trochaic meter (MAKE ah-MERIC-uh GREAT a-GAIN) which grants it a sense
+of emphatic energy which all political movements need. His supporters compressed it into #MAGA
+which became a more liquid shorthand for social media. In general it seems the populist backlash
+and the alt-right are stronger at such rhetorical tricks than the Democrats or the left, but 
+perhaps it is bred of necessity from being the opposition party?
+```
 
 
+<a name="#Venture-capital"></a>
+### Venture capital
+([overview](#overview))
+
+<a name="#Typical-route-to-becoming-VC"></a>
+### Typical route to becoming VC
+([overview](#overview))
+
+From VC Jeff Bussgang of Flybridge Capital's [answer to What's the typical route to becoming a VC?](https://qr.ae/TW1ANA):
+
+```markdown
+Generally speaking, there are two on-ramps to the VC world.
+
+One is what I’ll call “The Apprentice” model: go to a top college, get a few years of
+working experience, go to a top business school, spend a few more years in a start-up
+(typically in product marketing/management) and then join a firm in your late 20s/early
+30s as an associate or principal and hope to be accepted as a junior partner into the 
+partnership after 4-8 years. During that time, you will probably shadow a few of the
+partners, join one or two boards and try to learn the trade from the experienced, senior
+partners around you.
+
+The challenge with VCs who follow this path is that the lack of deep operating experience
+can potentially be viewed negatively by entrepreneurs. Some entrepreneurs ultimately 
+conclude these types of VCs “don’t get it” because they’ve never walked in their shoes.
+On the other hand, these “Apprentice” VCs are often very successful investors because 
+they are incredibly broad in their range of expertise and analytical in their approaches
+to selecting new investments.
+
+The second on-ramp is what I’ll call the “ex-founder/MoneyMaker” model: work your way up 
+the start-up ladder, become a VC-backed founder, navigate a successful exit or two and then
+join one of the VC firms that backed you and with whom you’ve had a chance to build a
+relationship (and make money for) over 5-10 years. This on-ramp sometimes begins with a 
+“Venture Partner” title before becoming a full General Partner (i.e., the training wheels 
+come off and you have your own checkbook, subject to partnership approval).
+
+The challenge with VCs who follow this path is that they can be accused of viewing their 
+VC careers as a lifestyle choice – “the back nine” – and never really go through the hard
+work, long hours and long years to learn the trade. After all, this is a business where you
+fund lifecycles are measured in decades. Although these types of VCs may have deep knowledge
+in the particular domain where they had operating experience, they may not have the breadth
+or analytical horsepower to productively invest in the fully broad range of opportunities
+most general partners require to be successful. On the other hand, these “ex-founder/
+MoneyMaker” VCs have great networks of former employees and business partners and an ability 
+to bond with the next generation of young entrepreneurs for whom they can serve as valuable
+mentors.
+
+Which path is the more successful one? I have no idea – but I do know that numerous aspiring
+VCs who can’t credibly follow one of these two paths have slim odds to entering the industry;
+in a world where the odds are slim at any rate. And many LPs are looking for partnerships 
+that blend the best of both sides into a single, holistic unit.
+```
+
+<a name="#Insurance"></a>
+### Insurance
+([overview](#overview))
+
+<a name="#Main-function-of-insurance-sector-in-economy"></a>
+### Main function of insurance sector in economy
+([overview](#overview))
+
+Allen Lobo's [answer to *Do you think insurance is really a waste of money in the long run?*](https://qr.ae/TW1Yi7) is bombastically written rhetoric as usual, so I've edited out the parts where he's flabbergasted at how stupid everyone is, and repeats himself for emphasis (unlike other writers I like, Allen's repetitions get on my nerves). 
+
+```markdown
+The primary function of the insurance sector in an economy is not your peace 
+of mind.
+
+That is certainly an important thing at the level of the individual consumer.
+But it is merely a means to a far more important end.
+
+And that end is the **liquidity of capital in the market.** Because **insurance
+multiplies spending power in much the same manner as leverage.** And here’s but
+a simple model of how it works.
+
+(You’d hope that people would have learned a very painful lesson in the aftermath
+of the 2008 financial crisis about what happens when capital freezes up in the 
+economy. When people wondered “Why aren’t consumers and corporations spending all
+that money, though they’re sitting on it!”)
+
+...
+
+Say you live in a colony which has a hundred families, each living in their own
+house. And of the hundred houses, you know from historical experience that on 
+average five of them are severely damaged each year due a combination of whatever
+natural/man-made causes. Each house then takes $10,000 to repair. That’s an annual
+cost of $50,000 every year. It works out to $500 per house on average per year.
+
+Imagine now that there is no insurance of any kind and each family has to rely on 
+charity at best, or just cross their fingers.
+
+What do you think is the first thing which they will do?
+
+**Each one will put aside $10,000 as quickly as they can (if they have any sense).**
+
+Because while they know that there is just a 5% chance of it happening to them in 
+any given year, over a twenty year period it will happen once to them (on average). 
+So it makes sense to save that up.
+
+But the rub of the deal is that they cannot spend or invest that money anymore, it
+has to be kept ready at all times because nobody knows -
+
+1. Which precise houses will be damaged each year.
+2. Which houses may be damaged at higher or lower rates than average.
+
+That is $10,000 by a hundred families each - one million dollars in capital.
+
+**Locked down or off-limits for even any medium-term, let alone long-term 
+investments.**
+
+Oh and by the way, that’s a best-case scenario.
+
+Remember that some of those homeowners after suffering damage the first time, will
+go back to saving $10,000 again because providence does not say to them
+
+“Okay, your house was damaged this year, you’ve had your turn.
+
+You don’t need to worry now for the next 20 years, rest assured that misfortune will
+hit only the other ones!”
+
+You can now begin to see how terribly inefficient the system becomes in terms of 
+**capital locked down purely based on the unpredictability.**
+
+How on the one hand you will have houses that never get hit in that twenty year 
+period but keep $10,000 locked up throughout and then on the other hand households
+who get hit more than once in that period and then start setting aside even more 
+than $10,000! In the real world, each household will actually set aside more than
+$10,000 on average (to account for statistical variance in incidence of damage).
+
+But let’s keep it simple for now to $1 million “under the mattress”.
+
+On the other hand, if each family elects to put $500 each year into a ‘pot’ ($50,000
+a year), they can rest assured that any untoward damage will be taken care of for 
+the five damaged houses. That’s your “peace of mind” bit. Of course some houses will
+get more than they put in (the ones who are damaged multiple times) and some may get
+nothing back because they never get damaged. It’s how diversifying risk works.
+
+But more importantly $9,500 is freed up for each family at the start of that 20-year
+period and can now be put to use in whatever sense they individually need or want to,
+whether that be consumption or investment.
+
+That is effectively $950,000 dollars not extra in the system (that did not change) but
+extra flowing around to be allocated to where capital can be put to productive use. 
+Like I said, no amount of capital is of any use if it is frozen. 
+
+...
+
+Check out what happens in nations where there isn’t a robust insurance industry. How 
+people at all income levels (but especially the middle class) keep as much money as 
+they can ‘under the mattress’ metaphorically speaking (i.e. in cash, gold or short-
+term liquid investments). That severely hobbles economic growth because there is a 
+lot of capital alright but it is all ‘frozen’.
+
+It’s not like those people are acting irrationally. No, it is that the absence of a 
+advanced and sophisticated insurance sector forces them to act in a fashion which 
+hurts economic growth by freezing capital.
+
+Conversely, even though we don’t think of it as such, a system like the National 
+Health Service (NHS) in the U.K. is effectively a health insurance firm. The state
+says to the citizens “Pay an extra X% in tax every month and you can rest assured 
+that you will be taken care of.” Same with unemployment insurance taxes in places 
+like Germany.
+```
+
+This needs regulation:
+
+```markdown
+It is important not just that insurance fraud be punished severely but that insurers
+who cheat their customers or misrepresent their products should be hung out to dry.
+Because when people stop trusting that financial institutions will keep their 
+promises, they go back to “storing money under the mattress” (as they did in the 
+aftermath of 2008).Because if you buy an iPhone and Apple then tries to squirrel out
+of their warranty, you can say “Screw them, I’ll buy Samsung from now on.” But if an
+insurance company cheats you after you having paid those premiums for all of those 
+years, it will financially wreck you!
+
+And also why it is just as important that these institutions not be allowed to play 
+around with other people’s money (unless it is that of the ultra-rich who have the
+appetite and can afford high risk because that’s not money they’re depending on for
+retirement).
+
+That is also why as a man of finance, while I am hardly in favor of excessive 
+regulations, it brings my blood to boil when I read of financial institutions
+defrauding their customers. Whether that be outright or by soft means like cleverly
+disguising the risks of financial instruments. It’s like how most policemen must
+feel when they read about corrupt cops.
+
+If the national economy were analogous to the human body, all of the other sectors 
+are like individual organs. But the financial sector (retail and investment banks, 
+insurance firms, mutual funds and pension funds) is the vascular system.
+
+That is why the tech crash of 2000 stayed localized. Because the contagion was 
+largely sequestered. If Amazon went bankrupt tomorrow, you’re not going to have it
+rip off and take down entire chunks of the economy. But if AIG or Bank of America 
+were to collapse on the other hand? It would send the markets into a complete state
+of panic!
+```
+
+The answer is necessarily simplified lie-to-children style, but it does make me wonder why all the sophistication when the main function is supposed to be to gain the public's trust so they free up capital so that the market's capital is more liquid. The answer, I suppose, is profit maximization in a competitive and highly regulated industry (price differentiation too perhaps?), but I don't know much more about what the nature of the sophistication is for my speculations to be more than hot air.
 
 
+<a name="#donald-trump"></a>
+### Donald Trump
+([overview](#overview))
 
-(UNDER MATH MATURITY)
+From Scott Alexander's [book review](https://slatestarcodex.com/2016/03/19/book-review-the-art-of-the-deal/) of DJT's *The Art of the Deal*, written in March 2016 before he became president. 
 
+This quote contrasts DJT with Robert Cialdini of *Influence*:
 
+```markdown
+Trump is no psychology expert, but after a few months of attributing his victories to 
+blind luck, most people have accepted Scott Adams’ hypothesis that he’s really a “master
+persuader”. Salon, Daily Caller, Bill Maher, and the Economist all use the word “genius”.
+The less you respect Trump’s substance – and I respect it very little – the more you’re 
+forced to admire whatever combination of charisma, persuasion, and showmanship he uses 
+to succeed without having any.
+```
 
+DJT thinks deal-making is an innate ability:
 
-(UNDER WRITING)
+```markdown
+More than anything else, I think deal-making is an ability you’re born with. It’s in the
+genes…unlike the real estate evangelists you see all over television these days, I can’t
+promise you that by following the precepts I’m about to offer you’ll become a millionaire 
+overnight. Unfortunately, life rarely works that way, and most people who try to get rich
+quick end up going broke instead.
+```
+
+DJT's "truthful hyperbole" tactic:
+
+```markdown
+One thing I’ve learned about the press is that they’re always hungry for a good story,
+and the more sensational the better. It’s in the nature of the job, and I understand that.
+The point is that if you are a little different, or a little outrageous, or if you do 
+things that are bold or controversial, the press is going to write about you…
+
+The funny thing is that even a critical story, which may be hurtful personally, can be 
+very valuable to your business. [When I announced my plans to build Television City to 
+the press], not all of them liked the idea of the world’s tallest building. But the point
+is that we got a lot of attention, and that alone creates value.
+
+The other thing I do when I talk with reporters is to be straight. I try not to deceive 
+them or to be defensive, because those are precisely the ways most people get themselves
+into trouble with the press. Instead, when a reporter asks me a tough question, I try to
+frame a positive answer, even if that means shifting the ground. For example, if someone 
+asks me what negative effects the world’s tallest building might have on the West Side, 
+I turn the tables and talk about how New Yorkers deserve the world’s tallest building, 
+and what a boost it will give the city to have it again. When a reporter asks why I build
+only for the rich, I note that the rich aren’t the only ones who benefit from my buildings.
+I explain that I put thousands of people to work who might otherwise be collecting
+unemployment, and that I add to the city’s tax base every time I build a new project. I
+also point out that buildings like Trump Tower have helped spark New York’s renaissance.
+
+The final key to the way I promote is bravado. I play to people’s fantasies. People may 
+not always think big themselves, but they can still get very excited by those who do. 
+That’s why a little hyperbole never hurts. People want to believe that something is the 
+biggest and the greatest and the most spectacular.
+
+I call it truthful hyperbole. It’s an innocent form of exaggeration – and a very effective
+form of promotion.
+```
+
+DJT's tenth rule of deal-making is "having fun":
+
+```markdown
+I don’t kid myself. Life is very fragile, and success doesn’t change that. If anything,
+success makes it more fragile. Anything can change, without warning, and that’s why I 
+try not to take any of what’s happened too seriously. Money was never a big motivation 
+for me, except as a way to keep score. The real excitement is playing the game. I don’t
+spend a lot of time worrying about what I should have done differently, or what’s going
+to happen next. If you ask me exactly what the deals I’m about to describe all add up to
+in the end, I’m not sure I have a very good answer. Except that I’ve had a very good 
+time making them.
+```
+
+DJT's late-career-stage plans apparently involve giving back by having skin in the game:
+
+```markdown
+What’s next? Fortunately, I don’t know the answer, because if I did, that would take all
+the fun out of it. This much I do know: it won’t be more of the same.
+
+I’ve spent the first twenty years of my working life building, accumulating, and
+accomplishing things that many said could not be done. The biggest challenge I see over 
+the next twenty years is to figure out some creative ways to give back some of what I’ve 
+gotten.
+
+I don’t just mean money, although that’s part of it. It’s easy to be generous when you’ve 
+got a lot, and anyone who does, should be. But what I admire most are people who put
+themselves directly on the line. I’ve never been terribly interested in why people give, 
+because their motivation is rarely what it seems to be, and it’s almost never pure altruism. 
+To me, what matters is the doing, and giving time is far more valuable than just giving 
+money.
+
+In my life, there are two things I’ve found I’m very good at: overcoming obstacles and 
+motivating good people to do their best work. One of the challenges ahead is how to use 
+those skills as successfully in the service of others as I’ve done, up to now, on my own 
+behalf.
+
+Don’t get me wrong. I also plan to keep making deals, big deals, and right around the clock.
+```
+
+And this is the money quote that make me create this subsection in the first place -- DJT as autistic child with special interest in real estate development:
+
+```markdown
+So much for seventeen pages of business advice. The other three hundred forty-eight
+pages are Trump gushing about the minutiae all of the interesting deals he’s been a 
+part of.
+
+“GUYS, YOU’RE NOT GOING TO BELIEVE THIS, THERE WAS THIS ONE SKYSCRAPER THAT WAS SUPPOSED 
+TO HAVE A FLOOR TO AREA RATIO OF 6, BUT THEN I BEAT HILTON IN NEGOTIATING THE AIR RIGHTS 
+FROM THE COMPANY NEXT DOOR, AND ACTIVATED AN OPTION TO BUY A PROPERTY ON THE OTHER SIDE 
+OF IT, AND ALL OF THAT LANDED ME A PARTNERSHIP WITH ONE OF THE BIG BANKS, AND THEN THE 
+PLANNING BOARD TOTALLY CHANGED THE FLOOR AREA RATIO! CAN YOU BELIEVE IT, GUYS??!”
+
+Overall the effect was that of an infodump from an autistic child with a special interest
+in real estate development, which was both oddly endearing and not-so-oddly very boring.
+```
+
+combined with this -- an answer to "what do real estate developers do?" The answer being "coordination, often via blatant lies":
+
+```markdown
+I started the book with the question: what exactly do real estate developers do? They
+don’t design buildings; they hire an architect for that part. They don’t construct the 
+buildings; they hire a construction company for that part. They don’t manage the buildings; 
+they hire a management company for that part. They’re not even the capitalist who funds the 
+whole thing; they get a loan from a bank for that. So what do they do? Why don’t you or I 
+take out a $100 million loan from a bank, hire a company to build a $100 million skyscraper,
+and then rent it out for somewhat more than $100 million and become rich?
+
+As best I can tell, the developer’s job is coordination. This often means *blatant lies*.
+The usual process goes like this: the bank would be happy to lend you the money as long as
+you have guaranteed renters. The renters would be happy to sign up as long as you show them
+a design. The architect would be happy to design the building as long as you tell them what
+the government’s allowing. The government would be happy to give you your permit as long as 
+you have a construction company lined up. And the construction company would be happy to 
+sign on with you as long as you have the money from the bank in your pocket. Or some kind
+of complicated multi-step catch-22 like that. The solution – or at least Trump’s solution – 
+is to tell everybody that all the other players have agreed and the deal is completely done 
+except for their signature. The trick is to lie to the right people in the right order, so 
+that by the time somebody checks to see whether they’ve been conned, you actually do have 
+the signatures you told them that you had. The whole thing sounds very stressful.
+
+The developer’s other job is dealing with regulations. The way Trump tells it, there are so 
+many regulations on development in New York City in particular and America in general that
+erecting anything larger than a folding chair requires the full resources of a multibillion
+dollar company and half the law firms in Manhattan. Once the government grants approval it’s 
+likely to add on new conditions when you’re halfway done building the skyscraper, insist on
+bizarre provisions that gain it nothing but completely ruin your chance of making a profit,
+or just stonewall you for the heck of it if you didn’t donate to the right people’s campaigns
+last year. Reading about the system makes me both grateful and astonished that any structures 
+have ever been erected in the United States at all, and somewhat worried that if anything
+ever happens to Donald Trump and a few of his close friends, the country will lose the 
+ability to legally construct artificial shelter and we will all have to go back to living in 
+caves.
+```
+
+The first part reminds me of this oft-forwarded joke (via Sharon Xu):
+
+```markdown
+I told my son, “You will marry the girl I choose.”
+He said, “NO!”
+I told him, “She is Bill Gates’ daughter.”
+He said, “OK.”
+I called Bill Gates and said, “I want your daughter to marry my son.”
+Bill Gates said, “NO.”
+I told Bill Gates, My son is the CEO of World Bank.”
+Bill Gates said, “OK.”
+I called the President of World Bank and asked him to make my son the CEO.
+He said, “NO.”
+I told him, “My son is Bill Gates’ son-in-law.”
+He said, “OK.”
+This is exactly how politics works...
+```
+
+The ice-rink success story:
+
+```markdown
+Trump’s greatest pride is his ability to construct things on time and under budget. He 
+gives the story of an ice rink that New York City was trying to renovate in Central Park.
+After six years and $13 million, the city had completely failed to renovate it and just 
+made things worse. Trump offered as a charitable gesture to do it himself, and the mayor,
+who was a political enemy, refused. The press hounded the mayor, Trump eventually was 
+allowed to try, and he finished it in four months for only $2.5 million. He boasted that 
+he finished fixing the rink in less time than it took the city to complete their study on
+why their rink-fixing project had failed.
+```
+
+Analogizing DJT to sportsplayers where you can't (aren't interested in?) changing the rules, you just do your best within them:
+
+```markdown
+He had a couple more stories like this – but throughout all of it, there was a feeling of 
+something missing. Here is a guy whose job is cutting through bureaucracy, and who is 
+apparently quite good at it. Yet throughout the book – and for that matter, throughout his
+campaign for the nomination of a party that makes cutting bureaucracy a big part of their 
+platform – he doesn’t devote a lot of energy to expressing discontent with the system. 
+There is no libertarian streak to Trump – in the process of successfully navigating all of
+these terrible rules, he rarely takes a step back and wonders about a better world where 
+these rules don’t exist. Despite having way more ability to change the system than most 
+people, he seems to regard it as a given, not worth debating. I think back to his
+description of how it’s all just a big game to him. Most star basketball players are too 
+busy shooting hoops to imagine whether the game might be more interesting if a three-
+pointer was worth five points, or whatever. Trump seems to have the same attitude – the 
+rules are there; his job is to make the best deal he can within those rules.
+
+Maybe I’m imagining things, but I feel like this explains a lot about his presidential 
+campaign. People ask him something like “How would you fix Medicare?”, and he gives some
+vapid answer like “There are tremendous problems with Medicare, but I’m going to hire the
+best people. I know all of the best doctors and health care executives, and we’re going 
+to cut some amazing deals and have the best Medicare in the world.” And yeah, he did say
+in his business tips that you should change the frame to avoid being negative to reporters.
+But this isn’t a negative or a gotcha question. At some point you’d expect Trump to do his
+homework and get some kind of Medicare plan or other. Instead he just goes off on the same
+few tangents. This thing about hiring the best people, for example, seems almost like an 
+obsession in the book. But it works for him. When somebody sues him (which seems like an 
+hourly occurrence in real estate development no matter how careful you are) his response is
+to find the best lawyer, hire them, and throw them at the problem. When he needs a hotel 
+managed, he hires the best hotel managers and tells them to knock themselves out. Even his
+much-mocked tendency to talk about all the people he knows comes from this being a big part
+of his real estate strategy – one of the reasons he can outcompete other tycoons is because
+he knows people on the planning board, knows people in the banks, knows people in all the 
+companies he works with. It’s a huge advantage for him.
+
+These strategies have always worked for him before, and floating off into some intellectual
+ideal-system-design effort has never worked for him before. So when he says that he’s going
+to solve Medicare by hiring great managers and knowing all the right people, I don’t think 
+this is some vapid way of avoiding the question. I think it’s the honest output of a mind 
+that works very differently from mine. I’ve been designing ideal systems of government for 
+the heck of it ever since I was old enough to realize what a government was. Trump is at 
+serious risk of actually taking over a government, and such design still doesn’t appeal to
+him. The best he can do is say that other people are bad at governing, but he’s going to be
+good at governing, on account of his deal-making skill. I think he honestly believes this. 
+It makes perfect sense in real estate, where some people are good businesspeople, others are
+bad businesspeople, and the goal is to game the system rather than change it. But in politics,
+it’s easy to interpret as authoritarianism – “Forget about policy issues, I’m just going to
+steamroll through this whole thing by being personally strong and talented.”
+```
+
+"The world is taken as a given; it contains deals" -- DJT a la narrow-but-powerful optimization process:
+
+```markdown
+I said it before, but it bears repeating – this book has a really good ghostwriter. Yeah, it
+comes across as narcissistic; there’s probably no way to avoid that in a Trump autobiography.
+But Donald Trump’s interest in Donald Trump pales beside his blazing hot interest in the sheer
+awesomeness of hotel property deals. And part of me wants to say that people with obsessive 
+interests in bizarre things are My Kind Of People.
+
+But there’s still something alien about Trump here, even moreso than with the populist 
+demagogue of the campaign trail. Trump the demagogue is attacked as anti-intellectual. I get
+anti-intellectualism because – like all isms – it’s an intellectual idea, and I tend to think
+in those terms. But Trump of the book is more a-intellectual, in the same way some people are
+amoral or asexual. The world is taken as a given. It contains deals. Some people make the 
+deals well, and they are winners. Other people make the deals poorly, and they are losers.
+Trump does not need more than this. There will be no civilization of philosopher-Trumps asking
+where the first deal came from, or whether a deal is a deal only by virtue of its participation
+in some primordial deal beyond material existence. Trump’s world is so narrow it’s hard to fit
+your head inside it, so narrow that on contact with any wider world it seems strange and 
+attenuated, a broken record of deals and connections and hirings expanding to fill the space 
+available.
+```
