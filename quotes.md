@@ -38,7 +38,7 @@ a low-restriction exhaust system makes an engine more powerful.
 
 This is my first experiment in Gwern's vein. The quotes here have been collected over more than half a decade, albeit in different pages. I intend for them to shape my worldview; doing so like this allows, or so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping.
 
-I also really, *really* hate experiences of the [Jeremy Bentham class](#Jeremy-bentham); this document is intended to prevent them from happening again.
+I also really, *really* hate experiences of the [f class](#Jeremy-bentham); this document is intended to prevent them from happening again.
 
 Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/) (indeed his [entire oeuvre](http://bactra.org/)) are another major inspiration behind this document. 
 
@@ -1865,6 +1865,8 @@ warfare-style. But they really are.
 ### Donald Trump
 ([overview](#overview))
 
+(I don't think DJT is amazing -- precisely the opposite. I just couldn't resist including the quotes below, and the only main category I have that's remotely related to people is this one.)
+
 From Scott Alexander's [book review](https://slatestarcodex.com/2016/03/19/book-review-the-art-of-the-deal/) of DJT's *The Art of the Deal*, written in March 2016 before he became president. 
 
 This quote contrasts DJT with Robert Cialdini of *Influence*:
@@ -2135,7 +2137,8 @@ Last point before we dive in: Bentham, like Hanson, and like myself (except for 
 Here's Rikk's post in full.
 
 ```markdown
-I’d like to talk a little bit about moral philosopher Jeremy Bentham, and why he has a weird level of celebrity status among people who think like I do.
+I’d like to talk a little bit about moral philosopher Jeremy Bentham, and why he has a 
+weird level of celebrity status among people who think like I do.
 
 Jeremy Bentham lived in the late 18th and early 19th Centuries, in what we think of as the 
 mid-late Georgian era. That’s important. This is the period in which Jane Austen wrote all 
