@@ -1,8 +1,674 @@
 [Culture, community, and walled gardens](#Culture-community-and-walled-gardens)
 	1. [Anglerfish and beacons, or why some blogs have higher comment quality](#Anglerfish-and-beacons), on geek subculture dilution by Chapman-sociopaths
 [Thinking and explaining](#Thinking-and-explaining)
+[Expositions should solve problems terribly](#Solving-math-problems-terribly)
+[How a 'Math Product Manager' would teach and do math](#product-management-of-math), by Alon Amit
+[Reading the masters in math](#reading-the-masters-in-math)
+[Reading the masters in philosophy](#reading-the-masters-in-philosophy)
+
+
+(UNDER WHY I LEFT ACADEMIA)
+One big honest reason is that doing a PhD is hard, and it wasn't really the kind of thing I wanted to do. Kay Aull expounds on this articulately in [his answer](https://qr.ae/TW1uAY) to the Quora question "What are the 3 hardest things about doing a PhD?":
+
+```markdown
+**1) It's actually hard.**
+
+When you're in school, it's hard to see how much work has gone into the knowledge you're
+presented with. I don't just mean the brilliant mind that came up with whatever the raw 
+material was - a theorem, a symphony, whatever. There's an insane amount of unheralded 
+work that packages these raw inputs and breaks them into digestible chunks. What is the 
+correct notation for working with these concepts? What is the most logical way to explain 
+them to newcomers? What's important about this particular thing?
+
+If you have an aptitude for your field, you may get through undergrad thinking that it's 
+easy. Everything is self-evident. It all "makes sense". You don't realize that the well-
+paved road you're walking on is surrounded on all sides by thick jungle. Now it's your 
+turn to extend the road, and suddenly EVERYTHING is hard. Maybe you'll be the genius who 
+invents the machete. More likely you won't be, and you'll spend the next five years 
+clearing a few meters of jungle with your hands and teeth. You'll look back and think...
+that was IT?! That's all I did? The difficulty gap between understanding stuff that's 
+already been done, versus being the first person to do the stuff, spans a lot more orders 
+of magnitude than people think.
+
+**2) Success is ill-defined.**
+
+Ever hear of SMART goals? Specific, Measurable, Achievable, Relevant, Timed. Grad school is
+the polar opposite of that. You do get feedback, but it's typically worse than useless. 
+(I’m not impressed yet. Your project just lacks that special something. If you were worthy, 
+you'd already know what to do, and in fact you'd be done already.)
+
+It is very hard to maintain a consistent level of productivity in the radical absence of 
+SMART goals. No, "graduate" does not count as a goal, because there is no concrete action 
+attached. You're wandering in the fog, and you have no idea if you're heading the right 
+direction. You can go months, even years, without feeling like it mattered that you got out
+of bed that day. If there's a more effective way to induce depression in otherwise healthy 
+people, I've yet to see it.
+
+When you're in regular school, there are assignments. When you're at work, there are
+deadlines and deliverables. The rest of the world is organized this way for a reason. People
+need SMART goals.
+
+**3) Your eggs are in one basket.**
+
+As a PhD student, you are an apprentice. Your only purpose is to convince the master that you
+are worthy to join the guild. It will be his or her word that launches you to greatness. Or...
+not. Then you will have the choice between being underemployed until you die or starting from
+zero in a field that doesn't require specialized training. It's almost impossible to get 
+another PhD position if you had a falling out with your advisor. In the real world, unless you
+end up in jail or on the evening news, there are no career-ending mistakes. You can get another
+job, even if your last boss hates you. Your experience in that last job still counts for 
+something. It's not pass/fail.
+
+Likewise, you have one PhD project. You may have had a few to choose from as a beginning
+student, but now this one is yours. It's your identity. This is your chance to prove you can
+do independent research. Or...not. Your advisor's research program cannot fail, but it can be
+failed. By you. Make it work, or else. (If you disprove your advisor's pet hypothesis, which 
+is THEIR identity, who do you think they will blame? Even if you merely show infeasibility,
+this won't end well for you.)
+
+In the real world, projects fail. That's a good thing! Fail fast and pivot quickly. Most people
+have several projects going at once, so the loss of one isn't devastating. Sure, people get 
+attached to their ideas, but there's enough pressure from above that people are generally forced
+to cull the weaklings. Projects are not allowed to limp along for years (or decades!) just
+because someone's ego won't allow them to admit defeat. "Oh yeah, Aull's Magnificent Theorem. 
+There's a whole page of counterexamples on Wikipedia. I tried to tell her that, but she said it
+was fake news. Also she called me a poopyhead." That stuff is NOT tolerated in industry, thank 
+the merciful nerd gods. Let's just say that I have developed an allergy after repeated exposure.
+
+It's not healthy to stake your entire future and self-worth on the success of one project. And 
+it's much worse when the project is hard, when its ultimate failure may be due to factors
+outside your control, and when you're wandering around with no concrete markers of progress. Even
+patient, level-headed, and naturally optimistic people come out with scars.
+```
+
+Another reason is that academia rewards a very particular kind of research, and that there are outlets/avenues in industry that reward other kinds of research, including ones you wouldn't expect e.g. product design, per [Bryan Sim's answer](https://qr.ae/TW1uHs) to "What made you decide that academia is not for you?":
+
+```markdown
+For me, it was when I discovered what type of scientist I was.
+
+In my opinion, there are two types of people who get into academia: People who care about what
+they are studying, and people who care about how they study it.
+
+At some point, I realized I was being pressured to become someone I didn’t want to be. I care 
+about how we gain knowledge about the world. And over time, I found that I was happy doing research
+on trivial things for fun, but that I didn’t enjoy “building houses” or “castles”, or whatever 
+analogy was being used to denote one’s legacy of research. I especially didn’t enjoy the notion 
+that I had to “defend” my line of research from evidence to the contrary (why can’t I/we just be
+wrong?).
+
+Today, I realize that I can be a scientist anywhere, as long as my job involves learning about some
+aspect of reality the “right” way, with people I enjoy working with. This, if you think about it,
+is the core of any good product design process: You work together with a team to figure out if your
+hypothesis of what people want is true, and the results speak for themselves, whether in terms of 
+user growth or $$$ growth.
+```
+
+Another is the huge incentive/pressure to hyperspecialize, with few exceptions (mostly involving being very smart), per [Colleen Farrelly's answer](https://qr.ae/TW1uHk) to same:
+
+```markdown
+When I was working on one of my three graduate research projects, a professor with whom I was
+working congratulated me on a breakthrough and mentioned that I could make a career out of 
+studying that method and helping other researchers apply it. The thought of studying one problem
+basically to the exclusion of anything else was enough to make me literally run away. I was 
+already sick of that project and not being able to move on to something new until everything was 
+perfect and everyone liked the paper. I could never spend my whole life doing one thing. I 
+couldn't spend a year doing one thing. Data science in industry allows me to dabble in all types 
+of algorithms, advanced mathematics (like differential geometry, graph theory, algebraic
+topology...), and work on a variety of projects at once.
+
+This anecdote is but one of many reasons, and I've found a lot of academics end up pigeon-holed or
+teaching classes they don't enjoy teaching, confined by grants when something interesting comes up.
+Industry research is a lot faster and more varied, and I don't have to deal with 18-year-olds' 
+parents arguing for better grades or graduate students cheating on exams and claiming "cultural 
+differences" made them cheat...
+```
+
+<a name="#reading-the-masters-in-philosophy"></a>
+### Reading the masters in philosophy
+([overview](#overview))
+
+(See also [Reading the masters in math](#reading-the-masters-in-math), or my old post [8If Aristotle were a pro skater: or, reading the masters in math and philosophy*](https://mosstuff.quora.com/If-Aristotle-were-a-pro-skater-or-reading-the-masters-in-math-and-philosophy) to see both math and philo in one place.) 
+
+Should you read the masters? In other words, should you prefer primary sources to summaries and commentaries?
+
+On the one hand, the masters are the masters, so surely there’s *something* to reading them. On the other hand, I’m the kind of person who easily gets lost in walls of text, so when it comes to writing on difficult / ‘slippery’ topics I prefer polished, non-digressive reads. And primary texts, so they seem, are nothing but digressive.
+
+(I suppose it depends why you’re reading. If it’s for enjoyment then secondhand sources certainly won’t cut it. I’m usually looking for insight; enjoyment I relegate to fiction, or exceptionally-written exposition, or something.)
+
+This means I’m partial to Scott Alexander’s stance w.r.t reading the masters, from his post [Book Review: Singer on Marx](http://slatestarcodex.com/2014/09/13/book-review-singer-on-marx/):
+
+```markdown
+I’m not embarrassed for choosing Singer’s Marx: A Very Short Introduction as a jumping-off
+point for learning more leftist philosophy. I weighed the costs and benefits of reading
+primary sources versus summaries and commentaries, and decided in favor of the latter.
+
+The clincher was that the rare times I felt like I really understand certain thinkers and 
+philosophies on a deep level, it’s rarely been the primary sources that did it for me, 
+even when I’d read them. It’s only after hearing a bunch of different people attack the 
+same idea from different angles that I’ve gotten the gist of it. The primary sources – 
+especially when they’re translated, especially when they’re from the olden days before 
+people discovered how to be interesting – just turn me off. Singer is a known person who
+can think and write clearly, and his book was just about the shortest I could find, so I 
+jumped on it…
+```
+
+It doesn’t help that Andrew L’s comment in [this MO thread](https://mathoverflow.net/questions/28268/do-you-read-the-masters) is essentially what I think of the masters (to wit, that they’re notoriously hard to read):
+
+```markdown
+There's a myth surrounding Abel's dictum that stems from the unreadability of the masters
+like Gauss as a measure of their nearly inhuman brilliance. This is a fallacy.
+
+The reason the masters are so difficult to read is because we are catching them with their
+pants down in the act of creation: they are groping towards the right notation and 
+terminology, but aren't quite there yet.
+```
+
+Notation ("polish", as derisively referred to sometimes) is a UI design problem. UI design problems in research can be very nontrivial and extremely impactful from the standpoint of [interpretive labor](#distillation-and-research-debt). 
+
+In Katja Grace's essay [Why read old philosophy?](https://meteuphoric.com/2017/01/04/why-read-old-philosophy/amp/), which is the main inspiration for this section, she begins by contrasting philosophy with physics, and pretty much every other book subject:
+
+```markdown
+We read old physicists if we want to do original research on the history of physics. Or 
+maybe if we are studying an aspect of physics so obscure that nobody has covered it in
+hundreds of years. If we want to learn physics we read a physics textbook. As far as I 
+know, the story is similar in math, chemistry, engineering, economics, and business 
+(though maybe some other subjects that I know less about are more like philosophy).
+
+Yet go to philosophy grad school, and you will read original papers and books by 
+historical philosophers. Research projects explore in great detail what it is that
+Aristotle actually said, thought, and meant. Scholars will learn the languages that the
+relevant texts were written in, because none of the translations can do the texts the 
+necessary justice. The courses and books will be named after people like ‘Hume’ as often 
+as they are named after topics of inquiry like ‘Causality’ and larger subject areas will
+be organized by the spatiotemporal location of the philosopher, rather than by the subject
+matter: Ancient Philosophy, Early Modern Philosophy, Chinese Philosophy, Continental 
+Philosophy.
+```
+
+This should be confusing. It definitely confuses me. To elaborate on how it would look like in physics:
+
+```markdown
+The physics situation makes a lot more sense to me. Hypothetically, who would I rather 
+read an explanation of ‘The Alice Effect’ by? —Alice, the effect’s seventeenth century
+discoverer, or Bob, a modern day physics professor authoring a textbook?
+
+Some salient considerations, neutrality not guaranteed:
+
+- Alice’s understanding of the Alice effect is probably the most confused understanding 
+of it in all of history, being the first ‘understanding of the Alice effect’ to set 
+itself apart from ‘confusion and ignorance about the Alice effect’.
+
+- In the billions of lifetimes that have passed since Alice’s time, the world has 
+probably thought substantially more about The Alice Effect than Alice managed to in 
+her lifetime, at least if it is important at all.
+
+- Alice’s very first account of the effect probably contained imperfections. Bob can 
+write about the theory as it stood after years of adjustment.
+
+- Even if Alice’s account was perfectly correct, it was probably not perfectly well
+explained, unless she happens to have been a great explainer as well as a great 
+physicist.
+
+- Physics has made many discoveries since Alice’s time, such as Claire forces, Evan motion
+and Roger fields. It might be easier to understand all of this by starting with the Roger 
+fields, and explaining the Alice effect as a consequence. However literature from the 
+likes of Alice is constrained to cover topics chronologically by date of discovery.
+
+- Bob speaks a similar version of English to me.
+
+- Bob can be selected for having particular skill at writing and explanation, whereas Alice
+must be selected for having the scientific prowess to make the discovery.
+
+- Bob is actually trying to explain the thing to a 21st Century reader, while Alice is
+writing to pique the interest of some seventeenth century noblemen who lack modern 
+intellectual machinery and are interested in issues like whether this is compatible with
+religion. An accurate impression of a 21st Century reader would probably cause Alice to 
+fall over.
+
+I think Bob is a solid choice.
+```
+
+So why is philosophy different?
+
+```markdown
+Some pieces of explanations I heard, or made up while hearing other explanations:
+
+- You have to be smarter than the original philosopher to summarize their work well, so
+there are few good summaries
+
+- The translations are all terrible for conveying the important parts
+
+- Philosophy is not trying to communicate normal content that can be in explicit 
+statements, of the kind you might be able to explain well and check the understanding of
+and such.
+
+- Philosophy is about having certain experiences which pertain to the relevant philosophy,
+much like reading a poem is different to reading a summary of its content.
+```
+
+None of this convinces Katja. She eventually settles on the "Aristotle as pro skater" analogy:
+
+```markdown
+Here’s my explanation. Reading Aristotle describe his thoughts about the world is like 
+watching Aristotle ride a skateboard if Aristotle were a pro skater. You are not getting
+value from learning about the streets he is gliding over (or the natural world that he is
+describing) and you should not be memorizing the set of jumps he chooses (or his 
+particular conceptualizations of the world). You are meant to be learning about how to
+carry out the activity that he is carrying out: how to be Aristotle. How to do what
+Aristotle would do, even in a new environment.
+
+An old work of philosophy does not describe the thing you are meant to be learning about. 
+It was created by the thing you are meant to be learning about, much like watching a video
+from skater-Aristotle’s GoPro. And the value proposition is that with this high resolution
+Aristotle’s-eye-view, you can infer the motions.
+
+There is not a short description  of the insights you should learn (or at least not one
+available), because the insights you are hopefully learning are not the insights that
+Aristotle is trying to share. Aristotle might have highly summarizable insights, but what 
+you want to know is how to be Aristotle, and nobody has necessarily developed an abstract 
+model of how to be Aristotle from which summary statements can be extracted.
+
+So it is not that the useful content being transmitted is of a special kind that is immune
+to being communicated as statements. It is just not actually known in statements. Nobody 
+knows which aspects of being Aristotle are important, and nobody has successfully made a
+simplified summary. What we ‘know’ is this one very detailed example. Much like if I showed
+you a bee because I thought I couldn’t communicate it in words—it would not be because bees
+are mysteriously indescribable, it would be that I haven’t developed the understanding 
+required to describe what is important about it, so I’m just showing you the whole bee.
+
+On this theory, if someone doesn’t realize what is going on, and tries to summarize
+Aristotle’s writings in the way that you would usually summarize the content of a passage,
+you entirely lose what was valuable about it. Much as you would if you summarized a video 
+of a skater in motion into a description of the environment that they had interacted with.
+I hypothesize that this is roughly what happens, and is why it feels like summaries can’t 
+capture what is important, and probably why translations seem bad always. Whenever a person
+tries to do a translation, they faithfully communicate the content of the thoughts at the
+expense of faithfully communicating the thinking procedure.
+```
+
+This sounds like alkjash's [becoming the grand meta-theorem](#two-cultures):
+
+```markdown
+My take on the "Two Cultures" model of problem-solvers and theory-builders: theory-building
+fields of mathematics like algebraic topology (say) are those where the goal is to articulate 
+grand meta-theorems that are bigger than any particular application. This was the work of a
+Grothendieck.
+
+Meanwhile, concrete problem-solving fields of mathematics like combinatorics are those where
+the goal is to *become* the grand meta-theorem that contains more understanding than any 
+particular theorem you can prove. This was the style of an Erdos. The inarticulate grand meta-
+theorems lived in his cognitive strategies so that the theorems he actually proved are 
+individually only faint impressions thereof.
+```
+
+There may be something about analytic philosophy being the part of philosophy that's more legible, and the less-legible parts of philosophy would then be the ones where you derive more value from reading primary sources -- but that's just a guess. That would be the intra-subject version of the inter-subject situation Katja actually does talk about towards the end:
+
+```markdown
+Why would you want to be like Socrates, and not like Newton? Especially since Newton had more 
+to show for his thoughts than an account of what his thoughts were like. I suspect the 
+difference is that because physicists invent explicit machinery that can be easily taught,
+when you learn physics you spend your time mastering these tools. And perhaps in the process,
+you come to think in a way that fits well with these tools. Whereas in philosophy there is
+much less in the way of explicit methods to learn, so the most natural thing to learn is how
+to do whatever mental processes produce good philosophy. And since there is not a consensus on
+what they are like in the abstract, emulating existing good philosophers is a plausible way to
+proceed.
+
+I was in the CMU philosophy department, which focuses on more formal methods that others might
+not class as philosophy—logic, algorithms for determining causality, game theory—and indeed in
+logic class we learned a lot of logical lemmas and did a lot of proofs and did not learn much 
+about Frege or Gödel, though we did learn a bit about their history and thought at other point
+in the program.
+
+(This story would suggest that in physics students are maybe missing out on learning the styles
+of thought that produce progress in physics. My guess is that instead they learn them in grad 
+school when they are doing research themselves, by emulating their supervisors, and that the 
+helpfulness of this might partially explain why Nobel prizewinner advisors beget Nobel
+prizewinner students.)
+```
+
+Katja gives the following example of a translation that "faithfully communicates the content of the thoughts at the expense of faithfully communicating the thinking procedure":
+
+```markdown
+For instance, suppose I have a sentence like this:
+
+	We have enough pieces of evidence to say that 
+	friendly banter is for counter-signaling.
+
+If not quite the same words were available in a different language, it might get translated to:
+
+	We have seen enough evidence to know that 
+	friendly banter is for counter-signaling.
+
+Which tells us something very similar about whether friendly banter is for counter-signaling.
+
+But something subtle is lost about the process: in the initial statement, the author is 
+suggesting that they are relying on the accretion of many separate pieces of evidence that
+may not have been independently compelling, whereas in the latter that is not clear. Over a
+long text, sentences like the former might give the reader an implicit understanding of how
+disparate and independently uncompelling evidence might be combined in the intuition of the 
+author, without the issue ever being explicitly discussed. In the latter, this implication is
+entirely lost.
+
+So I think this explains the sense that adequate summarization is impossible and translation
+is extremely difficult. At least, if we assume that people either don’t know what is really 
+going on.
+```
+
+
+(UNDER MATH - ADVICE)
+<a name="#reading-the-masters-in-math"></a>
+### Reading the masters in math
+([overview](#overview))
+
+(See also [Reading the masters in philosophy](#reading-the-masters-in-philosophy), or my old post [8If Aristotle were a pro skater: or, reading the masters in math and philosophy*](https://mosstuff.quora.com/If-Aristotle-were-a-pro-skater-or-reading-the-masters-in-math-and-philosophy) to see both math and philo in one place.) 
+
+Should you read the masters? In other words, should you prefer primary sources to summaries and commentaries?
+
+On the one hand, the masters are the masters, so surely there’s something to reading them. On the other hand, I’m the kind of person who easily gets lost in walls of text, so when it comes to writing on difficult / ‘slippery’ topics I prefer polished, non-digressive reads. And primary texts, so they seem, are nothing but digressive.
+
+(I suppose it depends why you’re reading. If it’s for enjoyment then secondhand sources certainly won’t cut it. I’m usually looking for insight; enjoyment I relegate to fiction, or exceptionally-written exposition, or something.)
+
+It doesn’t help that Andrew L’s comment in [this MO thread](https://mathoverflow.net/questions/28268/do-you-read-the-masters) is essentially what I think of the masters (to wit, that they’re notoriously hard to read):
+
+```markdown
+There's a myth surrounding Abel's dictum that stems from the unreadability of the masters
+like Gauss as a measure of their nearly inhuman brilliance. This is a fallacy.
+
+The reason the masters are so difficult to read is because we are catching them with their
+pants down in the act of creation: they are groping towards the right notation and
+terminology, but aren't quite there yet.
+
+For example, it's pretty clear Riemann in his doctoral lecture was trying to explain the 
+need for higher dimensional spaces that went beyond familiar three dimensional space 
+("multiply extended quantities") which preserved all the familiar properties of the usual
+Euclidean spaces, i.e. Kleinian transformations and calculus in local neighborhoods. The
+problem was without either linear algebra or the fundamentals of topology, it was next to 
+impossible to express this idea clearly and precisely. He just ends up babbling on about
+what's needed. But all the same, Riemann recognized what was needed, even if how to
+express it correctly was beyond his ability.
+```
+
+There must be *something* to reading the masters, or at least primary sources. What could it be?
+
+Often you can judge how ‘mature’ a field is by seeing how much shorter proofs of old results become when appropriate machinery gets developed and subsumes them as special cases within the larger theoretical framework. (Think Grothendieck, but less extreme.) This is usually good. But then there are cases to the contrary, like Fedja’s experience, recounted in the MO thread [Papers better than books?](https://mathoverflow.net/questions/140954/papers-better-than-books?lq=1&noredirect=1):
+
+```markdown
+Very recently I and Misha Sodin had a strong incentive to learn the Ito-Nisio lemma… The 
+textbooks we could find fell into 2 categories: those that didn't present the proof at 
+all and those presenting it on page 2xx as a combination of theorems 3.x.x, 4.x.x, 5.x.x,
+etc.
+
+The original paper is less than 10 pages long, essentially self-contained, and very easy
+to read and understand.
+
+The moral is the same as Boris put forth: the books are there to optimize the time you 
+need to spend to learn the whole theory. However, for every particular implication A->B 
+the approach they usually take is something like E->F->G, G->F, (F and Q)->B; since A->E,
+then A->G; once we know G, we have F, so it suffices to prove that A->Q to show that A->B;
+we show that Q,R,S,T,U are equivalent, with the trivial implication S->Q left to the 
+reader as an exercise; finally, we prove that A->S.
+
+So if all you need is A->B, you may be much better off reading the paper whose only purpose
+is to prove exactly that.
+```
+
+Andrew L again, same thread as the first:
+
+```markdown
+One of my favorite books is Hassler Whitney's Geometric Integration Theory. I have friends 
+in differential geometry who tell me it's a dinosaur, that his proof of the de Rham theorem 
+is incredibly coarse and tedious. Yes, it is — but it has the advantage of being a DIRECT
+proof from the construction of simplexes on the boundary of an embedded manifold. I love the
+book because although Whitney's ideas were old fashioned, they were incredibly powerful IDEAS
+that allow us to tackle the subject concretely and with an amazing amount of insight. THAT'S
+what we get from reading the masters — their insight and depth of understanding that allows 
+us to see beyond the machinery into why things are defined as they are.
+```
+
+Igor Pak makes a cameo:
+
+```markdown
+There is more than one reason to read "masters". One such reason is field-specific and can be 
+phrased as "read the latest work right before a scientific revolution" (standard example is 
+the large body of work by Cayley, Sylvester, Gordan, etc., in the pre-Hilbert classical 
+invariant theory). Often such results are more powerful in very specific cases of interest.
+
+Another practical reason to read "masters" is to avoid embarrassment. Lots of (mostly minor) 
+results are not mentioned in later treatises, so a number of people rediscover these results 
+because they are either too lazy to read, or simply assume that "masters" couldn't have possibly
+be so smart to figure out these results back then... When going through the references in
+writing this survey, I read all 80 pages of J.J. Sylvester, A constructive theory of partitions,
+arranged in three acts, an interact and an exodion, Amer. J. Math. 5 (1882), 251–330. As a 
+result, I discovered that a number of recent results were already proved there, sometimes by 
+leaders in the field (let me not name them here - see the survey).
+```
+
+And then there is Roy Smith’s rich, long answer from the same thread; I’ll only quote a few scattered paragraphs:
+
+```markdown
+These are elementary examples hence from a fairly naive and uneducated person, myself, who 
+has not at all plumbed the depth of many original papers. But these few forays have definitely 
+convinced me there is a benefit that cannot be gained elsewhere, as these exposures can
+transform the understanding of ordinary mortals closer to that of more knowledgeable persons, 
+at least in a narrow vein. So while it might be thought that only the strongest mathematicians
+can attempt these papers, my advice would be that reading such masters may be even more helpful
+to us average students.
+
+Once as grad student in Auslander's algebraic geometry class, I vowed to try out Abel's advice
+and read the master Zariski's paper on the concept of a simple point. I was very discouraged 
+when several hours passed and I had managed only a few pages. Upon returning to class, Auslander
+began to pepper us with questions about regular local rings. I found out how much I had learned
+when I answered them all easily until he literally told me to be quiet, since I obviously knew 
+the subject cold. (To be honest, I did not know the very next question he posed, but I was off 
+the hook.) …
+
+The sense of wonder and awe one gets upon reading people like Riemann or Euler, is also quite
+wonderful. Any student who has struggled to compute the sum of the even powers of the reciprocals
+of natural numbers 1/n^2k, will be amazed at Euler's facile accomplishment of this for many
+values of k. Calculus students estimating π by the usual series to 3 or 4 places will also be 
+impressed at his scores of correct digits. …
+
+A remark on the definition of master, versus creator. There are cases where a later master 
+reexamines an earlier work and adds to it, and in these cases it seems valuable to read both 
+versions. In addition to examples given above of Newton generalizing Euclid and Mumford using
+Hilbert, perhaps Mumford's demonstration of the power of Grothendieck's Riemann Roch theorem in 
+calculating inavriants of moduli space of curves is relevant.
+```
+
+I’ve been conflating ‘masters’ and ‘primary sources’. Usually they’re the same, because the really enduring texts are written by the masters, but sometimes the masters write expository texts too, and it’s still marginally beneficial to read them, per Ilya Grigoriev’s comment in the MO thread [Why do so many textbooks have so much technical detail and so little enlightenment?](https://mathoverflow.net/questions/13089/why-do-so-many-textbooks-have-so-much-technical-detail-and-so-little-enlightenme?rq=1):
+
+```markdown
+Providing real enlightenment well is very, very hard, and requires a very intimate relationship with a subject.
+
+Even for well-established subjects, like undergraduate mathematics, where there are a million
+mathematicians who know the subject very well, I find that all the really good books are written
+by the true titans of the field -- like Milnor, Serre, Kolmogorov, etc. They understand the 
+underlying structure and logical order of the subject so well that it can be presented in a way
+that it basically motivates itself -- basically, they can explain math the way they discovered 
+it, and it's beautiful. Every next theorem you read is obviously important, and if it isn't then
+the proof motivates it. …It's interesting how all the best books I know don't have explicit 
+paragraphs providing the motivation - they don't need them.
+```
+
+<a name="#Solving-math-problems-terribly"></a>
+### Solving math problems terribly
+([overview](#overview))
+
+From Alon Amit's wonderful essay [Solving math problems terribly](https://qr.ae/TUnpLe):
+
+```markdown
+When you solve a math problem, especially a hard one, there’s a profound sense of
+accomplishment accompanied by a need to share your masterpiece with the world. In doing 
+so, most people’s instinct is to present the solution in its most pristine, elegant,
+nicely worked-out form. This works well to impress, but not so well to teach.
+
+After all, your path to discovery almost certainly didn’t land on that clean, elegant 
+solution right away. You stumbled, fumbled and groped in the dark for a while, you tried
+various things that failed, you hit on the right path only thanks to some instinct or 
+intuition or methodology that makes sense to you but is hard to describe, and so on. All
+of that stuff is, lamentably, missing from the vast majority of research papers, “solutions
+to exercises” appendices, and even most worked-out solutions on places like AoPS, where 
+ostensibly the goal is to help people become better problem solvers.
+
+On several occasions on Quora, I resisted the urge to present a short, glamorous solution
+to a problem, and instead revealed in painful detail the false turns, stupid blunders and 
+failed attempts I went through as I was solving it...
+
+I like that. I think it’s helpful, I think it’s not done often enough, and I think
+presenting the most elegant solution can be downright harmful. It makes readers feel it’s
+magic, and they would have had no chance of discovering it themselves. It can be 
+intimidating and makes math look like voodoo. It’s not. Many things that look like strokes 
+of genius are actually the result of very methodical and organized efforts.
+
+So, in the future, I intend to keep doing that as much as I can. And when I do, I don’t 
+want to spend the first few paragraphs of every such answer explaining my rationale. ...
+
+Please keep in mind:
+
+1. This approach will make many of my answers *long*. Don’t be intimidated by that. I could
+have made them 90% shorter and 100% more mysterious. If you’re genuinely interested in 
+learning how to solve math problems, I hope that my revealing the meandering path is more
+helpful even if it makes for longer answers.
+
+2. My experience and my failures are still my own, and yours may differ. I hope you learn 
+something from my experience, but I can’t guarantee that it works in all cases.
+
+3. It’s impossible to reduce a problem solving journey to absolute first principles. Every 
+problem we successfully solve relies on some amount of prior knowledge, experience and 
+preparation. I’ll try to highlight those explicitly whenever I can, but please be aware that
+you do need to be prepared. If I solve a problem using complex analysis and you happen to 
+not know anything about complex analysis, it’s unlikely that you’ll learn a whole lot from 
+reading my answer.
+```
+
 	
 (UNDER MATH - OPINIONS)
+<a name="#product-management-of-math"></a>
+### Product management of math
+([overview](#overview))
+
+I've never seen this perspective articulated before or since, which makes it all the more valuable. This is from Alon Amit's [The Product Management of Mathematics](https://affinemess.quora.com/The-Product-Management-of-Mathematics). 
+
+Exposition:
+
+```markdown
+Ask someone “what is a real number?”, and you will likely get something involving Cauchy
+sequences, or Dedekind cuts, or decimal expansions.
+
+Ask them “what is a complex number?”, and you may be informed about pairs of real numbers
+with an i thrown in.
+
+Ask them “what’s the difference between Riemann and Lebesgue integration?”, and in all 
+likelihood you’ll get a dollop of Riemann sums, vertical vs horizontal partitioning, and
+some measure theory.
+
+All of these answers are correct. All of them, and many like them, are wrong. Not *wrong* as
+in *incorrect*, but wrong as in this is *not the right answer*. It’s likely unhelpful, or at 
+least not the most helpful it could be.
+
+Why?
+
+Ask someone “what is the difference between Facebook and Twitter?” Imagine they start telling
+you about Scala, PHP, Thrift, Hadoop, Memcached and the like. If they know what they’re
+talking about, they may provide you with a very accurate picture of the differences between
+the tech stacks and software architectures of the two services. Their answer may be fully 
+correct.
+
+But this isn’t what you wanted to know, is it? The answer is correct, but useless.
+
+What you want to know is what is the difference between the *products*. What people who *use* 
+them experience differently. You want to know about friending vs following, sharing vs
+broadcasting, personal social circles vs celebrity fan bases, and so on. You don’t care about
+specific features, and you certainly don’t care about the underlying technology. You care 
+about the experience, what it feels like, what you can do and how you are likely to use them.
+
+You see, the math examples I gave are like answering the FB/Twitter question with the tech 
+stack. It’s telling you about the inner workings, the construction, the engineering of those 
+mathematical concepts instead of telling you what they *do*, which is what a Math Product Manager
+would tell you.
+
+A Math Product Manager would explain the difference between Riemann and Lebesgue integration
+without ever mentioning Riemann sums and partitioning the range instead of partitioning the 
+domain. Those things belong to the Math Engineers. The Riemann Integral and Lebesgue Integral 
+are *products*. They have some commonalities (like Facebook and Twitter) and certain profound, 
+crucial differences, and it is those differences you should care about, and those are 
+differences in what they *do*, not how they are *built*.
+
+Both integrals are machines, black boxes, devices that crunch functions and produce numbers. 
+They are both linear, monotonic and have other nice features. The Lebesgue integral, however,
+can handle many functions which make the Riemann integral crash. The Lebesgue integral, in fact,
+has a much better-written spec: it’s possible, with reasonable effort, to describe just what it
+can and cannot do. The Riemann integral is a classical “engineering-driven” product: it was 
+built, rather than defined. It works great when it works, but describing exactly what it’s *good*
+for is next to impossible.
+
+This is the difference between engineering-oriented and product-oriented *exposition* of mathematical
+ideas. It’s a difference in how we choose to teach, to explain, to clarify. 
+```
+
+Research:
+
+```markdown
+But the difference between Math PMs and Math Engineers goes well beyond math education. It exists 
+right at the very endeavor of doing mathematics.
+
+Product Managers *define* products. Engineers *build* them. Math research can sometimes be seen in 
+an analogous way.
+
+When faced with a challenge, many mathematicians start building scaffolding and structures with 
+ingredients they have, piecing them together and hoping to achieve what they set to achieve. But
+other times, they try to step back and define what it is they hope to build.
+
+This can take the form of a *program*: a plan for a mathematical reality we don’t yet understand. We
+don’t even know if it’s possible, but the far-sighted among us can envision. Robert Langlands,
+famously, created such a program.
+
+Other times, this literally takes the form of a “product spec”. Following the success of proving 
+the Weil Conjectures for curves over finite fields, André Weil created an ambitious program for
+expanding them into a profound, far-reaching edifice, but he also suggested how this could be done:
+by creating a cohomology theory for contexts where there was no apparent way to have one. Weil 
+wrote a spec for this cohomology theory, but he didn’t know how to build it. It took decades to 
+build, but this is just how étale cohomology came to be: it was an engineering response to a 
+product spec. Grothendieck, Deligne and others knew what requirements they needed to satisfy. They
+set out to satisfy them. Grothendieck himself created far, far-reaching definitions for mathematical
+universes we are still trying to put together.
+
+At a much smaller scale, math research and even math problem solving are sometimes like that. A 
+mathematician may say to themselves, if only I had a non-abelian analogue of this… this is a rough
+spec. A problem solver may think, wow, if only I could have an energy function with *these* 
+properties… hmmm… It’s a top-down instead of a bottom-up approach: instead of using the given data,
+you are portraying what you need, the end result, and then you try to build it, sometimes literally
+working backwards from the specification.
+
+To be clear, this isn’t a competition or a war between camps. Product Managers and Engineers work 
+together, not against each other. Successful companies and products emerge when they work together
+well. There are usually more engineers than PMs, and it’s the same in math. In software development,
+it is more common to have the discipline to define what you’re after before you start building it. 
+Many mathematicians work without a product spec, and that’s fine and reasonable because often they 
+don’t know what they will find. It’s research, not product development.
+
+But there are at least two contexts in which the PM perspective is important: when mathematical 
+leaders like Langlands, Grothendieck and Weil define a vision for what’s needed; and when we *teach*. 
+Because when we teach it’s crucial to explain not just *how* something is built but also *why*. Why 
+did we introduce quaternions? Why did we introduce cohomology theory? Why did we introduce measures,
+matroids or matrices? What can you *do* with those things? How do you *use* them?
+
+That’s true even if, historically, some of those things were stumbled upon rather than designed, 
+constructed haphazardly rather than under the watchful eye of a product designer. The number e was
+originally defined as the limit of certain compound interest calculations; this is almost irrelevant
+nowadays. That’s not why it’s so important. When we teach it today, we can clarify its utility and
+importance as a *product*.
+
+I’ve often quoted Tim Gowers’ tenet that mathematical objects *are* what they *do*. I think this is 
+a facet of the same idea: thinking in product terms, rather than engineering terms, can often be 
+helpful in understanding math, in teaching math, and in guiding mathematical research. You don’t 
+have to be math PM, but it’s good to know that they exist. And I take comfort in knowing that 
+sometimes I play a PM role when I teach math, in rough analogy to my own day job.
+
+It’s a good feeling.
+```
+
 <a name="#Thinking-and-explaining"></a>
 ### Thinking and explaining
 ([overview](#overview))
@@ -49,6 +715,19 @@ When listening to a lecture, I can't possibly attend to every word: so many word
 out my thoughts. My attention repeatedly dives inward to my own thoughts and my own mental
 models, asking 'what are they really saying?' or 'where is this going?'. I try to shortcut
 through my own understanding, then emerge to see if I'm still with the lecture.
+```
+
+And here's another, also by Bill:
+
+```markdown
+I've learned that when I go back to look at something, my thinking has usually rounded off
+too many corners, so my understanding is much fuzzier. I sometimes find things I have 
+written to be very obtuse. I was too wrapped up in my then state of mind to express ideas 
+clearly even to myself, reading it much later.
+
+What's important is not the process by which you arrived at an idea, but a story that gives
+the idea context and meaning. It's a story you make: a setting of meaning and reason for the 
+idea, rather than the history of how you stumbled on the idea.
 ```
 
 Terry Tao is -- well, he's as close as you'll get to a universal problem-solver this generation:
@@ -147,58 +826,72 @@ the generic point is now outside the subvariety; similarly one can "reset" an un
 number to be larger than any given standard number, etc.).
 ```
 
-Cam MacLeman:
+Tim Gowers notes that this also happens "at the very bottom" in simple arithmetic:
 
 ```markdown
+This phenomenon occurs not just in advanced mathematics but also right at the very bottom in 
+simple mental arithmetic. If I have to do a moderately complicated calculation such as adding 
+two three-digit numbers, there's often a part of my brain that jumps ahead to the answer before
+another more cautious part has got there with carefully checked calculations. The first part 
+just sort of feels the answer and then says "I told you so" to the second part, except 
+occasionally when the first part gets it wrong and the second part says "Now you know why I
+bother to be careful" to the first part.
 
+And there are also aspects of how I carry out integer addition and subtraction that I would 
+normally be a bit embarrassed to verbalize, such as that if I subtract 48 from 135 then there's 
+a preliminary answer, 97, that I know from experience is wrong and has to be corrected by
+subtracting 10. (The justification for the preliminary answer is that 13-4=9 and that the answer
+must end in a 7.) It's not quite what's going on in my head, but it's almost as though I say, 
+"OK I'll subtract 58 instead so as to get the right answer." But if I were teaching this to a 
+child then I'd tell a slightly different story, such as borrowing 1, or first subtracting 50 and 
+then adding 2.
 ```
 
-Cam MacLeman:
+Bill agrees:
 
 ```markdown
-
+I agree, beginning math is a very rich and intriguing area. I've discussed arithmetic questions
+with many young children, and they are often very creative in strategies to think their way to
+an answer. It really requires being on your toes to discern their thought processes, because the
+words do not match adult expectations; they often take phrases with logical meanings that I've
+suppressed because of convention. To teach math to kids, I think it's paramount to encourage 
+them to think, rather than teach conventional "borrowing 1" type stories. Early math teaching 
+usually *suppresses* thinking.
 ```
 
-Cam MacLeman:
+I also like Deane Yang's response to Gowers above:
 
 ```markdown
-
+Actually, I like explaining ways of solving problems that involve making mistakes, intentional 
+or not, and then figuring out how to correct them. I like this better than trying to teach
+error-free algorithms, because it incorporates the error-checking as a natural part of the process.
+I believe we should be teaching more systematic methods for finding and correcting errors. 
+Students should learn when guessing, checking, and correcting is faster and easier than a more 
+direct algorithm. Integrals that require more than one integration by parts is an obvious example
+of this.
 ```
 
-Cam MacLeman:
+Alon Amit takes what Deane says above and makes it the guiding ethos of his expository math writing on Quora (see [Solving math problems terribly](#Solving-math-problems-terribly)).
+
+And then there's Vivek Shende's "subconscious mastication", which is analogous to Ramanujan, just slower:
 
 ```markdown
+I have a worse problem than having unspoken thought processes: some of my best thought processes
+are simply beneath the level of consciousness and I don't notice them at all until they're finished.
+Even then, I often get only an answer and not an explanation out of them. Surely this happens to 
+everyone: the problem solved during sleep, the idea on a walk in the woods, the conviction that a 
+conjecture is true on utterly minimal evidence, the argument that pops up full formed in the middle
+of a conversation.
 
-```
+My mathematical process is roughly this: consciously, I try a lot of stupid things which essentially
+have no chance of working but do have the benefit of exposing me to lots of examples; these examples
+pile up and are subconsciously masticated for days, weeks, months -- I'm not old enough 
+mathematically to put "years" here yet -- and eventually by some inner and unobservable process I 
+just have a feeling about what to do.
 
-Cam MacLeman:
-
-```markdown
-
-```
-
-Cam MacLeman:
-
-```markdown
-
-```
-
-Cam MacLeman:
-
-```markdown
-
-```
-
-Cam MacLeman:
-
-```markdown
-
-```
-
-Cam MacLeman:
-
-```markdown
-
+Perhaps that's an exaggeration. But I certainly do feel that way sometimes, and to the extent that 
+it's true, it means that the whole project of trying to communicate how I thought of something is 
+just telling stories, at least if I say anything other than "well, I just knew one day."
 ```
 
 Cam MacLeman:
