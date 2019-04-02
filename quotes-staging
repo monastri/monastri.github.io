@@ -1,4 +1,204 @@
+[Culture, community, and walled gardens](#Culture-community-and-walled-gardens)
+	1. [Anglerfish and beacons, or why some blogs have higher comment quality](#Anglerfish-and-beacons), on geek subculture dilution by Chapman-sociopaths
 
-<a name="#Robin-Hanson"></a>
-### Robin Hanson
+<a name="#Culture-community-and-walled-gardens"></a>
+## Culture, community, and walled gardens
 ([overview](#overview))
+
+<a name="#Anglerfish-and-beacons"></a>
+### Anglerfish and beacons
+([overview](#overview))
+
+Ben Hoffman talks about avoiding anglerfish, or Chapman's sociopaths, in a great essay I often come back to called [On the construction of beacons](http://benjaminrosshoffman.com/construction-beacons/). I tried not to just copy-paste everything, but Ben doesn't waste words, he's a precision writer, so it's hard to leave things out because "everything is in its place" so to speak.
+
+First of all, why "anglerfish"?
+
+```markdown
+The anglerfish lives in waters too far beneath the surface of the sea for sunlight to reach.
+It dangles a luminescent lure in front of itself. This resembles a fishing angle, whence 
+comes its name. This lure attracts animals of the deep sea, which approach the anglerfish, 
+and are consequently eaten by it.
+
+Why - in the deep sea where no sunlight can reach - would evolution favor animals that are
+attracted to light?
+
+The secondary uses of such a strategy are clear enough. Once some deep-sea-dwellers emit
+light, larger animals that predate on them might do better if attracted to light sources. 
+But that presupposes the existence of other animals that already emit light, for other
+reasons.
+
+What are the primary uses of light? In a region where no other creatures emit light, here 
+are some reasons why would might begin to do so:
+
+1. To illuminate potential prey.
+2. As a ward, to warn potential competitors that one is prepared to defend territory.
+3. To attract complementary animals, either as symbiotes, or as mates.
+
+In all these cases, the purpose of the light is to *reveal information*. In all but the
+first case, it is to *share information with others, in order to enable cooperation*. 
+Perhaps the purest version of this is the mating display. We can see this in the firefly, 
+which uses its distinctive patterns of luminescent flashes to find mates.
+
+The firefly has some information. It activates a beacon, in order to find someone with 
+*complementary information*, in order to engage in *productive exchange*. Likewise for 
+deep-sea fish who mate or find symbiotes by means of a light display.
+
+The predation strategy of the anglerfish, properly generalized is a strategy that predates
+on all information-seeking behavior, whether competitive or cooperative. The anglerfish
+does not need to know that the animal that just swam in front of it is evaluating its 
+mating display and finds it wanting, or is looking for a very different creature as a 
+symbiote. So long as there are animals seeking illumination, the anglerfish only cares that
+some calories and raw materials have been brought within reach of a single burst of 
+swimming and the clamping shut of its great maw.
+
+Typically, a predator has to be more sophisticated than the creatures on which it preys.
+But the anglerfish follows a simple, information-poor strategy, that preys on sophisticated,
+information-rich ones. It doesn’t have to be a particularly skilled mimic - it simply preys
+on the fact that creatures seeking information will move towards beacons.
+```
+
+How does this analogize to subculture dilution?
+
+```markdown
+In David Chapman’s geeks, MOPs, and sociopaths, “geeks” are the originators of subcultures. 
+They are persons of refined taste and discernment. They found subcultures by discovering or
+creating something they believe to be of intrinsic value. The originators of this information
+share it with others, and the first to respond enthusiastically will be other geeks, who can 
+tell that the content of the message is valuable.
+
+Eventually, enough geeks congregate together, and the thing they are creating together becomes
+valuable enough, that people without the power to independently discern the source of value 
+can tell that value is being created. These Chapman calls “Members Of the Public”, or “MOP”s. 
+Geeks map roughly onto Aellagirl's possums, MOPs onto otters.
+
+In the right ratios, MOPs and Geeks are symbiotes. The MOPs enjoy the benefits of the thing the
+geeks created, and are generally happy to share their social capital, including money, with the
+geeks.
+
+But from another perspective MOPs are an exploitable resource, which the geeks have gathered in
+one place but are neither efficiently exploiting, nor effectively defending. This attracts
+people following a strategy of predating on such clusters of MOPs. These predators, whom Chapman
+names “sociopaths,” do not care about the idiosyncratic value the geeks are busy creating. What 
+they do care about, is the generic resources - attention, money, volunteer hours, social proof -
+that the MOPs provide.
+
+To summarize the above: Geeks build beacons. Initially these beacons are not very bright, but
+they are sending out high-information signals which attract other geeks looking for that 
+information. Eventually, enough geeks are contributing to the beacons that they become bright
+enough to attract MOPs.
+
+Chapman’s sociopaths can’t just waltz in and propose that everyone give them things for nothing.
+After all, everyone in their feeding ground was attracted to it by something about it, something
+that distinguishes it from other places in the culture. They need to look like a part of the 
+scene. So they start by imitating, or proposing refinements to, the beacons the geeks have erected.
+
+The geeks are only putting up a very particular kind of beacon. There are a lot of constraints 
+on exactly what sort of signal they are willing to send. This is the same as saying that their 
+beacons have a lot of information content. From the geeks’ perspective, the exchange of this 
+information is the whole point of setting up beacons, and the presence of friendly MOPs is just a
+happy side effect.
+
+But from the sociopaths’ perspective, these information-bearing constraints are mere shibboleths.
+Chapman’s sociopaths will follow whatever rules they have to in order to pass as contributors to
+the subculture, but they won’t put independent effort into understanding why these rules are the 
+ones they have to follow. Instead, their contribution is to **iteratively improve the beacons’ 
+ability to attract prey.**
+
+As sociopaths test out variations in their beacons, they will learn which variants are best at 
+attracting people, by means of trial and error. Three things about this will reduce the relative 
+proportion of geeks in the subculture, and therefore the geeks’ influence.
+
+1. First, since MOPs are less sensitive to fine variations in signal than geeks are, random
+mutations in beacon design are more likely to attract more MOPs than more geeks.
+
+2. Second, as the overall process becomes better at attracting MOPs, more sociopaths will notice
+that it is a promising feeding ground.
+
+3. Finally, many changes that are neutral or beneficial for attracting MOPs, will, from the geeks’ 
+perspective, seem like the introduction of errors. This will make the signal less attractive to
+geeks who have not already invested in the subculture.
+
+What does this process look like from the geeks’ perspective?
+
+At first - people are coming into the geeks’ subculture, and trying to contribute to it. These
+newcomers are putting a lot of energy into creating new content, but from time to time 
+introduce perplexing errors. But, they are getting a lot of people interested in this wonderful
+information you’ve created, so the geeks are not inclined to complain. The MOPs basically trust
+the geeks’ implied endorsement, and accept the new contributors on the same footing as the old 
+ones.
+
+But now there are two forces at play affecting the content of the signals being sent. One is a
+force correcting errors - the geeks’ desire to preserve, transmit, and develop the original 
+information-content of the signal. The other force introduces errors: the sociopaths’ desire to
+attract more MOPs. When the second force becomes stronger than the first, the sociopaths are now 
+the dominant faction, and able to coordinate to suppress geek attempts to correct errors that 
+make the message more popular.
+
+At first, the MOPs’ acceptance of the sociopaths depended in part on the geeks’ tacit endorsement.
+But once a sufficiently powerful faction of sociopaths has been given social proof, they can wield
+the force of disendorsement against the geeks. The only meaningful constraint is that MOPs don’t
+like conflict, so the sociopaths will want to avoid escalating to a point where the conflict
+becomes overt.
+
+From the sociopaths’ perspective, the geeks were inexplicably donating their time and energy to 
+discovering a new signal to broadcast, that would attract a pool of MOPs to feed on. But the geeks
+were - again incomprehensibly - neither exploiting nor defending that resource. The sociopath 
+strategy invests in general understanding of social dynamics, but does not need to understand the 
+specific content of what the geeks are trying to do. The sociopath need only know that some
+attention, money, volunteer hours, and social proof have been brought within reach of a competent
+marketing and sales effort.
+
+From the sociopaths' perspective, they are not introducing errors - they are correcting them.
+
+The paradigmatic predator is sufficiently smarter than its targets to anticipate and manipulate
+their behavior. But Chapman’s sociopaths follow a simple, information-poor strategy, that preys on
+sophisticated, information-rich ones. This strategy doesn’t have to understand the signal as well 
+as the geeks do - the geeks will help it pass their tests (because geeks are usually guess culture,
+and guess culture screens for trying to cooperate). It simply iterates empirically towards shining 
+the most attractive beacon it can, of a kind that has already been selected to attract its prey.
+
+The predation strategy of Chapman’s sociopath is a strategy that predates on all information-
+seeking behavior, whether competitive or cooperative.
+```
+
+Note that sociopaths aren't "bad":
+
+```markdown
+Sociopaths are not necessarily universally bad or mean people. They just *don't care about your 
+project*. This is fine. You don't care about most people's projects. Likewise, most people don't 
+care about yours. The problem is when you let those people run your project.
+
+As far as Chapman's sociopaths know, they are just doing what one does to beacons - trying to make
+them more pleasing to more people. They are cooperating with the geeks as sincerely as they know 
+how - as sincerely as the believe to be possible. In many cases they simply don’t understand that
+the original signal had value. There's little point in being indignant about this.
+```
+
+It's the "geeks" who're most responsible for maintaining that subculture, and for the creation of community standards:
+
+```markdown
+The people who need to do something about the corruption of a message are the people who *care
+the most about that message*: the geeks. In subcultures following this lifecycle, geeks have 
+committed a key sin: trying to get something for nothing, by pretending to be more popular than
+we are.
+
+People playing sociopath strategies gain a foothold in subcultures, because they *bring in more
+resources*, get more people involved, get attention from respectable people, raise money - since 
+they are paying attention to how attractive their beacons are, not whether they are correct 
+(from a geek perspective).
+
+The obvious strategy to counter this is to speak up early and often when errors are being 
+introduced. It is not a sin to be error-tolerant, in the sense of not immediately expelling people 
+for making errors. But it is *always* a sin, in an otherwise-cooperative community, to *suppress the
+calling-out of errors*, in order to avoid making a scene, scaring off the MOPs, harming morale and
+momentum. If you are a geek in that sort of subculture, the MOPs are relying on your implied 
+endorsement of the other content-creators. If you remain silent in the face of error, then you are
+*betraying this trust*. There is no additional error-correction system that will save you - you were
+supposed to be the error-correction system.
+
+If you and your collaborators diligently follow this practice, then this will enable the creation 
+of common knowledge when someone is reliably introducing errors, and either failing to correct them
+or making the minimum possible correction. You will have shared knowledge of track records - who is
+introducing information, and who is destroying it with noise. It is only with this knowledge that 
+you can begin to have actual community standards.
+```
