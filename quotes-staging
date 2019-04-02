@@ -1,5 +1,215 @@
 [Culture, community, and walled gardens](#Culture-community-and-walled-gardens)
 	1. [Anglerfish and beacons, or why some blogs have higher comment quality](#Anglerfish-and-beacons), on geek subculture dilution by Chapman-sociopaths
+[Thinking and explaining](#Thinking-and-explaining)
+	
+(UNDER MATH - OPINIONS)
+<a name="#Thinking-and-explaining"></a>
+### Thinking and explaining
+([overview](#overview))
+
+I always return to the late Bill Thurston's great MO question [Thinking and explaining](https://mathoverflow.net/questions/38639/thinking-and-explaining) every few months or years for the wealth of insightful quotes within. Here I place them within the wider context of my walled garden of ideas/document.
+
+Bill's question:
+
+```markdown
+How big a gap is there between how you think about mathematics and what you say to others?
+Do you say what you're thinking? Please give either personal examples of how your thoughts
+and words differ, or describe how they are connected for you.
+
+
+I've been fascinated by the phenomenon the question addresses for a long time. We have 
+complex minds evolved over many millions of years, with many modules always at work. A 
+lot we don't habitually verbalize, and some of it is very challenging to verbalize or to
+communicate in any medium. Whether for this or other reasons, I'm under the impression 
+that mathematicians often have unspoken thought processes guiding their work which may 
+be difficult to explain, or they feel too inhibited to try. One prototypical situation 
+is this: there's a mathematical object that's obviously (to you) invariant under a 
+certain transformation. For instant, a linear map might conserve volume for an 'obvious'
+reason. But you don't have good language to explain your reason---so instead of 
+explaining, or perhaps after trying to explain and failing, you fall back on computation. 
+You turn the crank and without undue effort, demonstrate that the object is indeed
+invariant.
+
+Here's a specific example. Once I mentioned this phenomenon to Andy Gleason; he immediately
+responded that when he taught algebra courses, if he was discussing cyclic subgroups of a
+group, he had a mental image of group elements breaking into a formation organized into 
+circular groups. He said that 'we' never would say anything like that to the students. His
+words made a vivid picture in my head, because it fit with how I thought about groups. I 
+was reminded of my long struggle as a student, trying to attach meaning to 'group', rather
+than just a collection of symbols, words, definitions, theorems and proofs that I read in 
+a textbook.
+```
+
+The following are MO's responses I liked. 
+
+Here's one by Bill that comes to mind every once in a while:
+
+```markdown
+When listening to a lecture, I can't possibly attend to every word: so many words blank 
+out my thoughts. My attention repeatedly dives inward to my own thoughts and my own mental
+models, asking 'what are they really saying?' or 'where is this going?'. I try to shortcut
+through my own understanding, then emerge to see if I'm still with the lecture.
+```
+
+Terry Tao is -- well, he's as close as you'll get to a universal problem-solver this generation:
+
+```markdown
+I find there is a world of difference between explaining things to a colleague, and explaining
+things to a close collaborator. With the latter, one really can communicate at the intuitive
+level, because one already has a reasonable idea of what the other person's mental model of the
+problem is. In some ways, I find that throwing out things to a collaborator is closer to the 
+mathematical thought process than just thinking about maths on one's own, if that makes any 
+sense.
+
+One specific mental image that I can communicate easily with collaborators, but not always to 
+more general audiences, is to think of quantifiers in game theoretic terms. Do we need to show
+that for every epsilon there exists a delta? Then imagine that you have a bag of deltas in your
+hand, but you can wait until your opponent (or some malicious force of nature) produces an 
+epsilon to bother you, at which point you can reach into your bag and find the right delta to 
+deal with the problem. Somehow, anthropomorphising the "enemy" (as well as one's "allies") can 
+focus one's thoughts quite well. This intuition also combines well with probabilistic methods, 
+in which case in addition to you and the adversary, there is also a Random player who spits out
+mathematical quantities in a way that is neither maximally helpful nor maximally adverse to your 
+cause, but just some randomly chosen quantity in between. The trick is then to harness this
+randomness to let you evade and confuse your adversary.
+
+Is there a quantity in one's PDE or dynamical system that one can bound, but not otherwise 
+estimate very well? Then imagine that it is controlled by an adversary or by Murphy's law, and 
+will always push things in the most unfavorable direction for whatever you are trying to
+accomplish. Sometimes this will make that term "win" the game, in which case one either gives up
+(or starts hunting for negative results), or looks for additional ways to "tame" or "constrain" 
+that troublesome term, for instance by exploiting some conservation law structure of the PDE.
+
+For evolutionary PDEs in particular, I find there is a rich zoo of colourful physical analogies
+that one can use to get a grip on a problem. I've used the metaphor of an egg yolk frying in a
+pool of oil, or a jetski riding ocean waves, to understand the behaviour of a fine-scaled or 
+high-frequency component of a wave when under the influence of a lower frequency field, and how
+it exchanges mass, energy, or momentum with its environment. In one extreme case, I ended up 
+rolling around on the floor with my eyes closed in order to understand the effect of a gauge 
+transformation that was based on this type of interaction between different frequencies. 
+(Incidentally, that particular gauge transformation won me a Bocher prize, once I understood how 
+it worked.) I guess this last example is one that I would have difficulty communicating to even 
+my closest collaborators. Needless to say, none of these analogies show up in my published papers,
+although I did try to convey some of them in my PDE book eventually.
+
+ADDED LATER: I think one reason why one cannot communicate most of one's internal mathematical
+thoughts is that one's internal mathematical model is very much a function of one's mathematical
+upbringing. For instance, my background is in harmonic analysis, and so I try to visualise as
+much as possible in terms of things like interactions between frequencies, or contests between 
+different quantitative bounds. This is probably quite a different perspective from someone 
+brought up from, say, an algebraic, geometric, or logical background. I can appreciate these other
+perspectives, but still tend to revert to the ones I am most personally comfortable with when I am
+thinking about these things on my own.
+
+ADDED (MUCH) LATER: Another mode of thought that I and many others use routinely, but which I 
+realised only recently was not as ubiquitious as I believed, is to use an "economic" mindset to 
+prove inequalities such as X≤Y or X≤CY for various positive quantities X,Y, interpreting them in the
+form "If I can afford Y, can I therefore afford X?" or "If I can afford lots of Y, can I therefore
+afford X?" respectively. This frame of reference starts one thinking about what types of quantities
+are "cheap" and what are "expensive", and whether the use of various standard inequalities 
+constitutes a "good deal" or not. It also helps one understand the role of weights, which make things
+more expensive when the weight is large, and cheaper when the weight is small.
+
+ADDED (MUCH, MUCH) LATER: One visualisation technique that I have found very helpful is to
+incorporate the ambient symmetries of the problem (a la Klein) as little "wobbles" to the objects 
+being visualised. This is most familiarly done in topology ("rubber sheet mathematics"), where every
+object considered is a bit "rubbery" and thus deforming all the time by infinitesimal homeomorphisms.
+But geometric objects in a scale-invariant problem could be thought of as being viewed through a 
+camera with a slightly wobbly zoom lens, so that one's mental image of these objects is always 
+varying a little in size. Similarly, if one is in a translation-invariant setting, one's mental
+camera should be sliding back and forth just a little to remind you of this, if one is working in a 
+Euclidean space then the camera might be jiggling through all the rigid motions, and so forth. A more
+advanced example: if the problem is invariant under tensor products, as per the tensor product trick,
+then one's low dimensional objects should have a tiny bit of shadowing (or perhaps look like one of 
+these 3D images when one doesn't have the polarised glasses, with the slightly separated red and blue
+components) that suggest that they are projections of a higher dimensional Cartesian product.
+
+One reason why one wants to do this is that it helps suggest useful normalisations. If one is
+viewing a situation with a wobbly zoom lens and there is some length that appears all over one's
+analysis, one is reminded that one can spend the scale invariance of the problem to zoom up or 
+down as appropriate to normalise this scale to equal 1. Similarly for other ambient symmetries.
+
+This sort of wobbling of symmetries is also available in less geometric settings. When viewing,
+say, a graph on n vertices, perhaps the labels 1,…,n on the vertices have a tendency to swap with 
+each other every so often, to emphasise the symmetry of relabeling in graph theory. Similarly, 
+when dealing with a set {a,b,c,d,…}, perhaps the positions of the elements a,b,c,d in one's
+enumeration of the set are volatile and swap places every so often. In analysis, one often only 
+cares about the order of magnitude of some very large or very small quantity X, rather than its 
+exact value; so one should view this quantity as being a bit squishy in size, growing or shrinking
+by a factor of two or so every time one looks at the problem. If there is some probability theory
+in one's problem, and some of your objects are random variables rather than deterministic 
+variables, then you can imagine that every so often the "game resets", with the random variables
+jumping around to different values in their range (and any quantities depending on these variables 
+changing accordingly), whereas the deterministic variables stay fixed. Similarly if one has generic
+points in a variety, or nonstandard objects in a space (with the point being that if something bad
+happens if, say, your generic point is trapped in a subvariety, you can "reset the game" in which 
+the generic point is now outside the subvariety; similarly one can "reset" an unbounded nonstandard 
+number to be larger than any given standard number, etc.).
+```
+
+Cam MacLeman:
+
+```markdown
+
+```
+
+Cam MacLeman:
+
+```markdown
+
+```
+
+Cam MacLeman:
+
+```markdown
+
+```
+
+Cam MacLeman:
+
+```markdown
+
+```
+
+Cam MacLeman:
+
+```markdown
+
+```
+
+Cam MacLeman:
+
+```markdown
+
+```
+
+Cam MacLeman:
+
+```markdown
+
+```
+
+Cam MacLeman:
+
+```markdown
+
+```
+
+Cam MacLeman:
+
+```markdown
+
+```
+
+Cam MacLeman:
+
+```markdown
+One of my favorites from undergrad was describing a linear transformation as a commander-
+in-chief, who told the generals (a basis) where to go, who in turn tells all the soldiers
+(the rest of the vectors) where to go. The chain of command in action in a linear algebra
+class.
+```
+
 
 <a name="#Culture-community-and-walled-gardens"></a>
 ## Culture, community, and walled gardens
