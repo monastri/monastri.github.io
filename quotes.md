@@ -8522,11 +8522,34 @@ simplifies the adaptively important task of recognizing a previously experienced
 From Cosma Shalizi's [book review](http://bactra.org/reviews/beniger/) of James Beniger's *The Control Revolution: Technological and Economic Origins of the Information Society*:
 
 ```markdown
-I was going to say that this is undoubtedly the best work ever done by a professor of communications, but that would be praising it with faint damns, and it deserves better. This is not a speculation or a vague schema but a very detailed history of the rise of technologies and techniques of communication and information-processing, and their use for controlling social and economic processes, prefaced by a general discussion of these subjects and their importance for history. 
+I was going to say that this is undoubtedly the best work ever done by a professor of 
+communications, but that would be praising it with faint damns, and it deserves better. 
+This is not a speculation or a vague schema but a very detailed history of the rise of 
+technologies and techniques of communication and information-processing, and their use 
+for controlling social and economic processes, prefaced by a general discussion of these
+subjects and their importance for history. 
 
-His thesis is that modern information technologies, and with them the ``information society,'' began to take shape in the 1830s with the introduction of railroads, and really took off after 1880 with full industrialization. Because machine industry involves huge, fast flows of goods, it cannot be managed without a high level of information technology (in which Beniger includes things like product standardization, bureaucracy and advertising, as well as the usual mechanical devices): and if it isn't managed it simply cannot work. The first part of the economy to move at industrial speed were the railroads, and the accompanying jump in the size of the information sector is dramatic. So industrial production is a good reason to improve your information technology; and conversely, improved control technology makes new industrial developments possible.
+His thesis is that modern information technologies, and with them the "information society",
+began to take shape in the 1830s with the introduction of railroads, and really took off 
+after 1880 with full industrialization. Because machine industry involves huge, fast flows
+of goods, it cannot be managed without a high level of information technology (in which 
+Beniger includes things like product standardization, bureaucracy and advertising, as well
+as the usual mechanical devices): and if it isn't managed it simply cannot work. The first
+part of the economy to move at industrial speed were the railroads, and the accompanying
+jump in the size of the information sector is dramatic. So industrial production is a good 
+reason to improve your information technology; and conversely, improved control technology
+makes new industrial developments possible.
 
-Beniger puts the modern synthesis (not his phrase) of industry and information in the period 1880-1920. By the latter date, the technology of control had been so perfected that the economies of all the warring powers in the Great War could be managed by central planning --- those of the Allies, by combined planning. (Since this performance was repeated during the Second War, I'm tempted to say that market forces are simply too inefficient to be trusted with anything important, but this is not the place for those rants.) Since then, he says, we have been in essentially the same industrial-economic-technological phase. The advent of computers was obviously very important, but they didn't usher in the information society, because we already were one (which, I suspect, is why they were able to spread so quickly --- Beniger does not, alas, discuss computerization in detail).
+Beniger puts the modern synthesis (not his phrase) of industry and information in the period
+1880-1920. By the latter date, the technology of control had been so perfected that the
+economies of all the warring powers in the Great War could be managed by central planning 
+--- those of the Allies, by combined planning. (Since this performance was repeated during
+the Second War, I'm tempted to say that market forces are simply too inefficient to be 
+trusted with anything important, but this is not the place for those rants.) Since then,
+he says, we have been in essentially the same industrial-economic-technological phase. The
+advent of computers was obviously very important, but they didn't usher in the information
+society, because we already were one (which, I suspect, is why they were able to spread so
+quickly --- Beniger does not, alas, discuss computerization in detail).
 ```
 
 <a name="#the-singularity"></a>
