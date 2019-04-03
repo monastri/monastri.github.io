@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 150,100*
+*[Word count](https://wordcounter.net/): 167,600*
 
 ## What is this?
 
@@ -118,7 +118,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
       2. [Expositions should solve problems terribly](#Solving-math-problems-terribly)
       2. [Good mathematics](#good-mathematics)
       2. [How a 'Math Product Manager' would teach and do math](#product-management-of-math)
-      2. [How famous open problems get solved](#solving-famous-open-problems)      
+      2. [How famous open problems get solved](#solving-famous-open-problems)  
+      2. [How mathematical structures are defined](#How-mathematical-structures-are-defined)
       2. [Mathematical maturity and understanding](#mathematical-maturity)
       2. [Thinking and explaining](#Thinking-and-explaining)
       3. [What every mathematician should know](#what-every-mathematician-should-know)
@@ -196,9 +197,336 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Miscellaneous](#miscellaneous)
 
 
+<a name="#Culture-community-and-walled-gardens"></a>
+## Culture, community, and walled gardens
+([overview](#overview))
+
+<a name="#Anglerfish-and-beacons"></a>
+### Anglerfish and beacons
+([overview](#overview))
+
+Ben Hoffman talks about avoiding anglerfish, or Chapman's sociopaths, in a great essay I often come back to called [On the construction of beacons](http://benjaminrosshoffman.com/construction-beacons/). I tried not to just copy-paste everything, but Ben doesn't waste words, he's a precision writer, so it's hard to leave things out because "everything is in its place" so to speak.
+
+First of all, why "anglerfish"?
+
+```markdown
+The anglerfish lives in waters too far beneath the surface of the sea for sunlight to reach.
+It dangles a luminescent lure in front of itself. This resembles a fishing angle, whence 
+comes its name. This lure attracts animals of the deep sea, which approach the anglerfish, 
+and are consequently eaten by it.
+
+Why - in the deep sea where no sunlight can reach - would evolution favor animals that are
+attracted to light?
+
+The secondary uses of such a strategy are clear enough. Once some deep-sea-dwellers emit
+light, larger animals that predate on them might do better if attracted to light sources. 
+But that presupposes the existence of other animals that already emit light, for other
+reasons.
+
+What are the primary uses of light? In a region where no other creatures emit light, here 
+are some reasons why would might begin to do so:
+
+1. To illuminate potential prey.
+2. As a ward, to warn potential competitors that one is prepared to defend territory.
+3. To attract complementary animals, either as symbiotes, or as mates.
+
+In all these cases, the purpose of the light is to *reveal information*. In all but the
+first case, it is to *share information with others, in order to enable cooperation*. 
+Perhaps the purest version of this is the mating display. We can see this in the firefly, 
+which uses its distinctive patterns of luminescent flashes to find mates.
+
+The firefly has some information. It activates a beacon, in order to find someone with 
+*complementary information*, in order to engage in *productive exchange*. Likewise for 
+deep-sea fish who mate or find symbiotes by means of a light display.
+
+The predation strategy of the anglerfish, properly generalized is a strategy that predates
+on all information-seeking behavior, whether competitive or cooperative. The anglerfish
+does not need to know that the animal that just swam in front of it is evaluating its 
+mating display and finds it wanting, or is looking for a very different creature as a 
+symbiote. So long as there are animals seeking illumination, the anglerfish only cares that
+some calories and raw materials have been brought within reach of a single burst of 
+swimming and the clamping shut of its great maw.
+
+Typically, a predator has to be more sophisticated than the creatures on which it preys.
+But the anglerfish follows a simple, information-poor strategy, that preys on sophisticated,
+information-rich ones. It doesn’t have to be a particularly skilled mimic - it simply preys
+on the fact that creatures seeking information will move towards beacons.
+```
+
+How does this analogize to subculture dilution?
+
+```markdown
+In David Chapman’s geeks, MOPs, and sociopaths, “geeks” are the originators of subcultures. 
+They are persons of refined taste and discernment. They found subcultures by discovering or
+creating something they believe to be of intrinsic value. The originators of this information
+share it with others, and the first to respond enthusiastically will be other geeks, who can 
+tell that the content of the message is valuable.
+
+Eventually, enough geeks congregate together, and the thing they are creating together becomes
+valuable enough, that people without the power to independently discern the source of value 
+can tell that value is being created. These Chapman calls “Members Of the Public”, or “MOP”s. 
+Geeks map roughly onto Aellagirl's possums, MOPs onto otters.
+
+In the right ratios, MOPs and Geeks are symbiotes. The MOPs enjoy the benefits of the thing the
+geeks created, and are generally happy to share their social capital, including money, with the
+geeks.
+
+But from another perspective MOPs are an exploitable resource, which the geeks have gathered in
+one place but are neither efficiently exploiting, nor effectively defending. This attracts
+people following a strategy of predating on such clusters of MOPs. These predators, whom Chapman
+names “sociopaths,” do not care about the idiosyncratic value the geeks are busy creating. What 
+they do care about, is the generic resources - attention, money, volunteer hours, social proof -
+that the MOPs provide.
+
+To summarize the above: Geeks build beacons. Initially these beacons are not very bright, but
+they are sending out high-information signals which attract other geeks looking for that 
+information. Eventually, enough geeks are contributing to the beacons that they become bright
+enough to attract MOPs.
+
+Chapman’s sociopaths can’t just waltz in and propose that everyone give them things for nothing.
+After all, everyone in their feeding ground was attracted to it by something about it, something
+that distinguishes it from other places in the culture. They need to look like a part of the 
+scene. So they start by imitating, or proposing refinements to, the beacons the geeks have erected.
+
+The geeks are only putting up a very particular kind of beacon. There are a lot of constraints 
+on exactly what sort of signal they are willing to send. This is the same as saying that their 
+beacons have a lot of information content. From the geeks’ perspective, the exchange of this 
+information is the whole point of setting up beacons, and the presence of friendly MOPs is just a
+happy side effect.
+
+But from the sociopaths’ perspective, these information-bearing constraints are mere shibboleths.
+Chapman’s sociopaths will follow whatever rules they have to in order to pass as contributors to
+the subculture, but they won’t put independent effort into understanding why these rules are the 
+ones they have to follow. Instead, their contribution is to **iteratively improve the beacons’ 
+ability to attract prey.**
+
+As sociopaths test out variations in their beacons, they will learn which variants are best at 
+attracting people, by means of trial and error. Three things about this will reduce the relative 
+proportion of geeks in the subculture, and therefore the geeks’ influence.
+
+1. First, since MOPs are less sensitive to fine variations in signal than geeks are, random
+mutations in beacon design are more likely to attract more MOPs than more geeks.
+
+2. Second, as the overall process becomes better at attracting MOPs, more sociopaths will notice
+that it is a promising feeding ground.
+
+3. Finally, many changes that are neutral or beneficial for attracting MOPs, will, from the geeks’ 
+perspective, seem like the introduction of errors. This will make the signal less attractive to
+geeks who have not already invested in the subculture.
+
+What does this process look like from the geeks’ perspective?
+
+At first - people are coming into the geeks’ subculture, and trying to contribute to it. These
+newcomers are putting a lot of energy into creating new content, but from time to time 
+introduce perplexing errors. But, they are getting a lot of people interested in this wonderful
+information you’ve created, so the geeks are not inclined to complain. The MOPs basically trust
+the geeks’ implied endorsement, and accept the new contributors on the same footing as the old 
+ones.
+
+But now there are two forces at play affecting the content of the signals being sent. One is a
+force correcting errors - the geeks’ desire to preserve, transmit, and develop the original 
+information-content of the signal. The other force introduces errors: the sociopaths’ desire to
+attract more MOPs. When the second force becomes stronger than the first, the sociopaths are now 
+the dominant faction, and able to coordinate to suppress geek attempts to correct errors that 
+make the message more popular.
+
+At first, the MOPs’ acceptance of the sociopaths depended in part on the geeks’ tacit endorsement.
+But once a sufficiently powerful faction of sociopaths has been given social proof, they can wield
+the force of disendorsement against the geeks. The only meaningful constraint is that MOPs don’t
+like conflict, so the sociopaths will want to avoid escalating to a point where the conflict
+becomes overt.
+
+From the sociopaths’ perspective, the geeks were inexplicably donating their time and energy to 
+discovering a new signal to broadcast, that would attract a pool of MOPs to feed on. But the geeks
+were - again incomprehensibly - neither exploiting nor defending that resource. The sociopath 
+strategy invests in general understanding of social dynamics, but does not need to understand the 
+specific content of what the geeks are trying to do. The sociopath need only know that some
+attention, money, volunteer hours, and social proof have been brought within reach of a competent
+marketing and sales effort.
+
+From the sociopaths' perspective, they are not introducing errors - they are correcting them.
+
+The paradigmatic predator is sufficiently smarter than its targets to anticipate and manipulate
+their behavior. But Chapman’s sociopaths follow a simple, information-poor strategy, that preys on
+sophisticated, information-rich ones. This strategy doesn’t have to understand the signal as well 
+as the geeks do - the geeks will help it pass their tests (because geeks are usually guess culture,
+and guess culture screens for trying to cooperate). It simply iterates empirically towards shining 
+the most attractive beacon it can, of a kind that has already been selected to attract its prey.
+
+The predation strategy of Chapman’s sociopath is a strategy that predates on all information-
+seeking behavior, whether competitive or cooperative.
+```
+
+Note that sociopaths aren't "bad":
+
+```markdown
+Sociopaths are not necessarily universally bad or mean people. They just *don't care about your 
+project*. This is fine. You don't care about most people's projects. Likewise, most people don't 
+care about yours. The problem is when you let those people run your project.
+
+As far as Chapman's sociopaths know, they are just doing what one does to beacons - trying to make
+them more pleasing to more people. They are cooperating with the geeks as sincerely as they know 
+how - as sincerely as the believe to be possible. In many cases they simply don’t understand that
+the original signal had value. There's little point in being indignant about this.
+```
+
+It's the "geeks" who're most responsible for maintaining that subculture, and for the creation of community standards:
+
+```markdown
+The people who need to do something about the corruption of a message are the people who *care
+the most about that message*: the geeks. In subcultures following this lifecycle, geeks have 
+committed a key sin: trying to get something for nothing, by pretending to be more popular than
+we are.
+
+People playing sociopath strategies gain a foothold in subcultures, because they *bring in more
+resources*, get more people involved, get attention from respectable people, raise money - since 
+they are paying attention to how attractive their beacons are, not whether they are correct 
+(from a geek perspective).
+
+The obvious strategy to counter this is to speak up early and often when errors are being 
+introduced. It is not a sin to be error-tolerant, in the sense of not immediately expelling people 
+for making errors. But it is *always* a sin, in an otherwise-cooperative community, to *suppress the
+calling-out of errors*, in order to avoid making a scene, scaring off the MOPs, harming morale and
+momentum. If you are a geek in that sort of subculture, the MOPs are relying on your implied 
+endorsement of the other content-creators. If you remain silent in the face of error, then you are
+*betraying this trust*. There is no additional error-correction system that will save you - you were
+supposed to be the error-correction system.
+
+If you and your collaborators diligently follow this practice, then this will enable the creation 
+of common knowledge when someone is reliably introducing errors, and either failing to correct them
+or making the minimum possible correction. You will have shared knowledge of track records - who is
+introducing information, and who is destroying it with noise. It is only with this knowledge that 
+you can begin to have actual community standards.
+```
+
 <a name="#business-finance-entrepreneurship-management"></a>
 ## Business, finance, entrepreneurship, management
 ([overview](#overview))
+
+<a name="#Real-work-and-bullshit-jobs"></a>
+### Real work and bullshit jobs
+([overview](#overview))
+
+From Sarah Constantin's [How much work is real?](https://srconstantin.wordpress.com/2017/05/09/how-much-work-is-real/).
+
+Productive work:
+
+```markdown
+Some work is clearly “productive.” If you plant things in a garden, you put in work,
+and you get out plants.  If you cook a meal, your family gets fed. If you build a 
+building where people want to live or work, they get shelter. If you treat a patient,
+the patient gets better. If you carry goods to the place that they’re sold, people
+get their stuff. If you invent a labor-saving machine, people get to free up their 
+time for other things.
+
+Productive work creates *value*, in the sense of “doingstuffness”, mana, usefulness-
+to-humans, etc. It’s not just effort expended, or an accounting formalism like dollars, 
+it’s an increase in the “real wealth” of humanity. That’s not a well-defined concept,
+but it’s worth pointing at, so we know what we’re complaining about when we see 
+deviations from this.
+
+In the standard capitalist story, you get paid for work because you created value for
+somebody; they wanted your stuff so much that they were willing to give you something
+in exchange for it.
+
+In this world, all productive work is honorable.  Work is *fair* — on average, you get
+what it’s worth — and it’s a contribution, however small, to the wellbeing of
+humankind, the fire that beats back against the blackness of hard vacuum.
+```
+
+Work that clearly fails to be productive:
+
+```markdown
+But there are ways that things called “work” can fail to be productive work.
+
+Fraud or crime obviously are not productive. If you get money from people by tricking 
+or terrifying them, you’re not getting it by providing them with value. You’re not a 
+*maker*.
+
+Enforced monopoly power is also not entirely productive. If people are required by law
+— on pain of punishment — to buy your product, then at least some of your revenue is 
+driven by fear, not desire.
+
+Regulations can be a form of enforced monopoly power. If only people who meet certain
+criteria are allowed to sell, then people are buying from you and not your competitors
+not because they like you better, but because your competitors are driven out by fear
+of punishment. Once again, you’re profiting partly off fear, not just desire.
+
+A job that is funded by taxpayer money, or by the fact that the product sold is
+mandatory to buy, or by the fact that nobody knows whether it would be illegal to get
+rid of that job and they want to play it safe, doesn’t need to be useful at all.
+```
+
+Work that can indirectly fail to be productive:
+
+```markdown
+And there are still more indirect ways that a job can fail to be useful.  If you sell
+to people who don’t do anything useful, then your job would not have been necessary in
+a sensibly organized world, even if you do nothing dishonest yourself and genuinely add
+value to your customers.
+
+This is what it means to live in a “mixed economy.”  Not everything that everyone does 
+for a living is genuinely useful.
+
+If there are bullshit jobs, as anthropologist David Graeber claims, then that’s a shame,
+from the perspective of human well-being. If we have enough real wealth, enough mana, to
+support even people who aren’t making mana, then why not just allow leisure, instead of 
+forcing people to go through the motions of dull and unnecessary work?
+
+This is largely the position of left-libertarians like the people at Center for a
+Stateless Society.  They make the empirical claim that most of the present economy in 
+developed countries is coercive and unproductive, the result of crony capitalism and 
+regulatory capture rather than honest, useful work.  As such, a “freed market” without 
+such corruption would actually be more egalitarian than our current economy.   Since 
+government promotes monopoly, Big Business wouldn’t be sustainable without coercion.  
+Since highly regulated and positional goods like housing and education are essentially 
+mandatory for participating in much of modern life, if those mandates were abolished, 
+socioeconomic inequality would drop.
+
+On the other hand, this empirical claim could be false. Nobody denies that some corruption
+exists, but it might be the exception rather than the rule. We might not, in fact, be in
+post-scarcity conditions.  So-called “bullshit” jobs may actually be valuable, just easy
+to dismiss by outsiders like Graeber.  Growing wealth inequality may be largely the result
+of winner-take-all phenomena, as Tyler Cowen thinks — in his model, the working rich 
+really are more productive than ever, thanks to the amplifying effects of technology.  
+Love it or hate it, says Cowen, capitalism works the way it says on the tin.
+```
+
+I was surprised by this particular example, and would like to know if the result replicates(?):
+
+```markdown
+Matt Rognlie’s paper shows that the long-term rise of capital’s share of wealth (compared
+to labor’s) is almost entirely a result of increased housing prices — literal rents, kept
+high by land-use restrictions.
+```
+
+Add to this Robin Hanson's claim that S&P 500 firms are now "5/6ths dark matter", or hard-to-copy intangibles (illegibles?):
+
+```markdown
+Imagine that you wanted to create a new firm to compete with one of these big established
+firms. So you wanted to duplicate that firm’s products, employees, buildings, machines, 
+land, trucks, etc. You’d hire away some key employees and copy their business process, at
+least as much as you could see and were legally allowed to copy.
+
+Forty years ago the cost to copy such a firm was about 5/6 of the total stock price of 
+that firm. So 1/6 of that stock price represented the value of things you couldn’t easily
+copy, like patents, customer goodwill, employee goodwill, regulator favoritism, and hard 
+to see features of company methods and culture. Today it costs only 1/6 of the stock 
+price to copy all a firm’s visible items and features that you can legally copy. So today
+the other 5/6 of the stock price represents the value of all those things you can’t copy.
+```
+
+"Intangibles" isn't just "great culture", as people are wont to default to, it's also patents and rent-seeking favoritism:
+
+```markdown
+“Intangibles” would certainly include rent-seeking forms of favoritism.
+
+It also includes patents, which arguably do not increase innovation on the margin 
+(according to natural experiments between different countries with different patent regimes
+or changes in patent laws.) Copyright and patent lengths have gotten longer in the US, and 
+patent applications have grown at an accelerating rate; the growth of intellectual property
+is another example of our economy becoming more monopolistic.
+```
 
 <a name="#Consulting"></a>
 ### Consulting
@@ -330,6 +658,118 @@ use these service providers.
 <a name="#Management"></a>
 ### Management
 ([overview](#overview))
+
+<a name="#comfort-with-uncertainty"></a>
+### Comfort with uncertainty
+([overview](#overview))
+
+Sarah Constantin struggles with whether she wants to get better at management and leadership because of the possibility of losing her self in [Dwelling in possibility](https://srconstantin.wordpress.com/2017/05/18/dwelling-in-possibility/). There were a few quotes that weren't quite what the essay was about, but that struck me as worth remembering of their own regard for how they're articulated.
+
+```markdown
+One of the things I’ve noticed in people who are farther along in business or management
+than I am, usually men with a “leaderly” mien, is a certain comfort with uncertainty or 
+imperfection.
+
+They can act relaxed even when their personal understanding of a situation is vague, when
+the future is uncertain, when the optimal outcome is unlikely.  This doesn’t mean they’re
+not motivated to get things done.  But they’re cool with a world in which a lot of things
+remain nebulous and unresolved at any given moment.
+
+They’re able to produce low-detail, high-level, positive patter for a general audience. 
+They’re able to remain skeptical, expecting that most new ideas won’t work, without 
+seeming *sad* about that.
+
+Talking to someone like that, it feels like a smooth layer of butter has been spread over
+the world, where everything is pretty much normal and fine most of the time — not a crisis,
+not a victory, just normalcy.
+
+Being okay with vagueness seems to be a prerequisite to managing other people — after all,
+you can’t know every detail of everyone else’s job.  When I managed people, I struggled
+with that a lot. I couldn’t be sure a thing was done right unless I checked it for myself.
+I’m pretty good at holding large systems in my head, but eventually organizations defeat 
+even the most heroic attempt to micromanage them.
+
+Being okay with uncertainty also seems to be a prerequisite for managing a portfolio of 
+anything high-risk and high-reward — investments, sales leads, technologies to adopt, etc.
+If you are elated every time an opportunity appears, and dejected every time it doesn’t
+work out, you’ll have a very hard time emotionally when dealing with a large volume of such
+opportunities. (My husband is a salesman and he’s long since stopped telling me about leads
+because I’ll get over-excited about every one of them.) ...
+
+There’s a common thread between this notion, and people like Jonathan Haidt who believe in
+worldview diversity and people at the Integral Center who believe that higher human 
+developmental stages involve the ability to move fluidly between frames, and who sometimes
+connect this to business through books like Tribal Leadership.
+
+All of them share a view that the principled or systematic person — the person who believes
+in one truth according to one set of principles — is weaker or less spiritually advanced than
+the person who sees things through multiple points of view.
+
+In particular, one idea I picked up from Tribal Leadership is that if you believe a particular
+thing *as an individual*, you’ll be a weaker leader, because you’re just saying what you 
+personally believe (which is selfish, in a sense, or at least private, and thus taken less 
+seriously by others).  The leader has to be not just John Smith but the voice of Acme Corp. 
+Expressing your own thoughts (speaking as John Smith) has value coming from an individual 
+contributor, but there’s a different, more facilitator-like, skill where you try to encourage 
+dialogue or distill a common thread between different people’s views, and encourage teamwork 
+and unity — and that’s leadership.
+
+I have definitely seen chillness coexist with strong technical skill; quite a few people with
+that relaxed, leaderly affect are also top-notch at engineering or data science.  Accepting 
+that some information “lives” in the “collective mind” of a group clearly doesn’t preclude 
+knowing some things very well in your own mind and being able to execute well individually.
+
+I’ve even seen a certain kind of chillness coexist with radical commitment. Rick Doblin, the 
+founder of MAPS, has been steadily working for forty years on trying to promote research into
+the therapeutic use of psychedelics.  He’s a pleasant, mild-mannered family man; despite his 
+controversial mission, he seems to bear no ill will to anyone, including the regulators he’s
+been trying to persuade to ease up drug restrictions.  He’s willing to collaborate with anyone,
+from any perspective or background, if it’ll help psychedelic research.  He’s my role model 
+for how someone can be profoundly committed to a cause without being an angry or rigid person.
+His way is like water wearing down a stone.
+
+But I definitely have heard people tell me that equanimity cost them something — that they lost
+the chance to have a personal perspective and to want things for themselves when they learned 
+to see things from all possible angles and be a facilitator for others.  I’ve seen people who 
+are very good at sparking “interesting” conversations complain that they have a hard time
+connecting personally rather than remaining a third-party observer.
+```
+
+Related to the above is what leadership coach Bryan Franklin [talks about](http://bryanfranklin.com/blog/evolving-leadership-through-paradox) w.r.t. "holding a paradox in your mind":
+
+```markdown
+Consider the common example of a leader who needs to convince her followers that, while 
+the team is experiencing significant challenges and there is a very real risk of failure,
+ultimately the team will prevail. There are two ways a lesser leader could falter in this
+moment. The first is to simply pander to neg activism: agreeing with everyone’s feeling 
+that the current situation is rough or hopeless, without offering any vision, possibility,
+or credible plan. This would be a good display of empathy, but it won’t lead anyone to 
+change. The second mistake would be to hold the opposite view, that the future is bright 
+and the current setbacks are illusory or insignificant. This could be seen superficially 
+as inspiring, but more likely it will backfire because it will be dismissed as being 
+noncredible and unrelatable to the lived reality of the employees.
+
+A superior leader learns how to hold paradox: to believe, at the same time, that the
+situation is dire and hopeful, meeting employees where they’re at, but also convincing them
+of the actions they can take that will lead to a brighter future. The evidence is that 
+things are bad (anyone denying this will be seen as a Pollyanna); and also, the evidence is
+that things are good (anyone denying this would be seen as a weak leader, lacking 
+creativity to produce a positive way forward). Followers need to feel met in the reality 
+that they are scared, yet they also need to be given a realistic expectation of future 
+success.
+
+When you’re confronted with a paradox, you are presented with a choice. You can either 
+ignore it and take a side (believe one side of the statement is true while the other is 
+false), or you can do what we call hold paradox, which is to believe both contradictory 
+statements or implications simultaneously. It’s an expression of faith in a greater truth 
+that is currently invisible to you, but resolves the paradox and allows for the truth of 
+both sides to harmoniously coexist. This is what great leaders do.
+
+Holding paradox is the ability to literally hold in your mind the truth and acknowledge, 
+for example, your utter insignificance on a cosmic scale, and then without allowing that
+experience to dissipate, add to it the unmistakable truth of your profound significance 
+to those you love.
+```
 
 <a name="#High-standards"></a>
 ### High standards
@@ -1281,8 +1721,62 @@ of panic!
 
 The answer is necessarily simplified lie-to-children style, but it does make me wonder why all the sophistication when the main function is supposed to be to gain the public's trust so they free up capital so that the market's capital is more liquid. The answer, I suppose, is profit maximization in a competitive and highly regulated industry (price differentiation too perhaps?), but I don't know much more about what the nature of the sophistication is for my speculations to be more than hot air.
 
+<a name="#hiking-and-trails"></a>
+## Hiking and trails
+([overview](#overview))
+
+<a name="#opinions-on-hiking"></a>
+### Opinions on hiking
+([overview](#overview))
+
+<a name="#why-say-hello-to-fellow-hikers"></a>
+### Why say hello to fellow hikers?
+([overview](#overview))
+
+Found this passage from the beginning of Sarah Constantin's essay [The face of the ice](https://srconstantin.wordpress.com/2017/05/30/the-face-of-the-ice/), which is about something else:
+
+```markdown
+My father was a serious alpinist in his youth, and taught us a few things about mountains
+when we were kids.  For instance: you always say hello to people you pass on the mountain.
+
+Why? Because the mountain can kill you.  “Hi” means “You are a human like me, and this 
+mountain is our common threat. If you scream for help, I will come for you.”
+
+There’s a certain solidarity between humans that emerges when we’re faced with a potentially
+hostile natural world.  If we passed on the street, we’d be strangers. There’d be no bond
+between us.  We might even engage in conflict, under the right circumstances. But on the 
+mountain, all of that falls away.  By default, in the wilderness, a human face is a friendly 
+face, a glad thing to see if you are lost or hurt.
+
+If you are in the desert and you see someone obviously suffering from dehydration, you’ll
+share your extra water with them. It won’t feel like some kind of altruism or charity, it
+will feel *obvious*. It’s instructive, if you’re used to thinking of giving as an 
+unpleasant duty, to experience some situations where it’s *natural* to be kind.  Kindness 
+becomes practical and natural and obvious when the physical environment is hostile.  
+Suddenly everything becomes simple: it’s human life against bitter nature, and nothing
+else matters.  “All men are brothers” becomes a concrete reality.
+
+There’s something clarifying about man vs. nature situations, even at the minimal level you
+can experience by hiking a technical scramble alone.  I’ve found that a certain alertness
+kicks in when I have to figure out where to put my hands and feet; I’m scared of falling, 
+I have a heightened awareness of physical/spatial reality, and I don’t care at *all* about
+looking foolish or getting dirt on my clothes, because *the important thing is to get off 
+the damn mountain without any injuries*.  I also am much less lazy; “get to the top” or “get
+to the bottom” make it feel natural to push a lot harder than “run X miles” or “lift X 
+pounds,” almost as though reaching topographical milestones taps into some primal source of
+motivation.  Mountains make life more *real* than it usually is in civilized life.
+
+There’s a traditional overlap between mountain climbing and math; the Russians had their 
+math camps in the Urals for decades. Alan Turing, Sophus Lie, Niels Abel , and many others
+were avid hikers; a disturbing number of mathematicians have died in hiking accidents.  If
+I can speculate about the connection, it might have something to do with love of solitude,
+tolerance for pain and effort, or this heightened-reality effect from spatial problem-
+solving.  I certainly get a disproportionate number of good ideas while on runs, bike rides,
+hikes, or long walks alone.
+```
+
 <a name="#Great-trails"></a>
-## Great trails
+### Great trails
 ([overview](#overview))
 
 <a name="#tuttle-creek-to-mt-langley"></a>
@@ -9273,6 +9767,121 @@ the clients I enjoyed, work on the legal challenges that I enjoyed, be my own Bo
 not to like about that?
 ```
 
+Another big honest reason is that doing a PhD is hard, and it wasn't really the kind of thing I wanted to do. Kay Aull expounds on this articulately in [his answer](https://qr.ae/TW1uAY) to the Quora question "What are the 3 hardest things about doing a PhD?":
+
+```markdown
+**1) It's actually hard.**
+
+When you're in school, it's hard to see how much work has gone into the knowledge you're
+presented with. I don't just mean the brilliant mind that came up with whatever the raw 
+material was - a theorem, a symphony, whatever. There's an insane amount of unheralded 
+work that packages these raw inputs and breaks them into digestible chunks. What is the 
+correct notation for working with these concepts? What is the most logical way to explain 
+them to newcomers? What's important about this particular thing?
+
+If you have an aptitude for your field, you may get through undergrad thinking that it's 
+easy. Everything is self-evident. It all "makes sense". You don't realize that the well-
+paved road you're walking on is surrounded on all sides by thick jungle. Now it's your 
+turn to extend the road, and suddenly EVERYTHING is hard. Maybe you'll be the genius who 
+invents the machete. More likely you won't be, and you'll spend the next five years 
+clearing a few meters of jungle with your hands and teeth. You'll look back and think...
+that was IT?! That's all I did? The difficulty gap between understanding stuff that's 
+already been done, versus being the first person to do the stuff, spans a lot more orders 
+of magnitude than people think.
+
+**2) Success is ill-defined.**
+
+Ever hear of SMART goals? Specific, Measurable, Achievable, Relevant, Timed. Grad school is
+the polar opposite of that. You do get feedback, but it's typically worse than useless. 
+(I’m not impressed yet. Your project just lacks that special something. If you were worthy, 
+you'd already know what to do, and in fact you'd be done already.)
+
+It is very hard to maintain a consistent level of productivity in the radical absence of 
+SMART goals. No, "graduate" does not count as a goal, because there is no concrete action 
+attached. You're wandering in the fog, and you have no idea if you're heading the right 
+direction. You can go months, even years, without feeling like it mattered that you got out
+of bed that day. If there's a more effective way to induce depression in otherwise healthy 
+people, I've yet to see it.
+
+When you're in regular school, there are assignments. When you're at work, there are
+deadlines and deliverables. The rest of the world is organized this way for a reason. People
+need SMART goals.
+
+**3) Your eggs are in one basket.**
+
+As a PhD student, you are an apprentice. Your only purpose is to convince the master that you
+are worthy to join the guild. It will be his or her word that launches you to greatness. Or...
+not. Then you will have the choice between being underemployed until you die or starting from
+zero in a field that doesn't require specialized training. It's almost impossible to get 
+another PhD position if you had a falling out with your advisor. In the real world, unless you
+end up in jail or on the evening news, there are no career-ending mistakes. You can get another
+job, even if your last boss hates you. Your experience in that last job still counts for 
+something. It's not pass/fail.
+
+Likewise, you have one PhD project. You may have had a few to choose from as a beginning
+student, but now this one is yours. It's your identity. This is your chance to prove you can
+do independent research. Or...not. Your advisor's research program cannot fail, but it can be
+failed. By you. Make it work, or else. (If you disprove your advisor's pet hypothesis, which 
+is THEIR identity, who do you think they will blame? Even if you merely show infeasibility,
+this won't end well for you.)
+
+In the real world, projects fail. That's a good thing! Fail fast and pivot quickly. Most people
+have several projects going at once, so the loss of one isn't devastating. Sure, people get 
+attached to their ideas, but there's enough pressure from above that people are generally forced
+to cull the weaklings. Projects are not allowed to limp along for years (or decades!) just
+because someone's ego won't allow them to admit defeat. "Oh yeah, Aull's Magnificent Theorem. 
+There's a whole page of counterexamples on Wikipedia. I tried to tell her that, but she said it
+was fake news. Also she called me a poopyhead." That stuff is NOT tolerated in industry, thank 
+the merciful nerd gods. Let's just say that I have developed an allergy after repeated exposure.
+
+It's not healthy to stake your entire future and self-worth on the success of one project. And 
+it's much worse when the project is hard, when its ultimate failure may be due to factors
+outside your control, and when you're wandering around with no concrete markers of progress. Even
+patient, level-headed, and naturally optimistic people come out with scars.
+```
+
+Another reason is that academia rewards a very particular kind of research, and that there are outlets/avenues in industry that reward other kinds of research, including ones you wouldn't expect e.g. product design, per [Bryan Sim's answer](https://qr.ae/TW1uHs) to "What made you decide that academia is not for you?":
+
+```markdown
+For me, it was when I discovered what type of scientist I was.
+
+In my opinion, there are two types of people who get into academia: People who care about what
+they are studying, and people who care about how they study it.
+
+At some point, I realized I was being pressured to become someone I didn’t want to be. I care 
+about how we gain knowledge about the world. And over time, I found that I was happy doing research
+on trivial things for fun, but that I didn’t enjoy “building houses” or “castles”, or whatever 
+analogy was being used to denote one’s legacy of research. I especially didn’t enjoy the notion 
+that I had to “defend” my line of research from evidence to the contrary (why can’t I/we just be
+wrong?).
+
+Today, I realize that I can be a scientist anywhere, as long as my job involves learning about some
+aspect of reality the “right” way, with people I enjoy working with. This, if you think about it,
+is the core of any good product design process: You work together with a team to figure out if your
+hypothesis of what people want is true, and the results speak for themselves, whether in terms of 
+user growth or $$$ growth.
+```
+
+Another is the huge incentive/pressure to hyperspecialize, with few exceptions (mostly involving being very smart), per [Colleen Farrelly's answer](https://qr.ae/TW1uHk) to same:
+
+```markdown
+When I was working on one of my three graduate research projects, a professor with whom I was
+working congratulated me on a breakthrough and mentioned that I could make a career out of 
+studying that method and helping other researchers apply it. The thought of studying one problem
+basically to the exclusion of anything else was enough to make me literally run away. I was 
+already sick of that project and not being able to move on to something new until everything was 
+perfect and everyone liked the paper. I could never spend my whole life doing one thing. I 
+couldn't spend a year doing one thing. Data science in industry allows me to dabble in all types 
+of algorithms, advanced mathematics (like differential geometry, graph theory, algebraic
+topology...), and work on a variety of projects at once.
+
+This anecdote is but one of many reasons, and I've found a lot of academics end up pigeon-holed or
+teaching classes they don't enjoy teaching, confined by grants when something interesting comes up.
+Industry research is a lot faster and more varied, and I don't have to deal with 18-year-olds' 
+parents arguing for better grades or graduate students cheating on exams and claiming "cultural 
+differences" made them cheat...
+```
+
 <a name="#distillation-and-research-debt"></a>
 ### Distillation and research debt
 ([overview](#overview))
@@ -10479,6 +11088,526 @@ to philosophical progress that there is.
 question Q — so that an answer to Q′ would be hard to ignore in any subsequent discussion of Q, [and] (b) Q′
 should be precise enough that one can see what it would mean to make progress on Q′: what experiments one would
 need to do, what theorems one would need to prove, etc.
+```
+
+<a name="#Reality-has-a-surprising-amount-of-detail"></a>
+### Reality has a surprising amount of detail
+([overview](#overview))
+
+The main impetus for starting this subsection is John Salvatier's [eponymous essay](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail), which I keep thinking off from time to time, albeit at a very vague level. Putting this here hopefully allows me to think about it at a granular enough level to internalize and build upon. 
+
+Thesis: 
+
+```markdown
+Reality has a surprising amount of detail. This explains why its so easy for people to end 
+up intellectually stuck. Even when they’re literally the best in the world in their field.
+```
+
+Example from personal hands-on experience:
+
+```markdown
+My dad emigrated from Colombia to North America when he was 18 looking looking for a
+better life. For my brother and I that meant a lot of standing outside in the cold. 
+My dad’s preferred method of improving his lot was improving lots, and my brother and 
+I were “voluntarily” recruited to help working on the buildings we owned. That’s how 
+I came to spend a substantial part of my teenage years replacing fences, digging
+trenches, and building flooring and sheds. ...
+
+Consider building some basement stairs for a moment. Stairs seem pretty simple at 
+first, and at a high level they are simple, just two long, wide parallel boards 
+(2” x 12” x 16’), some boards for the stairs and an angle bracket on each side to hold 
+up each stair. But as you actually start building you’ll find there’s a surprising 
+amount of nuance.
+
+The first thing you’ll notice is that there are actually quite a few subtasks. Even at
+a high level, you have to cut both ends of the 2x12s at the correct angles; then screw
+in some u-brackets to the main floor to hold the stairs in place; then screw in the
+2x12s into the u-brackets; then attach the angle brackets for the stairs; then screw in
+the stairs.
+
+Next you’ll notice that each of those steps above decomposes into several steps, some
+of which have some tricky details to them due to the properties of the materials and 
+task and the limitations of yourself and your tools.
+
+The first problem you’ll encounter is that cutting your 2x12s to the right angle is a
+bit complicated because there’s no obvious way to trace the correct angles. You can
+either get creative (there is a way to trace it), or you can bust out your trig book 
+and figure out how to calculate the angle and position of the cuts.
+
+You’ll probably also want to look up what are reasonable angles for stairs. What looks
+reasonable when you’re cutting and what feels safe can be different. Also, you’re
+probably going to want to attach a guide for your circular saw when cutting the angle
+on the 2x12s because the cut has to be pretty straight.
+
+When you’re ready to you will quickly find that getting the stair boards at all the 
+same angle is non-trivial. You’re going to need something that can give you an angle 
+to the main board very consistently. Once you have that, and you’ve drawn your lines,
+you may be dismayed to discover that your straight looking board is not that straight.
+Lumber warps after it’s made because it was cut when it was new and wet and now it’s 
+dryer, so no lumber is perfectly straight.
+
+Once you’ve gone back to the lumber store and gotten some straighter 2x12s and redrawn
+your lines, you can start screwing in your brackets. Now you’ll learn that despite 
+starting aligned with the lines you drew, after screwing them in, your angle brackets
+are no longer quite straight because the screws didn’t go in quite straight and now they 
+tightly secure the bracket at the wrong angle. You can fix that by drilling guide holes 
+first. Also you’ll have to move them an inch or so because it’s more or less impossible
+to get a screw to go in differently than it did the first time in the same hole.
+
+Now you’re finally ready to screw in the stair boards. If your screws are longer than 2”,
+you’ll need different ones, otherwise they will poke out the top of the board and stab 
+you in the foot.
+
+At every step and every level there’s an abundance of detail with material consequences.
+```
+
+John points out that the lesson doesn't apply just to stair carpentry:
+
+```markdown
+It’s tempting to think ‘So what?’ and dismiss these details as incidental or specific to
+stair carpentry. And they are specific to stair carpentry; that’s what makes them details.
+But the existence of a surprising number of meaningful details is *not* specific to stairs.
+Surprising detail is a near universal property of getting up close and personal with reality.
+
+You can see this everywhere if you look. For example, you’ve probably had the experience
+of doing something for the first time, maybe growing vegetables or using a Haskell package
+for the first time, and being frustrated by how many annoying snags there were. Then you 
+got more practice and then you told yourself ‘man, it was so simple all along, I don’t know
+why I had so much trouble’. We run into a fundamental property of the universe and mistake 
+it for a personal failing.
+
+If you’re a programmer, you might think that the fiddliness of programming is a special 
+feature of programming, but really it’s that everything is fiddly, but you only notice the 
+fiddliness when you’re new, and in programming you do new things more often.
+```
+
+This isn't just human-centric domains. Even physical laws have a surprising amount of detail, as John illustrates with the example of determining the boiling point of water:
+
+```markdown
+You might think the fiddly detailiness of things is limited to human centric domains, and 
+that physics itself is simple and elegant. That’s true in some sense – the physical laws
+themselves tend to be quite simple – but the manifestation of those laws is often complex 
+and counterintuitive.
+
+Consider the boiling of water. That’s straightforward, water boils at 100 °C, right? Well 
+the stairs seemed simple too, so let’s double check.
+
+Put yourself in the shoes of someone at the start of the 1800’s, with only a crude, unmarked 
+mercury thermometer, trying to figure the physics of temperature. Go to your stove, put some
+water in a pot, start heating some water, and pay attention as it heats.
+
+*(I suggest actually doing this)*
+
+The first thing you’ll probably notice is a lot of small bubbles gathering on the surface of
+the pot. Is that boiling? The water’s not that hot yet; you can still even stick your finger
+in. Then the bubbles will appear faster and start rising, but they somehow seem ‘unboiling’.
+Then you’ll start to see little bubble storms in patches, and you start to hear a hissing 
+noise. Is that Boiling? Sort of? It doesn’t really look like boiling. The bubble storms grow
+larger and start releasing bigger bubbles. Eventually the bubbles get big and the surface of
+the water grows turbulent as the bubbles begin to make it to the surface. Finally we seem to
+have reached real boiling. I guess this is the boiling point? That seems kind of weird, what
+were the things that happened earlier if not boiling.
+
+To make matters worse, if you’d used a glass pot instead of a metal one, the water would boil
+at a higher temperature. If you cleaned the glass vessel with sulfuric acid, to remove any 
+residue, you’d find that you can heat water substantially more before it boils and when it
+does boil it boils in little explosions of boiling and the temperature fluctuates unstably.
+
+Worse still, if you trap a drop of water between two other liquids and heat it, you can raise 
+the temperature to at least 300 °C with nothing happening. That kind of makes a mockery of the
+statement ‘water boils at 100 °C’.
+
+It turns out that ‘boiling’ is a lot more complicated than you thought.
+
+This surprising amount of detail is is not limited to “human” or “complicated” domains, it is
+a near universal property of everything from space travel to sewing, to your internal
+experience of your own mind.
+```
+
+I feel like this should be apparent if you've ever done experiments, or for that matter done engineering -- it's probably a big failure mode only for high theory folk. This naturally segues into Kovar/Hall's legendary [Electron Band Structure In Germanium, My Ass](http://pages.cs.wisc.edu/~kovar/hall.html) -- you should go to the original article for Fig 1 ("check this shit out -- resistivity vs temperature"):
+
+```markdown
+   **Abstract: The exponential dependence of resistivity on temperature in germanium is found to
+   be a great big lie. My careful theoretical modeling and painstaking experimentation reveal 
+
+   1) that my equipment is crap, as are all the available texts on the subject and 
+   2) that this whole exercise was a complete waste of my time.**
+
+   **Introduction**
+
+      Electrons in germanium are confined to well-defined energy bands that are separated
+   by "forbidden regions" of zero charge-carrier density. You can read about it yourself
+   if you want to, although I don't recommend it. You'll have to wade through an obtuse,
+   convoluted discussion about considering an arbitrary number of non-coupled harmonic-
+   oscillator potentials and taking limits and so on. The upshot is that if you heat up 
+   a sample of germanium, electrons will jump from a non-conductive energy band to a 
+   conductive one, thereby creating a measurable change in resistivity. This relation 
+   between temperature and resistivity can be shown to be exponential in certain 
+   temperature regimes by waving your hands and chanting "to first order".
+
+   **Experiment procedure**
+
+      I sifted through the box of germanium crystals and chose the one that appeared to 
+   be the least cracked. Then I soldered wires onto the crystal in the spots shown in
+   figure 2b of Lab Handout 32. Do you have any idea how hard it is to solder wires 
+   to germanium? I'll tell you: real goddamn hard. The solder simply won't stick, and
+   you can forget about getting any of the grad students in the solid state labs to 
+   help you out. 
+
+      Once the wires were in place, I attached them as appropriate to the second-rate 
+   equipment I scavenged from the back of the lab, none of which worked properly. I
+   soon wised up and swiped replacements from the well-stocked research labs. This is
+   how they treat undergrads around here: they give you broken tools and then don't 
+   understand why you don't get any results.
+
+      In order to control the temperature of the germanium, I attached the crystal to a 
+   copper rod, the upper end of which was attached to a heating coil and the lower end
+   of which was dipped in a thermos of liquid nitrogen. Midway through the project, the 
+   thermos began leaking. That's right: I pay a cool ten grand a quarter to come here, 
+   and yet they can't spare the five bucks to ensure that I have a working thermos.
+
+   **Results**
+
+      Check this shit out (Fig. 1). That's bonafide, 100%-real data, my friends. I took 
+   it myself over the course of two weeks. And this was not a leisurely two weeks,
+   either; I busted my ass day and night in order to provide you with nothing but 
+   the best data possible. Now, let's look a bit more closely at this data, 
+   remembering that it is absolutely first-rate. Do you see the exponential 
+   dependence? I sure don't. I see a bunch of crap.
+
+      Christ, this was such a waste of my time. 
+
+      Banking on my hopes that whoever grades this will just look at the pictures, I 
+   drew an exponential through my noise. I believe the apparent legitimacy is enhanced
+   by the fact that I used a complicated computer program to make the fit. I understand
+   this is the same process by which the top quark was discovered.	 
+```
+
+Why can't you just "deal with it as you go along"? Because when you're trying to do really hard things that we don't know are possible, lots of details turn out to be critical for success:
+
+```markdown
+You might hope that these surprising details are irrelevant to your mission, but not so. Some of
+them will end up being key. Wood’s tendency to warp means it’s more accurate to trace a cut than 
+to calculate its length and angle. The possibility of superheating liquids means it’s important
+to use a packed bed when boiling liquids in industrial processes lest your process be highly 
+inefficient and unpredictable. The massive difference in weight between a rocket full of fuel and
+an empty one means that a reusable rocket can’t hover if it can’t throttle down to a very small 
+fraction of its original thrust, which in turn means it must plan its trajectory very precisely 
+to achieve 0 velocity at exactly the moment it reaches the ground.
+```
+
+And they're also frequently nonobvious when you run into them, they just look like "noise":
+
+```markdown
+You might also hope that the important details will be obvious when you run into them, but not so.
+Such details aren’t *automatically* visible, even when you’re directly running up against them. 
+Things can just seem messy and noisy instead. ‘Spirit’ thermometers, made using brandy and other
+liquors, were in common use in the early days of thermometry. They were even considered as a
+potential standard fluid for thermometers. It wasn’t until the careful work of Swiss physicist
+Jean-André De Luc in the 18th century that physicists realized that alcohol thermometers are 
+highly nonlinear and highly variable depending on concentration, which is in turn hard to measure.
+
+You’ve probably also had experiences where you were trying to do something and growing increasingly
+frustrated because it wasn’t working, and then finally, after some time you realize that your 
+solution method can’t possibly work.
+```
+
+And different people notice different details:
+
+```markdown
+Another way to see that noticing the right details is hard, is that different people end up noticing
+*different* details. My brother and I once built a set of stairs for the garage with my dad, and we
+ran into the problem of determining where to cut the long boards so they lie at the correct angle. 
+After struggling with the problem for a while (and I do mean struggling, a 16’ long board is heavy),
+we got to arguing. I remembered from trig that we could figure out angle so I wanted to go dig up my 
+textbook and think about it. My dad said, ‘no, no, no, let’s just trace it’, insisting that we could
+figure out how to do it.
+
+I kept arguing because I thought I was right. I felt really annoyed with him and he was annoyed with
+me. In retrospect, I think I saw the fundamental difficulty in what we were doing and I don’t think
+he appreciated it (look at the stairs picture and see if you can figure it out), he just heard ‘let’s
+draw some diagrams and compute the angle’ and didn’t think that was the solution, and if he had
+appreciated the thing that I saw I think he would have been more open to drawing some diagrams. But at
+the same time, he also understood that diagrams and math don’t account for the shape of the wood,
+which I did not appreciate. If we had been able to get these points across, we could have come to 
+consensus. Drawing a diagram was probably a good idea, but computing the angle was probably not.
+Instead we stayed annoyed at each other for the next 3 hours.
+```
+
+Notice that this example is about something as concrete and ostensibly simple as cutting long boards in stair carpentry. Differences of ideology are light-years harder, hence [erisology](#Erisology-and-thinking-less-wrongly).
+
+This brings John to an important point -- that details are either invisible because you haven't noticed them, or because you *have* and they've become integrated into your world-models a la water is to fish:
+
+```markdown
+Before you’ve noticed important details they are, of course, basically invisible. It’s hard to
+put your attention on them because you don’t even know what you’re looking for. But *after* you 
+see them they quickly become so integrated into your intuitive models of the world that they 
+become essentially transparent. Do you remember the insights that were crucial in learning to 
+ride a bike or drive? How about the details and insights you have that led you to be good at the
+things you’re good at?
+
+This means it’s really easy to get *stuck*. Stuck in your current way of seeing and thinking about
+things. Frames are made out of the details that seem important to you. The important details you
+haven’t noticed are invisible to you, and the details you have noticed seem completely obvious and
+you see right through them. This all makes makes it difficult to imagine how you could be missing
+something important.
+
+That’s why if you ask an anti-climate change person (or a climate scientist) “what could convince
+you you were wrong?” you’ll likely get back an answer like “if it turned out all the data on my 
+side was faked” or some other extremely strong requirement for evidence rather than “I would start
+doubting if I noticed numerous important mistakes in the details my side’s data and my colleagues
+didn’t want to talk about it”. The second case is much more likely than the first, but you’ll
+never see it if you’re not paying close attention.
+
+If you’re trying to do impossible things, this effect should *chill you to your bones*. It means 
+you could be intellectually stuck right at this very moment, with the evidence right in front of
+your face and you just can’t see it.
+```
+
+I'm probably lucky to not be working on impossible things. (Or maybe I am. This entire document is supposed to be an early-stage attempt in my neverending journey to build ideas via perfect *deliberate* recall.)
+
+One way to get unstuck is to try to read lots of [non-expert explanations](https://slatestarcodex.com/2017/11/02/non-expert-explanation/), because they tend to focus on different sticking points (i.e. critical details). Another is to take John's advice:
+
+```markdown
+This problem is not easy to fix, but it’s not impossible either. I’ve mostly fixed it for myself.
+The direction for improvement is clear: seek detail you would not normally notice about the world.
+When you go for a walk, notice the unexpected detail in a flower or what the seams in the road 
+imply about how the road was built. When you talk to someone who is smart but just seems so wrong,
+figure out what details seem important to them and why. In your work, notice how that meeting 
+actually wouldn’t have accomplished much if Sarah hadn’t pointed out that one thing. As you learn,
+notice which details actually change how you think.
+```
+
+<a name="#reading-the-masters-in-philosophy"></a>
+### Reading the masters in philosophy
+([overview](#overview))
+
+(See also [Reading the masters in math](#reading-the-masters-in-math), or my old post [8If Aristotle were a pro skater: or, reading the masters in math and philosophy*](https://mosstuff.quora.com/If-Aristotle-were-a-pro-skater-or-reading-the-masters-in-math-and-philosophy) to see both math and philo in one place.) 
+
+Should you read the masters? In other words, should you prefer primary sources to summaries and commentaries?
+
+On the one hand, the masters are the masters, so surely there’s *something* to reading them. On the other hand, I’m the kind of person who easily gets lost in walls of text, so when it comes to writing on difficult / ‘slippery’ topics I prefer polished, non-digressive reads. And primary texts, so they seem, are nothing but digressive.
+
+(I suppose it depends why you’re reading. If it’s for enjoyment then secondhand sources certainly won’t cut it. I’m usually looking for insight; enjoyment I relegate to fiction, or exceptionally-written exposition, or something.)
+
+This means I’m partial to Scott Alexander’s stance w.r.t reading the masters, from his post [Book Review: Singer on Marx](http://slatestarcodex.com/2014/09/13/book-review-singer-on-marx/):
+
+```markdown
+I’m not embarrassed for choosing Singer’s Marx: A Very Short Introduction as a jumping-off
+point for learning more leftist philosophy. I weighed the costs and benefits of reading
+primary sources versus summaries and commentaries, and decided in favor of the latter.
+
+The clincher was that the rare times I felt like I really understand certain thinkers and 
+philosophies on a deep level, it’s rarely been the primary sources that did it for me, 
+even when I’d read them. It’s only after hearing a bunch of different people attack the 
+same idea from different angles that I’ve gotten the gist of it. The primary sources – 
+especially when they’re translated, especially when they’re from the olden days before 
+people discovered how to be interesting – just turn me off. Singer is a known person who
+can think and write clearly, and his book was just about the shortest I could find, so I 
+jumped on it…
+```
+
+It doesn’t help that Andrew L’s comment in [this MO thread](https://mathoverflow.net/questions/28268/do-you-read-the-masters) is essentially what I think of the masters (to wit, that they’re notoriously hard to read):
+
+```markdown
+There's a myth surrounding Abel's dictum that stems from the unreadability of the masters
+like Gauss as a measure of their nearly inhuman brilliance. This is a fallacy.
+
+The reason the masters are so difficult to read is because we are catching them with their
+pants down in the act of creation: they are groping towards the right notation and 
+terminology, but aren't quite there yet.
+```
+
+Notation ("polish", as derisively referred to sometimes) is a UI design problem. UI design problems in research can be very nontrivial and extremely impactful from the standpoint of [interpretive labor](#distillation-and-research-debt). 
+
+In Katja Grace's essay [Why read old philosophy?](https://meteuphoric.com/2017/01/04/why-read-old-philosophy/amp/), which is the main inspiration for this section, she begins by contrasting philosophy with physics, and pretty much every other book subject:
+
+```markdown
+We read old physicists if we want to do original research on the history of physics. Or 
+maybe if we are studying an aspect of physics so obscure that nobody has covered it in
+hundreds of years. If we want to learn physics we read a physics textbook. As far as I 
+know, the story is similar in math, chemistry, engineering, economics, and business 
+(though maybe some other subjects that I know less about are more like philosophy).
+
+Yet go to philosophy grad school, and you will read original papers and books by 
+historical philosophers. Research projects explore in great detail what it is that
+Aristotle actually said, thought, and meant. Scholars will learn the languages that the
+relevant texts were written in, because none of the translations can do the texts the 
+necessary justice. The courses and books will be named after people like ‘Hume’ as often 
+as they are named after topics of inquiry like ‘Causality’ and larger subject areas will
+be organized by the spatiotemporal location of the philosopher, rather than by the subject
+matter: Ancient Philosophy, Early Modern Philosophy, Chinese Philosophy, Continental 
+Philosophy.
+```
+
+This should be confusing. It definitely confuses me. To elaborate on how it would look like in physics:
+
+```markdown
+The physics situation makes a lot more sense to me. Hypothetically, who would I rather 
+read an explanation of ‘The Alice Effect’ by? —Alice, the effect’s seventeenth century
+discoverer, or Bob, a modern day physics professor authoring a textbook?
+
+Some salient considerations, neutrality not guaranteed:
+
+- Alice’s understanding of the Alice effect is probably the most confused understanding 
+of it in all of history, being the first ‘understanding of the Alice effect’ to set 
+itself apart from ‘confusion and ignorance about the Alice effect’.
+
+- In the billions of lifetimes that have passed since Alice’s time, the world has 
+probably thought substantially more about The Alice Effect than Alice managed to in 
+her lifetime, at least if it is important at all.
+
+- Alice’s very first account of the effect probably contained imperfections. Bob can 
+write about the theory as it stood after years of adjustment.
+
+- Even if Alice’s account was perfectly correct, it was probably not perfectly well
+explained, unless she happens to have been a great explainer as well as a great 
+physicist.
+
+- Physics has made many discoveries since Alice’s time, such as Claire forces, Evan motion
+and Roger fields. It might be easier to understand all of this by starting with the Roger 
+fields, and explaining the Alice effect as a consequence. However literature from the 
+likes of Alice is constrained to cover topics chronologically by date of discovery.
+
+- Bob speaks a similar version of English to me.
+
+- Bob can be selected for having particular skill at writing and explanation, whereas Alice
+must be selected for having the scientific prowess to make the discovery.
+
+- Bob is actually trying to explain the thing to a 21st Century reader, while Alice is
+writing to pique the interest of some seventeenth century noblemen who lack modern 
+intellectual machinery and are interested in issues like whether this is compatible with
+religion. An accurate impression of a 21st Century reader would probably cause Alice to 
+fall over.
+
+I think Bob is a solid choice.
+```
+
+So why is philosophy different?
+
+```markdown
+Some pieces of explanations I heard, or made up while hearing other explanations:
+
+- You have to be smarter than the original philosopher to summarize their work well, so
+there are few good summaries
+
+- The translations are all terrible for conveying the important parts
+
+- Philosophy is not trying to communicate normal content that can be in explicit 
+statements, of the kind you might be able to explain well and check the understanding of
+and such.
+
+- Philosophy is about having certain experiences which pertain to the relevant philosophy,
+much like reading a poem is different to reading a summary of its content.
+```
+
+None of this convinces Katja. She eventually settles on the "Aristotle as pro skater" analogy:
+
+```markdown
+Here’s my explanation. Reading Aristotle describe his thoughts about the world is like 
+watching Aristotle ride a skateboard if Aristotle were a pro skater. You are not getting
+value from learning about the streets he is gliding over (or the natural world that he is
+describing) and you should not be memorizing the set of jumps he chooses (or his 
+particular conceptualizations of the world). You are meant to be learning about how to
+carry out the activity that he is carrying out: how to be Aristotle. How to do what
+Aristotle would do, even in a new environment.
+
+An old work of philosophy does not describe the thing you are meant to be learning about. 
+It was created by the thing you are meant to be learning about, much like watching a video
+from skater-Aristotle’s GoPro. And the value proposition is that with this high resolution
+Aristotle’s-eye-view, you can infer the motions.
+
+There is not a short description  of the insights you should learn (or at least not one
+available), because the insights you are hopefully learning are not the insights that
+Aristotle is trying to share. Aristotle might have highly summarizable insights, but what 
+you want to know is how to be Aristotle, and nobody has necessarily developed an abstract 
+model of how to be Aristotle from which summary statements can be extracted.
+
+So it is not that the useful content being transmitted is of a special kind that is immune
+to being communicated as statements. It is just not actually known in statements. Nobody 
+knows which aspects of being Aristotle are important, and nobody has successfully made a
+simplified summary. What we ‘know’ is this one very detailed example. Much like if I showed
+you a bee because I thought I couldn’t communicate it in words—it would not be because bees
+are mysteriously indescribable, it would be that I haven’t developed the understanding 
+required to describe what is important about it, so I’m just showing you the whole bee.
+
+On this theory, if someone doesn’t realize what is going on, and tries to summarize
+Aristotle’s writings in the way that you would usually summarize the content of a passage,
+you entirely lose what was valuable about it. Much as you would if you summarized a video 
+of a skater in motion into a description of the environment that they had interacted with.
+I hypothesize that this is roughly what happens, and is why it feels like summaries can’t 
+capture what is important, and probably why translations seem bad always. Whenever a person
+tries to do a translation, they faithfully communicate the content of the thoughts at the
+expense of faithfully communicating the thinking procedure.
+```
+
+This sounds like alkjash's [becoming the grand meta-theorem](#two-cultures):
+
+```markdown
+My take on the "Two Cultures" model of problem-solvers and theory-builders: theory-building
+fields of mathematics like algebraic topology (say) are those where the goal is to articulate 
+grand meta-theorems that are bigger than any particular application. This was the work of a
+Grothendieck.
+
+Meanwhile, concrete problem-solving fields of mathematics like combinatorics are those where
+the goal is to *become* the grand meta-theorem that contains more understanding than any 
+particular theorem you can prove. This was the style of an Erdos. The inarticulate grand meta-
+theorems lived in his cognitive strategies so that the theorems he actually proved are 
+individually only faint impressions thereof.
+```
+
+There may be something about analytic philosophy being the part of philosophy that's more legible, and the less-legible parts of philosophy would then be the ones where you derive more value from reading primary sources -- but that's just a guess. That would be the intra-subject version of the inter-subject situation Katja actually does talk about towards the end:
+
+```markdown
+Why would you want to be like Socrates, and not like Newton? Especially since Newton had more 
+to show for his thoughts than an account of what his thoughts were like. I suspect the 
+difference is that because physicists invent explicit machinery that can be easily taught,
+when you learn physics you spend your time mastering these tools. And perhaps in the process,
+you come to think in a way that fits well with these tools. Whereas in philosophy there is
+much less in the way of explicit methods to learn, so the most natural thing to learn is how
+to do whatever mental processes produce good philosophy. And since there is not a consensus on
+what they are like in the abstract, emulating existing good philosophers is a plausible way to
+proceed.
+
+I was in the CMU philosophy department, which focuses on more formal methods that others might
+not class as philosophy—logic, algorithms for determining causality, game theory—and indeed in
+logic class we learned a lot of logical lemmas and did a lot of proofs and did not learn much 
+about Frege or Gödel, though we did learn a bit about their history and thought at other point
+in the program.
+
+(This story would suggest that in physics students are maybe missing out on learning the styles
+of thought that produce progress in physics. My guess is that instead they learn them in grad 
+school when they are doing research themselves, by emulating their supervisors, and that the 
+helpfulness of this might partially explain why Nobel prizewinner advisors beget Nobel
+prizewinner students.)
+```
+
+Katja gives the following example of a translation that "faithfully communicates the content of the thoughts at the expense of faithfully communicating the thinking procedure":
+
+```markdown
+For instance, suppose I have a sentence like this:
+
+	We have enough pieces of evidence to say that 
+	friendly banter is for counter-signaling.
+
+If not quite the same words were available in a different language, it might get translated to:
+
+	We have seen enough evidence to know that 
+	friendly banter is for counter-signaling.
+
+Which tells us something very similar about whether friendly banter is for counter-signaling.
+
+But something subtle is lost about the process: in the initial statement, the author is 
+suggesting that they are relying on the accretion of many separate pieces of evidence that
+may not have been independently compelling, whereas in the latter that is not clear. Over a
+long text, sentences like the former might give the reader an implicit understanding of how
+disparate and independently uncompelling evidence might be combined in the intuition of the 
+author, without the issue ever being explicitly discussed. In the latter, this implication is
+entirely lost.
+
+So I think this explains the sense that adequate summarization is impossible and translation
+is extremely difficult. At least, if we assume that people either don’t know what is really 
+going on.
 ```
 
 <a name="#diseased-philosophy"></a>
@@ -13247,9 +14376,553 @@ Mechanics and some physics related to field theories and string theory; and—of
 connects to this.
 ```
 
+<a name="#Solving-math-problems-terribly"></a>
+### Solving math problems terribly
+([overview](#overview))
+
+From Alon Amit's wonderful essay [Solving math problems terribly](https://qr.ae/TUnpLe):
+
+```markdown
+When you solve a math problem, especially a hard one, there’s a profound sense of
+accomplishment accompanied by a need to share your masterpiece with the world. In doing 
+so, most people’s instinct is to present the solution in its most pristine, elegant,
+nicely worked-out form. This works well to impress, but not so well to teach.
+
+After all, your path to discovery almost certainly didn’t land on that clean, elegant 
+solution right away. You stumbled, fumbled and groped in the dark for a while, you tried
+various things that failed, you hit on the right path only thanks to some instinct or 
+intuition or methodology that makes sense to you but is hard to describe, and so on. All
+of that stuff is, lamentably, missing from the vast majority of research papers, “solutions
+to exercises” appendices, and even most worked-out solutions on places like AoPS, where 
+ostensibly the goal is to help people become better problem solvers.
+
+On several occasions on Quora, I resisted the urge to present a short, glamorous solution
+to a problem, and instead revealed in painful detail the false turns, stupid blunders and 
+failed attempts I went through as I was solving it...
+
+I like that. I think it’s helpful, I think it’s not done often enough, and I think
+presenting the most elegant solution can be downright harmful. It makes readers feel it’s
+magic, and they would have had no chance of discovering it themselves. It can be 
+intimidating and makes math look like voodoo. It’s not. Many things that look like strokes 
+of genius are actually the result of very methodical and organized efforts.
+
+So, in the future, I intend to keep doing that as much as I can. And when I do, I don’t 
+want to spend the first few paragraphs of every such answer explaining my rationale. ...
+
+Please keep in mind:
+
+1. This approach will make many of my answers *long*. Don’t be intimidated by that. I could
+have made them 90% shorter and 100% more mysterious. If you’re genuinely interested in 
+learning how to solve math problems, I hope that my revealing the meandering path is more
+helpful even if it makes for longer answers.
+
+2. My experience and my failures are still my own, and yours may differ. I hope you learn 
+something from my experience, but I can’t guarantee that it works in all cases.
+
+3. It’s impossible to reduce a problem solving journey to absolute first principles. Every 
+problem we successfully solve relies on some amount of prior knowledge, experience and 
+preparation. I’ll try to highlight those explicitly whenever I can, but please be aware that
+you do need to be prepared. If I solve a problem using complex analysis and you happen to 
+not know anything about complex analysis, it’s unlikely that you’ll learn a whole lot from 
+reading my answer.
+```
+
+<a name="#product-management-of-math"></a>
+### Product management of math
+([overview](#overview))
+
+I've never seen this perspective articulated before or since, which makes it all the more valuable. This is from Alon Amit's [The Product Management of Mathematics](https://affinemess.quora.com/The-Product-Management-of-Mathematics). 
+
+Exposition:
+
+```markdown
+Ask someone “what is a real number?”, and you will likely get something involving Cauchy
+sequences, or Dedekind cuts, or decimal expansions.
+
+Ask them “what is a complex number?”, and you may be informed about pairs of real numbers
+with an i thrown in.
+
+Ask them “what’s the difference between Riemann and Lebesgue integration?”, and in all 
+likelihood you’ll get a dollop of Riemann sums, vertical vs horizontal partitioning, and
+some measure theory.
+
+All of these answers are correct. All of them, and many like them, are wrong. Not *wrong* as
+in *incorrect*, but wrong as in this is *not the right answer*. It’s likely unhelpful, or at 
+least not the most helpful it could be.
+
+Why?
+
+Ask someone “what is the difference between Facebook and Twitter?” Imagine they start telling
+you about Scala, PHP, Thrift, Hadoop, Memcached and the like. If they know what they’re
+talking about, they may provide you with a very accurate picture of the differences between
+the tech stacks and software architectures of the two services. Their answer may be fully 
+correct.
+
+But this isn’t what you wanted to know, is it? The answer is correct, but useless.
+
+What you want to know is what is the difference between the *products*. What people who *use* 
+them experience differently. You want to know about friending vs following, sharing vs
+broadcasting, personal social circles vs celebrity fan bases, and so on. You don’t care about
+specific features, and you certainly don’t care about the underlying technology. You care 
+about the experience, what it feels like, what you can do and how you are likely to use them.
+
+You see, the math examples I gave are like answering the FB/Twitter question with the tech 
+stack. It’s telling you about the inner workings, the construction, the engineering of those 
+mathematical concepts instead of telling you what they *do*, which is what a Math Product Manager
+would tell you.
+
+A Math Product Manager would explain the difference between Riemann and Lebesgue integration
+without ever mentioning Riemann sums and partitioning the range instead of partitioning the 
+domain. Those things belong to the Math Engineers. The Riemann Integral and Lebesgue Integral 
+are *products*. They have some commonalities (like Facebook and Twitter) and certain profound, 
+crucial differences, and it is those differences you should care about, and those are 
+differences in what they *do*, not how they are *built*.
+
+Both integrals are machines, black boxes, devices that crunch functions and produce numbers. 
+They are both linear, monotonic and have other nice features. The Lebesgue integral, however,
+can handle many functions which make the Riemann integral crash. The Lebesgue integral, in fact,
+has a much better-written spec: it’s possible, with reasonable effort, to describe just what it
+can and cannot do. The Riemann integral is a classical “engineering-driven” product: it was 
+built, rather than defined. It works great when it works, but describing exactly what it’s *good*
+for is next to impossible.
+
+This is the difference between engineering-oriented and product-oriented *exposition* of mathematical
+ideas. It’s a difference in how we choose to teach, to explain, to clarify. 
+```
+
+Research:
+
+```markdown
+But the difference between Math PMs and Math Engineers goes well beyond math education. It exists 
+right at the very endeavor of doing mathematics.
+
+Product Managers *define* products. Engineers *build* them. Math research can sometimes be seen in 
+an analogous way.
+
+When faced with a challenge, many mathematicians start building scaffolding and structures with 
+ingredients they have, piecing them together and hoping to achieve what they set to achieve. But
+other times, they try to step back and define what it is they hope to build.
+
+This can take the form of a *program*: a plan for a mathematical reality we don’t yet understand. We
+don’t even know if it’s possible, but the far-sighted among us can envision. Robert Langlands,
+famously, created such a program.
+
+Other times, this literally takes the form of a “product spec”. Following the success of proving 
+the Weil Conjectures for curves over finite fields, André Weil created an ambitious program for
+expanding them into a profound, far-reaching edifice, but he also suggested how this could be done:
+by creating a cohomology theory for contexts where there was no apparent way to have one. Weil 
+wrote a spec for this cohomology theory, but he didn’t know how to build it. It took decades to 
+build, but this is just how étale cohomology came to be: it was an engineering response to a 
+product spec. Grothendieck, Deligne and others knew what requirements they needed to satisfy. They
+set out to satisfy them. Grothendieck himself created far, far-reaching definitions for mathematical
+universes we are still trying to put together.
+
+At a much smaller scale, math research and even math problem solving are sometimes like that. A 
+mathematician may say to themselves, if only I had a non-abelian analogue of this… this is a rough
+spec. A problem solver may think, wow, if only I could have an energy function with *these* 
+properties… hmmm… It’s a top-down instead of a bottom-up approach: instead of using the given data,
+you are portraying what you need, the end result, and then you try to build it, sometimes literally
+working backwards from the specification.
+
+To be clear, this isn’t a competition or a war between camps. Product Managers and Engineers work 
+together, not against each other. Successful companies and products emerge when they work together
+well. There are usually more engineers than PMs, and it’s the same in math. In software development,
+it is more common to have the discipline to define what you’re after before you start building it. 
+Many mathematicians work without a product spec, and that’s fine and reasonable because often they 
+don’t know what they will find. It’s research, not product development.
+
+But there are at least two contexts in which the PM perspective is important: when mathematical 
+leaders like Langlands, Grothendieck and Weil define a vision for what’s needed; and when we *teach*. 
+Because when we teach it’s crucial to explain not just *how* something is built but also *why*. Why 
+did we introduce quaternions? Why did we introduce cohomology theory? Why did we introduce measures,
+matroids or matrices? What can you *do* with those things? How do you *use* them?
+
+That’s true even if, historically, some of those things were stumbled upon rather than designed, 
+constructed haphazardly rather than under the watchful eye of a product designer. The number e was
+originally defined as the limit of certain compound interest calculations; this is almost irrelevant
+nowadays. That’s not why it’s so important. When we teach it today, we can clarify its utility and
+importance as a *product*.
+
+I’ve often quoted Tim Gowers’ tenet that mathematical objects *are* what they *do*. I think this is 
+a facet of the same idea: thinking in product terms, rather than engineering terms, can often be 
+helpful in understanding math, in teaching math, and in guiding mathematical research. You don’t 
+have to be math PM, but it’s good to know that they exist. And I take comfort in knowing that 
+sometimes I play a PM role when I teach math, in rough analogy to my own day job.
+
+It’s a good feeling.
+```
+
+<a name="#Thinking-and-explaining"></a>
+### Thinking and explaining
+([overview](#overview))
+
+I always return to the late Bill Thurston's great MO question [Thinking and explaining](https://mathoverflow.net/questions/38639/thinking-and-explaining) every few months or years for the wealth of insightful quotes within. Here I place them within the wider context of my walled garden of ideas/document.
+
+Bill's question:
+
+```markdown
+How big a gap is there between how you think about mathematics and what you say to others?
+Do you say what you're thinking? Please give either personal examples of how your thoughts
+and words differ, or describe how they are connected for you.
+
+
+I've been fascinated by the phenomenon the question addresses for a long time. We have 
+complex minds evolved over many millions of years, with many modules always at work. A 
+lot we don't habitually verbalize, and some of it is very challenging to verbalize or to
+communicate in any medium. Whether for this or other reasons, I'm under the impression 
+that mathematicians often have unspoken thought processes guiding their work which may 
+be difficult to explain, or they feel too inhibited to try. One prototypical situation 
+is this: there's a mathematical object that's obviously (to you) invariant under a 
+certain transformation. For instant, a linear map might conserve volume for an 'obvious'
+reason. But you don't have good language to explain your reason---so instead of 
+explaining, or perhaps after trying to explain and failing, you fall back on computation. 
+You turn the crank and without undue effort, demonstrate that the object is indeed
+invariant.
+
+Here's a specific example. Once I mentioned this phenomenon to Andy Gleason; he immediately
+responded that when he taught algebra courses, if he was discussing cyclic subgroups of a
+group, he had a mental image of group elements breaking into a formation organized into 
+circular groups. He said that 'we' never would say anything like that to the students. His
+words made a vivid picture in my head, because it fit with how I thought about groups. I 
+was reminded of my long struggle as a student, trying to attach meaning to 'group', rather
+than just a collection of symbols, words, definitions, theorems and proofs that I read in 
+a textbook.
+```
+
+The following are MO's responses I liked. 
+
+Here's one by Bill that comes to mind every once in a while:
+
+```markdown
+When listening to a lecture, I can't possibly attend to every word: so many words blank 
+out my thoughts. My attention repeatedly dives inward to my own thoughts and my own mental
+models, asking 'what are they really saying?' or 'where is this going?'. I try to shortcut
+through my own understanding, then emerge to see if I'm still with the lecture.
+```
+
+And here's another, also by Bill:
+
+```markdown
+I've learned that when I go back to look at something, my thinking has usually rounded off
+too many corners, so my understanding is much fuzzier. I sometimes find things I have 
+written to be very obtuse. I was too wrapped up in my then state of mind to express ideas 
+clearly even to myself, reading it much later.
+
+What's important is not the process by which you arrived at an idea, but a story that gives
+the idea context and meaning. It's a story you make: a setting of meaning and reason for the 
+idea, rather than the history of how you stumbled on the idea.
+```
+
+Terry Tao is -- well, he's as close as you'll get to a universal problem-solver this generation:
+
+```markdown
+I find there is a world of difference between explaining things to a colleague, and explaining
+things to a close collaborator. With the latter, one really can communicate at the intuitive
+level, because one already has a reasonable idea of what the other person's mental model of the
+problem is. In some ways, I find that throwing out things to a collaborator is closer to the 
+mathematical thought process than just thinking about maths on one's own, if that makes any 
+sense.
+
+One specific mental image that I can communicate easily with collaborators, but not always to 
+more general audiences, is to think of quantifiers in game theoretic terms. Do we need to show
+that for every epsilon there exists a delta? Then imagine that you have a bag of deltas in your
+hand, but you can wait until your opponent (or some malicious force of nature) produces an 
+epsilon to bother you, at which point you can reach into your bag and find the right delta to 
+deal with the problem. Somehow, anthropomorphising the "enemy" (as well as one's "allies") can 
+focus one's thoughts quite well. This intuition also combines well with probabilistic methods, 
+in which case in addition to you and the adversary, there is also a Random player who spits out
+mathematical quantities in a way that is neither maximally helpful nor maximally adverse to your 
+cause, but just some randomly chosen quantity in between. The trick is then to harness this
+randomness to let you evade and confuse your adversary.
+
+Is there a quantity in one's PDE or dynamical system that one can bound, but not otherwise 
+estimate very well? Then imagine that it is controlled by an adversary or by Murphy's law, and 
+will always push things in the most unfavorable direction for whatever you are trying to
+accomplish. Sometimes this will make that term "win" the game, in which case one either gives up
+(or starts hunting for negative results), or looks for additional ways to "tame" or "constrain" 
+that troublesome term, for instance by exploiting some conservation law structure of the PDE.
+
+For evolutionary PDEs in particular, I find there is a rich zoo of colourful physical analogies
+that one can use to get a grip on a problem. I've used the metaphor of an egg yolk frying in a
+pool of oil, or a jetski riding ocean waves, to understand the behaviour of a fine-scaled or 
+high-frequency component of a wave when under the influence of a lower frequency field, and how
+it exchanges mass, energy, or momentum with its environment. In one extreme case, I ended up 
+rolling around on the floor with my eyes closed in order to understand the effect of a gauge 
+transformation that was based on this type of interaction between different frequencies. 
+(Incidentally, that particular gauge transformation won me a Bocher prize, once I understood how 
+it worked.) I guess this last example is one that I would have difficulty communicating to even 
+my closest collaborators. Needless to say, none of these analogies show up in my published papers,
+although I did try to convey some of them in my PDE book eventually.
+
+ADDED LATER: I think one reason why one cannot communicate most of one's internal mathematical
+thoughts is that one's internal mathematical model is very much a function of one's mathematical
+upbringing. For instance, my background is in harmonic analysis, and so I try to visualise as
+much as possible in terms of things like interactions between frequencies, or contests between 
+different quantitative bounds. This is probably quite a different perspective from someone 
+brought up from, say, an algebraic, geometric, or logical background. I can appreciate these other
+perspectives, but still tend to revert to the ones I am most personally comfortable with when I am
+thinking about these things on my own.
+
+ADDED (MUCH) LATER: Another mode of thought that I and many others use routinely, but which I 
+realised only recently was not as ubiquitious as I believed, is to use an "economic" mindset to 
+prove inequalities such as X≤Y or X≤CY for various positive quantities X,Y, interpreting them in the
+form "If I can afford Y, can I therefore afford X?" or "If I can afford lots of Y, can I therefore
+afford X?" respectively. This frame of reference starts one thinking about what types of quantities
+are "cheap" and what are "expensive", and whether the use of various standard inequalities 
+constitutes a "good deal" or not. It also helps one understand the role of weights, which make things
+more expensive when the weight is large, and cheaper when the weight is small.
+
+ADDED (MUCH, MUCH) LATER: One visualisation technique that I have found very helpful is to
+incorporate the ambient symmetries of the problem (a la Klein) as little "wobbles" to the objects 
+being visualised. This is most familiarly done in topology ("rubber sheet mathematics"), where every
+object considered is a bit "rubbery" and thus deforming all the time by infinitesimal homeomorphisms.
+But geometric objects in a scale-invariant problem could be thought of as being viewed through a 
+camera with a slightly wobbly zoom lens, so that one's mental image of these objects is always 
+varying a little in size. Similarly, if one is in a translation-invariant setting, one's mental
+camera should be sliding back and forth just a little to remind you of this, if one is working in a 
+Euclidean space then the camera might be jiggling through all the rigid motions, and so forth. A more
+advanced example: if the problem is invariant under tensor products, as per the tensor product trick,
+then one's low dimensional objects should have a tiny bit of shadowing (or perhaps look like one of 
+these 3D images when one doesn't have the polarised glasses, with the slightly separated red and blue
+components) that suggest that they are projections of a higher dimensional Cartesian product.
+
+One reason why one wants to do this is that it helps suggest useful normalisations. If one is
+viewing a situation with a wobbly zoom lens and there is some length that appears all over one's
+analysis, one is reminded that one can spend the scale invariance of the problem to zoom up or 
+down as appropriate to normalise this scale to equal 1. Similarly for other ambient symmetries.
+
+This sort of wobbling of symmetries is also available in less geometric settings. When viewing,
+say, a graph on n vertices, perhaps the labels 1,…,n on the vertices have a tendency to swap with 
+each other every so often, to emphasise the symmetry of relabeling in graph theory. Similarly, 
+when dealing with a set {a,b,c,d,…}, perhaps the positions of the elements a,b,c,d in one's
+enumeration of the set are volatile and swap places every so often. In analysis, one often only 
+cares about the order of magnitude of some very large or very small quantity X, rather than its 
+exact value; so one should view this quantity as being a bit squishy in size, growing or shrinking
+by a factor of two or so every time one looks at the problem. If there is some probability theory
+in one's problem, and some of your objects are random variables rather than deterministic 
+variables, then you can imagine that every so often the "game resets", with the random variables
+jumping around to different values in their range (and any quantities depending on these variables 
+changing accordingly), whereas the deterministic variables stay fixed. Similarly if one has generic
+points in a variety, or nonstandard objects in a space (with the point being that if something bad
+happens if, say, your generic point is trapped in a subvariety, you can "reset the game" in which 
+the generic point is now outside the subvariety; similarly one can "reset" an unbounded nonstandard 
+number to be larger than any given standard number, etc.).
+```
+
+Tim Gowers notes that this also happens "at the very bottom" in simple arithmetic:
+
+```markdown
+This phenomenon occurs not just in advanced mathematics but also right at the very bottom in 
+simple mental arithmetic. If I have to do a moderately complicated calculation such as adding 
+two three-digit numbers, there's often a part of my brain that jumps ahead to the answer before
+another more cautious part has got there with carefully checked calculations. The first part 
+just sort of feels the answer and then says "I told you so" to the second part, except 
+occasionally when the first part gets it wrong and the second part says "Now you know why I
+bother to be careful" to the first part.
+
+And there are also aspects of how I carry out integer addition and subtraction that I would 
+normally be a bit embarrassed to verbalize, such as that if I subtract 48 from 135 then there's 
+a preliminary answer, 97, that I know from experience is wrong and has to be corrected by
+subtracting 10. (The justification for the preliminary answer is that 13-4=9 and that the answer
+must end in a 7.) It's not quite what's going on in my head, but it's almost as though I say, 
+"OK I'll subtract 58 instead so as to get the right answer." But if I were teaching this to a 
+child then I'd tell a slightly different story, such as borrowing 1, or first subtracting 50 and 
+then adding 2.
+```
+
+Bill agrees:
+
+```markdown
+I agree, beginning math is a very rich and intriguing area. I've discussed arithmetic questions
+with many young children, and they are often very creative in strategies to think their way to
+an answer. It really requires being on your toes to discern their thought processes, because the
+words do not match adult expectations; they often take phrases with logical meanings that I've
+suppressed because of convention. To teach math to kids, I think it's paramount to encourage 
+them to think, rather than teach conventional "borrowing 1" type stories. Early math teaching 
+usually *suppresses* thinking.
+```
+
+I also like Deane Yang's response to Gowers above:
+
+```markdown
+Actually, I like explaining ways of solving problems that involve making mistakes, intentional 
+or not, and then figuring out how to correct them. I like this better than trying to teach
+error-free algorithms, because it incorporates the error-checking as a natural part of the process.
+I believe we should be teaching more systematic methods for finding and correcting errors. 
+Students should learn when guessing, checking, and correcting is faster and easier than a more 
+direct algorithm. Integrals that require more than one integration by parts is an obvious example
+of this.
+```
+
+Alon Amit takes what Deane says above and makes it the guiding ethos of his expository math writing on Quora (see [Solving math problems terribly](#Solving-math-problems-terribly)).
+
+And then there's Vivek Shende's "subconscious mastication", which is analogous to Ramanujan, just slower:
+
+```markdown
+I have a worse problem than having unspoken thought processes: some of my best thought processes
+are simply beneath the level of consciousness and I don't notice them at all until they're finished.
+Even then, I often get only an answer and not an explanation out of them. Surely this happens to 
+everyone: the problem solved during sleep, the idea on a walk in the woods, the conviction that a 
+conjecture is true on utterly minimal evidence, the argument that pops up full formed in the middle
+of a conversation.
+
+My mathematical process is roughly this: consciously, I try a lot of stupid things which essentially
+have no chance of working but do have the benefit of exposing me to lots of examples; these examples
+pile up and are subconsciously masticated for days, weeks, months -- I'm not old enough 
+mathematically to put "years" here yet -- and eventually by some inner and unobservable process I 
+just have a feeling about what to do.
+
+Perhaps that's an exaggeration. But I certainly do feel that way sometimes, and to the extent that 
+it's true, it means that the whole project of trying to communicate how I thought of something is 
+just telling stories, at least if I say anything other than "well, I just knew one day."
+```
+
+Cam MacLeman:
+
+```markdown
+One of my favorites from undergrad was describing a linear transformation as a commander-
+in-chief, who told the generals (a basis) where to go, who in turn tells all the soldiers
+(the rest of the vectors) where to go. The chain of command in action in a linear algebra
+class.
+```
+
 <a name="#math-advice"></a>
 ### Math advice
 ([overview](#overview))
+
+<a name="#reading-the-masters-in-math"></a>
+### Reading the masters in math
+([overview](#overview))
+
+(See also [Reading the masters in philosophy](#reading-the-masters-in-philosophy), or my old post [If Aristotle were a pro skater: or, reading the masters in math and philosophy*](https://mosstuff.quora.com/If-Aristotle-were-a-pro-skater-or-reading-the-masters-in-math-and-philosophy) to see both math and philo in one place.) 
+
+Should you read the masters? In other words, should you prefer primary sources to summaries and commentaries?
+
+On the one hand, the masters are the masters, so surely there’s something to reading them. On the other hand, I’m the kind of person who easily gets lost in walls of text, so when it comes to writing on difficult / ‘slippery’ topics I prefer polished, non-digressive reads. And primary texts, so they seem, are nothing but digressive.
+
+(I suppose it depends why you’re reading. If it’s for enjoyment then secondhand sources certainly won’t cut it. I’m usually looking for insight; enjoyment I relegate to fiction, or exceptionally-written exposition, or something.)
+
+It doesn’t help that Andrew L’s comment in [this MO thread](https://mathoverflow.net/questions/28268/do-you-read-the-masters) is essentially what I think of the masters (to wit, that they’re notoriously hard to read):
+
+```markdown
+There's a myth surrounding Abel's dictum that stems from the unreadability of the masters
+like Gauss as a measure of their nearly inhuman brilliance. This is a fallacy.
+
+The reason the masters are so difficult to read is because we are catching them with their
+pants down in the act of creation: they are groping towards the right notation and
+terminology, but aren't quite there yet.
+
+For example, it's pretty clear Riemann in his doctoral lecture was trying to explain the 
+need for higher dimensional spaces that went beyond familiar three dimensional space 
+("multiply extended quantities") which preserved all the familiar properties of the usual
+Euclidean spaces, i.e. Kleinian transformations and calculus in local neighborhoods. The
+problem was without either linear algebra or the fundamentals of topology, it was next to 
+impossible to express this idea clearly and precisely. He just ends up babbling on about
+what's needed. But all the same, Riemann recognized what was needed, even if how to
+express it correctly was beyond his ability.
+```
+
+There must be *something* to reading the masters, or at least primary sources. What could it be?
+
+Often you can judge how ‘mature’ a field is by seeing how much shorter proofs of old results become when appropriate machinery gets developed and subsumes them as special cases within the larger theoretical framework. (Think Grothendieck, but less extreme.) This is usually good. But then there are cases to the contrary, like Fedja’s experience, recounted in the MO thread [Papers better than books?](https://mathoverflow.net/questions/140954/papers-better-than-books?lq=1&noredirect=1):
+
+```markdown
+Very recently I and Misha Sodin had a strong incentive to learn the Ito-Nisio lemma… The 
+textbooks we could find fell into 2 categories: those that didn't present the proof at 
+all and those presenting it on page 2xx as a combination of theorems 3.x.x, 4.x.x, 5.x.x,
+etc.
+
+The original paper is less than 10 pages long, essentially self-contained, and very easy
+to read and understand.
+
+The moral is the same as Boris put forth: the books are there to optimize the time you 
+need to spend to learn the whole theory. However, for every particular implication A->B 
+the approach they usually take is something like E->F->G, G->F, (F and Q)->B; since A->E,
+then A->G; once we know G, we have F, so it suffices to prove that A->Q to show that A->B;
+we show that Q,R,S,T,U are equivalent, with the trivial implication S->Q left to the 
+reader as an exercise; finally, we prove that A->S.
+
+So if all you need is A->B, you may be much better off reading the paper whose only purpose
+is to prove exactly that.
+```
+
+Andrew L again, same thread as the first:
+
+```markdown
+One of my favorite books is Hassler Whitney's Geometric Integration Theory. I have friends 
+in differential geometry who tell me it's a dinosaur, that his proof of the de Rham theorem 
+is incredibly coarse and tedious. Yes, it is — but it has the advantage of being a DIRECT
+proof from the construction of simplexes on the boundary of an embedded manifold. I love the
+book because although Whitney's ideas were old fashioned, they were incredibly powerful IDEAS
+that allow us to tackle the subject concretely and with an amazing amount of insight. THAT'S
+what we get from reading the masters — their insight and depth of understanding that allows 
+us to see beyond the machinery into why things are defined as they are.
+```
+
+Igor Pak makes a cameo:
+
+```markdown
+There is more than one reason to read "masters". One such reason is field-specific and can be 
+phrased as "read the latest work right before a scientific revolution" (standard example is 
+the large body of work by Cayley, Sylvester, Gordan, etc., in the pre-Hilbert classical 
+invariant theory). Often such results are more powerful in very specific cases of interest.
+
+Another practical reason to read "masters" is to avoid embarrassment. Lots of (mostly minor) 
+results are not mentioned in later treatises, so a number of people rediscover these results 
+because they are either too lazy to read, or simply assume that "masters" couldn't have possibly
+be so smart to figure out these results back then... When going through the references in
+writing this survey, I read all 80 pages of J.J. Sylvester, A constructive theory of partitions,
+arranged in three acts, an interact and an exodion, Amer. J. Math. 5 (1882), 251–330. As a 
+result, I discovered that a number of recent results were already proved there, sometimes by 
+leaders in the field (let me not name them here - see the survey).
+```
+
+And then there is Roy Smith’s rich, long answer from the same thread; I’ll only quote a few scattered paragraphs:
+
+```markdown
+These are elementary examples hence from a fairly naive and uneducated person, myself, who 
+has not at all plumbed the depth of many original papers. But these few forays have definitely 
+convinced me there is a benefit that cannot be gained elsewhere, as these exposures can
+transform the understanding of ordinary mortals closer to that of more knowledgeable persons, 
+at least in a narrow vein. So while it might be thought that only the strongest mathematicians
+can attempt these papers, my advice would be that reading such masters may be even more helpful
+to us average students.
+
+Once as grad student in Auslander's algebraic geometry class, I vowed to try out Abel's advice
+and read the master Zariski's paper on the concept of a simple point. I was very discouraged 
+when several hours passed and I had managed only a few pages. Upon returning to class, Auslander
+began to pepper us with questions about regular local rings. I found out how much I had learned
+when I answered them all easily until he literally told me to be quiet, since I obviously knew 
+the subject cold. (To be honest, I did not know the very next question he posed, but I was off 
+the hook.) …
+
+The sense of wonder and awe one gets upon reading people like Riemann or Euler, is also quite
+wonderful. Any student who has struggled to compute the sum of the even powers of the reciprocals
+of natural numbers 1/n^2k, will be amazed at Euler's facile accomplishment of this for many
+values of k. Calculus students estimating π by the usual series to 3 or 4 places will also be 
+impressed at his scores of correct digits. …
+
+A remark on the definition of master, versus creator. There are cases where a later master 
+reexamines an earlier work and adds to it, and in these cases it seems valuable to read both 
+versions. In addition to examples given above of Newton generalizing Euclid and Mumford using
+Hilbert, perhaps Mumford's demonstration of the power of Grothendieck's Riemann Roch theorem in 
+calculating inavriants of moduli space of curves is relevant.
+```
+
+I’ve been conflating ‘masters’ and ‘primary sources’. Usually they’re the same, because the really enduring texts are written by the masters, but sometimes the masters write expository texts too, and it’s still marginally beneficial to read them, per Ilya Grigoriev’s comment in the MO thread [Why do so many textbooks have so much technical detail and so little enlightenment?](https://mathoverflow.net/questions/13089/why-do-so-many-textbooks-have-so-much-technical-detail-and-so-little-enlightenme?rq=1):
+
+```markdown
+Providing real enlightenment well is very, very hard, and requires a very intimate relationship with a subject.
+
+Even for well-established subjects, like undergraduate mathematics, where there are a million
+mathematicians who know the subject very well, I find that all the really good books are written
+by the true titans of the field -- like Milnor, Serre, Kolmogorov, etc. They understand the 
+underlying structure and logical order of the subject so well that it can be presented in a way
+that it basically motivates itself -- basically, they can explain math the way they discovered 
+it, and it's beautiful. Every next theorem you read is obviously important, and if it isn't then
+the proof motivates it. …It's interesting how all the best books I know don't have explicit 
+paragraphs providing the motivation - they don't need them.
+```
 
 <a name="#go-to-seminars"></a>
 ### Go to seminars
