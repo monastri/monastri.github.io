@@ -70,9 +70,11 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Animals are not like us](#animals-are-not-like-us)
    2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)   
 2. [Business, finance, entrepreneurship, management](#business-finance-entrepreneurship-management)
+   1. [Real work and bullshit jobs](#Real-work-and-bullshit-jobs)
    1. [Consulting](#consulting)
       1. [Consulting's value-add](#consultings-value-add)
-   2. [Management](#Management)
+   2. [Management and leadership](#Management)
+      1. [Being comfortable with uncertainty and imperfection](#comfort-with-uncertainty)
       1. [Business success measures](#Business-success-measures)
       2. [Dealing with message distortion](#Dealing-with-message-distortion)
       2. [High organizational standards](#high-standards)
@@ -81,6 +83,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
       1. [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
    3. [Insurance](#Insurance)
       1. [The main function of the insurance sector in an economy](#Main-function-of-insurance-sector-in-economy)
+2. [Culture, community, and walled gardens](#Culture-community-and-walled-gardens)
+   1. [Anglerfish and beacons, or why some blogs have higher comment quality](#Anglerfish-and-beacons), on geek subculture dilution by Chapman-sociopaths
 2. [Doing good](#doing-good)
    1. [Effective altruism](#effective-altruism)
       1. [Weird EA](#weird-EA)
@@ -98,18 +102,25 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Game complexity measures](#Game-complexity-measures)
 2. [General intelligence](#general-intelligence) 
    1. [LOGI](#logi)
-2. [Great trails](#great-trails)
-   1. [Tuttle Creek to Mt Langley](#tuttle-creek-to-mt-langley) (7,100' in 4.5 mi to 14er)
+2. [Hiking and trails](#hiking-and-trails)
+   1. [Great trails](#great-trails)         
+      1. [Tuttle Creek to Mt Langley](#tuttle-creek-to-mt-langley) (7,100' in 4.5 mi to 14er)
+   2. [Opinion](#opinions-on-hiking)
+      1. [Why say hello to fellow hikers?](#why-say-hello-to-fellow-hikers)
 2. [Math](#math)
    1. [Advice](#math-advice)
       1. [Asking the right question](#asking-the-right-question)
       2. [Go to seminars, even if they're ostensibly irrelevant](#go-to-seminars)
+      2. [Why you should read the masters in math](#reading-the-masters-in-math)
       3. [Why most mathematical writing sucks, and how to write better](#why-math-is-boring)
    2. [Opinions and observations](#math-opinions)
-      1. [Good mathematics](#good-mathematics)
-      2. [How famous open problems get solved](#solving-famous-open-problems)
-      2. [Defining combinatorics](##Defining-combinatorics)
+      1. [Defining combinatorics](##Defining-combinatorics)
+      2. [Expositions should solve problems terribly](#Solving-math-problems-terribly)
+      2. [Good mathematics](#good-mathematics)
+      2. [How a 'Math Product Manager' would teach and do math](#product-management-of-math)
+      2. [How famous open problems get solved](#solving-famous-open-problems)      
       2. [Mathematical maturity and understanding](#mathematical-maturity)
+      2. [Thinking and explaining](#Thinking-and-explaining)
       3. [What every mathematician should know](#what-every-mathematician-should-know)
       3. [Why didn't the Tricki take off?](#why-tricki-failed)   
 2. [Memory and the brain](#memory-and-the-brain)
@@ -125,6 +136,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
    2. [Diseased philosophy](#diseased-philosophy)
    2. [Morality, axiology, law](#morality-axiology-law)
    3. [Moral patienthood](#moral-patienthood)
+   3. [Reading the masters in philosophy](#reading-the-masters-in-philosophy), ft. Aristotle as pro skater
+   3. [Reality has a surprising amount of detail](#Reality-has-a-surprising-amount-of-detail), ft. the fabled *"Electron Band Structure In Germanium, My Ass"*
    3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity)
    4. [Moloch](#moloch)
    5. [Anthropic principle](#anthropic-principle)
@@ -184,7 +197,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 
 <a name="#business-finance-entrepreneurship-management"></a>
-## Business, finance, entrepeneurship, management
+## Business, finance, entrepreneurship, management
 ([overview](#overview))
 
 <a name="#Consulting"></a>
