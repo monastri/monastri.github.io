@@ -1,12 +1,75 @@
 [Culture, community, and walled gardens](#Culture-community-and-walled-gardens)
 	1. [Anglerfish and beacons, or why some blogs have higher comment quality](#Anglerfish-and-beacons), on geek subculture dilution by Chapman-sociopaths
 [Thinking and explaining](#Thinking-and-explaining)
-[Expositions should solve problems terribly](#Solving-math-problems-terribly)
-[How a 'Math Product Manager' would teach and do math](#product-management-of-math), by Alon Amit
-[Reading the masters in math](#reading-the-masters-in-math)
-[Reading the masters in philosophy](#reading-the-masters-in-philosophy)
-[Reality has a surprising amount of detail](#Reality-has-a-surprising-amount-of-detail), ft. the fabled *"Electron Band Structure In Germanium, My Ass"*
+[Expositions should solve problems terribly](#Solving-math-problems-terribly)  OPINION
+[How a 'Math Product Manager' would teach and do math](#product-management-of-math), by Alon Amit   OPINION
+[Reading the masters in math](#reading-the-masters-in-math)  MATH ADVICE
+[Reading the masters in philosophy](#reading-the-masters-in-philosophy) 
+[Reality has a surprising amount of detail](#Reality-has-a-surprising-amount-of-detail), ft. the fabled *"Electron Band Structure In Germanium, My Ass"*  PHILO
+[Hiking and trails](#hiking-and-trails)
+	[Great trails](#great-trails)         
+	[Opinion](#opinions-on-hiking)
+		[Why say hello to fellow hikers?](#why-say-hello-to-fellow-hikers)
+	
+	
+---------------------------------------------------	
+(UNDER HIKING AND TRAILS)
+DEMOTE FIRST TO SECOND LEVEL TOPIC
+<a name="#hiking-and-trails"></a>
+## Hiking and trails
+([overview](#overview))
 
+<a name="#opinions-on-hiking"></a>
+### Opinions on hiking
+([overview](#overview))
+
+<a name="#why-say-hello-to-fellow-hikers"></a>
+### Why say hello to fellow hikers?
+([overview](#overview))
+
+Found this passage from the beginning of Sarah Constantin's essay [The face of the ice](https://srconstantin.wordpress.com/2017/05/30/the-face-of-the-ice/), which is about something else:
+
+```markdown
+My father was a serious alpinist in his youth, and taught us a few things about mountains
+when we were kids.  For instance: you always say hello to people you pass on the mountain.
+
+Why? Because the mountain can kill you.  “Hi” means “You are a human like me, and this 
+mountain is our common threat. If you scream for help, I will come for you.”
+
+There’s a certain solidarity between humans that emerges when we’re faced with a potentially
+hostile natural world.  If we passed on the street, we’d be strangers. There’d be no bond
+between us.  We might even engage in conflict, under the right circumstances. But on the 
+mountain, all of that falls away.  By default, in the wilderness, a human face is a friendly 
+face, a glad thing to see if you are lost or hurt.
+
+If you are in the desert and you see someone obviously suffering from dehydration, you’ll
+share your extra water with them. It won’t feel like some kind of altruism or charity, it
+will feel *obvious*. It’s instructive, if you’re used to thinking of giving as an 
+unpleasant duty, to experience some situations where it’s *natural* to be kind.  Kindness 
+becomes practical and natural and obvious when the physical environment is hostile.  
+Suddenly everything becomes simple: it’s human life against bitter nature, and nothing
+else matters.  “All men are brothers” becomes a concrete reality.
+
+There’s something clarifying about man vs. nature situations, even at the minimal level you
+can experience by hiking a technical scramble alone.  I’ve found that a certain alertness
+kicks in when I have to figure out where to put my hands and feet; I’m scared of falling, 
+I have a heightened awareness of physical/spatial reality, and I don’t care at *all* about
+looking foolish or getting dirt on my clothes, because *the important thing is to get off 
+the damn mountain without any injuries*.  I also am much less lazy; “get to the top” or “get
+to the bottom” make it feel natural to push a lot harder than “run X miles” or “lift X 
+pounds,” almost as though reaching topographical milestones taps into some primal source of
+motivation.  Mountains make life more *real* than it usually is in civilized life.
+
+There’s a traditional overlap between mountain climbing and math; the Russians had their 
+math camps in the Urals for decades. Alan Turing, Sophus Lie, Niels Abel , and many others
+were avid hikers; a disturbing number of mathematicians have died in hiking accidents.  If
+I can speculate about the connection, it might have something to do with love of solitude,
+tolerance for pain and effort, or this heightened-reality effect from spatial problem-
+solving.  I certainly get a disproportionate number of good ideas while on runs, bike rides,
+hikes, or long walks alone.
+```
+
+---------------------------------
 (UNDER PHILO)
 <a name="#Reality-has-a-surprising-amount-of-detail"></a>
 ### Reality has a surprising amount of detail
@@ -296,11 +359,6 @@ actually wouldn’t have accomplished much if Sarah hadn’t pointed out that on
 notice which details actually change how you think.
 ```
 
-
-
-
-
-
 <a name="#reading-the-masters-in-philosophy"></a>
 ### Reading the masters in philosophy
 ([overview](#overview))
@@ -533,7 +591,7 @@ is extremely difficult. At least, if we assume that people either don’t know w
 going on.
 ```
 
-
+----------------------------------------------------------
 (UNDER MATH - ADVICE)
 <a name="#reading-the-masters-in-math"></a>
 ### Reading the masters in math
@@ -669,6 +727,8 @@ the proof motivates it. …It's interesting how all the best books I know don't 
 paragraphs providing the motivation - they don't need them.
 ```
 
+--------------------------------------------------	
+(UNDER MATH - OPINIONS)
 <a name="#Solving-math-problems-terribly"></a>
 ### Solving math problems terribly
 ([overview](#overview))
@@ -720,8 +780,6 @@ not know anything about complex analysis, it’s unlikely that you’ll learn a 
 reading my answer.
 ```
 
-	
-(UNDER MATH - OPINIONS)
 <a name="#product-management-of-math"></a>
 ### Product management of math
 ([overview](#overview))
@@ -847,6 +905,7 @@ sometimes I play a PM role when I teach math, in rough analogy to my own day job
 It’s a good feeling.
 ```
 
+--------------------------------------------------------------
 <a name="#Thinking-and-explaining"></a>
 ### Thinking and explaining
 ([overview](#overview))
@@ -1081,7 +1140,7 @@ in-chief, who told the generals (a basis) where to go, who in turn tells all the
 class.
 ```
 
-
+----------------------------------------------------------------------------
 <a name="#Culture-community-and-walled-gardens"></a>
 ## Culture, community, and walled gardens
 ([overview](#overview))
@@ -1284,6 +1343,7 @@ introducing information, and who is destroying it with noise. It is only with th
 you can begin to have actual community standards.
 ```
 
+-----------------------------------------------------------------
 (UNDER WHY I LEFT ACADEMIA)
 One big honest reason is that doing a PhD is hard, and it wasn't really the kind of thing I wanted to do. Kay Aull expounds on this articulately in [his answer](https://qr.ae/TW1uAY) to the Quora question "What are the 3 hardest things about doing a PhD?":
 
