@@ -1,3 +1,111 @@
+UNDER RESEARCH AND ACADEMIA
+    [Productivity](#Productivity)
+        [Structured procrastination](#Structured-procrastination)
+        [Batch low-intensity tasks](#Batch-low-intensity-tasks)
+    
+    
+<a name="#Productivity"></a>
+### Productivity
+([overview](#overview))  
+
+<a name="#Batch-low-intensity-tasks"></a>
+### Batch low-intensity tasks
+([overview](#overview)) 
+
+This is mainly from Terry Tao's [eponymous article](https://terrytao.wordpress.com/career-advice/batch-low-intensity-tasks-together/).
+
+```markdown
+
+```
+
+<a name="#Structured-procrastination"></a>
+### Structured procrastination
+([overview](#overview))  
+
+There's a great essay by Stanford professor John Perry, [Structured Procrastination](http://www.structuredprocrastination.com/), which I just found today in the comments section of [this 2009 Scott Aaronson post](https://www.scottaaronson.com/blog/?p=388). I'll quote the parts that I liked below, trying to not just reproduce the whole shebang.
+
+What is structured procrastination?
+
+```markdown
+All procrastinators put off things they have to do. Structured procrastination is
+the art of making this bad trait work for you. 
+
+The key idea is that procrastinating does not mean doing absolutely nothing. 
+Procrastinators seldom do absolutely nothing; they do marginally useful things,
+like gardening or sharpening pencils or making a diagram of how they will reorganize
+their files when they get around to it. 
+
+Why does the procrastinator do these things? Because they are a way of not doing 
+something more important. If all the procrastinator had left to do was to sharpen
+some pencils, no force on earth could get him do it. However, the procrastinator 
+can be motivated to do difficult, timely and important tasks, as long as these tasks 
+are a way of not doing something more important.
+
+Structured procrastination means shaping the structure of the tasks one has to do in
+a way that exploits this fact. The list of tasks one has in mind will be ordered by 
+importance. Tasks that seem most urgent and important are on top. But there are also
+worthwhile tasks to perform lower down on the list. Doing these tasks becomes a way 
+of not doing the things higher up on the list. With this sort of appropriate task 
+structure, the procrastinator becomes a useful citizen. Indeed, the procrastinator can
+even acquire, as I have, a reputation for getting a lot done.
+
+Procrastinators often follow exactly the wrong tack. They try to minimize their
+commitments, assuming that if they have only a few things to do, they will quit 
+procrastinating and get them done. But this goes contrary to the basic nature of the
+procrastinator and destroys his most important source of motivation. The few tasks on
+his list will be by definition the most important, and the only way to avoid doing them
+will be to do nothing. This is a way to become a couch potato, not an effective human being.
+```
+
+So the important tasks never get done? What the hell??
+
+```markdown
+The trick is to pick the right sorts of projects for the top of the list. 
+
+The ideal sorts of things have two characteristics, First, they seem to have clear
+deadlines (but really don't). Second, they seem awfully important (but really aren't). 
+
+Luckily, life abounds with such tasks. In universities the vast majority of tasks fall
+into this category, and I'm sure the same is true for most other large institutions. 
+
+Take for example the item right at the top of my list right now. This is finishing an 
+essay for a volume in the philosophy of language. It was supposed to be done eleven months
+ago. I have accomplished an enormous number of important things as a way of not working on
+it. A couple of months ago, bothered by guilt, I wrote a letter to the editor saying how 
+sorry I was to be so late and expressing my good intentions to get to work. Writing the 
+letter was, of course, a way of not working on the article. It turned out that I really
+wasn't much further behind schedule than anyone else. And how important is this article 
+anyway? Not so important that at some point something that seems more important won't come
+along. Then I'll get to work on it.
+```
+
+Example of John as excellent Resident Fellow in Soto House:
+
+```markdown
+The most perfect situation for structured procrastination that I ever had was when my
+wife and I served as Resident Fellows in Soto House, a Stanford dormitory. In the evening,
+faced with papers to grade, lectures to prepare, committee work to be done, I would leave
+our cottage next to the dorm and go over to the lounge and play ping-pong with the 
+residents, or talk over things with them in their rooms, or just sit there and read the 
+paper. I got a reputation for being a terrific Resident Fellow, and one of the rare profs 
+on campus who spent time with undergraduates and got to know them. What a set up: play ping
+pong as a way of not doing more important things, and get a reputation as Mr. Chips.
+```
+
+A wry final remark:
+
+```markdown
+The observant reader may feel at this point that structured procrastination requires a 
+certain amount of self-deception, since one is in effect constantly perpetrating a pyramid
+scheme on oneself. Exactly. One needs to be able to recognize and commit oneself to tasks
+with inflated importance and unreal deadlines, while making oneself feel that they are 
+important and urgent. This is not a problem, because virtually all procrastinators have 
+excellent self-deceptive skills also. And what could be more noble than using one character
+flaw to offset the bad effects of another?
+```
+
+
+
 (UNDER BIO/EVOLUTION)
 [Evolution as alien god](#evolution-as-alien-god), where I first learned that there are many evolutions, as many as reproducing populations
 
