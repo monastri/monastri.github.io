@@ -9,73 +9,198 @@
 From Eliezer Yudkowsky's [epomymously titled LW essay](https://www.lesswrong.com/posts/pLRogvJLPPg6Mrvg4/an-alien-god), which pretty much set the template for how I think about evolution all those years back:
 
 ```markdown
-A human being, looking at the natural world, sees a thousand times *purpose*. A rabbit's legs, built and articulated for running; a fox's jaws, built and articulated for tearing. But what you see is not exactly what is there...
+A human being, looking at the natural world, sees a thousand times *purpose*. 
+A rabbit's legs, built and articulated for running; a fox's jaws, built and 
+articulated for tearing. But what you see is not exactly what is there...
 
-In the days before Darwin, the cause of all this apparent *purposefulness* was a very great puzzle unto science. The Goddists said "God did it", because you get 50 bonus points each time you use the word "God" in a sentence. Yet perhaps I'm being unfair. In the days before Darwin, it seemed like a much more reasonable hypothesis. Find a watch in the desert, said William Paley, and you can infer the existence of a watchmaker.
+In the days before Darwin, the cause of all this apparent *purposefulness* was
+a very great puzzle unto science. The Goddists said "God did it", because you 
+get 50 bonus points each time you use the word "God" in a sentence. Yet perhaps
+I'm being unfair. In the days before Darwin, it seemed like a much more
+reasonable hypothesis. Find a watch in the desert, said William Paley, and you
+can infer the existence of a watchmaker.
 
-But when you look at *all* the apparent purposefulness in Nature, rather than picking and choosing your examples, you start to notice things that don't fit the Judeo-Christian concept of one benevolent God. Foxes seem well-designed to catch rabbits. Rabbits seem well-designed to evade foxes. Was the Creator having trouble making up Its mind?
+But when you look at *all* the apparent purposefulness in Nature, rather than
+picking and choosing your examples, you start to notice things that don't fit 
+the Judeo-Christian concept of one benevolent God. Foxes seem well-designed to
+catch rabbits. Rabbits seem well-designed to evade foxes. Was the Creator having
+trouble making up Its mind?
 
-When I design a toaster oven, I don't design one part that tries to get electricity to the coils and a second part that tries to prevent electricity from getting to the coils. It would be a waste of effort. Who designed the ecosystem, with its predators and prey, viruses and bacteria? Even the cactus plant, which you might think well-designed to provide water fruit to desert animals, is covered with inconvenient spines.
+When I design a toaster oven, I don't design one part that tries to get
+electricity to the coils and a second part that tries to prevent electricity from
+getting to the coils. It would be a waste of effort. Who designed the ecosystem,
+with its predators and prey, viruses and bacteria? Even the cactus plant, which
+you might think well-designed to provide water fruit to desert animals, is 
+covered with inconvenient spines.
 
-The ecosystem would make much more sense if it wasn't designed by a unitary Who, but, rather, created by a horde of deities—say from the Hindu or Shinto religions. This handily explains both the ubiquitous purposefulnesses, and the ubiquitous conflicts: More than one deity acted, often at cross-purposes. The fox and rabbit were both designed, but by distinct competing deities. ...
+The ecosystem would make much more sense if it wasn't designed by a unitary Who,
+but, rather, created by a horde of deities—say from the Hindu or Shinto religions.
+This handily explains both the ubiquitous purposefulnesses, and the ubiquitous
+conflicts: More than one deity acted, often at cross-purposes. The fox and rabbit 
+were both designed, but by distinct competing deities. ...
 
-Similarly, the Judeo-Christian God is alleged to be benevolent—well, sort of. And yet much of nature's purposefulness seems downright cruel. Darwin suspected a non-standard Creator for studying Ichneumon wasps, whose paralyzing stings preserve its prey to be eaten alive by its larvae: "I cannot persuade myself," wrote Darwin, "that a beneficent and omnipotent God would have designedly created the Ichneumonidae with the express intention of their feeding within the living bodies of Caterpillars, or that a cat should play with mice." ...
+Similarly, the Judeo-Christian God is alleged to be benevolent—well, sort of.
+And yet much of nature's purposefulness seems downright cruel. Darwin suspected 
+a non-standard Creator for studying Ichneumon wasps, whose paralyzing stings
+preserve its prey to be eaten alive by its larvae: "I cannot persuade myself,"
+wrote Darwin, "that a beneficent and omnipotent God would have designedly
+created the Ichneumonidae with the express intention of their feeding within the
+living bodies of Caterpillars, or that a cat should play with mice." ...
 
-Evolution doesn't allow just any kind of purposefulness to leak into Nature. That's what makes evolution a success as an empirical hypothesis. If evolutionary biology could explain a toaster oven, not just a tree, it would be worthless. There's a lot more to evolutionary theory than pointing at Nature and saying, "Now purpose is allowed," or "Evolution did it!" The strength of a theory is not what it allows, but what it prohibits; if you can invent an equally persuasive explanation for any outcome, you have zero knowledge.
+Evolution doesn't allow just any kind of purposefulness to leak into Nature. 
+That's what makes evolution a success as an empirical hypothesis. If evolutionary
+biology could explain a toaster oven, not just a tree, it would be worthless. 
+There's a lot more to evolutionary theory than pointing at Nature and saying, 
+"Now purpose is allowed," or "Evolution did it!" The strength of a theory is not
+what it allows, but what it prohibits; if you can invent an equally persuasive
+explanation for any outcome, you have zero knowledge.
 
-"Many non-biologists," observed George Williams, "think that it is for their benefit that rattles grow on rattlesnake tails." Bzzzt! This kind of purposefulness is not allowed. Evolution doesn't work by letting flashes of purposefulness creep in at random—reshaping one species for the benefit of a random recipient.
+"Many non-biologists," observed George Williams, "think that it is for their
+benefit that rattles grow on rattlesnake tails." Bzzzt! This kind of purposefulness
+is not allowed. Evolution doesn't work by letting flashes of purposefulness creep
+in at random—reshaping one species for the benefit of a random recipient.
 
-Evolution is powered by a systematic correlation between the different ways that different genes construct organisms, and how many copies of those genes make it into the next generation. For rattles to grow on rattlesnake tails, rattle-growing genes must become more and more frequent in each successive generation. (Actually genes for incrementally more complex rattles, but if I start describing all the fillips and caveats to evolutionary biology, we really will be here all day.)
+Evolution is powered by a systematic correlation between the different ways that
+different genes construct organisms, and how many copies of those genes make it
+into the next generation. For rattles to grow on rattlesnake tails, rattle-
+growing genes must become more and more frequent in each successive generation.
+(Actually genes for incrementally more complex rattles, but if I start describing
+all the fillips and caveats to evolutionary biology, we really will be here all 
+day.)
 
-There isn't an Evolution Fairy that looks over the current state of Nature, decides what would be a "good idea", and chooses to increase the frequency of rattle-constructing genes.
+There isn't an Evolution Fairy that looks over the current state of Nature, 
+decides what would be a "good idea", and chooses to increase the frequency of 
+rattle-constructing genes.
 
-I suspect this is where a lot of people get stuck, in evolutionary biology. They understand that "helpful" genes become more common, but "helpful" lets any sort of purpose leak in. They don't think there's an Evolution Fairy, yet they ask which genes will be "helpful" as if a rattlesnake gene could "help" non-rattlesnakes.
+I suspect this is where a lot of people get stuck, in evolutionary biology. They 
+understand that "helpful" genes become more common, but "helpful" lets any sort 
+of purpose leak in. They don't think there's an Evolution Fairy, yet they ask 
+which genes will be "helpful" as if a rattlesnake gene could "help" non-rattlesnakes.
 
-The key realization is that *there is no Evolution Fairy*. There's no outside force deciding which genes ought to be promoted. Whatever happens, happens *because* of the genes themselves.
+The key realization is that *there is no Evolution Fairy*. There's no outside force
+deciding which genes ought to be promoted. Whatever happens, happens *because* of 
+the genes themselves.
 
-Genes for constructing (incrementally better) rattles, must have somehow ended up more frequent in the rattlesnake gene pool, because of the rattle. In this case it's probably because rattlesnakes with better rattles survive more often—rather than mating more successfully, or having brothers that reproduce more successfully, etc.
+Genes for constructing (incrementally better) rattles, must have somehow ended up
+more frequent in the rattlesnake gene pool, because of the rattle. In this case it's
+probably because rattlesnakes with better rattles survive more often—rather than 
+mating more successfully, or having brothers that reproduce more successfully, etc.
 
-Maybe predators are wary of rattles and don't step on the snake. Or maybe the rattle diverts attention from the snake's head.
+Maybe predators are wary of rattles and don't step on the snake. Or maybe the 
+rattle diverts attention from the snake's head.
 
-But that's just a snake's rattle. There are much more complicated ways that a gene can cause copies of itself to become more frequent in the next generation. Your brother or sister shares half your genes. A gene that sacrifices one unit of resources to bestow three units of resource on a brother, may promote some copies of itself by sacrificing one of its constructed organisms. 
+But that's just a snake's rattle. There are much more complicated ways that a 
+gene can cause copies of itself to become more frequent in the next generation.
+Your brother or sister shares half your genes. A gene that sacrifices one unit of
+resources to bestow three units of resource on a brother, may promote some copies
+of itself by sacrificing one of its constructed organisms. 
 
-The main point is that the gene's effect must cause copies of that gene to become more frequent in the next generation. There's no Evolution Fairy that reaches in from outside. There's nothing which decides that some genes are "helpful" and should, therefore, increase in frequency. It's just cause and effect, starting from the genes themselves.
+The main point is that the gene's effect must cause copies of that gene to become
+more frequent in the next generation. There's no Evolution Fairy that reaches in 
+from outside. There's nothing which decides that some genes are "helpful" and should,
+therefore, increase in frequency. It's just cause and effect, starting from the
+genes themselves.
 
-This explains the strange conflicting purposefulness of Nature, and its frequent cruelty. It explains even better than a horde of Shinto deities.
+This explains the strange conflicting purposefulness of Nature, and its frequent
+cruelty. It explains even better than a horde of Shinto deities.
 
-Why is so much of Nature at war with other parts of Nature? Because there isn't one Evolution directing the whole process. There's as many different "evolutions" as reproducing populations. Rabbit genes are becoming more or less frequent in rabbit populations. Fox genes are becoming more or less frequent in fox populations. Fox genes which construct foxes that catch rabbits, insert more copies of themselves in the next generation. Rabbit genes which construct rabbits that evade foxes are naturally more common in the next generation of rabbits. Hence the phrase "natural selection".
+Why is so much of Nature at war with other parts of Nature? Because there isn't 
+one Evolution directing the whole process. There's as many different "evolutions"
+as reproducing populations. Rabbit genes are becoming more or less frequent in 
+rabbit populations. Fox genes are becoming more or less frequent in fox populations.
+Fox genes which construct foxes that catch rabbits, insert more copies of themselves
+in the next generation. Rabbit genes which construct rabbits that evade foxes are 
+naturally more common in the next generation of rabbits. Hence the phrase "natural
+selection".
 
-Why is Nature cruel? You, a human, can look at an Ichneumon wasp, and decide that it's cruel to eat your prey alive. You can decide that if you're going to eat your prey alive, you can at least have the decency to stop it from hurting. It would scarcely cost the wasp anything to anesthetize its prey as well as paralyze it. Or what about old elephants, who die of starvation when their last set of teeth fall out? These elephants aren't going to reproduce anyway. What would it cost evolution—the evolution of elephants, rather—to ensure that the elephant dies right away, instead of slowly and in agony? What would it cost evolution to anesthetize the elephant, or give it pleasant dreams before it dies? Nothing; that elephant won't reproduce more or less either way.
+Why is Nature cruel? You, a human, can look at an Ichneumon wasp, and decide that
+it's cruel to eat your prey alive. You can decide that if you're going to eat your
+prey alive, you can at least have the decency to stop it from hurting. It would 
+scarcely cost the wasp anything to anesthetize its prey as well as paralyze it. Or
+what about old elephants, who die of starvation when their last set of teeth fall 
+out? These elephants aren't going to reproduce anyway. What would it cost evolution—
+the evolution of elephants, rather—to ensure that the elephant dies right away, 
+instead of slowly and in agony? What would it cost evolution to anesthetize the
+elephant, or give it pleasant dreams before it dies? Nothing; that elephant won't 
+reproduce more or less either way.
 
-If you were talking to a fellow human, trying to resolve a conflict of interest, you would be in a good negotiating position—would have an easy job of persuasion. It would cost so little to anesthetize the prey, to let the elephant die without agony! Oh please, won't you do it, kindly... um...
+If you were talking to a fellow human, trying to resolve a conflict of interest, 
+you would be in a good negotiating position—would have an easy job of persuasion.
+It would cost so little to anesthetize the prey, to let the elephant die without 
+agony! Oh please, won't you do it, kindly... um...
 
 There's no one to argue with.
 
-Humans, who are often deeply concerned for the well-being of animals, can be very persuasive in arguing how various kindnesses wouldn't harm reproductive fitness at all. Sadly, the evolution of elephants doesn't use a similar algorithm; it doesn't select nice genes that can plausibly be argued to help reproductive fitness. Simply: genes that replicate more often become more frequent in the next generation. Like water flowing downhill, and equally benevolent.
+Humans, who are often deeply concerned for the well-being of animals, can be very 
+persuasive in arguing how various kindnesses wouldn't harm reproductive fitness at
+all. Sadly, the evolution of elephants doesn't use a similar algorithm; it doesn't
+select nice genes that can plausibly be argued to help reproductive fitness. Simply:
+genes that replicate more often become more frequent in the next generation. Like 
+water flowing downhill, and equally benevolent.
 
-A human, looking over Nature, starts thinking of all the ways we would design organisms. And then we tend to start rationalizing reasons why our design improvements would increase reproductive fitness—a political instinct, trying to sell your own preferred option as matching the boss's favored justification.
+A human, looking over Nature, starts thinking of all the ways we would design 
+organisms. And then we tend to start rationalizing reasons why our design 
+improvements would increase reproductive fitness—a political instinct, trying to 
+sell your own preferred option as matching the boss's favored justification.
 
-And so, amateur evolutionary biologists end up making all sorts of wonderful and completely mistaken predictions. Because the amateur biologists are drawing their bottom line—and more importantly, locating their prediction in hypothesis-space—using a different algorithm than evolutions use to draw their bottom lines.
+And so, amateur evolutionary biologists end up making all sorts of wonderful and 
+completely mistaken predictions. Because the amateur biologists are drawing their
+bottom line—and more importantly, locating their prediction in hypothesis-space—
+using a different algorithm than evolutions use to draw their bottom lines.
 
-A human engineer would have designed human taste buds to measure how much of each nutrient we had, and how much we needed. When fat was scarce, almonds or cheeseburgers would taste delicious. But if you started to become obese, or if vitamins were lacking, lettuce would taste delicious. But there is no Evolution of Humans Fairy, which intelligently planned ahead and designed a general system for every contingency. It was a reliable invariant of humans' ancestral environment that calories were scarce. So genes whose organisms loved calories, became more frequent. Like water flowing downhill.
+A human engineer would have designed human taste buds to measure how much of each 
+nutrient we had, and how much we needed. When fat was scarce, almonds or 
+cheeseburgers would taste delicious. But if you started to become obese, or if 
+vitamins were lacking, lettuce would taste delicious. But there is no Evolution of
+Humans Fairy, which intelligently planned ahead and designed a general system for
+every contingency. It was a reliable invariant of humans' ancestral environment
+that calories were scarce. So genes whose organisms loved calories, became more 
+frequent. Like water flowing downhill.
 
-We are simply the embodied history of which organisms *did in fact* survive and reproduce, not which organisms *ought prudentially to have* survived and reproduced.
+We are simply the embodied history of which organisms *did in fact* survive and 
+reproduce, not which organisms *ought prudentially to have* survived and reproduced.
 ```
 
 And here's the memorable "alien god" part:
 
 ```markdown
-Find a watch in a desert, said William Paley, and you can infer the watchmaker. There were once those who denied this, who thought that life "just happened" without need of an optimization process, mice being spontaneously generated from straw and dirty shirts.
+Find a watch in a desert, said William Paley, and you can infer the watchmaker.
+There were once those who denied this, who thought that life "just happened" without
+need of an optimization process, mice being spontaneously generated from straw and 
+dirty shirts.
 
-If we ask who was *more* correct—the theologians who argued for a Creator-God, or the intellectually unfulfilled atheists who argued that mice spontaneously generated—then the theologians must be declared the victors: evolution is not God, but it is closer to God than it is to pure random entropy. Mutation is random, but selection is non-random. This doesn't mean an intelligent Fairy is reaching in and selecting. It means there's a non-zero statistical correlation between the gene and how often the organism reproduces. Over a few million years, that non-zero statistical correlation adds up to something very powerful. It's not a god, but it's more closely akin to a god than it is to snow on a television screen.
+If we ask who was *more* correct—the theologians who argued for a Creator-God, or 
+the intellectually unfulfilled atheists who argued that mice spontaneously generated—
+then the theologians must be declared the victors: evolution is not God, but it is
+closer to God than it is to pure random entropy. Mutation is random, but selection 
+is non-random. This doesn't mean an intelligent Fairy is reaching in and selecting.
+It means there's a non-zero statistical correlation between the gene and how often
+the organism reproduces. Over a few million years, that non-zero statistical
+correlation adds up to something very powerful. It's not a god, but it's more closely 
+akin to a god than it is to snow on a television screen.
 
-In a lot of ways, evolution *is* like unto theology. "Gods are ontologically distinct from creatures," said Damien Broderick, "or they're not worth the paper they're written on." And indeed, the Shaper of Life is not itself a creature. Evolution is bodiless, like the Judeo-Christian deity. Omnipresent in Nature, immanent in the fall of every leaf. Vast as a planet's surface. Billions of years old. Itself unmade, arising naturally from the structure of physics. Doesn't that all sound like something that might have been said about God?
+In a lot of ways, evolution *is* like unto theology. "Gods are ontologically distinct
+from creatures," said Damien Broderick, "or they're not worth the paper they're written
+on." And indeed, the Shaper of Life is not itself a creature. Evolution is bodiless, 
+like the Judeo-Christian deity. Omnipresent in Nature, immanent in the fall of every
+leaf. Vast as a planet's surface. Billions of years old. Itself unmade, arising 
+naturally from the structure of physics. Doesn't that all sound like something that
+might have been said about God?
 
-And yet the Maker has no mind, as well as no body. In some ways, its handiwork is incredibly poor design by human standards. It is internally divided. Most of all, it isn't *nice*.
+And yet the Maker has no mind, as well as no body. In some ways, its handiwork is 
+incredibly poor design by human standards. It is internally divided. Most of all, it
+isn't *nice*.
 
-In a way, Darwin *discovered* God—a God that failed to match the preconceptions of theology, and so passed unheralded. If Darwin had discovered that life was created by an intelligent agent—a bodiless mind that loves us, and will smite us with lightning if we dare say otherwise—people would have said "My gosh! That's God!"
+In a way, Darwin *discovered* God—a God that failed to match the preconceptions of 
+theology, and so passed unheralded. If Darwin had discovered that life was created 
+by an intelligent agent—a bodiless mind that loves us, and will smite us with lightning 
+if we dare say otherwise—people would have said "My gosh! That's God!"
 
-But instead Darwin discovered a strange alien God—not comfortably "ineffable", but *really genuinely different from us*. Evolution is not a God, but if it were, it wouldn't be Jehovah. It would be H. P. Lovecraft's Azathoth, the blind idiot God burbling chaotically at the center of everything, surrounded by the thin monotonous piping of flutes.
+But instead Darwin discovered a strange alien God—not comfortably "ineffable", but
+*really genuinely different from us*. Evolution is not a God, but if it were, it 
+wouldn't be Jehovah. It would be H. P. Lovecraft's Azathoth, the blind idiot God 
+burbling chaotically at the center of everything, surrounded by the thin monotonous 
+piping of flutes.
 ```
 
 (UNDER PHILO)
