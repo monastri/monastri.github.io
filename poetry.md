@@ -7,7 +7,6 @@
 Poems and quotes listed in reverse order of inclusion below.
 
 1. [A new kind of review](#a-new-kind-of-review), by 'a reader'
-2. [Aphyr](#aphyr) (Kyle Kingsbury)
 2. [A sunset glimpse of deep time](#a-sunset-glimpse-of-deep-time), by Lee Billings
 2. Benjamin Rosenbaum
    1. [The House Beyond Your Sky](#The-House-Beyond-Your-Sky)
@@ -48,6 +47,7 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [The greatest con ever botched](#The-greatest-con-ever-botched), by various authors 
 2. [The hare and the tortoise](#The-hare-and-the-tortoise), by Winston Rowntree
 2. [The Idea of Order at Key West](#The-Idea-of-Order-at-Key-West), by Wallace Stevens
+2. [The technical interview trilogy](#aphyr), where a witch interviews for tech companies, by Aphyr a.k.a. Kyle Kingsbury
 2. [Three Men in a Boat (to say nothing of the dog)](#three-men-in-a-boat), by Jerome K. Jerome
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
 4. [Total Eclipse](#total-eclipse), by Annie Dillard
