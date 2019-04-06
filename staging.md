@@ -2,13 +2,716 @@ UNDER RESEARCH AND ACADEMIA
     [Email](#email)
     [Productivity](#Productivity)
         [Structured procrastination](#Structured-procrastination)
+	[Tactical procrastination](#Tactical-procrastination)
         [Batch low-intensity tasks](#Batch-low-intensity-tasks)
 [Physics](#Physics)
 	[Common misconceptions](#Common-misconceptions)
 		[Misconceptions about relativity](#Misconceptions-about-relativity)
+UNDER SOFTWARE
+[Performance optimization](#Performance-optimization), pretty much all Carlos Bueno  	CHANGE FROM PREMATURE 
 	
+REMOVE
+[Readability]
+
+--------------------------------------
+(UNDER Erisology and thinking less wrongly)
+I'd be remiss not to mention that Carlos Bueno's [advice on optimizing software performance](#Performance-optimization) ("in 8-figure compute environments", as he says on Twitter) has a *ton* of good stuff on thinking less wrongly.
+
+<a name="#Performance-optimization"></a>
+### Performance optimization
+([overview](#overview)) 
+
+```markdown
+There is a rich & vibrant oral tradition about how to 
+write fast programs, and almost all of it is horseshit.
+```
+
+Pretty much everything here comes from Carlos Bueno's excellent [handbook on mature optimization practices](http://carlos.bueno.org/optimization/mature-optimization.pdf), including the quote above. He's just endlessly quotable.  
+
+Everyone knows about Donald Knuth's 
+
+```markdown
+premature optimization is the root of all evil
+```
+
+but few are aware it's part of a longer quote from his book *Structured Programming With go to Statements* that finishes with an important caveat: 
+
+```markdown
+Programmers waste enormous amounts of time
+thinking about, or worrying about, the speed of non-
+critical parts of their programs, and these attempts
+at efficiency actually have a strong negative impact
+when debugging and maintenance are considered.
+We should forget about small efficiencies, say about
+97% of the time; premature optimization is the
+root of all evil. Yet we should not pass up our op-
+portunities in that critical 3%.
+```
+
+That's how Carlos begins his introduction. The very next thing he says hooked me, as it contains just an unbelievable amount of good high-level advice:
+
+```markdown
+The trickiest part of speeding up a program is not doing it,
+but deciding whether it’s worth doing at all. There are few clear
+principles, only rules of thumb.
+
+Part of the problem is that optimization is hard to do well.
+It’s frighteningly easy to devolve into superstitious ritual and
+rationalization. Then again, there can be big payoffs hidden in
+surprising places. That’s why expert advice about performance
+tends to have a gnomic, self-contradictory flavor: “If you don’t
+know what you are doing, don’t do it! You’ll know if you know
+what you are doing. And remember to design your programs
+for performance.” The experts are acutely worried about en-
+couraging more folly, yet can’t quite bring themselves to ignore
+the possible gains.
+
+Knuth’s famous quote about premature optimization was
+never meant to be a stick to beat people over the head with.
+It’s a witty remark he tossed off in the middle of a keen obser-
+vation about leverage, which itself is embedded in a nuanced,
+evenhanded passage about, of all things, using gotos for fast and
+readable code. The final irony is that the whole paper was an
+earnest attempt to caution against taking Edsger Dijkstra’s infa-
+mous remark about gotos too seriously. It’s a wonder we risk
+saying anything at all about this stuff.
+
+*Structured Programming With go to Statements* does make two
+valuable points about performance. Optimizing without measurement
+to guide you is foolish. So is trying to optimize everything. The
+biggest wins tend to be concentrated in a small
+portion of the code, “that critical 3%”, which can be found via
+careful measurement.
+
+While a proper measurement regime can tell you where optimization is
+likely to succeed, it says little about whether doing it is worthwhile.
+Knuth ultimately shoves that responsibility onto a hypothetical “good”
+and “wise” programmer, who is able to look past the witty remarks and 
+dire warnings and decide on the merits. Great, but how? 
+
+I don’t know either. Performance optimization is, or should 
+be, a cost/benefit decision. It’s made in the same way you decide just 
+how much effort to put into other cross-cutting aspects
+of a system like security and testing. There is such a thing as
+too much testing, too much refactoring, too much of anything
+good. In my experience, it makes most sense on mature systems
+whose architectures have settled down.
+
+The age of a piece of code is the single greatest predictor
+of how long it will live. Stastically speaking, you encounter a
+piece of code somewhere in the middle of its lifespan. If it’s
+one month old, the odds are good it will be rewritten in another
+month. A five-year-old function is not “ready to be rewritten”,
+it’s just getting started on a long career. New code is almost
+by definition slow code, but it’s also likely to be ripped out and
+replaced as a young program slouches towards beta-test. Unless
+your optimizations are going to stick around long enough to
+pay for the time you spend making them plus the opportunity
+cost of not doing something else, it’s a net loss.
+
+Optimization also makes sense when it’s needed for a program to
+ship. Performance is a feature when your system has
+unusually limited resources to play with or when it’s hard to
+change the software after the fact. This is common in games
+programming, and is making something of a comeback with
+the rise of mobile computing.
+```
+
+Measuring really does matter. Knuth for emphasis:
+
+```markdown
+“It is often a mistake to make a priori judgments
+about what parts of a program are really critical,
+since the universal experience of programmers who
+have been using measurement tools has been that
+their intuitive guesses fail.
+```
+
+A personal anecdote served as warning, and an example of "fixing the wrong problem":
+
+```markdown
+Even with all that, there are no guarantees. In the early 2000s
+I helped build a system for search advertising. We didn’t have
+a lot of money so we were constantly tweaking the system for
+more throughput. The former CTO of one of our competitors,
+looking over our work, noted that we were handling ten times
+the traffic per server than he had. Unfortunately, we had spent
+so much time worrying about performance that we didn’t pay
+enough attention to credit card fraud. Fraud and chargebacks
+got very bad very quickly, and soon after our company went
+bankrupt. On one hand, we had pulled off a remarkable engineering
+feat. On the other hand, we were fixing the wrong problem.
+```
+
+To fix, first know what you're fixing. In "Defining the Problem" Carlos' advice goes:
+
+```markdown
+Before you can optimize anything you need a way to measure what
+you are optimizing. Otherwise you are just shooting
+in the dark. Before you can measure you need a clear, explicit
+statement of the problem you are trying to solve. Otherwise, in
+a very real sense, you don’t know what you are doing.
+
+Problem definitions often can be taken off the shelf. They
+are a lot like recipes. Many people have been this way before
+and there is a large body of knowledge available to you. There’s
+nothing magical or hard to understand; the key is to be explicit
+about the recipe you are following.
+
+It’s impossible to clearly define the problem of clearly defining 
+the problem. But there is a way to judge the quality of a
+recipe. It must be specific enough to suggest a fix, and have an
+unambiguous way to tell whether the fix worked. A problem
+definition must be *falsifiable*. You have to risk being wrong to
+have a chance at gaining the truth.
+```
+
+How might this look like in the real world? A parable:
+
+```markdown
+Let’s start with a bad definition and make it better.
+ 
+	“WidgetFactoryServer is too slow.”
 	
+What does “slow” mean here? It could be that it takes so
+long that a human notices (eg, more than 350 milliseconds)
+or that some consumer of WFS times out while waiting for
+a response, or perhaps it shows up on some measure of slow
+components. “Too slow” is a judgement about *walltime*, ie time
+passing according to the clock on the wall.
+
+Two things generally contribute to walltime: computation
+on the local CPU and time spent waiting for data from storage
+or the network. You wrote WFS so you know that it doesn’t
+read from disk or network. Another contributor in threaded
+code is waiting for locks, but WFS isn’t threaded. So it’s 
+probably all in computation. This fits a familiar pattern. 
+We can use a ready-made problem definition.
+
+	“WidgetFactoryServer is transactional. It receives
+	requests and emits responses. It is probably CPU-bound.
+	So if we profile to discover which functions
+	take up the most time, and optimize those, the total
+	CPU time per transaction should decrease.”
 	
+Good enough. It states a thesis about what resource is bottlenecked,
+suggests a method of finding the right places to optimize, and 
+is clear about what result you expect to see. Happily,
+since we’re already measuring CPU, there’s no need for a 
+separate measurement to test the result.
+
+The actual optimization is almost anticlimactic. Alicia’s profiling 
+finds that the most expensive function call in WFS has a
+bit of clowniness in a tight loop, say it iterates a list of valid
+WidgetTypes over and over again, or recalculates a value that
+can be calculated once. Once she sees it, the fix is obvious and
+testable. The CPU time drops and there is much rejoicing.
+```
+
+This leads to a problem I've encountered in the workplace -- while the lessons learned from past optimizations aren't *useless*, they should *always* be taken under advisement, never codified as law. Always, always measure:
+
+```markdown
+There is a rich & vibrant oral tradition about how to write fast
+programs, and almost all of it is horseshit. It’s here in the after-
+glow of success that it takes root. Alicia finds that eliminating a
+piece of code that iterates WidgetTypes speeds up the program
+by 10%. She spends the next two weeks searching for this pattern and 
+“optimizing” wherever she finds it. “Iterating WidgetTypes is slow!” 
+she tells her fellow coders. That might be technically true, but 
+does it matter? Are those other instances in the
+critical path? Do they show up in the measurements? Probably
+not. Yet another folk remedy is born. After all, it worked once.
+
+All of this define-the-problem-then-measure stuff isn’t like
+a set of training wheels you cast off once you’ve learned how
+to ride on your own. You really do have to approach every act
+of optimization as an experiment, starting over from scratch,
+making every assumption explicit and testable.
+
+Computer systems are *astoundingly* complex, and it’s silly to
+generalize too much from a given a performance bug. “We confi-
+gured the number of threads to be twice the number of cores
+and saw this speedup” is good science, but it is *not* the same
+as “If you up the threads to 2X cores you will see a speedup”.
+Wishing doesn’t make it so.
+
+The lessons learned from past optimizations aren’t useless.
+They can hint very strongly at where to look. But we are never
+justified in trusting them blindly the way we trust, say, gravity.
+If someone gives you a performance tip, ask for the data. If they
+show you a benchmark, dig into the methodology. If they tell
+you “X is slow” or “Y is fast”, take it under advisement. Then
+measure it yourself, every time.
+```
+
+Carlos can't emphasize how important it is to measure. In "Flying by Instruments":
+
+```markdown
+The scariest part of flying a plane is learning to trust your
+instruments. Humans are very bad at judging distance and orien-
+tation in three dimensions, even pilots. When your eyes and
+inner ear are telling you one thing and the ground is telling you
+another, the ground wins every time. You have to accept that
+there are very real human limitations that cannot be overcome
+by talent or practice.
+
+In a similar way, performance work depends on “flying” by
+measurement. Humans are bad at predicting the performance
+of complex systems, even programmers. *Especially* the programmers.
+Our ability to create large & complex systems fools us
+into believing that we’re also entitled to understand them. I
+call it the Creator Bias, and it’s our number-one occupational
+disease. Very smart programmers try to optimize or debug or
+capacity-plan without good data, and promptly fall right out of
+the sky.
+
+How a program works and how it performs are very different
+things. If you write a program or build a system, then of course
+you know how it works. You can explain its expected behavior, 
+logical flow, and computational complexity. A large part
+of programming is playing computer in your head. It’s kind
+of our thing. By all means, use your brain and your training to
+guide you; it’s good to make predictions. But not all predictions
+are good. Never forget that our human-scale understanding of
+what’s supposed to happen is only a very rough approximation
+of what actually does happen, in the real world on real hard-
+ware over real users and data.
+```
+
+Big-O complexity is almost never the reason your program is slow in the real world:
+
+```markdown
+In the real world, Big-O complexity is almost never the reason your program is slow. Look at the slope of the N-squared
+curve. In all probability, either N is so small that it doesn’t really matter, or N is so large and its effects so obvious that any
+program with that kind of bug gets fixed quickly.
+
+That means the stuff you have to contend with is the stuff
+your professor told you to ignore: coefficients, constant factors,
+and variability. Going from O(N2
+) to O(N) is easy in the sense
+that you can do it on a whiteboard via pure analysis. Complexity bugs are fun and straightforward to teach, so that’s what’s
+taught. But how do you take an existing program from 2N to
+1N? How do you know what the coefficient even is? (Just how
+high is that mountain, anyway? Will you clear it?)
+
+Here, the Creator Bias kicks in again. Why not just analyze
+the program more deeply? I’m smart; coefficients don’t sound
+that hard. The only problem with this approach is that you have
+to throw in everything: the language, the compiler that imple-
+ments the language, the operating system and the hardware, all
+the data, and a lot more.
+
+Imagine two computers with identical software, configuration, 
+environmental conditions, and hardware specs. The only
+difference is that one has four 4GB memory chips and the other
+has one 16GB chip. Under many –but not all– workloads there
+will be a measurable difference in the throughput of these two
+systems. Even if you understand why that can happen, your
+guess is as good as mine (ie, useless) as to what the actual 
+difference will be. It depends on every other aspect of the system.
+
+The more detailed you make a model of a program, the
+more it becomes a slow, buggy simulation of that program. It
+doesn’t matter how smart you are; it’s a direct consequence of
+the Halting Problem. That’s what Turing equivalence *means*.
+That’s why being good at programming requires being good at
+playing computer. So you have to ask yourself a serious question:
+who’s better than you at playing computer? Right. The
+computer.
+
+In other words, learn to trust your instruments. If you want
+to know how a program behaves, your best bet is to run it and
+see what happens.
+
+Even with measurements in hand, old habits are hard to
+shake. It’s easy to fall in love with numbers that seem to agree
+with you. It’s just as easy to grope for reasons to write off
+numbers that violate your expectations. Those are both bad, common
+biases. Don’t just look for evidence to confirm your theory. 
+Test for things your theory predicts should *never* happen.
+If the theory is correct, it should easily survive the evidential
+crossfire of positive and negative tests. If it’s not you’ll find out
+that much quicker. Being wrong *efficiently* is what science is all
+about.
+```
+
+From Hamming's "it is better to do the right problem the wrong way than the wrong problem the right way":
+
+```markdown
+If you follow all the rules, measure carefully, etc, and it still
+doesn’t work, it’s possible that your problem definition isn’t just
+falsifiable, it’s *false*. You might be measuring the wrong thing,
+or optimizing the wrong layer of the stack, or misled about the
+root cause.
+```
+
+A particularly striking real-world example is what happened to Facebook's HHVM team:
+
+```markdown
+HHVM is a virtual machine for the PHP programming lan-
+guage. Some of the time it runs bytecode that is dynamically
+generated (“just-in-time” aka JIT), but most of the time is spent
+running precompiled C++ code. The implementation wasn’t
+completely settled, but there were legitimate reasons for mak-
+ing performance a feature.
+
+They started off with a reasonable problem definition, sim-
+ilar to the one we used for WidgetFactoryServer. Just find the
+functions that consume the most CPU time and optimize them.
+But things didn’t work out the way they expected.
+
+Keith Adams:
+
+	HHVM today is about three times faster than it was a year ago.
+	Then, as now, it spent about 20% of time in the JIT output, and
+	about 80% in the C++ runtime.
+
+	The great mystery for you to ponder, and I would hope for your
+	book to explain, is that we got three times faster by focusing
+	our optimization efforts on the code that was executing for
+	20% of the time, not 80% of the time. Go back and reread
+	that.
+
+	When you internalize that this sort of thing really happens, in
+	real programs that you're responsible for, and that we're not
+	talking about pocket change, but a 3x difference in performance,
+	it is scary.
+
+	Learning which functions the CPU cycles are being spent on
+	can actively deceive you about what to optimize. The advice
+	we give intermediate programmers about "premature optimiza-
+	tion" and allowing profiling to drive your optimization efforts is,
+	well, untrue. Or rather, it's a heuristic that helps compensate
+	for even more dangerously wrong optimization impulses.
+
+So, what happened? How could they get huge wins out of
+ignoring the proverbial 80%? Because the minority code had in-
+direct influence on the rest. Changes to the JIT code, nomi-
+nally responsible for only 20% of CPU time, caused random,
+outsized performance effects throughout the system.
+
+To understand why, remember that a computer really does
+only two things: read data and write data. Performance comes
+down to how much data the computer must move around, and
+where it goes. Throughput and latency *always* have the last laugh.
+This includes CPU instructions, the bits and bytes of the program, 
+which we normally don’t think about.
+
+The kinds of computers in use today have four major levels
+of “where data goes”, each one hundreds to thousands of times
+slower than the last as you move farther from the CPU.
+
+• Registers & CPU cache: 1 nanosecond
+• RAM: 10^2 nanoseconds
+• Local drives: 10^5 to 10^7 nanoseconds
+• Network: 10^6 to 10^9 nanoseconds
+
+Memory controllers try mightily to keep the first level pop-
+ulated with the data the CPU needs because every cache miss
+means your program spends 100+ cycles in the penalty box.
+Even with a 99% hit rate, most of your CPU time will be spent
+waiting on RAM. The same thing happens in the huge latency
+gap between RAM and local drives. The kernel’s virtual memory
+system tries to swap hot data into RAM to avoid the speed
+hit of talking to disk. Distributed systems try to access data
+locally instead of going over the network, and so on.
+
+HHVM was essentially “hitting swap” on the CPU. Actual
+machine code is data too, and has to be on the CPU in order to
+execute. Some JIT code would copy over and execute, pushing
+other stuff out of the CPU caches. Then it would pass control
+over to some function in the C++ runtime, which would not be
+in the cache, causing everything to halt as the code was pulled
+back out of RAM. Figuring this out was not easy, to say the
+least.
+
+Keith Adams again, on cache effects:
+
+	Cache effects have a reputation for being scarily hard to reason
+	about, in part because caches of all kinds are a venue for spooky
+	action-at-distance. The cache is a stateful, shared resource that
+	connects non-local pieces of your program; code path A may
+	only be fast today because the cache line it operates on stays
+	in cache across lots of invocations.
+
+	Making a change in unrelated code that makes it touch two
+	lines instead of one can suddenly cause A to take a miss every
+	time it runs. If A is hot, that "innocent" change becomes a
+	performance catastrophe.
+
+	More rarely the opposite happens, which is even more frustrating,
+	because of how clearly it demonstrates that you don't understand
+	what determines performance in your program. Early
+	on in development Jordan DeLong made an individual checkin,
+	only affecting the JIT, that was a 14% (?!!) performance win
+	overall.
+
+The surface problem was CPU time. But most of the time
+wasn’t actually going to computation (ie, moving data around
+inside the CPU) it was spent fetching data from RAM into the
+CPU. Worse was that normal profiling, even advanced stuff like
+VTune and the Linux “perf ” kernel module, weren’t very useful. 
+They will happily tell you what functions suffer the most
+cache misses. But they don’t tell you why the data wasn’t there.
+```
+
+So how did the HHVM team solve the issue?
+
+```markdown
+The team had to come up with a different problem definition,
+which went something like this:
+
+	CPU time in HHVM is dominated by CPU cache
+	misses. If we somehow log both the function which
+	suffered a cache miss and the function which replaced
+	the data that was missed, we may find that a
+	small number of functions cause most of the
+	evictions. If we optimize those to use less cache space,
+	we expect to see a reduction in both cache misses
+	and CPU time spent across the board.
+
+That’s a mouthful, but it worked. To prove this theory they
+ended up gathering very expensive and detailed logs, for exam-
+ple, every datum accessed or CPU instruction executed. They
+then fed that through a cache simulation program, and modified
+the simulator to record the causal path from evictor to
+evictee, so they knew what functions to blame. Sort the list to
+find the worst offenders and optimize them. Not easy, but a lot
+more straightforward.
+```
+
+"An internet app is more like a power plant than a design for a toaster" is how Carlos essentially sums up Facebook's rapid iterating on live data, an approach other companies are beginning to adopt -- I try to do the same for my reports actually, but this philosophy is a tough sell since it isn't really what management wants:
+
+```markdown
+In the age of the personal computer, software was made the
+way toasters (and pesos and centavos) are: lots of design up
+front, stamped out by the million, then sent off into the world to
+fend on their own. It was nearly impossible to get representative
+performance data from the field. On the other hand, any copy
+was as good as any other. If you made your copy run faster
+it would probably run faster everywhere. That is, when and if
+everybody upgraded to the newest version.
+
+The other kind of software became dominant again 10 or
+15 years ago. An internet app is more like a power plant than
+a design for a toaster. It’s a unique, complicated artifact woven
+into a global network of other unique, complicated artifacts,
+half of them human beings.
+
+Being able to give everyone the same version of your software at 
+the same time was the killer feature of the internet.
+It’s why we threw out decades of software and infrastructure
+and rewrote it inside the browser. But this new (old) model has
+other important consequences. To understand them, it’s possible we
+should rely less on computer science and more on operations 
+research and process control.
+
+When a major component of your system is the entire world
+and the people in it, you can’t really put a copy on the bench
+and test it out. On the other hand, getting live data and iterating
+on what you learn has never been easier. Instead of “versions”
+rolled out every year like cars, you constantly push out smaller
+changes and measure their effects.
+
+Spot checks and benchmarks aren’t enough in this model.
+If something is important enough to worry about, it’s important
+enough to measure all the time. You want a continuous,
+layered measurement regime. This makes it easy to run performance
+experiments in the same way that automated testing
+makes it easier to catch errors. It also removes a dependency on
+clairvoyance. If you happen to neglect to measure something
+you should have, it’s not a disaster. You can start measuring
+it tomorrow. Flexibility in the instrumentation and analysis is
+key.
+
+Most interestingly, a networked application follows cycles.
+Think for a moment about what it means to run a power plant.
+During the wee hours of the morning draw is low. Then people
+wake up. Alarm clocks and radios turn on (all at the same
+minute), then the electric ranges, office buildings, and factories.
+Elevators start running. People move from one part of the city
+to another and start using electricity there. School bells ring.
+Thermostats are tuned to the weather. If you were to chart a
+week of power draw, it would look something like this:
+(think weekly periods for revenue fluctuations)
+```
+
+Computers are onions, or alien artifacts:
+
+```markdown
+A good measurement regime is built up in layers. Avoid the
+temptation to measure the first thing that comes into your head,
+because it won’t be random. It’ll be the thing you feel you under-
+stand best, but our feelings are probably wrong. We opti-
+mize what we measure. Some things are easier to measure than
+others, so those tend to be optimized too much.
+
+Forget for a moment that you built the thing and start from
+first principles. Pretend you are examining an alien artifact that
+just fell out of the sky. You want to discover how it performs.
+Not how it *works8, how it *performs*. What does it consume?
+What does it output? Where does that happen? A good place
+to start is with basic “temperature and pressure” logs of the
+system. Then you add more detailed logging to help zero in
+on the hot spots. It’s a process of recursively subdividing mea-
+surements to find concentrations of precious resources being
+consumed.
+
+Your instrumentation should cover the important use cases
+*in production*. Make all the measurements you want in the lab,
+but nothing substitutes continuous real-world data. Think about
+it this way: optimizing based on measurements you take in a lab
+environment is itself a falsifiable theory, ie, that lab conditions
+are sufficiently similar to production. The only way to test that
+theory is to collect measurements in production too.
+```
+
+Storing data and measurements:
+
+```markdown
+Our friends in the physical sciences have it worse. A thermometer 
+can’t actually measure the temperature at a given point
+in time. Heat takes time to transfer so a thermometer can only
+give the average temperature over some period. The more sensi-
+tive the measurements desired, the more the equipment costs.
+And there is always a lag.
+
+You and I can make as many discrete (and discreet) measurements 
+as we want. We can even *change* what measurements
+are done on the fly based on complex logic. And, of course,
+we know how to handle large amounts of data. So why do we
+throw the stuff away?
+
+Look at the documentation for a popular
+measurement system like RRDtool:
+
+	You may log data at a 1 minute interval, but you might also be
+	interested to know the development of the data over the last
+	year. You could do this by simply storing the data in 1 minute
+	intervals for the whole year. While this would take considerable
+	disk space it would also take a lot of time to analyze the data
+	when you wanted to create a graph covering the whole year.
+
+	RRDtool offers a solution to this problem through its data conso-
+	lidation feature. Using different consolidation functions (CF) 
+	allows you to store exactly the type of information that actually
+	interests you: the maximum one minute traffic on the LAN, the
+	minimum temperature of your wine cellar, the total minutes of
+	down time, etc.
+	
+This approach is dead wrong, and not because of its breezy
+claims about performance.Why do we force ourselves to guess
+every interesting metric in advance? To save disk space? Com-
+puting aggregates then throwing away your raw data is premature
+optimization.
+
+In exchange for that saved space, you have created a hidden
+dependency on clairvoyance. That only works if all you will
+ever need to know is the “maximum one minute traffic”. If later
+on you want to know what the average traffic was, or the 95th
+percentile, or grouped by protocol, or excluding some hosts, or
+anything else, you can’t.
+
+Making sense of a pile of data is a multidimensional search
+problem. We’re programmers. We know how to handle search
+problems. The key is being able to freely jump around those
+dimensions. It’s not possible to predict ahead of time the aggre-
+gate metrics, the search paths, you’ll want to use later on.
+Storing all the raw data can be expensive, but on the other hand
+the combinatorial explosion of all possible metrics that can be
+derived from it is much larger. On the third hand, the usefulness
+of raw data drops off sharply as it ages.
+
+There is a way to redefine the problem. What’s happening
+is a clash between two use-cases. New data needs to be in a
+“high-energy” state, very fluid and explorable. Old data can be
+lower-energy, pre-aggregated, and needs to be stable over long
+periods of time.
+
+So, store raw performance data in a very fast database, but
+only for the last few weeks or months. You can explore that raw
+data to discover the metrics you care about. *Then* you render it
+down to those road-tested metrics and shove them into RRD
+or whatever else you want for long-term storage. A buffer of
+recent raw data to help you diagnose novel problems, and stable
+historical records so you can track how well you’re doing.
+```
+
+This makes me understand what my supervisor does!
+
+A pragmatic measurement-driven approach to data modeling, extremely relevant to work:
+
+```markdown
+The long-running doctrinal disagreement between relational
+entity modeling (third normal form, OLTP, etc) and dimen-
+sional modeling (star schemas, data warehousing, OLAP, and
+so forth) is largely about the number of table joins needed 
+to accomplish the task of analysis. In other words, it’s an
+argument over performance.
+
+Well, we know what to do about arguments over performance. 
+“Define the problem and measure” applies just as much
+to the systems you build for measurement. The flat table struc-
+ture described above is at the extreme of trading space for time:
+there are zero joins because all the metadata are attached to the
+sample. It’s a starting point, but one that can take you a long,
+long, long way.
+
+As your measurement system scales up you will likely not
+want a totally flat design that attaches obscure metadata like the
+the server’s chipset, model number, rack id, etc to every sample.
+Instead you might add a small lookup table to the database and
+join on it, or implement some kind of dictionary compression.
+The point is that complicating your schema is an *optimization*
+to be done when the need arises, not because of data model
+orthodoxy. Don’t overthink it.
+```
+
+Yardsticks vary, and this screws up decisions:
+
+```markdown
+The people in the hardware store must have thought my father 
+was crazy. Before buying a yardstick, he compared each
+one to a yardstick he brought with him. It sounds less crazy
+when you learn he’s found differences of over 1/4 inch per yard,
+something like 1%. That’s a big deal when you are building. It’s
+even worse when you aren’t aware there’s a problem at all.
+
+The yardstick’s reputation is so strong that we use it as a
+metaphor for other standards, eg the “yardstick of civilization”.
+The entire point of their existence is that they should all be the
+same size. How could anyone manage to get that wrong? Well,
+manufacturing tolerances drift. Yardsticks are made from other
+yardsticks, which are made from others, and so on back in time.
+Errors propagate. Measurement is trickier than it appears.
+
+The root cause is that no one bothered to check. Measurement 
+software is just as likely to have bugs as anything else we
+write, and we should take more care than usual. A bug in user-
+facing code results in a bad experience. A bug in measurement
+code results in bad *decisions*.
+
+There are simple checks you can do: negative numbers are
+almost always wrong. One kind of mistake, which would be
+funnier if it didn’t happen so often, is to blindly record a CPU
+or walltime measurement of 1.3 billion seconds.6 Other checks
+are possible between measurements. CPU time should never
+be greater than walltime in a single-threaded program, and the
+sum of component times should never be greater than the overall
+measure.
+
+Even better is to log something in two different ways, to
+bring your own yardstick to the hardware store. To a programmer, 
+having two systems that measure the same thing is duplicated work.
+To an experimentalist that’s just independent confirmation. The 
+more ways you can show something to be true the more likely it *is* 
+true. The second log doesn’t have to be fancy. Your database 
+probably has enough statistics built in that you can monitor 
+periodically and compare with your logs.
+```
+
+
+----------------------------------------	
 <a name="#Physics"></a>
 ## Physics
 ([overview](#overview))	
@@ -170,6 +873,32 @@ much focus, and exhausts so much of one’s mental stamina, that it can be count
 distracting to mix this activity with other low or high intensity tasks.
 ```
 
+In his [time management post](https://terrytao.wordpress.com/2008/08/07/on-time-management/), Terry adds:
+
+```markdown
+Another thing is that my ability to do any serious mathematics fluctuates greatly from day to
+day; sometimes I can think hard on a problem for an hour, other times I feel ready to type up 
+the full details of a sketch that I or my coauthors already wrote, and other times I only feel
+qualified to respond to email and do errands, or just to take a walk or even a nap. I find it
+very helpful to organise my time to match this fluctuation: for instance, if I have a free 
+afternoon, and feel inspired to do so, I might close my office door, shut off the internet,
+and begin typing on a languishing paper; or if not, I go and work on a week’s worth of email,
+referee a paper, write a blog article, or whatever else seems suited to my current levels of
+energy and enthusiasm. It is fortunate in mathematics that a large fraction of one’s work 
+(with the notable exception of teaching, which one then has to build one’s schedule around)
+can be flexibly moved from one time slot to another in this manner. (A corollary to this is 
+that one should deal with tasks before they become so urgent that they have to be done 
+immediately, thus disrupting one’s time flexibility.)
+
+It helps a lot here to be able to honestly and accurately evaluate your work potential 
+(a function of your location, your current level of motivation and energy, your upcoming 
+duties and commitments, availability of resources, and the expected level of distraction)
+for a given period of time into the future (e.g. the rest of the day): being either
+overconfident or underconfident about what you can achieve leads to taking on either more or
+less than you can properly handle, both of which lead to inefficiencies (I have learned both 
+sides of this from direct experience).
+```
+
 You can block out in both space and time:
 
 ```markdown
@@ -223,6 +952,28 @@ years usage has declined. So, on July 1, 2013, we will retire Google Reader.
 ```
 
 This is related to, but not the same as, [structured procrastination](#structured-procrastination).
+
+<a name="#Tactical-procrastination"></a>
+### Tactical procrastination
+([overview](#overview))  
+
+From Terry Tao's pretty comprehensive post on [various time management tricks](https://terrytao.wordpress.com/2008/08/07/on-time-management/):
+
+```markdown
+There are also many situations in which it makes tactical sense to defer, delay, delegate, 
+or procrastinate on any given task, and go work on something else instead in the meantime;
+not everything is equally important, and also a given task may in fact become much easier 
+(and be completed in a much better way) if one waits for one’s own skills to get stronger,
+or for other events to happen that reduce the importance or need for the task in the first 
+place.
+
+My current papers on wave maps, for instance, have been delayed for years, much to my own 
+personal frustration, but in retrospect I can see that it was actually a good idea to let 
+those papers sit for a while, as the project as I had originally conceived it was a 
+technical nightmare, and it really was necessary to wait for the technology and 
+understanding in the field to improve before being able to tackle it in a relatively 
+civilised manner.  
+```
 
 <a name="#Structured-procrastination"></a>
 ### Structured procrastination
