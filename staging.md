@@ -9,6 +9,10 @@ UNDER RESEARCH AND ACADEMIA
 		[Misconceptions about relativity](#Misconceptions-about-relativity)
 UNDER SOFTWARE
 [Performance optimization](#Performance-optimization), pretty much all Carlos Bueno  	CHANGE FROM PREMATURE 
+[Software complexity](#Software-complexity)
+	[The many faces of software complexity](#The-many-faces-of-software-complexity)
+	[Codebase as organism] REORG
+	[Second-system effect] REORG
 	
 REMOVE
 [Readability]
@@ -16,6 +20,22 @@ REMOVE
 --------------------------------------
 (UNDER Erisology and thinking less wrongly)
 I'd be remiss not to mention that Carlos Bueno's [advice on optimizing software performance](#Performance-optimization) ("in 8-figure compute environments", as he says on Twitter) has a *ton* of good stuff on thinking less wrongly.
+
+<a name="#Software-complexity"></a>
+### Software complexity
+([overview](#overview)) 
+
+<a name="#The-many-faces-of-Software-complexity"></a>
+### The many faces of software complexity
+([overview](#overview)) 
+
+Eric Raymond's [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html) has lots of gems. Here's some quotes from his page [Speaking of Complexity](http://www.catb.org/esr/writings/taoup/html/ch13s01.html). 
+
+
+
+
+
+
 
 <a name="#Performance-optimization"></a>
 ### Performance optimization
@@ -710,6 +730,373 @@ probably has enough statistics built in that you can monitor
 periodically and compare with your logs.
 ```
 
+Names matter, because you have to deal with your choices for a long time (see also [names matter](#names-matter)):
+
+```markdown
+Naming things has been half-jokingly called the second-hardest
+problem in computer science. Anyone can name the things they
+build anything they want, and they do. That’s the problem. The
+computer doesn’t care about names. They’re for the benefit of
+humans so there are no technical arguments to fall back on.
+Excess jargon is the sawdust of new technology, and the mental
+friction it imposes is scandalous. Whoever figures out how to
+sweep it up does a service to mankind.
+
+Take the word we’ve been using for intervals of real time,
+“walltime”. Perhaps it’s more properly called “duration”. Time
+spent on the CPU could be called “cpu_duration”; time spent
+waiting for the database “db_duration” and so on. And why
+not be explicit about the units, eg “duration_cpu_usec”? If you
+have a strong preference either way, I humbly suggest that it’s a
+matter of taste and not universal truth. Walltime sounds more
+natural to me because that was the jargon I was first exposed
+to. But who actually has clocks on their walls any more? The
+term is as dated as “dialing” a phone number.
+
+For that matter, take instructions. Now that we’ve decided
+to round to the nearest thousand, is the name “instructions”
+misleading? Is “kilo_instructions” too cumbersome to type? Is
+“kinst” too obscure to remember?
+
+This all might sound mincing and pedantic, but a) you have
+to pick something and b) you’ll have to deal with your choices
+for a long time. So will the people who come after you. You
+can’t clean up the world but you can mind your own patch.
+
+Even an ugly scheme, if it’s consistently ugly, is better than
+having to remember that walltime here is duration over there
+and response_time_usec somewhere else. Whatever ontology
+you build, *write it down* somewhere it will be noticed. Explain
+what the words mean, the units they describe, and be firm about
+consistency
+```
+
+I like "you can mind your own patch". Agrees with Scott Alexander's "I just want to tend to my little walled garden". 
+
+Don't overload with visualizations:
+
+```markdown
+This might appear counterintuitive, but the fewer types of vi-
+sualizations you add to your tool, the better off you’ll be. 
+Remember that the goal is not pretty pictures, it’s insight.
+A visualization tool should first focus on the fluidity of exploration,
+which in turn depends on the composability of its features. A
+dataset with ten metadata columns can be thought of as a ten-
+dimensional space, with one or more measurements residing
+at the points. Helping the user navigate and collapse that space
+is the primary task.
+
+The main activities are to describe trends, show the distribution
+of a set of samples, to compare sets of samples, and to
+find correlations between dimensions. As a general principle,
+if you ever catch yourself doing mental arithmetic, or pointing
+to two spots on a graph, or (worse) two separate graphs, that
+means your tool is missing a feature.
+
+Start with a raw table view. All metadata and measurement
+columns are visible, and each row is a raw sample. The first
+feature should be the ability to hide the columns that are un-
+important to the question being asked. The second feature is to
+group rows together by the values in the metadata columns.
+The third is to compute aggregate metrics (counts, averages,
+percentiles) over the grouped measurements. The fourth is to
+overlay two tables on top of each other and calculate the diff-
+erences in each cell. This allows you to compare the performance
+of two datacenters, or versions of the software, or anything else.
+```
+
+Design for chains of reasoning:
+
+```markdown
+Another general principle is to design for chains of reasoning, not
+just individual views of the data. In the course of finding the
+answer to a question, it’s very likely the user will need to run
+multiple queries, perhaps narrowing down a previous query, or
+rotating along another dimension or metric, or even backtracking
+several steps.
+
+The system should be built around the idea of handling the
+combinatorial explosion of possible metrics and views on the
+data. Only a few of those views are important, and the raw
+data ages out relatively quickly. So every query that a human
+actually looks at is probably special and should be saved: not
+just the description of the query, but the actual data. If you do
+it right, this would cost at most a few tens of kilobytes per. Give
+each saved view a short, unique URL they can share around.
+Collections of those views are a record of a chain of reasoning.
+
+That’s a fancy way of saying “permalink”, and it’s nothing
+novel. The ideas in this chapter are only examples. To get the
+most out of your hard-won data, apply modern user-experience
+design to the task at hand. If the effort is worth it for your users’
+experience, it’s worth it for yours
+```
+
+How to, and how not to, design good dashboards -- remember they're for monitoring, not diagnosis:
+
+```markdown
+Whether you call them greenboards, or gauges, or blinkenlights,
+or heads-up displays, a dashboard is the main fusebox of your
+system. The metrics on the board should reflect your under-
+standing of how the system behaves and misbehaves.
+
+The dashboard is a really good place to apply that trick of
+stating theories in terms of what they predict *won’t* happen. 
+Finish the following sentence by filling in the blanks:
+
+	While the system is operating normally, the ___
+	graph should never ___ .
+	
+There will be several good answers, and they will tend to
+be fundamental things like network traffic, CPU utilization,
+and transaction volume. Those answers, expressed as graphs
+on your dashboard, should function like electrical fuses: sim-
+ple, robust, and not prone to false positives or negatives. A fuse
+popping conveys only one bit of information, but it’s an important
+bit, and almost always a cause for action.
+
+It’s a common mistake to overload your dashboard with too
+much information. The fanciest hospital monitor can describe
+something as complex and important as a living being with less
+than ten metrics. *While the human is operating normally, the heart
+rate graph should never change drastically, go below 60, or above 100*.
+You can do the same with a computer system. A dashboard is
+for monitoring, not diagnosis. It’s only job is to tell you that
+something is wrong, and give a rough clue about where to look
+next.
+
+That’s not to say you can’t have lots of graphs. It’s fine to
+have lots of graphs, say memory pressure and CPU, one for every 
+server. What you don’t want is too many metrics, too many
+*kinds* of graphs, confusing the separate duties of monitoring and
+diagnosis.
+```
+
+Building hierarchies of failure modes to facilitate reasoning-chains-debugging:
+
+```markdown
+Over time you build up knowledge about failure modes. Any
+time an incident is solved using a non-standard metric, or view,
+or filter, or what-have-you it should added to a diagnosis tool,
+which is essentially a lookup table for common paths taken during
+diagnosis. Here are some metrics that are probably relevant
+to any large networked application:
+
+	• Error rates
+	• Latency (average, median, low and high percentiles)
+	• CPU Time / Instructions
+	• Network bytes in & out
+	• Requests per second
+	• Active users
+	• Active servers
+	• Server utilization (CPU, RAM, I/O)
+	• Database queries
+	• Cache hit / miss rates
+
+Never mind that you’ve already filled up a giant display and
+I’ve surely missed something important. These metrics should
+be further broken down by country, datacenter, WWW versus
+API versus mobile, and a half-dozen other dimensions.
+
+Sketch them all out on a big piece of paper or whiteboard,
+then start to group them into hierarchies. Animal, vegetable, or
+mineral? What metrics lead to other metrics during diagnosis?
+How should they be linked? If you could “zoom in” on the
+data like an interactive map, which small things should become
+larger? Which metrics assure the accuracy of others?
+
+	When the ___ is operating abnormally, the ___
+	graph can eliminate ___ as a possible cause.
+	
+This “diagnosis tool” is something in between the sparse
+top-level dashboard and the free-for-all malleable dataset we’ve
+built in this book. The minimum possible form it could take is a
+collection of links to views on the data that have proven useful
+in the past. There’s a good chance you have something like this
+already. Whether it’s in your head, your browser’s bookmarks,
+or your operations runbook, take the time to curate and share it
+with everyone on your team. It embodies most everything you
+know about the real behavior of your system.
+```
+
+Beware static thresholds:
+
+```markdown
+The most powerful tool of the computer programmer is the
+computer itself, and we should take every chance to use it. The
+job of watching the graphs is important but time-consuming
+and errorful. The first instinct of any programmer who has had
+that duty is automation. The second instinct is usually to solve
+it with thresholds, eg 1,400 msec for walltime, and trigger an
+alarm or email when a threshold is crossed.
+For every difficult problem there is a solution which is simple, obvious, and wrong. Red lines, pressure gauges, and flashing lights are familiar movie tropes that create an air of urgency
+and importance. But, considering everything else Hollywood
+writers get wrong about computers, we should think very carefully about taking design cues from them.
+Alert readers will notice three problems with static thresholds. First, a dependency on clairvoyance snuck in the back
+door: how do you decide what number to use? Second, there’s
+only one number! The performance characteristics of internet
+applications vary hour-by-hour. The third problem is more subtle: you probably want to know when the metric you’re watching falls below the expected range, too.
+Static thresholds do make sense when making promises about
+your system to other people. Service Level Agreements (SLAs)
+often include specific response time promises, eg “The API will
+always respond in less than 500 msec”. But that’s business, not
+science. Declaring an acceptable limit doesn’t help you learn
+what actually happens. You can’t have anomaly detection without first discovering what defines an anomaly.
+```
+
+Okay, so how *do* I do anomaly detection properly?
+
+```markdown
+The simplest way to get the job done is to choose a handful
+of metadata and measurements that tend to have the most impact 
+on performance. Time is the first and most obvious one.
+Then comes the transaction type (eg script_path), the machine
+or group of machines (host, datacenter), the version of the software (build_number) and so on. For each combination of those
+dimensions, create a few metrics that characterize the performance envelope: say, the 25th, 75th, and 99th percentiles of
+walltime and cpu_time. You want the same kind of information that is on your dashboard, just more of it.
+Given those metrics you can determine what values are “normal” for various times of the day by looking at historical data.
+If the 99th percentile walltime for /foo.php between 2:20PM
+and 2:40PM for the last few Wednesdays was 455 msec, then
+throw an alarm if this Wednesday at 2:25pm the metric deviates
+too much from what the data predicts, on a percentage basis or
+something fancier like the root mean square error.
+How much is too much? You can run experiments to discover how many alarms would have been thrown for a given
+range. Hold back one day (or week) of historical data from the
+learning set and run your detection code over it. How much
+noise you’re willing to put up with is up to you.
+```
+
+Feedback loops are hard, especially for distributed systems! Proceed with caution:
+
+```markdown
+Sooner or later, someone on your team is going to try to
+feed a system’s performance data back into itself, and teach it
+to react. This is simultaneously a wonderful and terrible idea,
+fully into the realm of control theory.
+
+The general technique has been around for ages. The float
+in a toilet tank, which raises with water level and controls the
+flow of water in, works on the same principle. In the graphics
+world, closed loop calibration is used to make sure what you
+see on a monitor is what you get on the printer. Every serious
+measurement device has calibration designed into it.
+
+There are good places and bad places for this sort of advanced 
+nerdery. Aside from general correctness, feedback loops
+for distributed computer systems come with three hard problems 
+you have to solve: reaction time, staircase mode, and oscillation.
+
+**Reaction time** means how quickly the entire system can react
+to changes in the feedback it’s collecting. Gathering 5 minutes’
+worth of data will obviously limit your loop’s reaction time to
+five minutes, unless you calculate some kind of moving average. 
+There is also propagation delay: we like to pretend that
+state changes happen in an instant. But the more computers
+you have, the less and less that’s true.
+
+**Staircase mode** is a quality you want to design for. Elevators
+don’t have great failure modes. Escalators, on the other hand,
+never really break. They just become staircases. When your
+feedback loop fails, and it will, think about whether it becomes
+a staircase or a death trap.
+
+**Oscillation** happens when one or more components overcompensate.
+Think of those awkward moments when you and someone walking in 
+the opposite direction get in each other’s way.
+You step to one side but a fraction of a second later they do
+too. So you step the other way, but before you can react they
+follow, etc.
+```
+
+Categories of system performance bottlenecks:
+
+```markdown
+There seem to be two rough categories of bottleneck. Incidental
+bottlenecks tend to be isolated and fixable without much fuss.
+Even if they require a lot of clever work to implement, they
+don’t threaten to upend the basic premises of your design, and
+their magnitudes can be large. This is the happy case. I wish
+you a long career of easy wins from this end of the spectrum.
+
+Fundamental bottlenecks are harder to fix, and harder to
+see, because they are caused by some fact of nature or an assump-
+tion the system is built around. An infinitely-fast network
+application is still subject to the speed of light. A pizza shop’s
+fundamental bottleneck is the size of its oven. Rockets are limited
+by the need to lift the weight of their own fuel.
+```
+
+Related -- why might you be better off shrinking your system response time's variance, even if it bumps up the average?
+
+```markdown
+Shrinking the variance of your system’s response time, even
+if it makes the average slower, is a huge win that spreads good
+effects all over the place. It makes load balancing that much eas-
+ier because units of work are more interchangable. It reduces
+the possibility of server “spikes”, temporary imbalances, filled
+queues, etc etc and so forth. If you could magically optimize a
+single metric in any system, it should be the standard deviation.
+```
+
+--------------------------------------
+(UNDER MISCELLANEOUS)
+Alfred North Whitehead, *Symbolism: Its Meaning And Effect*:
+
+```markdown
+“Civilization advances by extending the number of
+important operations which we can perform without thinking about them.”
+```
+
+--------------------------------------
+(UNDER NAMES MATTER)
+Richard Feynman, *Computers From The Inside Out*:
+
+```markdown
+One of the miseries of life is that everybody names things a little bit wrong.
+```
+
+Carlos Bueno, [The Mature Optimization Handbook](http://carlos.bueno.org/optimization/mature-optimization.pdf):
+
+```markdown
+Naming things has been half-jokingly called the second-hardest
+problem in computer science. Anyone can name the things they
+build anything they want, and they do. That’s the problem. The
+computer doesn’t care about names. They’re for the benefit of
+humans so there are no technical arguments to fall back on.
+Excess jargon is the sawdust of new technology, and the mental
+friction it imposes is scandalous. Whoever figures out how to
+sweep it up does a service to mankind.
+
+Take the word we’ve been using for intervals of real time,
+“walltime”. Perhaps it’s more properly called “duration”. Time
+spent on the CPU could be called “cpu_duration”; time spent
+waiting for the database “db_duration” and so on. And why
+not be explicit about the units, eg “duration_cpu_usec”? If you
+have a strong preference either way, I humbly suggest that it’s a
+matter of taste and not universal truth. Walltime sounds more
+natural to me because that was the jargon I was first exposed
+to. But who actually has clocks on their walls any more? The
+term is as dated as “dialing” a phone number.
+
+For that matter, take instructions. Now that we’ve decided
+to round to the nearest thousand, is the name “instructions”
+misleading? Is “kilo_instructions” too cumbersome to type? Is
+“kinst” too obscure to remember?
+
+This all might sound mincing and pedantic, but a) you have
+to pick something and b) you’ll have to deal with your choices
+for a long time. So will the people who come after you. You
+can’t clean up the world but you can mind your own patch.
+
+Even an ugly scheme, if it’s consistently ugly, is better than
+having to remember that walltime here is duration over there
+and response_time_usec somewhere else. Whatever ontology
+you build, *write it down* somewhere it will be noticed. Explain
+what the words mean, the units they describe, and be firm about
+consistency
+```
+
+
 
 ----------------------------------------	
 <a name="#Physics"></a>
@@ -772,6 +1159,8 @@ more about the real thing, not the fake version that you’ve been peddled.
 
 See also [Teaching Physics](https://xkcd.com/895/) by Randall Munroe of xkcd.
 
+
+--------------------------------------
 <a name="#Email"></a>
 ### Email
 ([overview](#overview))      
@@ -1064,6 +1453,7 @@ flaw to offset the bad effects of another?
 The 2009 Scott Aaronson post I linked to above, by the way, is just as funny in its own inimitably Aaronsonian way, so I had to [save it here](#email). 
 
 
+--------------------------------------
 (UNDER BIO/EVOLUTION)
 [Evolution as alien god](#evolution-as-alien-god), where I first learned that there are many evolutions, as many as reproducing populations
 
@@ -1269,6 +1659,7 @@ burbling chaotically at the center of everything, surrounded by the thin monoton
 piping of flutes.
 ```
 
+--------------------------------------
 (UNDER PHILO)
 <a name="#Ra"></a>
 ### Ra
@@ -1339,13 +1730,6 @@ Sarah goes on to define Ra extensionally. To summarize:
 - Ra is fake Horus
 - Ra corresponds to a stage in the corruption of organizations
 - Ra is easy to overcome
-
-I'll quote from the parts I liked:
-
-
-
-
-
 
 
 <a name="#Legibility"></a>
