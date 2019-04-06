@@ -13,6 +13,8 @@ UNDER SOFTWARE
 UNDER MATH
 [ELI5](#ELI5-math)
 	[Grothendieck toposes: two attempts](#Grothendieck-toposes)
+UNDER ERISOLOGY
+[The cowpox of doubt](#The-cowpox-of-doubt)
 NEW
 [Physics](#Physics)
 	[Common misconceptions](#Common-misconceptions)
@@ -23,13 +25,161 @@ REMOVE
 [Readability]
 
 --------------------------------------
+(UNDER Erisology and thinking less wrongly)
+I'd be remiss not to mention that Carlos Bueno's [advice on optimizing software performance](#Performance-optimization) ("in 8-figure compute environments", as he says on Twitter) has a *ton* of good stuff on thinking less wrongly.
+
+<a name="#The-cowpox-of-doubt"></a>
+### The cowpox of doubt
+([overview](#overview)) 
+
+Just now I came across this comment by JenniferRM on [Eliezer's post](https://www.lesswrong.com/posts/YicoiQurNBxSp7a65/is-clickbait-destroying-our-general-intelligence):
+
+```markdown
+I think that repeated low level exposure to lying liars improves people's bullshit
+detectors.
+
+By modern standards, people who first started listening to radio were *insanely 
+gulllible* in response to the sound of authoritative voices, both in the US and in
+Germany. Similarly for TV a few decades later. The very first ads on the Internet 
+(primitive though they were) had incredibly high conversion rates... For a given 
+"efficacy" of any kind of propaganda, more of the same tends to have less effect 
+over time.
+
+I fully expect this current media milieu to be considered charmingly simple, with 
+gullible audiences and hamhanded influence campaigns, relative to the manipulative
+tactics that will be invented in future decades, because this stuff will stop working. :)
+```
+
+This was the first time I ever read a JenniferRM comment/post and thought, *I have something to say in response!* The TL;DR reason is that Jennifer is about as far beyond Scott Alexander as Scott is beyond me. [Pace Scott](https://slatestarcodex.com/2014/03/13/five-years-and-one-week-of-less-wrong/):
+
+```markdown
+I’ll end with something that recently encouraged me a lot. Sometimes I talk to Will 
+Newsome, or Steve Rayhawk, or Jennifer RM, or people like that in the general category
+of “we all know they are very smart but they have no ability to communicate their 
+insights to others”. They say inscrutable things, and I nod and pretend to understand 
+because it’s less painful than asking them to explain and sitting through an equally
+inscrutable explanation. And recently, the things that Will and Steve and Jennifer were 
+saying a couple of years ago have started making perfect sense to me. The things they’re
+saying now still sound like nonsense, but now I can be optimistic that in a few years 
+I’ll pick up those too.
+
+I find this really exciting. It suggests there’s this path to be progressed down, that
+intellectual change isn’t just a random walk. Some people are further down the path 
+than I am, and report there are actual places to get to that sound very exciting. And
+other people are around the same place I am, and still other people are lagging behind
+me. But when I look back at where we were five years ago, it’s so far back that none of
+us can even see it anymore, so far back that it’s not until I trawl the archives that I
+realize how many things there used to be that we didn’t know.
+```
+
+Granted, it isn't original at all -- it's Scott's [cowpox of doubt](https://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/). Relevant quote:
+
+```markdown
+I remember hearing someone I know try to explain rationality to his friends.
+
+He started with “It’s important to have correct beliefs. You might think this is
+obvious, but think about creationists and homeopaths and people who think the moon
+
+landing was a hoax.” And then further on in this vein.
+
+And I thought: “NO NO NO NO NO NO NO!”
+
+I will make a confession. Every time someone talks about the stupidity of 
+creationists, moon-hoaxers, and homeopaths, I cringe.
+
+It’s not that moon-hoaxers, homeopaths et al aren’t dumb. They are. It’s not even
+that these people don’t do real harm. They do.
+
+What annoys me about the people who harp on moon-hoaxing and homeopathy – without 
+any interest in the rest of medicine or space history – is that it seems like an 
+attempt to Other irrationality.
+
+It’s saying “Look, over here! It’s irrational people, believing things that we can
+instantly dismiss as dumb. Things we feel no temptation, not one bit, to believe. 
+It must be that they are defective and we are rational.”
+
+But to me, the rationality movement is about Self-ing irrationality.
+
+It is about realizing that you, yes you, might be wrong about the things that you’re
+most certain of, and nothing can save you except maybe extreme epistemic paranoia.
+
+Talking about moon-hoaxers and homeopaths too much, at least the way we do it, is
+*counterproductive* to this goal. Throw examples of obviously stupid false beliefs
+at someone, and they start thinking all false beliefs are obvious. Give too many
+examples of false beliefs that aren’t tempting to them, and they start believing 
+they’re immune to temptation.
+
+...
+
+Inoculation is when you use a weak pathogen like cowpox to build immunity against
+a stronger pathogen like smallpox. The inoculation effect in psychology is when a
+person, upon being presented with several weak arguments against a proposition, 
+becomes immune to stronger arguments against the same position.
+
+Tell a religious person that Christianity is false because Jesus is just a blatant
+ripoff of the warrior-god Mithras and they’ll open up a Near Eastern history book,
+notice that’s not true at all, and then be that much more skeptical of the next
+argument against their faith. “Oh, atheists. Those are those people who think stupid
+things like Jesus = Mithras. I already figured out they’re not worth taking 
+seriously.” Except on a deeper level that precedes and is immune to conscious thought.
+
+So we take the intelligent Internet-reading public, and we throw a bunch of
+incredibly dumb theories at them – moon-hoaxism, homeopathy, creationism, anti-
+vaxxing, lizard people, that one guy who thought the rapture would come a couple
+years ago, whatever. And they are easily debunked, and the stuff you and all your 
+friends believed was obviously true is, in fact, obviously true, and any time you 
+spent investigating whether you were wrong is time you wasted.
+
+And I worry that we are vaccinating people against reading the research for themselves
+instead of trusting smarmy bloggers who talk about how stupid the other side is.
+
+That we are vaccinating people against thinking there might be important truths on both
+sides of an issue.
+
+That we are vaccinating people against understanding how “scientific evidence” is a
+really complicated concept, and that many things that are in peer-reviewed journals 
+will later turn out to be wrong.
+
+That we are vaccinating people against the idea that many theories they find absurd 
+or repugnant at first will later turn out to be true, because nature doesn’t respect
+our feelings.
+
+That we are vaccinating people against *doubt*.
+
+And maybe this is partly good. It’s probably a good idea to trust your doctor and 
+also a good idea to trust your climatologist, and rare is the field where I would 
+feel comfortable challenging expert consensus completely.
+
+But there’s also this problem of hundreds of different religions and political 
+ideologies, and most people are born into ones that are at least somewhat wrong. 
+That makes this capacity for real doubt – doubting something even though all your
+family and friends is telling you it’s obviously true and you must be an idiot to
+question it at all – a tremendously important skill. It’s especially important for
+the couple of rare individuals who will be in a position to cause a paradigm shift
+in a science by doubting one of its fundamental assumptions.
+
+I don’t think that reading about lizard people or creationism will affect people’s
+ability to distinguish between, let’s say, cyclic universe theory versus multiverse
+theory, or other equally dispassionate debates.
+
+But if ever you ever need to have a true crisis of faith, then any time you spend 
+thinking about homeopathy and moon hoaxes beyond the negligible effect they have 
+on your life will be time spent learning exactly the wrong mental habits.
+```
+
+From what I've seen, this is basically what [RationalWiki](https://rationalwiki.org/wiki/Main_Page) does, and that plus its general lack of [charity](#argumentative-charity) is why I stay away from that place (all the while recognizing its [bravery debate function](https://slatestarcodex.com/2013/06/09/all-debates-are-bravery-debates/)). 
+
+(Apropos of nothing: she just followed me on Twitter. I am over the moon.)
+
+
+--------------------------------------
 UNDER MATH
 <a name="#ELI5-math"></a>
 ## ELI5 math
 ([overview](#overview)) 
 
 <a name="#Grothendieck-toposes"></a>
-## Grothendieck toposes
+### Grothendieck toposes
 ([overview](#overview)) 
 
 These two attempts by Jon Sterling and Andrej Bauer are pretty funny, because they're *wide* off the mark re: five year olds (cf Eliezer Yudkowsky's [Explainers Shoot High. Aim Low!](https://www.lesswrong.com/posts/2TPph4EGZ6trEbtku/explainers-shoot-high-aim-low)), but at least I felt like I got a sliver more than nothing out of their efforts.
@@ -190,7 +340,7 @@ has not been the least reason for its success.
 This particular notebook has *many* more outbound links to other notebooks in Cosma's repertoire than any other notebook I've found, which tells you a lot.
 
 <a name="#How-complex-systems-fail"></a>
-## How complex systems fail
+### How complex systems fail
 ([overview](#overview)) 
 
 This is mostly from Richard Cook's excellent short treatise/summary overview [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf). Read the paper for the full version; I'm quoting only the parts that spoke to me. 
@@ -340,9 +490,6 @@ however, the adaptations are novel combinations or de novo creations of new appr
 
 
 --------------------------------------
-(UNDER Erisology and thinking less wrongly)
-I'd be remiss not to mention that Carlos Bueno's [advice on optimizing software performance](#Performance-optimization) ("in 8-figure compute environments", as he says on Twitter) has a *ton* of good stuff on thinking less wrongly.
-
 <a name="#Software-complexity"></a>
 ### Software complexity
 ([overview](#overview)) 
