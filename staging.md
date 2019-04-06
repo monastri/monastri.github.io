@@ -10,6 +10,9 @@ UNDER SOFTWARE
 	[The many faces of software complexity](#The-many-faces-of-software-complexity)
 	[Codebase as organism] REORG
 	[Second-system effect] REORG
+UNDER MATH
+[ELI5](#ELI5-math)
+	[Grothendieck toposes: two attempts](#Grothendieck-toposes)
 NEW
 [Physics](#Physics)
 	[Common misconceptions](#Common-misconceptions)
@@ -18,6 +21,140 @@ NEW
 	[How complex systems fail](#How-complex-systems-fail)
 REMOVE
 [Readability]
+
+--------------------------------------
+UNDER MATH
+<a name="#ELI5-math"></a>
+## ELI5 math
+([overview](#overview)) 
+
+<a name="#Grothendieck-toposes"></a>
+## Grothendieck toposes
+([overview](#overview)) 
+
+These two attempts by Jon Sterling and Andrej Bauer are pretty funny, because they're *wide* off the mark re: five year olds (cf Eliezer Yudkowsky's [Explainers Shoot High. Aim Low!](https://www.lesswrong.com/posts/2TPph4EGZ6trEbtku/explainers-shoot-high-aim-low)), but at least I felt like I got a sliver more than nothing out of their efforts.
+
+Before we go to the actual ELI5s themselves, here's Eliezer:
+
+```markdown
+A few years ago, Ralph Merkle once told me how he'd written an explanation of his
+field aimed at a much lower technical level than usual.  He had thought it would be
+useful to academics outside the field, or even reporters.  This ended up being one
+of his most popular papers *within* his field, cited more often than anything else 
+he'd written.
+
+The lesson was not that his fellow scientists were stupid, but that we tend to 
+*enormously underestimate* the effort required to properly explain things.
+
+He told me this, because I'd just told him about my experience publishing "An 
+Intuitive Explanation of Bayesian Reasoning".  This is still one of my most popular,
+most blogged, and most appreciated works today.  I regularly get fan mail from 
+formerly confused undergraduates taking statistics classes, and journalists, and
+professors from outside fields.  In short, I successfully hit the audience the 
+eminent scientist had thought *he* was aiming for.
+
+*I'd* thought I was aiming for elementary school.
+
+Explainers shoot way, way higher than they think they're aiming, thanks to the 
+illusion of transparency and self-anchoring.  We miss the mark by several major 
+grades of expertise.  Aiming for outside academics gets you an article that will be
+popular among specialists in your field.  Aiming at grade school (admittedly, naively
+so) will hit undergraduates.  This is not because your audience is more stupid than 
+you think, but because your words are far less helpful than you think.  You're way 
+*way* overshooting the target.  Aim *several major gradations lower*, and you may hit
+your mark.
+```
+
+Jon Sterling:
+
+```markdown
+Sets express a static mathematical concept—an idea that doesn't change, has always
+been, and will always be. Now, a lot of math can be developed in this way, because
+most math is about these ideal concepts that have no connection to time or space.
+
+But what about concepts that are living, or in motion, or changing over time and 
+space? What about concepts that come into existence at a certain time or location,
+but not before (or elsewhere)? These kinds of things come up in physics quite a lot,
+but also in logic and computer science. To account for CONCEPTS IN MOTION is the 
+purpose of toposes.
+
+The easiest kind of topos is called a "presheaf topos"; imagine that you are starting
+with some form of space (like a shape or a blob, or even a map of the earth). Then, 
+we want to define the math of concepts that are varying over this space; you can 
+think of this thing as like shining a bright beam onto the space, and whenever you do
+so, a whole world of math is reflected off of it.
+
+To be precise, a "concept" (presheaf) in the presheaf topos is an assignment of sets
+to every "region" in the space, such that when a region contains another region, 
+there is a way to get to the set assigned to the former from the set assigned to the
+latter. Now, suppose the space under consideration is the timeline: then this just
+means that concepts are refined as time goes on.
+
+Another important kind of topos is called a Grothendieck topos, or a sheaf topos. In
+this case, we want the mathematical concepts not only to vary appropriately over 
+space, but to do so in a continuous manner: that is, small perturbations in the
+region of space should be reflected as small perturbations in the concept (sheaf) 
+defined over that space.
+
+To be precise, when you have a "cover" on a region U in the space (that is, a
+collection of regions which is partly visible in every direction from U), if for 
+every region in the cover you have an instance of the concept/sheaf over that region,
+then these insights can be combined in a nice way to get an instance of the concept 
+at U.
+
+In logic, presheaves express how truth is preserved over time: if it is true now, it
+is true later! What sheaves do is express how truth is "closed under" inevitability:
+that is, if it will eventually become true no matter what happens, then it is 
+considered true now.
+
+Now, there are even more kinds of topos! Lawvere and Tierney summed up the 
+characteristics of grothendieck and presheaf toposes into slogans which they used to 
+abstractly define something called an "elementary topos". All toposes are elementary
+toposes, but there are some elementary toposes which are not grothendieck toposes! An
+example is the "effective topos", a topos that captures the idea of mathematical 
+concepts being tracked by computer codes.
+```
+
+Andrej Bauer:
+
+```markdown
+A topos is a mathematical universe. You can imagine a mathematical universe as a possible
+mathematical reality, a bit like Star Wars vs. Star Trek.
+
+In order to do mathematics, we need some sort of a universe in which to do it. It has to
+contain enough stuff to get us going: numbers, straight lines, circles, trigonometric
+functions, and everything else that mathematicians usually use. The universe that most
+mathematicians use, and that many people have heard of, is set theory. In this universe
+all mathematical objects and constructions are made of sets which are made of sets which
+are made of sets which are made of ...
+
+But this is not the only possibility. Alexander Grothendieck discovered that in order to
+do certain kinds of geometry (algebraic geometry), he needed a different kind of
+mathematical universe in which things were not made of sets but of something that
+mathematicians call "sheaves". You will learn about those when you turn 6, for now let
+us just imagine them as kind of layered cakes. The point is that these layers bind
+together the mathematical universe and all object within with a Force, whereas making 
+things from sets is more like building castles from beach sand – they easily fall apart.
+
+Grothendieck used his toposes to do geometry, but later logicians, in particular William
+Lawvere, realized that the things he came up with were actually entire mathematical
+universes. Not only did they contain the stuff that Grothendieck cared about, but also 
+othe kinds of math: algebra, arithmetic, combinatorics, analysis, etc. Thus, instead of
+having one universe they now had a multiverse of universes to explore.
+
+Toposes turned out to be useful for many purposes. And they are not all of the kind that
+Grothendieck discovered (his are pretty big). For instance, a realizability topos is a 
+computer-science heaven: instead of having everything made of layered cakes, everything
+is made of pieces of program code (this was invented in the 1980's).
+
+The various toposes share many things in common, for instance simple stuff like "6 
+divides 18". For fancy stuff they disagree. Mathematicians who live in a realizability 
+topos will see that everything is computable, whereas those who live in a Grothendieck 
+topos might say things like "you cannot split a straight line into two parts" (it's not
+made of sand, you really can't, it's bound together with the Force).
+```
+
+
 
 --------------------------------------
 <a name="#Software-complexity"></a>
