@@ -4,18 +4,201 @@ UNDER RESEARCH AND ACADEMIA
         [Structured procrastination](#Structured-procrastination)
 	[Tactical procrastination](#Tactical-procrastination)
         [Batch low-intensity tasks](#Batch-low-intensity-tasks)
-[Physics](#Physics)
-	[Common misconceptions](#Common-misconceptions)
-		[Misconceptions about relativity](#Misconceptions-about-relativity)
 UNDER SOFTWARE
 [Performance optimization](#Performance-optimization), pretty much all Carlos Bueno  	CHANGE FROM PREMATURE 
 [Software complexity](#Software-complexity)
 	[The many faces of software complexity](#The-many-faces-of-software-complexity)
 	[Codebase as organism] REORG
 	[Second-system effect] REORG
-	
+NEW
+[Physics](#Physics)
+	[Common misconceptions](#Common-misconceptions)
+		[Misconceptions about relativity](#Misconceptions-about-relativity)
+[Complex systems and complexity science](#complex-systems)		
+	[How complex systems fail](#How-complex-systems-fail)
 REMOVE
 [Readability]
+
+--------------------------------------
+<a name="#Software-complexity"></a>
+## Complex systems
+([overview](#overview)) 
+
+See also [Software complexity](#Software-complexity), as well as Cosma Shalizi's [notebook on the topic](http://bactra.org/notebooks/complexity.html), where he poses some natural-sounding questions we're still struggling with:
+
+```markdown
+A definition would be nice. So would an ordinal if not a cardinal measure. Is it clear
+that humans are more complex than whales? Than chimpanzees? Than termites? Than termite
+mounds?
+
+Is there any trend towards greater complexity over time among living things? On the 
+Earth as a whole? The universe as a whole? Is there any deep explanation (élan vital 
+anyone?) or can it be accounted for by the usual suspects --- natural selection, "plenty
+of room at the top," chance? --- Even if we do come up with a measure of complexity, it
+will be very difficult to apply to the fossil record, since the soft parts are pretty 
+well gone, and so we can't know (much) about the innards of the brain, or the immune 
+system. (In fact, could you infer the existence of immune systems from the fossil record?
+This is important, since it's complex if anything is, and if we can't infer it, how do we
+know there weren't other things, also confined to the soft tissues, which weren't 
+comprably complex?)
+
+The "sciences of complexity" are very much a potpourri, and while the name has some 
+justification --- chaotic motion seems more complicated than harmonic oscillation, for 
+instance --- I think the fact that it is more dignified than "neat nonlinear nonsense" 
+has not been the least reason for its success.
+```
+
+This particular notebook has *many* more outbound links to other notebooks in Cosma's repertoire than any other notebook I've found, which tells you a lot.
+
+<a name="#How-complex-systems-fail"></a>
+## How complex systems fail
+([overview](#overview)) 
+
+This is mostly from Richard Cook's excellent short treatise/summary overview [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf). Read the paper for the full version; I'm quoting only the parts that spoke to me. 
+
+Complex systems are intrinsically hazardous systems:
+
+```markdown
+All of the interesting systems (e.g. transportation, healthcare, power generation) are
+inherently and unavoidably hazardous by the own nature. The frequency of hazard
+exposure can sometimes be changed but the processes involved in the system are
+themselves intrinsically and irreducibly hazardous. It is the presence of these hazards
+that drives the creation of defenses against hazard that characterize these systems.
+```
+
+Complex systems are heavily and successfully defended against failure:
+
+```markdown
+The high consequences of failure lead over time to the construction of multiple layers of
+defense against failure. These defenses include obvious technical components (e.g.
+backup systems, ‘safety’ features of equipment) and human components (e.g. training,
+knowledge) but also a variety of organizational, institutional, and regulatory defenses
+(e.g. policies and procedures, certification, work rules, team training). The effect of these
+measures is to provide a series of shields that normally divert operations away from
+accidents.
+```
+
+Catastrophe requires multiple failures – single point failures are not enough:
+
+```markdown
+The array of defenses works. System operations are generally successful. Overt
+catastrophic failure occurs when small, apparently innocuous failures join to create
+opportunity for a systemic accident. Each of these small failures is necessary to cause
+catastrophe but only the combination is sufficient to permit failure. Put another way,
+there are many more failure opportunities than overt system accidents. Most initial
+failure trajectories are blocked by designed system safety components. Trajectories that
+reach the operational level are mostly blocked, usually by practitioners.
+```
+
+Complex systems contain changing mixtures of failures latent within them, so they run in degraded mode:
+
+```markdown
+The complexity of these systems makes it impossible for them to run without multiple
+flaws being present. Because these are individually insufficient to cause failure they are
+regarded as minor factors during operations. Eradication of all latent failures is limited
+primarily by economic cost but also because it is difficult before the fact to see how such
+failures might contribute to an accident. The failures change constantly because of
+changing technology, work organization, and efforts to eradicate failures.
+
+A corollary to the preceding point is that complex systems run as broken systems. The
+system continues to function because it contains so many redundancies and because
+people can make it function, despite the presence of many flaws. After accident reviews
+nearly always note that the system has a history of prior ‘proto-accidents’ that nearly
+generated catastrophe. Arguments that these degraded conditions should have been
+recognized before the overt accident are usually predicated on naïve notions of system
+performance. System operations are dynamic, with components (organizational, human,
+technical) failing and being replaced continuously. 
+```
+
+Because of this, catastrophe is always just around the corner:
+
+```markdown
+Complex systems possess potential for catastrophic failure. Human practitioners are
+nearly always in close physical and temporal proximity to these potential failures –
+disaster can occur at any time and in nearly any place. The potential for catastrophic
+outcome is a hallmark of complex systems. It is impossible to eliminate the potential for
+such catastrophic failure; the potential for such failure is always present by the system’s
+own nature. 
+```
+
+Post-accident attribution accident to a ‘root cause’ is fundamentally wrong:
+
+```markdown
+Because overt failure requires multiple faults, there is no isolated ‘cause’ of an accident.
+There are multiple contributors to accidents. Each of these is necessary insufficient in
+itself to create an accident. Only jointly are these causes sufficient to create an accident.
+Indeed, it is the linking of these causes together that creates the circumstances required
+for the accident. Thus, no isolation of the ‘root cause’ of an accident is possible. The
+evaluations based on such reasoning as ‘root cause’ do not reflect a technical
+understanding of the nature of failure but rather the social, cultural need to blame
+specific, localized forces or events for outcomes.
+```
+
+Hindsight biases post-accident assessments of human performance:
+
+```markdown
+Knowledge of the outcome makes it seem that events leading to the outcome should have
+appeared more salient to practitioners at the time than was actually the case. This means
+that ex post facto accident analysis of human performance is inaccurate. The outcome
+knowledge poisons the ability of after-accident observers to recreate the view of
+practitioners before the accident of those same factors. It seems that practitioners “should
+have known” that the factors would “inevitably” lead to an accident. Hindsight bias
+remains the primary obstacle to accident investigation, especially when expert human performance
+is involved.
+```
+
+All practitioner actions are gambles:
+
+```markdown
+After accidents, the overt failure often appears to have been inevitable and the
+practitioner’s actions as blunders or deliberate willful disregard of certain impending
+failure. But all practitioner actions are actually gambles, that is, acts that take place in the
+face of uncertain outcomes. The degree of uncertainty may change from moment to
+moment. That practitioner actions are gambles appears clear after accidents; in general, 
+post hoc analysis regards these gambles as poor ones. But the converse: that successful
+outcomes are also the result of gambles; is not widely appreciated. 
+```
+
+This one is pretty personal to me --  human expertise in complex systems is constantly changing:
+
+```markdown
+Complex systems require substantial human expertise in their operation and
+management. This expertise changes in character as technology changes but it also
+changes because of the need to replace experts who leave. In every case, training and
+refinement of skill and expertise is one part of the function of the system itself. At any
+moment, therefore, a given complex system will contain practitioners and trainees with
+varying degrees of expertise. Critical issues related to expertise arise from (1) the need to
+use scarce expertise as a resource for the most difficult or demanding production needs
+and (2) the need to develop expertise for future use.
+```
+
+Safety is a characteristic of systems and not of their components:
+
+```markdown
+Safety is an emergent property of systems; it does not reside in a person, device or
+department of an organization or system. Safety cannot be purchased or manufactured; it
+is not a feature that is separate from the other components of the system. This means that
+safety cannot be manipulated like a feedstock or raw material. The state of safety in any
+system is always dynamic; continuous systemic change insures that hazard and its
+management are constantly changing.
+```
+
+People continuously create safety:
+
+```markdown
+Failure free operations are the result of activities of people who work to keep the system
+within the boundaries of tolerable performance. These activities are, for the most part,
+part of normal operations and superficially straightforward. But because system
+operations are never trouble free, human practitioner adaptations to changing conditions
+actually create safety from moment to moment. These adaptations often amount to just
+the selection of a well-rehearsed routine from a store of available responses; sometimes,
+however, the adaptations are novel combinations or de novo creations of new approaches.
+```
+
+
+
+
+
 
 --------------------------------------
 (UNDER Erisology and thinking less wrongly)
@@ -25,15 +208,213 @@ I'd be remiss not to mention that Carlos Bueno's [advice on optimizing software 
 ### Software complexity
 ([overview](#overview)) 
 
+See also [complex systems](#complex-systems).
+
 <a name="#The-many-faces-of-Software-complexity"></a>
 ### The many faces of software complexity
 ([overview](#overview)) 
 
-Eric Raymond's [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html) has lots of gems. Here's some quotes from his page [Speaking of Complexity](http://www.catb.org/esr/writings/taoup/html/ch13s01.html). 
+Eric Raymond's [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html) has lots of gems. Here's some quotes from his page [Speaking of Complexity](http://www.catb.org/esr/writings/taoup/html/ch13s01.html), in *Chapter 13: Complexity*, where he introduces a 3x3 matrix for classifying various kinds of software complexity (yep, not just your average consultant 2x2 matrix, a *3x3* matrix!! Gosh!?!). 
 
+The impetus behind writing the chapter:
 
+```markdown
+As with previous issues about modularity and interface design, Unix programmers react 
+to a set of distinctions they have often learned from experience without knowing how 
+to articulate. Therefore we'll need to start by developing some terminology.
 
+We will start by defining what software complexity is. We will make some *horizontal* 
+distinctions between different flavors of complexity, which sometimes have to be traded
+off against each other. 
 
+We will finish by making some even more important *vertical* distinctions, between the 
+kinds of complexity we must live with and the kinds we have the option to eliminate.
+```
+
+Why does complexity matter so much? 
+
+```markdown
+Underlying the Unix programmer's passion for simplicity is a pragmatic fact: complexity
+costs. Complex software is harder to think about, harder to test, harder to debug, and 
+harder to maintain — and above all, harder to learn and use. The costs of complexity, 
+rough as they are during development, bite hardest after deployment. Complexity creates
+places for bugs to nest, from which they will emerge to trouble the world through the 
+entire lifetime of their software.
+```
+
+Sources of complexity -- implementation, interface, codebase size (correlates with bugcount):
+
+```markdown
+So what exactly do we mean by ‘complexity’? This point is worth pinning down, because
+it varies by observer.
+
+Unix programmers (like other programmers) tend to focus on *implementation* complexity — 
+basically, the degree of difficulty a programmer will experience in attempting to 
+understand a program so he or she can mentally model or debug it.
+
+Customers and users, on the other hand, tend to see complexity in terms of the program's
+*interface* complexity. In Chapter 11 we discussed the quality of ease and its inverse, 
+mnemonic load. To a user, complexity correlates closely with mnemonic load. Poor 
+expressiveness and concision can matter too, if a weak interface forces the user to 
+perform lots of error-prone or merely tedious low-level operations rather than a few 
+high-level ones.
+
+Driven by both of these is a third measure that is much simpler: the total number of lines
+of code in the system, its *codebase size*. In terms of life-cycle costs, this is usually the
+most important measure. The reasons go back to perhaps the most important empirical result
+in software engineering, one we've cited before: the defect density of code, bugs per
+hundred lines, tends to be a constant independent of implementation language. More lines 
+of code means more bugs, and debugging is the most expensive and time-consuming part of 
+development.
+```
+
+In attempts to avoid them, software designers commonly fall into a number of traps, which result from the fact that sometimes these measures need to be traded off against one another. Here are the three main ones:
+
+```markdown
+We've already mentioned one situation in which two measures vary in opposite directions:
+a user interface that has been designed primarily to preserve implementation simplicity,
+or keep codebase size down, may simply dump low-level tasks on the user. (A crude example
+of this, barely imaginable to a Unix programmer but all too common elsewhere, might be 
+an editor that lacked a global-replace feature.) Though this sort of design failure is 
+all too common, it does not traditionally have a name. We'll call it a *manularity trap*.
+
+Pressure to keep the codebase size down by using extremely dense and complicated 
+implementation techniques can cause a cascade of implementation complexity in the system,
+leading to an un-debuggable mess. This used to happen frequently when fitting programs onto
+very small systems demanded assembler programming or tricks like self-modifying code; 
+nowadays it is uncommon except in embedded systems, and rapidly becoming rare even there. 
+This kind of design failure doesn't have a traditional name, but one might call it a *blivet
+trap*, after an old Army term for the results of attempting to stuff ten pounds of horse 
+manure into a five-pound bag.
+
+The blivet trap won't appear in our case studies, but we've defined it for contrast with
+its opposite. It can happen that the designers of a project are so wary of implementation
+complexity that they reject a complex but unified way to solve a whole class of problems 
+in favor of lots of duplicative, ad-hoc code that solves each individual one in turn. The
+result is bloat in the size of the codebase, and maintainability problems more severe than
+if the unified method had been accepted. For example, a Web project that really needs a
+centralized relational database behind its pages might instead spawn several different 
+keyed data files containing information that has to be reintegrated at page generation time. 
+This sort of failure is all too common. It doesn't have a traditional name; we'll call it 
+an *adhocity trap*.
+```
+
+I really like Eric's discussion on the tradeoff between interface and implementation complexity:
+
+```markdown
+One of the most perceptive observations ever made about the Unix tradition by someone 
+standing outside it was contained in Richard Gabriel's paper called Lisp: Good News,
+Bad News, and How to Win Big. Gabriel is a long-time leader of the Lisp community, and
+the paper was primarily an argument for a particular style of Lisp design, but the 
+author himself acknowledges that it is now remembered primarily for the section called 
+‘The Rise of Worse Is Better’.
+
+The paper argued that Unix and C have the characteristics of viruses, and that in the
+evolutionary struggle among software designs traits like implementation simplicity and
+portability which lead to rapid propagation (infectiousness) are more effective than 
+correctness and completeness of the design. ... 
+
+Less remembered is that the Gabriel's central argument was about a very specific tradeoff 
+between implementation and interface complexity, one which rather exactly fits the
+categories we have examined in this chapter. Gabriel contrasts an ‘MIT’ philosophy most 
+valuing interface simplicity with a ‘New Jersey’ philosophy most valuing implementation 
+simplicity. He then proposes that although the MIT philosophy leads to software that is 
+better in the abstract, the (worse) New Jersey model has better propagation characteristics. 
+Over time, people pay more attention to software written in the New Jersey style, so it 
+improves faster. Worse becomes better.
+
+One epochal example not mentioned in Gabriel's paper is from distributed hypertext systems.
+Early distributed-hypertext projects such as NLS and Xanadu were severely constrained by 
+the MIT-philosophy assumption that dangling links were an unacceptable breakdown in the user
+interface; this constrained the systems to either browsing only a controlled, closed set of
+documents (such as on a single CD-ROM) or implementing various increasingly elaborate 
+replication, caching, and indexing methods in an attempt to prevent documents from randomly
+disappearing. Tim Berners-Lee cut through this Gordian knot by punting the problem in classic
+New Jersey style. The simplicity of implementation he bought by allowing “404: Not Found” as
+a response was what made the World Wide Web lightweight enough to propagate and succeed.
+
+We cannot offer a one-size-fits-all answer. As with most of the large questions in this 
+chapter, good taste and engineering judgement will demand different answers in different 
+situations. The important thing is to develop the habit of thinking carefully about this 
+issue on each and every one of your designs. As we have observed before in discussing 
+software modularity, complexity is a cost you must budget very carefully.
+```
+
+Orthogonal to the sources of complexity are the *kinds* of complexity -- essential, accidental, and optional:
+
+```markdown
+One of the unfortunate things about reality is that it often poses complex problems 
+that demand complex solutions. You can't control a jetliner with an elegant ten-line
+procedure. There are too many pieces of equipment, too many channels and interfaces, 
+too many different processors — too many different subsystems defined by independently
+operating human beings who often don't agree even on fundamental conventions. Even if 
+you are successful at making all the individual software parts of an avionics system 
+elegant, integration is likely to produce a large, complex, and grubby body of code 
+with (one hopes) the single virtue that it will actually work.
+
+Jetliners have *essential* complexity. There is a rather sharp point past which it's not 
+possible to trade away features for simplicity, because the plane has to stay in the 
+air. Because of that very fact, avionics control systems do not tend to spawn religious
+wars about complexity — and Unix programmers tend to stay away from them.
+
+To sharpen our vision, we need to begin by noticing a difference between accidental 
+complexity and optional complexity. *Accidental* complexity happens because someone didn't 
+find the simplest way to implement a specified set of features. Accidental complexity 
+can be eliminated by good design, or good redesign. *Optional* complexity, on the other 
+hand, is tied to some desirable feature. Optional complexity can be eliminated only by 
+changing the project's objectives.
+
+When we fail to distinguish between optional and accidental complexity, design debates
+become seriously confused. Questions about what a project's objectives are get confused
+with questions about the aesthetics of simplicity, and whether people have been 
+sufficiently clever.
+```
+
+Examples of each:
+
+```markdown
+• Accidental interface complexity often comes from non-orthogonality in the interface 
+design — that is, failing to carefully factor the interface operations so that each does
+exactly one thing
+• Accidental code complexity (making code more complicated than it needs to be to get the
+job done) often results from premature optimization
+• Accidental codebase bloat often results from violating the SPOT rule, duplicating code 
+or organizing it poorly so that opportunities for reuse aren't recognized.
+
+• Essential interface complexity usually can't be cut without trimming the basic functional
+requirements for the software
+• Essential codebase size is related to choice of development tools because, if the feature
+list is held constant, the most important factor in codebase size is probably the choice of
+implementation language
+
+Sources of optional complexity are the most difficult to make useful generalizations about,
+because they so often depend on delicate judgments about which features it is worth paying
+the complexity cost for:
+
+• Optional interface complexity often comes from adding convenience features that make life
+easier for users but aren't essential to the function of the program
+• Optional increases in codebase size (supposing the user-visible features and the algorithms
+used are held constant) can often come from various sorts of practices intended to make it 
+more maintainable — adding mode comments, using long variable names, and so forth
+•  Optional implementation complexity tends to be driven by *everything* that touches a 
+project
+```
+
+So how to deal with these kinds of complexity?
+
+```markdown
+The sources of complexity have to be grappled with in different ways. Codebase size can be
+attacked with better tools. Implementation complexity can be addressed with better choice 
+of algorithms. Interface complexity has to be addressed with better interaction design, a
+skill involving considerations of ergonomics and user psychology. This skill is less common
+(and possibly more difficult) than writing code.
+
+Attacking the kinds of complexity, on the other hand, has to be done more with insight than
+with methods. You cut accidental complexity by noticing that there is a simpler way to do 
+things. You cut optional complexity by making context-dependent judgments about what 
+features are worthwhile. You can only cut essential complexity by having an epiphany, 
+fundamentally redefining the problem you are addressing.
+```
 
 
 
