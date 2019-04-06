@@ -1,4 +1,5 @@
 UNDER RESEARCH AND ACADEMIA
+    [Email](#email)
     [Productivity](#Productivity)
         [Structured procrastination](#Structured-procrastination)
         [Batch low-intensity tasks](#Batch-low-intensity-tasks)
@@ -68,7 +69,64 @@ more about the real thing, not the fake version that you’ve been peddled.
 
 See also [Teaching Physics](https://xkcd.com/895/) by Randall Munroe of xkcd.
 
-    
+<a name="#Email"></a>
+### Email
+([overview](#overview))      
+
+The main impetus for creating this subsection was Scott Aaronson's joke post [The Email Event Horizon](https://www.scottaaronson.com/blog/?p=388), written way back in 2009, which is too funny (and short enough anyway) not to reproduce in full:
+
+```markdown
+I know I’ve been gone from the shtetl too long—I even stood by as a P=NP goon performed
+a drive-by shooting through my comments section.  Part of the explanation, I’m ashamed 
+to admit, is that I’ve been procrastinating by proving theorems and writing papers,
+rather than building up the massive corpus of blog entries on which my tenure case will 
+undoubtedly rest.
+
+But most of my absence has an unhappier source.  At an unknown time about three weeks ago,
+I crossed the Email Event Horizon—defined in General Unproductivity as the point beyond 
+which you could *literally spend your entire day answering emails*, yet still have more 
+emails at the end of the day demanding immediate attention than you had at the beginning. 
+Not spam or crank mail, but worthy missives from students, prospective students, high-
+school students, secretaries, TAs, fellow committee members, conference organizers, visit 
+hosts, speakers, editors, co-editors, grant officers, referees, colleagues … everything, 
+always, requiring you to do something, commit to some decision, send a title and abstract,
+pick dates for the trip, exercise Genuine Conscious Thought.  No one ever writes:
+
+	Please respond to the situation described above by cracking a joke, the less tasteful
+	the better.  You will never need to deal with this matter again.
+
+I don’t know the precise moment when I crossed the EEH—there was nothing to herald it, it
+felt like any other moment—but it’s obvious now that I’m in a new, unfamiliar causal region
+(and that, while I might have thought I’d crossed years ago, I hadn’t).  Communication from
+inside the EEH to the external universe is theoretically possible, but like Hawking
+radiation, it tends to be excruciatingly slow—and when it finally arrives, might simply
+regurgitate the incoming information in garbled form.
+
+When I was a student, I used to wonder constantly about the professors who’d ignore my long,
+meticulously-crafted emails or fire off one-word replies, yet who might suddenly have an hour
+for me if I walked into their offices.  Were they senile?  Rude?  Did they secretly despise
+me?  *Now* I get it, now I understand—yet I doubt I could explain the warped spacetime
+Gmailometry I now inhabit to my own past self.  On the other hand, the recognition of what’s
+happened is itself a sort of liberation.  I’m starting to grasp what’s long been obvious to 
+many of you, those who crossed the EEH before I got my first AOL account in seventh grade: 
+that it’s useless to struggle.  By definition, the speed required to escape the EEH exceeds
+that of typing, while the mental energy required to accelerate a massive, resting theorist to 
+such a speed is infinite.  So there’s nothing to do but blog, goof off, prove theorems, let 
+the starred-but-unanswered inquiries pile higher and higher, and await the Email Singularity
+in my causal future.
+```
+
+Okay, a bit more seriously -- here's what Terry Tao does:
+
+```markdown
+With regards to email, an assembly line approach seems to be efficient: wait until it builds
+up, and then (a) pass through deleting spam, (b) pass through again dealing with easily dealt
+with emails (ones that need to be read once and discarded or filed, or require a very brief 
+response, or pushed into some sort of “pending” folder; and then (c) deal with one or more of
+the emails that demand a longer response, if you feel that this is an appropriate time to do so.
+```
+
+See also [structured procrastination](#structured-procrastination).
     
 <a name="#Productivity"></a>
 ### Productivity
@@ -78,11 +136,93 @@ See also [Teaching Physics](https://xkcd.com/895/) by Randall Munroe of xkcd.
 ### Batch low-intensity tasks
 ([overview](#overview)) 
 
-This is mainly from Terry Tao's [eponymous article](https://terrytao.wordpress.com/career-advice/batch-low-intensity-tasks-together/). Compare [structured procrastination](#structured-procrastination).
+This is mainly from Terry Tao's [eponymous article](https://terrytao.wordpress.com/career-advice/batch-low-intensity-tasks-together/). I liked it a lot, and find myself doing it all the time. 
 
 ```markdown
+The tasks one is faced with in work can be broadly divided into two categories:
 
+1. “high-intensity” tasks, which are complex and require your full concentration and 
+focus (e.g. writing a research paper; preparing for a class or talk; writing a lengthy,
+detailed, and careful email; thinking about a mathematical problem; reading a research 
+paper or text), and
+
+2. “low-intensity” tasks, which are routine (but can be time-consuming) and do not
+require much mental energy (e.g. filling out paperwork; teaching a class or giving a talk
+that you have already prepared; writing a short email response; errands and appointments;
+reading email or browsing the web).
+
+Working with high-intensity requires a rather different “mode” of thought than with low-
+intensity tasks.  (For instance, I find it can take a good half-hour or so of uninterrupted
+thinking before I am fully focused on a maths problem, with all the relevant background at
+my fingertips.) To reduce the mental fatigue of transitioning from one “mode” to another,
+I find it useful to batch similar low-intensity tasks together, and to separate them in time 
+(or space) from the high-intensity ones.
+
+If one has a batch of tasks that are both low-intensity and low-priority, then it is probably
+a good idea to set it aside until one really needs a break from more high-intensity work; for
+instance, if I get too frustrated on an obstacle in my research, I find this to be a good 
+time to go do some accumulated errands or paperwork, or even just to catch up on my email and
+web browsing.  Having some easy tasks of this nature lying around is then handy for killing 
+time in a reasonably productive fashion until one’s creative energies return.
+
+Note that batching only works well for *low-intensity* tasks.  A high-intensity task requires so
+much focus, and exhausts so much of one’s mental stamina, that it can be counterproductive or 
+distracting to mix this activity with other low or high intensity tasks.
 ```
+
+You can block out in both space and time:
+
+```markdown
+For example, you can devote a block of time to clearing a lot of “trivial” tasks off of your
+plate.  Schedule all the “distracting” tasks (e.g. office hours and other appointments) in a
+single day; try to bunch up teaching days; etc.  (I found, for instance, that teaching two 
+sections of a large calculus class back to back (e.g. at 9am and then at 10am) led to 
+significant time savings in class preparation (as well as savings in mental energy), when
+compared to teaching two different classes, or the same class at very different times.)
+
+One can also do this blocking off in space as well as in time.  For instance, with regards to
+keeping track of paperwork, I have one small area of my office for “important” forms and 
+records that I am likely to need to deal with again in the future, and a larger area in
+another part of my office for “mundane” paperwork which have a low (but non-zero) probability
+of being needed again in the future.  I don’t organise or file the latter set of papers very
+much, given how rarely I need to retrieve files from it; it tends to accumulate in a pile, 
+which I sort through (and mostly discard) every few months or so.  (But I do make an effort
+to keep the “important” forms relatively organised, and to not have them be cluttered by the 
+much larger set of “mundane” forms.)
+
+In a somewhat analogous fashion, one can have an “out” tray for low-priority physical mail, 
+and send them all out at once, rather than making multiple trips to the office mail room in 
+one day.  (While doing so, of course, that would be a good time to check one’s mailbox, or any 
+other task that requires walking around the department.)
+```
+
+Email (see also [email](#email)):
+
+```markdown
+With regards to email, an assembly line approach seems to be efficient: wait until it builds
+up, and then (a) pass through deleting spam, (b) pass through again dealing with easily dealt
+with emails (ones that need to be read once and discarded or filed, or require a very brief 
+response, or pushed into some sort of “pending” folder; and then (c) deal with one or more of
+the emails that demand a longer response, if you feel that this is an appropriate time to do so.
+```
+
+Even browsing can be batched:
+
+```markdown
+If you like to browse multiple web sites during the course of the day, I recommend using a 
+feed aggregator (I myself use Google Reader) so that you can do all your browsing at once, 
+so that they do not distract you from your other tasks.
+```
+
+This post of Terry's does show its age, since Google Reader [was discontinued in 2013](https://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html) due to declining usage and Google's own stated imperative to "focus so as to make the most of the opportunities afforded by the new multiple-device-per-person computing environment" instead of "spreading themselves too thin":
+
+```markdown
+We launched Google Reader in 2005 in an effort to make it easy for people to discover and 
+keep tabs on their favorite websites. While the product has a loyal following, over the 
+years usage has declined. So, on July 1, 2013, we will retire Google Reader.
+```
+
+This is related to, but not the same as, [structured procrastination](#structured-procrastination).
 
 <a name="#Structured-procrastination"></a>
 ### Structured procrastination
@@ -170,6 +310,7 @@ excellent self-deceptive skills also. And what could be more noble than using on
 flaw to offset the bad effects of another?
 ```
 
+The 2009 Scott Aaronson post I linked to above, by the way, is just as funny in its own inimitably Aaronsonian way, so I had to [save it here](#email). 
 
 
 (UNDER BIO/EVOLUTION)
