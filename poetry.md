@@ -47,7 +47,7 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [The Contract Drafting Em](#the-contract-drafting-em), by Zack Davis
 2. [The greatest con ever botched](#The-greatest-con-ever-botched), by various authors 
 2. [The hare and the tortoise](#The-hare-and-the-tortoise), by Winston Rowntree
-2, [The Idea of Order at Key West](#The-Idea-of-Order-at-Key-West), by Wallace Stevens
+2. [The Idea of Order at Key West](#The-Idea-of-Order-at-Key-West), by Wallace Stevens
 2. [Three Men in a Boat (to say nothing of the dog)](#three-men-in-a-boat), by Jerome K. Jerome
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
 4. [Total Eclipse](#total-eclipse), by Annie Dillard
