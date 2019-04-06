@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 28,500*
+*[Word count](https://wordcounter.net/): 29,700*
 
 <a name="#overview"></a>
 
@@ -23,7 +23,9 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [High Flight](#high-flight), by John Gillespie Magee, Jr
 2. [I'm a genuine philanthropist](#Im-a-genuine-philanthropist), by Gilbert and Sullivan
 2. [Infinity Breathes](#infinity-breathes), by Jesse Han
-2. [Interlude מ: Miss American Pie](#Interlude-מ-Miss-American-Pie), by Scott Alexander
+2. Scott Alexander:
+   1. [Interlude מ: Miss American Pie](#Interlude-מ-Miss-American-Pie), from [*Unsong*](http://unsongbook.com/)
+   2. [Get out of the car](#get-out-of-the-car), from *Universal Love, said the Cactus Person*
 2. [In the beginning were the gametes](#in-the-beginning-were-the-gametes), by Peter Watts
 2. Jorge Luis Borges
    1. [Dreamtigers](#dreamtigers)
@@ -669,8 +671,8 @@ understand 'character X fell to place Y' as 'gravity moves X to Y', as though gr
 character in the story.
 ```
 
-<a name="#Interlude-מ-Miss-American-Pie"></a>
-## Interlude מ: Miss American Pie
+<a name="#Infinity-Breathes"></a>
+## Infinity Breathes
 ### by Jesse Han
 ([overview](#overview))
 
@@ -936,6 +938,92 @@ relationship with God. In the streets the children are screaming and so on becau
 The church bells are broken because Jesus is dead; kind of a heavy-handed metaphor, but whatever.
 The three men I admire most represent the Father, Son, and Holy Ghost, exactly like he says. 
 Do any of you have any other questions?”
+```
+
+<a name="#Get-out-of-the-car"></a>
+## Get out of the car
+### by Scott Alexander
+([overview](#overview))
+
+Scott's short story [*Universal Love, Said the Cactus Person*](https://slatestarcodex.com/2015/04/21/universal-love-said-the-cactus-person/) is one of his better ones. 
+
+I like the following exchange in particular. The protagonist is having a trip and they’re trying to convince the psychedelic DMT entities they’re conversing with (a big green bat and a cactus-person respectively) to factor a 100-digit semiprime so as to convince people in the ‘real world’ that they actually exist. After a long unproductive back-and-forth the big green bat says:
+
+```markdown
+“Sir. Imagine you are in the driver’s seat of a car. You have been sitting there
+so long that you have forgotten that it is the seat of a car, forgotten how to get
+out of the seat, forgotten the existence of your own legs, indeed forgotten that 
+you are a being at all separate from the car. You control the car with skill and 
+precision, driving it wherever you wish to go, manipulating the headlights and the
+windshield wipers and the stereo and the air conditioning, and you pronounce 
+yourself a great master. But there are paths you cannot travel, because there are
+no roads to them, and you long to run through the forest, or swim in the river, or
+climb the high mountains. A line of prophets who have come before you tell you that
+the secret to these forbidden mysteries is an ancient and terrible skill called
+GETTING OUT OF THE CAR, and you resolve to learn this skill. You try every button
+on the dashboard, but none of them is the button for GETTING OUT OF THE CAR. You 
+drive all of the highways and byways of the earth, but you cannot reach GETTING OUT
+OF THE CAR, for it is not a place on a highway. The prophets tell you GETTING OUT OF
+THE CAR is something fundamentally different than anything you have done thus far, 
+but to you this means ever sillier extremities: driving backwards, driving with the
+headlights on in the glare of noon, driving into ditches on purpose, but none of 
+these reveal the secret of GETTING OUT OF THE CAR. The prophets tell you it is easy; 
+indeed, it is the easiest thing you have ever done. You have traveled the Pan-
+American Highway from the boreal pole to the Darien Gap, you have crossed Route 66 
+in the dead heat of summer, you have outrun cop cars at 160 mph and survived, and 
+GETTING OUT OF THE CAR is easier than any of them, the easiest thing you can imagine,
+closer to you than the veins in your head, but still the secret is obscure to you.”
+
+A herd of bison came into listen, and voles and squirrels and ermine and great tusked
+deer gathered round to hear as the bat continued his sermon.
+
+“And finally you drive to the top of the highest peak and you find a sage, and you 
+ask him what series of buttons on the dashboard you have to press to get out of the
+car. And he tells you that it’s not about pressing buttons on the dashboard and you
+just need to GET OUT OF THE CAR. And you say okay, fine, but what series of buttons
+will lead to you getting out of the car, and he says no, really, you need to stop 
+thinking about dashboard buttons and GET OUT OF THE CAR. And you tell him maybe if 
+the sage helps you change your oil or rotates your tires or something then it will 
+improve your driving to the point where getting out of the car will be a cinch after
+that, and he tells you it has nothing to do with how rotated your tires are and you 
+just need to GET OUT OF THE CAR, and so you call him a moron and drive away.”
+
+“Universal love,” said the cactus person.
+
+“So that metaphor is totally unfair,” I said, “and a better metaphor would be if 
+every time someone got out of the car, five minutes later they found themselves back
+in the car, and I ask the sage for driving directions to a laboratory where they are
+studying that problem, and…”
+
+“You only believe that because it’s written on the windshield,” said the big green 
+bat. “And you think the windshield is identical to reality because you won’t GET OUT
+OF THE CAR.”
+
+“Fine,” I said. “Then I can’t get out of the car. I want to get out of the car. But
+I need help. And the first step to getting help is for you to factor my number. You 
+seem like a reasonable person. Bat. Freaky DMT entity. Whatever. Please. I promise you,
+this is the right thing to do. Just factor the number.”
+
+“And I promise you,” said the big green bat. “You don’t need to factor the number. You
+just need to GET OUT OF THE CAR.”
+
+“I can’t get out of the car until you factor the number.”
+
+“I won’t factor the number until you get out of the car.”
+
+“Please, I’m begging you, factor the number!”
+
+“Yes, well, I’m begging you, please get out of the car!”
+
+“FOR THE LOVE OF GOD JUST FACTOR THE FUCKING NUMBER!”
+
+“FOR THE LOVE OF GOD JUST GET OUT OF THE FUCKING CAR!”
+
+“FACTOR THE FUCKING NUMBER!”
+
+“GET OUT OF THE FUCKING CAR!”
+
+“Universal love,” said the cactus person.
 ```
 
 <a name="#Polynomials-and-power-series"></a>
