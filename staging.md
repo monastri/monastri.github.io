@@ -19,7 +19,7 @@ NEW
 [Physics](#Physics)
 	[Common misconceptions](#Common-misconceptions)
 		[Misconceptions about relativity](#Misconceptions-about-relativity)
-[Complex systems and complexity science](#complex-systems)		
+[Systems galore: complex systems, complexity science, systems theory](#Complex-systems-and-systems-theory)		
 	[How complex systems fail](#How-complex-systems-fail)
 REMOVE
 [Readability]
@@ -309,11 +309,52 @@ made of sand, you really can't, it's bound together with the Force).
 
 
 --------------------------------------
-<a name="#Software-complexity"></a>
-## Complex systems
+<a name="#Complex-systems-and-systems-theory"></a>
+## Complex systems and systems theory
 ([overview](#overview)) 
 
-See also [Software complexity](#Software-complexity), as well as Cosma Shalizi's [notebook on the topic](http://bactra.org/notebooks/complexity.html), where he poses some natural-sounding questions we're still struggling with:
+See also [Software complexity](#Software-complexity).
+
+The Waterloo Institute for Complexity and Innovation has the following nice extensional suggestive-first-attempt definition from their [very nice webpage](https://uwaterloo.ca/complexity-innovation/about/what-are-complex-systems):
+
+```markdown
+Complex systems are all around us. They are seen in the ways that migrating birds organize
+themselves into flocking formations and that ants communicate to successfully forage. 
+They are seen in the ways in which humans form social networks, and in the patterns of 
+communication, social capital, and reputation that emerge from these networks. They are
+seen in the emergent power-law or fractal structures of plants, snowflakes, landslides,
+and galaxies, as well as in similar structural patterns of wealth and income distribution,
+stock market fluctuations, population distributions between cities, and patterns of urban 
+development. Complex systems are often referred to as “wholes that are more than the sum 
+of their parts,” wholes whose behaviour cannot be understood without looking at the 
+individual components and how they interact.
+
+Complex behaviour arises from the interplay, in densely interconnected systems, between
+multiplicative causation and positive and negative feedbacks. A signature of such systems
+is radically disproportional causation (i.e., small causes do not always produce small 
+effects) or what is often called “nonlinearity.” Nonlinear systems can undergo sudden 
+flips between stable states or equilibria. A second signature is the “emergence” of
+structured macroscopic patterns that are the outcome of the independent microscopic 
+interactions of the entities in the system. These macroscopic patterns — be they 
+hurricanes in Earth’s atmosphere or boom-bust cycles in global financial markets — often 
+have enormous causal power.
+
+Complex *adaptive* systems — predominantly living systems, including human social systems
+— exhibit all these features; but, in addition, they survive and reproduce within dynamic 
+selection environments. To do so, they have sets of embedded rules that guide their action
+in response to their external environments. These rules evolve under selection pressure.
+
+Mathematically, complex adaptive systems are multi-state variable dynamical systems 
+characterized by a moderate degree of structured interactions and interconnections. State 
+variables in these systems are often characterized by heterogeneous parameter sets and 
+updating rules. Spatial and network relationships are often non-uniform and violate mean 
+field theory assumptions. As a result, mathematical representations of these systems often
+do not have analytical solutions. Further, system behaviour is characterized by path 
+dependence, nonlinearities, bifurcations, and threshold behaviour. Higher-scale or 
+aggregate output patterns are often characterized by power-law statistical distributions.
+```
+
+Cosma Shalizi's [notebook on the topic](http://bactra.org/notebooks/complexity.html) has the following bit where he poses some natural-sounding questions we're still struggling with:
 
 ```markdown
 A definition would be nice. So would an ordinal if not a cardinal measure. Is it clear
@@ -338,6 +379,170 @@ has not been the least reason for its success.
 ```
 
 This particular notebook has *many* more outbound links to other notebooks in Cosma's repertoire than any other notebook I've found, which tells you a lot.
+
+Wikipedia's [Complex systems](https://en.wikipedia.org/wiki/Complex_system#Overview) page has a surprisingly nice and gentle overview of the key concepts of complex systems:
+
+- systems
+- complexity
+- networks
+- nonlinearity
+- emergence (including spontaneous order and self-organization)
+- adaptation (special case)
+
+as well as their salient features:
+
+- cascading failures
+- openness
+- memoryful
+- nestedness (Matrioshka dolls, not hierarchy)
+- feedback loops
+
+Compare with the key concepts in [systems theory](https://en.wikipedia.org/wiki/Systems_theory#General_systems_research_and_systems_inquiry), which feels a bit more [Borgesian](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge):
+
+- System: An organized entity made up of interrelated and interdependent parts.
+- Boundaries: Barriers that define a system and distinguish it from other systems in the environment.
+- Homeostasis: The tendency of a system to be resilient towards external factors and maintain its key characteristics.
+- Adaptation: The tendency of a self-adapting system to make the internal changes needed to protect itself and keep fulfilling its purpose.
+- Reciprocal Transactions: Circular or cyclical interactions that systems engage in such that they influence one another.
+- Feedback Loop: The process by which systems self-correct based on reactions from other systems in the environment.
+- Throughput: Rate of energy transfer between the system and its environment during the time it is functioning.
+- Microsystem: The system closest to the client.
+- Mesosystem: Relationships among the systems in an environment.
+- Exosystem: A relationship between two systems that has an indirect effect on a third system.
+- Macrosystem: A larger system that influences clients, such as policies, administration of entitlement programs, and culture.
+- Chronosystem: A system composed of significant life events that can affect adaptation.
+
+A bit more on each -- I've curated and edited them for my own benefit.
+
+Systems:
+
+```markdown
+A system, broadly defined, is a set of entities that, through their interactions, 
+relationships, or dependencies, form a unified whole. It is always defined in terms
+of its boundary, which determines the entities that are or are not part of the system.
+Entities lying outside the system then become part of the system's environment.
+
+A system can exhibit properties that produce behaviors which are distinct from the 
+properties and behaviors of its parts; these system-wide or global properties and 
+behaviors are characteristics of how the system interacts with or appears to its 
+environment, or of how its parts behave (say, in response to external stimuli) by 
+virtue of being within the system. The notion of behavior implies that the study of
+systems is also concerned with processes that take place over time (or, in 
+mathematics, some other phase space parameterization). 
+```
+
+Complexity and its variants:
+
+```markdown
+Systems exhibit complexity means that their behaviors cannot be easily implied from
+the very properties that make them difficult to model, and the complex behaviors are
+governed entirely, or almost entirely, by the behaviors those properties produce. 
+Any modeling approach that ignores such difficulties or characterizes them as noise,
+then, will necessarily produce models that are neither accurate nor useful. 
+
+As yet no fully general theory of complex systems has emerged for addressing these
+problems, so researchers must solve them in domain-specific contexts. Researchers in 
+complex systems address these problems by viewing the chief task of modeling to be 
+capturing, rather than reducing, the complexity of their respective systems of interest.
+
+While no generally accepted exact definition of complexity exists yet, there are many 
+archetypal examples of complexity. Systems can be complex if, for instance, 
+
+- they have chaotic behavior (behavior that exhibits extreme sensitivity to initial 
+conditions), 
+
+- they have emergent properties (properties that are not apparent from their components
+in isolation but which result from the relationships and dependencies they form when 
+placed together in a system), 
+
+- they are computationally intractable to model (if they depend on a number of 
+parameters that grows too rapidly with respect to the size of the system)
+```
+
+Networks:
+
+```markdown
+The interacting components of a complex system form a network, which is a collection of
+discrete objects and relationships between them, usually depicted as a graph of vertices 
+connected by edges.
+
+Networks often describe the sources of complexity in complex systems. Studying complex 
+systems as networks therefore enables many useful applications of graph theory and 
+network science. Some complex systems, for example, are also complex networks, which 
+have properties such as phase transitions and power-law degree distributions that 
+readily lend themselves to emergent or chaotic behavior. 
+
+The fact that the number of edges in a complete graph grows quadratically in the number
+of vertices sheds additional light on the source of complexity in large networks: as a
+network grows, the number of relationships between entities quickly dwarfs the number 
+of entities in the network.
+```
+
+Nonlinearity:
+
+```markdown
+Nonlinearity describes systems in which a change in the size of the input does not produce
+a proportional change in the size of the output. For a given change in input, such systems
+may yield significantly greater than or less than proportional changes in output, or even 
+no output at all, depending on the current state of the system or its parameter values.
+
+Of particular interest to complex systems are nonlinear dynamical systems, which are 
+systems of differential equations that have one or more nonlinear terms. Some nonlinear
+dynamical systems, such as the Lorenz system, can produce a mathematical phenomenon known
+as chaos. Chaos as it applies to complex systems refers to the sensitive dependence on 
+initial conditions, or "butterfly effect," that a complex system can exhibit. In such a 
+system, small changes to initial conditions can lead to dramatically different outcomes.
+Chaotic behavior can therefore be extremely hard to model numerically, because small 
+rounding errors at an intermediate stage of computation can cause the model to generate
+completely inaccurate output. 
+
+Furthermore, if a complex system returns to a state similar to one it held previously, 
+it may behave completely differently in response to exactly the same stimuli, so chaos 
+also poses challenges for extrapolating from past experience.
+```
+
+Emergence:
+
+```markdown
+Emergent behaviors and properties are traits of a system which are not apparent from its
+components in isolation but which result from the interactions, dependencies, or
+relationships they form when placed together in a system.
+
+While emergence is often used to refer only to the appearance of unplanned organized
+behavior in a complex system, emergence can also refer to the breakdown of organization; 
+it describes any phenomena which are difficult or even impossible to predict from the 
+smaller entities that make up the system.
+
+One example of complex system whose emergent properties have been studied extensively is
+cellular automata. In a cellular automaton, a grid of cells, each having one of finitely
+many states, evolves over time according to a simple set of rules. These rules guide the
+"interactions" of each cell with its neighbors. Although the rules are only defined 
+locally, they have been shown capable of producing globally interesting behavior, for
+example in Conway's Game of Life.
+
+When emergence describes the appearance of unplanned order, it is spontaneous order (in 
+the social sciences) or self-organization (in physical sciences). 
+
+Spontaneous order can be seen in herd behavior, whereby a group of individuals coordinates
+their actions without centralized planning. 
+
+Self-organization can be seen in the global symmetry of certain crystals, for instance the
+apparent radial symmetry of snowflakes, which arises from purely local attractive and 
+repulsive forces both between water molecules and between water molecules and their
+surrounding environment.
+```
+
+Adaptation:
+
+```markdown
+Complex adaptive systems are special cases of complex systems that are adaptive in that 
+they have the capacity to change and learn from experience. 
+
+Examples of complex adaptive systems include the stock market, social insect and ant 
+colonies, the biosphere and the ecosystem, the brain and the immune system, the cell and 
+the developing embryo, the cities, manufacturing businesses and any human social group-
+based endeavor in a cultural and social system such as political parties or communities.
+```
 
 <a name="#How-complex-systems-fail"></a>
 ### How complex systems fail
