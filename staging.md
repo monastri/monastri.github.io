@@ -65,6 +65,8 @@ you think, but because your words are far less helpful than you think.  You're w
 your mark.
 ```
 
+The paper by Ralph Merkle, by the way, is [Secure Communications Over Insecure Channels](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.5157&rep=rep1&type=pdf). 
+
 Jon Sterling:
 
 ```markdown
