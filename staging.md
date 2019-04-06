@@ -2,6 +2,72 @@ UNDER RESEARCH AND ACADEMIA
     [Productivity](#Productivity)
         [Structured procrastination](#Structured-procrastination)
         [Batch low-intensity tasks](#Batch-low-intensity-tasks)
+[Physics](#Physics)
+	[Common misconceptions](#Common-misconceptions)
+		[Misconceptions about relativity](#Misconceptions-about-relativity)
+	
+	
+	
+<a name="#Physics"></a>
+## Physics
+([overview](#overview))	
+
+<a name="#Common-misconceptions"></a>
+### Common misconceptions
+([overview](#overview))  
+
+<a name="#Misconceptions-about-relativity"></a>
+### Misconceptions about relativity
+([overview](#overview))  
+
+From [Philip Freeman's answer](https://qr.ae/TW1mSb) to the Quora question "If spacetime can bend, stretch, and ripple, could there be a possible “tear” in spacetime?", which Viktor approves of:
+
+```markdown
+OK, everybody repeat after me:
+
+Spacetime is NOT a fabric. 
+Spacetime is NOT a rubber sheet. 
+Spacetime does not bend, stretch, ripple or tie-dye.
+
+Analogy is awesome. It is how our brains work. But analogies are also dangerous because
+they are inherently *wrong*. 
+
+Spacetime is (probably) not a THING. Spacetime is the set of connections between things/
+events. Image all the things that are happening, everywhere, everywhen. They are all 
+connected by real and potential cause and effect, they all have real and potential 
+measured separations. These are the “things” that spacetime really is. We can imagine 
+them as a weave linking all these events and things, but that’s a picture not the reality.
+The reality is just the connections between things and the pattern of that. That pattern
+does have a reality… it can be usefully thought of as a field and it can contain energy 
+and momentum, so it isn’t really all that wrong to call it a thing. But it has no physical
+interconnection, no elasticity or resilience. It doesn’t ‘push on things’ (at least not 
+the way we think of things doing that) and it doesn’t really behave like a rubber sheet 
+at all.
+
+When we say that spacetime is distorted we mean that the pattern of connections is
+different than we’d normally expect (called “flat spacetime”, yes, we’re victims of
+analogy too, though the physicists using that term do know what it means mathematically, 
+and it isn’t because it is flat). The distortions are distortions in the metric, the 
+pattern of interconnections. Such distortions can cause, for example, a region of space to 
+have a larger volume than you’d expect from its surface area. That’s mathematically 
+described using a term called “curvature”. Sometimes those distortions cause a region to
+have an energy density… we call that “pressure” (because the units of pressure are 
+joules/metre^3). And so on.
+
+Those patterns can, under certain circumstances, produce real or apparent ‘discontinuities’,
+most of which (like an event horizon) are byproducts of making our observations of
+interconnections from a certain point of view, so a different point of view can smooth them
+out. A few (like the singularity described at the centre of a black hole) can’t be erased 
+this way — which pretty much everyone thinks means that our theory has a hole, not spacetime!
+
+So… spacetime isn’t really the sort of thing that can rip. It isn’t really a sort of thing 
+at all, except for having the admittedly thing-ish ability to hold momentum-energy. And
+ultimately to follow your (admirable) desire to understand this more you’ll have to learn 
+more about the real thing, not the fake version that you’ve been peddled.
+```
+
+See also [Teaching Physics](https://xkcd.com/895/) by Randall Munroe of xkcd.
+
     
     
 <a name="#Productivity"></a>
@@ -12,7 +78,7 @@ UNDER RESEARCH AND ACADEMIA
 ### Batch low-intensity tasks
 ([overview](#overview)) 
 
-This is mainly from Terry Tao's [eponymous article](https://terrytao.wordpress.com/career-advice/batch-low-intensity-tasks-together/).
+This is mainly from Terry Tao's [eponymous article](https://terrytao.wordpress.com/career-advice/batch-low-intensity-tasks-together/). Compare [structured procrastination](#structured-procrastination).
 
 ```markdown
 
