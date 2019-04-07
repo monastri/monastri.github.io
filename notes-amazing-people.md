@@ -1,8 +1,10 @@
-*[Word count](https://wordcounter.net/): 197,800*
+*[Word count](https://wordcounter.net/): 32,800*
 
 ## What is this?
 
-This is a "living document", a "perpetual draft" in [the style of Gwern](https://www.gwern.net/About#long-content). I'm particulary taken by the following quote: 
+This is the "amazing people" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md), last updated Apr 6, 2019, which got so big (1.2 million char) that GitHub refused to render the whole page anymore, ruining my original dream of having my entire notebook in one long page for zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience.  
+
+That said, this is a "living document", a "perpetual draft" in [the style of Gwern](https://www.gwern.net/About#long-content). I'm particulary taken by the following quote: 
 
 ```markdown
 I have read blogs for many years and most blog posts are the triumph of the hare over the tortoise.
