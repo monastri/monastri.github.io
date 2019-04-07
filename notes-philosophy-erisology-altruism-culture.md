@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 33,900*
+*[Word count](https://wordcounter.net/): 34,600*
 
 ## What is this?
 
@@ -62,6 +62,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 1. [Expert judgment accuracy](#expert-judgment)
 2. [Generalizing from one example, or the typical mind fallacy](#typical-mind-fallacy)
 2. [General philosophy](#general-philosophy)
+4. [Greenness disintegrates, or, the necessary strangeness of scientific explanations](#The-necessary-strangeness-of-scientific-explanations)
 2. [Legibility](#Legibility)
 4. [Moloch](#moloch)
 2. [Morality, axiology, law](#morality-axiology-law)
@@ -76,6 +77,41 @@ I've sorted the quotes below into the following categories. This is a provisiona
 3. [The cowpox of doubt](#The-cowpox-of-doubt)
 
 -----------------------------
+
+<a name="#The-necessary-strangeness-of-scientific-explanations"></a>
+## The necessary strangeness of scientific explanations
+([overview](#overview))
+
+Douglas Hofstadter on the necessary strangeness of scientific explanations:
+
+```markdown
+It is no accident, I would maintain, that quantum mechanics is so wildly counterintuitive. Part of the 
+nature of explanation is that it must eventually hit some point where further probing only increases 
+opacity rather than decreasing it. 
+
+Consider the problem of understanding the nature of solids. You might wonder where solidity comes form. 
+What if someone said to you, "The ultimate basis of this brick's solidity is that it is composed of a 
+stupendous number of eensy weensy bricklike objects that themselves are rock-solid"? You might be 
+interested to learn that bricks are composed of micro-bricks, but the initial question - "What accounts 
+for solidity?" - has been thoroughly begged. What we ultimately want is for solidity to vanish, to 
+dissolve, to disintegrate into some totally different kind of phenomenon with which we have no experience. 
+Only then, when we have reached some completely novel, alien level will we feel that we have really made 
+progress in explaining the top-level phenomenon.
+
+...
+
+I first saw this thought expressed in the stimulating book Patterns of Discovery by Norwood Russell 
+Hanson. Hanson attributes it to a number of thinkers, such as Isaac Newton, who wrote, in his famous 
+work Opticks: "The parts of all homogeneal hard Bodies which fully touch one another, stick together 
+very strongly. And for explaining how this may be, some have invented hooked Atoms, which is begging 
+the Question." Hanson also quotes James Clerk Maxwell (from an article entitled "Atom"): "We may 
+indeed suppose the atom elastic, but this is to endow it with the very property for the explanation 
+of which... the atomic constitution was originally assumed." Finally, here is a quote Hanson provides 
+from Werner Heisenberg himself: "If atoms are really to explain the origin of color and smell of 
+visible material bodies, then they cannot possess properties like color and smell." 
+
+So, although it is not an original thought, it is useful to bear in mind that "greenness disintegrates".
+```
 
 <a name="#signaling"></a>
 ## Signaling
@@ -326,6 +362,21 @@ do seem to do as well as statistical methods.
 <a name="#Effective-altruism"></a>
 ## Effective altruism
 ([overview](#overview))
+
+The sentiment that drives effective altruism is well expressed in the following peculiarity that Steven Pinker noted in [The trouble with Harvard](https://newrepublic.com/article/119321/harvard-ivy-league-should-judge-students-standardized-tests): 
+
+```markdown
+A skilled professional I know had to turn down an important freelance assignment
+because of a recurring commitment to chauffeur her son to a resumé-building “social
+action” assignment required by his high school. This involved driving the boy for 
+45 minutes to a community center, cooling her heels while he sorted used clothing
+for charity, and driving him back—forgoing income which, judiciously donated, could 
+have fed, clothed, and inoculated an African village. The dubious “lessons” of this 
+forced labor as an overqualified ragpicker are that children are entitled to treat 
+their mothers’ time as worth nothing, that you can make the world a better place by
+destroying economic value, and that the moral worth of an action should be measured
+by the conspicuousness of the sacrifice rather than the gain to the beneficiary.
+```
 
 <a name="#Weird-EA"></a>
 ### Weird EA
@@ -807,7 +858,7 @@ From what I've seen, this is basically what [RationalWiki](https://rationalwiki.
 (Apropos of nothing: she just followed me on Twitter. I am over the moon.)
 
 <a name="#argumentative-charity"></a>
-### Argumentative charity
+## Argumentative charity
 ([overview](#overview))
 
 My go-to text for charity is Scott Alexander's [founding post](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/) for his blog SSC. Here's the part I liked, which is pretty much all of the 'transferable' part:
@@ -833,8 +884,25 @@ be found anywhere else. The rationalist forum Less Wrong teaches the idea of ste
 stupid position into the nearest intelligent position and then seeing what you can learn from it.
 ```
 
+There's also what Megan McArdle noted in [Only stupid people call people stupid](https://www.bloomberg.com/opinion/articles/2014-08-12/only-stupid-people-call-people-stupid):
+
+```markdown
+I’m always fascinated by the number of people who proudly build columns, tweets, blog posts or Facebook 
+posts around the same core statement: “I don’t understand how anyone could (oppose legal abortion/support 
+a carbon tax/sympathize with the Palestinians over the Israelis/want to privatize Social Security/insert 
+your pet issue here)." It’s such an interesting statement, because it has three layers of meaning.
+
+The first layer is the literal meaning of the words: *I lack the knowledge and understanding to figure this 
+out*. But the second, intended meaning is the opposite: *I am such a superior moral being that I cannot even 
+imagine the cognitive errors or moral turpitude that could lead someone to such obviously wrong conclusions*. 
+And yet, the third, true meaning is actually more like the first: *I lack the empathy, moral imagination or 
+analytical skills to attempt even a basic understanding of the people who disagree with me*.
+
+In short, “I’m stupid.” Something that few people would ever post so starkly on their Facebook feeds.
+```
+
 <a name="#chestertons-fence"></a>
-### Chesterton's fence
+## Chesterton's fence
 ([overview](#overview))
 
 From Scott Alexander's [founding post](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/):
@@ -865,7 +933,7 @@ are at high risk of stumbling across bull.)
 See [legibility](#legibility) for some examples of tradition-as-Chesterton's fence.
 
 <a name="#absurdity-heuristic"></a>
-### Absurdity heuristic
+## Absurdity heuristic
 ([overview](#overview))
 
 From Scott Alexander's [Talking Snakes: A Cautionary Tale](https://www.lesswrong.com/posts/atcJqdhCxTZiJSxo2/talking-snakes-a-cautionary-tale):
@@ -962,7 +1030,7 @@ they are going to need to be dealt with one by one.
 ```
 
 <a name="#typical-mind-fallacy"></a>
-### Typical mind fallacy
+## Typical mind fallacy
 ([overview](#overview))
 
 Scott Alexander's LW post [Generalizing From One Example](https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example) begins with the following example of the "typical mind fallacy" by his old professor David Berman, about whether "imagination" was real or just a turn of phrase:
@@ -1152,7 +1220,7 @@ appearance of people (unless the actors are grossly divergent from the descripti
 ```
 
 <a name="#general-philosophy"></a>
-### General philosophy
+## General philosophy
 ([overview](#overview))
 
 Scott Aaronson, in response to Luke Muehlhauser's interview question "why be interested in philosophy?" in the [MIRI Conversations series](https://intelligence.org/2013/12/13/aaronson/):
@@ -1224,7 +1292,7 @@ need to do, what theorems one would need to prove, etc.
 ```
 
 <a name="#Reality-has-a-surprising-amount-of-detail"></a>
-### Reality has a surprising amount of detail
+## Reality has a surprising amount of detail
 ([overview](#overview))
 
 The main impetus for starting this subsection is John Salvatier's [eponymous essay](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail), which I keep thinking off from time to time, albeit at a very vague level. Putting this here hopefully allows me to think about it at a granular enough level to internalize and build upon. 
@@ -1512,7 +1580,7 @@ notice which details actually change how you think.
 ```
 
 <a name="#reading-the-masters-in-philosophy"></a>
-### Reading the masters in philosophy
+## Reading the masters in philosophy
 ([overview](#overview))
 
 (See also [Reading the masters in math](#reading-the-masters-in-math), or my old post [8If Aristotle were a pro skater: or, reading the masters in math and philosophy*](https://mosstuff.quora.com/If-Aristotle-were-a-pro-skater-or-reading-the-masters-in-math-and-philosophy) to see both math and philo in one place.) 
@@ -1744,7 +1812,7 @@ going on.
 ```
 
 <a name="#diseased-philosophy"></a>
-### Diseased philosophy
+## Diseased philosophy
 ([overview](#overview))
 
 From Scott Aaronson's [Quantum Computing Since Democritus](https://slatestarcodex.com/2014/09/01/book-review-and-highlights-quantum-computing-since-democritus/):
@@ -1801,7 +1869,7 @@ concept than a pure and philosophical sort of identity that nothing has.
 ```
 
 <a name="#morality-axiology-law"></a>
-### Morality, axiology, law
+## Morality, axiology, law
 ([overview](#overview))
 
 Scott Alexander on the distinction between axiology, morality, and law, from [this essay](https://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets/):
@@ -1915,7 +1983,7 @@ my friend, and f@$k whatever social trust or community cohesion would be lost by
 ```
 
 <a name="#slack-and-deliberate-mediocrity"></a>
-### Slack and deliberate mediocrity
+## Slack and deliberate mediocrity
 ([overview](#overview))
 
 The basic idea of Slack comes from the [eponymous LW post](https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack). Quotes I liked, or that made sense to me:
@@ -2137,7 +2205,7 @@ follows very closely on identifying product-market fit as an existential challen
 ```
 
 <a name="#moloch"></a>
-### Moloch
+## Moloch
 ([overview](#overview))
 
 Like LW commenter Quinn, I had difficulty summarizing Scott Alexander's celebrated essay *Moloch*, even though it was one of the most impactful pieces I've ever read. So I appreciate that he's conveniently summarized it SparkNotes-style under Stuart Armstrong's [essay](https://www.lesswrong.com/posts/otES8gdmFszCvZiRy/moloch-optimisation-and-vs-or-information-and-sacrificial):
@@ -2210,7 +2278,7 @@ spawned a positional arms race that already has proved extremely costly, and pro
 ```
 
 <a name="#Ra"></a>
-### Ra
+## Ra
 ([overview](#overview))	
 
 Every time someone mentions Harvard, or McKinsey, or even Google, I think of Sarah Constantin's [Ra](https://srconstantin.wordpress.com/2016/10/20/ra/). 
@@ -2280,7 +2348,7 @@ Sarah goes on to define Ra extensionally. To summarize:
 - Ra is easy to overcome
 
 <a name="#Legibility"></a>
-### Legibility
+## Legibility
 ([overview](#overview))	
 	
 The community forum *The Scholar's Stage* has a great post, [Tradition is Smarter Than You Are](http://scholars-stage.blogspot.com/2018/08/tradition-is-smarter-than-you-are.html), that gives a couple examples of tradition-as-Chesterton's-fence. It begins like so:
@@ -2971,7 +3039,7 @@ threw the entire edifice at Tanzania it crashed and burned.
 ```
 
 <a name="#anthropic-principle"></a>
-### Anthropic principle
+## Anthropic principle
 ([overview](#overview))
 
 <a name="#critiques-of-the-anthropic-principle"></a>
@@ -3049,7 +3117,7 @@ because, while a true fact, it plays no role in the logic of the argument leadin
 There are actually seven subsections that Smolin devotes to 'varieties of the anthropic principle'; feel free to check them out.
 
 <a name="#Anglerfish-and-beacons"></a>
-### Anglerfish and beacons
+## Anglerfish and beacons
 ([overview](#overview))
 
 Ben Hoffman talks about avoiding anglerfish, or Chapman's sociopaths, in a great essay I often come back to called [On the construction of beacons](http://benjaminrosshoffman.com/construction-beacons/). I tried not to just copy-paste everything, but Ben doesn't waste words, he's a precision writer, so it's hard to leave things out because "everything is in its place" so to speak.
