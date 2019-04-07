@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 29,900*
+*[Word count](https://wordcounter.net/): 31,300*
 
 ## What is this?
 
@@ -52,6 +52,9 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 1. [Amazon vs Google comparison (2011)](#Amazon-vs-Google-2011)
 2. [CS is beyond the glass ceiling of popular science](#CS-is-beyond-the-glass-ceiling-of-pop-science)
+2. [Esolangs](#Esolangs)
+	1. [Daniel Temkin on code art](#Temkin-on-code-art)
+2. [Hacking](#Hacking)
 2. [Operating systems](#Operating-systems)
 	1. [Why OSes?](#Why-operating-systems)
 	2. [OSes as stack of metaphors](#Operating-systems-as-stack-of-metaphors)
@@ -72,12 +75,171 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 ---------------------------------------
 
-<a name="#Operating systems"></a>
+<a name="#Esolangs"></a>
+## Esolangs
+([overview](#overview)) 
+
+<a name="#Temkin-on-code-art"></a>
+## Temkin on code art
+([overview](#overview)) 
+
+From the wild frontier of Temkin's page [Sentences on Code Art](https://esoteric.codes/blog/sentences-on-code-art) -- there are lots of hyperlinks to example esolangs illustrating the claimed properties in the original page, so do check it out:
+
+```markdown
+0. Computers are logical systems that arise as often by accident as by design.
+
+1. Their core materiality is logic, not pixels or circuits or bits or other 
+features of their physical implementation. Other implementations are possible.
+
+2. Our engagement with logic is irrational because we are irrational beings.
+We are incapable of fully asserting our agency through a system that forces us
+to translate our intentions into logical steps.
+
+3. This central drama of human / computer interaction is experienced most 
+directly at the code level.
+
+4. Bugs are the primary progeny of programmers. We write broken software.
+
+5. Although the machine presents a world of our own making, it rebukes us by not
+doing what we want, leading to a compulsive cycle of “fixing” and augmenting code
+(as says Joseph Weizenbaum). We are all “computer bums”.
+
+6. For any definition of the term “programming language,” there is a language 
+that sits on its border.
+
+7. Programmability is not a requirement for programming languages. Theoretical 
+programming languages existed before practical ones. We can create valid languages
+whose programs are physically unconstructable or whose executors are logically
+impossible.
+
+8. The ambiguity of human language is present in code, which never fully escapes 
+its status as human writing, even when machine-generated. We bring to code our 
+excesses of language, and an ambiguity of semantics, as discerned by the human 
+reader.
+
+9. We don’t need an irrational idea to follow logically; our irrationality will
+pollute any attempt at rigor.
+
+A. Banal ideas can be rescued by carrying them out with precision, or even through
+increased repetition, as it is hard for us to understand even relatively immediate
+repercussions of our actions in the logical space, bringing us again and again to 
+unexpected places.
+```
+
+<a name="#Hacking"></a>
+## Hacking
+([overview](#overview)) 
+
+I defer here to Richard Stallman himself. In [On hacking](https://stallman.org/articles/on-hacking.html) Stallman writes:
+
+```markdown
+It is hard to write a simple definition of something as varied as hacking, but
+I think what these activities have in common is playfulness, cleverness, and 
+exploration. Thus, hacking means exploring the limits of what is possible, in a
+spirit of playful cleverness. Activities that display playful cleverness have 
+"hack value".
+
+The hacking community developed at MIT and some other universities in the 1960s
+and 1970s. Hacking included a wide range of activities, from writing software, 
+to practical jokes, to exploring the roofs and tunnels of the MIT campus. Other
+activities, performed far from MIT and far from computers, also fit hackers'
+idea of what hacking means: for instance, I think the controversial 1950s 
+"musical piece" by John Cage, 4'33" (**/**), is more of a hack than a musical 
+composition. The palindromic three-part piece written by Guillaume de Machaut in
+the 1300s, "Ma Fin Est Mon Commencement", was also a good hack, even better 
+because it also sounds good as music. Puck appreciated hack value.
+
+The concept of hacking excludes wit and art as such. The people who began to speak
+of their activities as "hacking" were familiar with wit and art, and with the
+names of the various fields of those; they were also doing something else, 
+something different, for which they came up with the name "hacking". Thus,
+composing a funny joke or a beautiful piece of music may well involve playful 
+cleverness, but a joke as such and a piece of music as such are not hacks, however
+funny or beautiful they may be. However, if the piece is a palindrome, we can say
+it is a hack as well as music; if the piece is vacuous, we can say it is a hack on
+music.
+
+Hackers typically had little respect for the silly rules that administrators like 
+to impose, so they looked for ways around. For instance, when computers at MIT 
+started to have "security" (that is, restrictions on what users could do), some
+hackers found clever ways to bypass the security, partly so they could use the
+computers freely, and partly just for the sake of cleverness (hacking does not
+need to be useful). However, only some hackers did this—many were occupied with
+other kinds of cleverness, such as placing some amusing object on top of MIT's 
+great dome (*/*), finding a way to do a certain computation with only 5 
+instructions when the shortest known program required 6, writing a program to 
+print numbers in roman numerals, or writing a program to understand questions in
+English. (Hacking does not have to be without practical use.)
+```
+
+The chopsticks hack personal anecdote:
+
+```markdown
+In June 2000, while visiting Korea, I did a fun hack that clearly illustrates the 
+original and true meaning of the word "hacker".
+
+I went to lunch with some GNU fans, and was sitting down to eat some tteokbokki, 
+when a waitress set down six chopsticks right in front of me. It occurred to me 
+that perhaps these were meant for three people, but it was more amusing to imagine
+that I was supposed to use all six. I did not know any way to do that, so I 
+realized that if I could come up with a way, it would be a hack. I started thinking.
+After a few seconds I had an idea.
+
+First I used my left hand to put three chopsticks into my right hand. That was not
+so hard, though I had to figure out where to put them so that I could control them 
+individually. Then I used my right hand to put the other three chopsticks into my 
+left hand. That was hard, since I had to keep the three chopsticks already in my 
+right hand from falling out. After a couple of tries I got it done.
+
+Then I had to figure out how to use the six chopsticks. That was harder. I did not 
+manage well with the left hand, but I succeeded in manipulating all three in the 
+right hand. After a couple of minutes of practice and adjustment, I managed to pick
+up a piece of food using three sticks converging on it from three different 
+directions, and put it in my mouth.
+
+It didn't become easy—for practical purposes, using two chopsticks is completely 
+superior. But precisely because using three in one hand is hard and ordinarily never
+thought of, it has "hack value", as my lunch companions immediately recognized. 
+Playfully doing something difficult, whether useful or not, that is hacking.
+
+I later told the Korea story to a friend in Boston, who proceded to put four 
+chopsticks in one hand and use them as two pairs—picking up two different pieces of
+food at once, one with each pair. He had topped my hack. Was his action, too, a hack? 
+I think so. Is he therefore a hacker? That depends on how much he likes to hack.
+```
+
+"Hacking" shouldn't be a bad word, but for definitional drift(?); fortunately Stallman and friends have rehabbed it:
+
+```markdown
+Yet when I say I am a hacker, people often think I am making a naughty admission, 
+presenting myself specifically as a security breaker. How did this confusion develop?
+
+Around 1980, when the news media took notice of hackers, they fixated on one narrow 
+aspect of real hacking: the security breaking which some hackers occasionally did.
+They ignored all the rest of hacking, and took the term to mean breaking security,
+no more and no less. The media have since spread that definition, disregarding our
+attempts to correct them. As a result, most people have a mistaken idea of what we
+hackers actually do and what we think.
+
+You can help correct the misunderstanding simply by making a distinction between 
+security breaking and hacking—by using the term "cracking" for security breaking. 
+The people who do it are "crackers". Some of them may also be hackers, just as some 
+of them may be chess players or golfers; most of them are not.
+
+I coined the term "cracker" in the early 80s when I saw journalists were equating 
+"hacker" with "security breaker".
+
+The campaign to reclaim the word "hacker" from association with security breaking is
+doing pretty well, as witness the widespread usage of terms such as "hacklab" and 
+"hackathon".
+```
+
+<a name="#Operating-systems"></a>
 ## Operating systems
 ([overview](#overview)) 
 
-<a name="#why-operating systems"></a>
-## Why operating systems
+<a name="#why-operating-systems"></a>
+### Why operating systems
 ([overview](#overview)) 
 
 From Neal Stephenson's [In the beginning was the command line](http://cristal.inria.fr/~weis/info/commandline.html), which also talks about why a secret OS is a contradiction in terms:
@@ -149,7 +311,7 @@ But it is the fate of operating systems to become free.
 ```
 
 <a name="#Operating-systems-as-stack-of-metaphors"></a>
-## Operating systems as stack of metaphors
+### Operating systems as stack of metaphors
 ([overview](#overview))
 
 From Neal Stephenson's [In the beginning was the command line](http://cristal.inria.fr/~weis/info/commandline.html):
@@ -186,7 +348,7 @@ metaphors and abstractions.
 ```
 
 <a name="#Selling-operating-systems-was-a-radical-idea"></a>
-## Selling operating systems was a radical idea
+### Selling operating systems was a radical idea
 ([overview](#overview)) 
 
 From Neal Stephenson's [In the beginning was the command line](http://cristal.inria.fr/~weis/info/commandline.html):
