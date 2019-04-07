@@ -51,20 +51,20 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
 1. [Bureaucracy](#Bureaucracy)
-	  1. [Pournelle's Iron Law of Bureaucracy](#Iron-Law-of-Bureaucracy)
-   1. [Consulting](#consulting)
-      1. [Consulting's value-add](#consultings-value-add)
-   3. [Insurance](#Insurance)
-      1. [The main function of the insurance sector in an economy](#Main-function-of-insurance-sector-in-economy)
-   2. [Management and leadership](#Management)
-      1. [Being comfortable with uncertainty and imperfection](#comfort-with-uncertainty)
-      1. [Business success measures](#Business-success-measures)
-      2. [Dealing with message distortion](#Dealing-with-message-distortion)
-      2. [High organizational standards](#high-standards)
-      2. [Resisting organizational stasis, or, it is always Day 1](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends *(KIV for content list refactoring)*
-   1. [Real work and bullshit jobs](#Real-work-and-bullshit-jobs)
-   2. [Venture capital](#venture-capital)
-      1. [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
+	1. [Pournelle's Iron Law of Bureaucracy](#Iron-Law-of-Bureaucracy)
+1. [Consulting](#consulting)
+	1. [Consulting's value-add](#consultings-value-add)
+3. [Insurance](#Insurance)
+	1. [The main function of the insurance sector in an economy](#Main-function-of-insurance-sector-in-economy)
+2. [Management and leadership](#Management)
+	1. [Being comfortable with uncertainty and imperfection](#comfort-with-uncertainty)
+	1. [Business success measures](#Business-success-measures)
+	2. [Dealing with message distortion](#Dealing-with-message-distortion)
+	2. [High organizational standards](#high-standards)
+	2. [Resisting organizational stasis, or, it is always Day 1](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends *(KIV for content list refactoring)*
+1. [Real work and bullshit jobs](#Real-work-and-bullshit-jobs)
+2. [Venture capital](#venture-capital)
+	1. [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
 	  
 -----------------------------
 
