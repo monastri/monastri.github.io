@@ -59,7 +59,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 ---------------------------------
 
 <a name="#Levels-of-Organization-in-General-Intelligence"></a>
-### *Levels of Organization in General Intelligence*
+## *Levels of Organization in General Intelligence*
 ([overview](#overview))
 
 Here are some interesting passages from Eliezer Yudkowsky’s paper [Levels of Organization in General Intelligence](https://intelligence.org/files/LOGI.pdf).
@@ -258,7 +258,7 @@ Human thoughts, which are the original source of human-written code, are resilie
 ```
 
 <a name="#Digital-evolution-and-artificial-life"></a>
-### Digital evolution and artificial life
+## Digital evolution and artificial life
 ([overview](#overview)) 
 
 <a name="#The-evolved-radio"></a>
