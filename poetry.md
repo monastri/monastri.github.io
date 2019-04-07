@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 30,300*
+*[Word count](https://wordcounter.net/): 30,700*
 
 <a name="#overview"></a>
 
@@ -7,6 +7,7 @@
 Poems and quotes listed in reverse order of inclusion below.
 
 1. [A new kind of review](#a-new-kind-of-review), by 'a reader'
+1. [Animals have no interest in teaching you anything](#Animals-have-no-interest-in-teaching-you-anything), by Oglaf
 2. [A sunset glimpse of deep time](#a-sunset-glimpse-of-deep-time), by Lee Billings
 2. Benjamin Rosenbaum
    1. [The House Beyond Your Sky](#The-House-Beyond-Your-Sky)
@@ -39,6 +40,7 @@ Poems and quotes listed in reverse order of inclusion below.
    4. [The Wiser Writer and the Inane Reader](#The-Wiser-Writer-and-the-Inane-Reader), alphametics
 2. [Moloch](#moloch), by Allen Ginsberg
    1. [GPT-2's Moloch](#gpt-2s-moloch), by OpenAI's [language model GPT-2](https://openai.com/blog/better-language-models/)
+2. [Mother and children dining upon mother and children](#mother-and-children-dining-upon-mother-and-children), by Terry Pratchett
 2. [Mystical interpretation of a car](#Mystical-interpretation-of-a-car), by Umberto Eco
 2. [My Nietzschean Signature](#"My-Nietzschean-Signature), by atiguhya padma
 2. [Names do not matter](#Names-do-not-matter), by Roger Zelazny
@@ -53,6 +55,49 @@ Poems and quotes listed in reverse order of inclusion below.
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
 4. [Total Eclipse](#total-eclipse), by Annie Dillard
 5. [Why did the chicken cross the road?](#Why-did-the-chicken-cross-the-road), by Accenture Consulting
+
+
+<a name="#Animals-have-no-interest-in-teaching-you-anything"></a>
+## Animals have no interest in teaching you anything
+### by Oglaf
+([overview](#overview))
+
+From [Oglaf](http://oglaf.com/bugfuck/epilogue/):
+
+```markdown
+In some species of Anglerfish, the male is much smaller than the female and incapable of feeding 
+independently. To survive he must smell out a female as soon as he hatches. He bites into her releasing 
+an enzime which fuses him to her permanently. He lives off her blood for the rest of his life, providing 
+her with sperm whenever she needs it. Females can have multiple males attached. 
+
+The moral is simple: males are parasites, women are sluts. 
+
+Ha! Just kidding! The moral is don't treat actual animal behavior like a fable. Generally speaking, 
+animals have no interest in teaching you anything.
+```
+
+<a name="#mother-and-children-dining-upon-mother-and-children"></a>
+## Mother and children dining upon mother and children
+### by Terry Pratchett
+([overview](#overview))
+
+From Terry Pratchett's *Unseen Academicals*:
+
+```markdown
+The Patrician took a sip of his beer. "I have told this to few people, gentlemen, and I suspect I never 
+will again, but one day when I was a young boy on holiday in Uberwald I was walking along the bank of a 
+stream when I saw a mother otter with her cubs. A very endearing sight, I'm sure you will agree, and even 
+as I watched, the mother otter dived into the water and came up with a plump salmon, which she subdued 
+and dragged onto a half-submerged log. As she ate it, while of course it was still alive, the body split 
+and I remember to its day the sweet pinkness of its roes as they spilled out, much to the delight of the 
+baby otters who scrambled over themselves to feed on the delicacy. 
+
+One of nature's wonders, gentlemen: mother and children dining upon mother and children. 
+
+And that's when I first learned about evil. It is built in to the very nature of the universe. Every world 
+spins in pain. If there is any kind of supreme being, I told myself, it is up to all of us to become his 
+moral superior."
+```
 
 <a name="#Why-did-the-chicken-cross-the-road"></a>
 ## Why did the chicken cross the road
