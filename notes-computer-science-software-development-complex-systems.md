@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 28,400*
+*[Word count](https://wordcounter.net/): 29,900*
 
 ## What is this?
 
@@ -51,7 +51,11 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
 1. [Amazon vs Google comparison (2011)](#Amazon-vs-Google-2011)
-4. [CS is beyond the glass ceiling of popular science](#CS-is-beyond-the-glass-ceiling-of-pop-science)
+2. [CS is beyond the glass ceiling of popular science](#CS-is-beyond-the-glass-ceiling-of-pop-science)
+2. [Operating systems](#Operating-systems)
+	1. [Why OSes?](#Why-operating-systems)
+	2. [OSes as stack of metaphors](#Operating-systems-as-stack-of-metaphors)
+	3. [Selling OSes was a radical idea](#Selling-operating-systems-was-a-radical-idea)
 2. [Practical magic](#practical-magic)
 2. [Performance optimization](#Performance-optimization), pretty much all Carlos Bueno 
 2. [Programming languages](#Programming-languages)
@@ -67,6 +71,155 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Why platforms matter](#platforms)
 
 ---------------------------------------
+
+<a name="#Operating systems"></a>
+## Operating systems
+([overview](#overview)) 
+
+<a name="#why-operating systems"></a>
+## Why operating systems
+([overview](#overview)) 
+
+From Neal Stephenson's [In the beginning was the command line](http://cristal.inria.fr/~weis/info/commandline.html), which also talks about why a secret OS is a contradiction in terms:
+
+```markdown
+But the basic idea of re-creating an operating system from scratch was perfectly 
+sound and completely doable. It has been done many times. It is inherent in the 
+very nature of operating systems.
+
+Operating systems are not strictly necessary. There is no reason why a sufficiently
+dedicated coder could not start from nothing with every project and write fresh 
+code to handle such basic, low-level operations as controlling the read/write heads
+on the disk drives and lighting up pixels on the screen. The very first computers 
+had to be programmed in this way. But since nearly every program needs to carry out 
+those same basic operations, this approach would lead to vast duplication of effort.
+
+Nothing is more disagreeable to the hacker than duplication of effort. The first and
+most important mental habit that people develop when they learn how to write computer
+programs is to generalize, generalize, generalize. To make their code as modular and
+flexible as possible, breaking large problems down into small subroutines that can be
+used over and over again in different contexts. Consequently, the development of
+operating systems, despite being technically unnecessary, was inevitable. Because at
+its heart, an operating system is nothing more than a library containing the most 
+commonly used code, written once (and hopefully written well) and then made available
+to every coder who needs it.
+
+So a proprietary, closed, secret operating system is a contradiction in terms. It goes
+against the whole point of having an operating system. And it is impossible to keep
+them secret anyway. The source code--the original lines of text written by the 
+programmers--can be kept secret. But an OS as a whole is a collection of small
+subroutines that do very specific, very clearly defined jobs. Exactly what those 
+subroutines do has to be made public, quite explicitly and exactly, or else the OS is 
+completely useless to programmers; they can't make use of those subroutines if they
+don't have a complete and perfect understanding of what the subroutines do.
+
+The only thing that isn't made public is exactly how the subroutines do what they do. 
+But once you know what a subroutine does, it's generally quite easy (if you are a 
+hacker) to write one of your own that does exactly the same thing. It might take a
+while, and it is tedious and unrewarding, but in most cases it's not really hard.
+
+What's hard, in hacking as in fiction, is not writing; it's deciding what to write.
+And the vendors of commercial OSes have already decided, and published their decisions. 
+
+This has been generally understood for a long time. MS-DOS was duplicated, functionally,
+by a rival product, written from scratch, called ProDOS, that did all of the same things
+in pretty much the same way. In other words, another company was able to write code that 
+did all of the same things as MS-DOS and sell it at a profit. If you are using the Linux
+OS, you can get a free program called WINE which is a windows emulator; that is, you can
+open up a window on your desktop that runs windows programs. It means that a completely
+functional Windows OS has been recreated inside of Unix, like a ship in a bottle. And 
+Unix itself, which is vastly more sophisticated than MS-DOS, has been built up from 
+scratch many times over. Versions of it are sold by Sun, Hewlett-Packard, AT&T, Silicon
+Graphics, IBM, and others.
+
+People have, in other words, been re-writing basic OS code for so long that all of the 
+technology that constituted an "operating system" in the traditional (pre-GUI) sense of
+that phrase is now so cheap and common that it's literally free. Not only could Gates 
+and Allen not sell MS-DOS today, they could not even give it away, because much more
+powerful OSes are already being given away. Even the original Windows (which was the 
+only windows until 1995) has become worthless, in that there is no point in owning 
+something that can be emulated inside of Linux--which is, itself, free.
+
+In this way the OS business is very different from, say, the car business. Even an old 
+rundown car has some value. You can use it for making runs to the dump, or strip it for
+parts. It is the fate of manufactured goods to slowly and gently depreciate as they get
+old and have to compete against more modern products.
+
+But it is the fate of operating systems to become free.
+```
+
+<a name="#Operating-systems-as-stack-of-metaphors"></a>
+## Operating systems as stack of metaphors
+([overview](#overview))
+
+From Neal Stephenson's [In the beginning was the command line](http://cristal.inria.fr/~weis/info/commandline.html):
+
+```markdown
+When Ronald Reagan was a radio announcer, he used to call baseball games by reading
+the terse descriptions that trickled in over the telegraph wire and were printed out
+on a paper tape. He would sit there, all by himself in a padded room with a
+microphone, and the paper tape would eke out of the machine and crawl over the palm
+of his hand printed with cryptic abbreviations. If the count went to three and two, 
+Reagan would describe the scene as he saw it in his mind's eye: "The brawny left-
+hander steps out of the batter's box to wipe the sweat from his brow. The umpire 
+steps forward to sweep the dirt from home plate." and so on. When the cryptogram on
+the paper tape announced a base hit, he would whack the edge of the table with a 
+pencil, creating a little sound effect, and describe the arc of the ball as if he 
+could actually see it. His listeners, many of whom presumably thought that Reagan
+was actually at the ballpark watching the game, would reconstruct the scene in their
+minds according to his descriptions.
+
+This is exactly how the World Wide Web works: the HTML files are the pithy description
+on the paper tape, and your Web browser is Ronald Reagan. The same is true of Graphical
+User Interfaces in general.
+
+So an OS is a stack of metaphors and abstractions that stands between you and the 
+telegrams, and embodying various tricks the programmer used to convert the information
+you're working with--be it images, e-mail messages, movies, or word processing documents--
+into the necklaces of bytes that are the only things computers know how to work with.
+When we used actual telegraph equipment (teletypes) or their higher-tech substitutes
+("glass teletypes," or the MS-DOS command line) to work with our computers, we were
+very close to the bottom of that stack. When we use most modern operating systems,
+though, our interaction with the machine is heavily mediated. Everything we do is 
+interpreted and translated time and again as it works its way down through all of the
+metaphors and abstractions.
+```
+
+<a name="#Selling-operating-systems-was-a-radical-idea"></a>
+## Selling operating systems was a radical idea
+([overview](#overview)) 
+
+From Neal Stephenson's [In the beginning was the command line](http://cristal.inria.fr/~weis/info/commandline.html):
+
+```markdown
+About twenty years ago Jobs and Wozniak, the founders of Apple, came up with the very 
+strange idea of selling information processing machines for use in the home. The
+business took off, and its founders made a lot of money and received the credit they
+deserved for being daring visionaries. But around the same time, Bill Gates and Paul
+Allen came up with an idea even stranger and more fantastical: selling computer 
+operating systems. This was much weirder than the idea of Jobs and Wozniak. A computer
+at least had some sort of physical reality to it. It came in a box, you could open it
+up and plug it in and watch lights blink. An operating system had no tangible 
+incarnation at all. It arrived on a disk, of course, but the disk was, in effect,
+nothing more than the box that the OS came in. The product itself was a very long 
+string of ones and zeroes that, when properly installed and coddled, gave you the 
+ability to manipulate other very long strings of ones and zeroes. Even those few who
+actually understood what a computer operating system was were apt to think of it as a
+fantastically arcane engineering prodigy, like a breeder reactor or a U-2 spy plane,
+and not something that could ever be (in the parlance of high-tech) "productized."
+
+Yet now the company that Gates and Allen founded is selling operating systems like
+Gillette sells razor blades. New releases of operating systems are launched as if they
+were Hollywood blockbusters, with celebrity endorsements, talk show appearances, and 
+world tours. The market for them is vast enough that people worry about whether it has 
+been monopolized by one company. Even the least technically-minded people in our society
+now have at least a hazy idea of what operating systems do; what is more, they have 
+strong opinions about their relative merits. It is commonly understood, even by
+technically unsophisticated computer users, that if you have a piece of software that 
+works on your Macintosh, and you move it over onto a Windows machine, it will not run. 
+That this would, in fact, be a laughable and idiotic mistake, like nailing horseshoes
+to the tires of a Buick.
+```
 
 <a name="#Complex-systems-and-systems-theory"></a>
 ## Complex systems and systems theory
