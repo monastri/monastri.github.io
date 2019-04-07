@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 18,000*
+*[Word count](https://wordcounter.net/): 18,400*
 
 ## What is this?
 
@@ -1678,4 +1678,36 @@ Sometimes because it gives an unwelcome answer.
 
 Worked examples with numbers and realistic figures erode plausible deniability and attractive lies, and force 
 explicit claims, use of evidence, and argument.
+```
+
+Razib Khan:
+
+```markdown
+But, there's another problem, and that is the fact that statistical and probabilistic thinking is a real 
+damper on "intellectual" conversation. By this, I mean that there are many individuals who wish to make 
+inferences about the world based on data which they observe, or offer up general typologies to frame a 
+subsequent analysis. These individuals tend to be intelligent and have college degrees. Their discussion 
+ranges over topics such as politics, culture and philosophy. But, introduction of questions about the 
+moments about the distribution, or skepticism as to the representativeness of their sample, and so on, tends 
+to have a chilling affect on the regular flow of discussion. While the average human being engages mostly 
+in gossip and interpersonal conversation of some sort, the self-consciously intellectual interject a bit of 
+data and abstraction (usually in the form of jargon or pithy quotations) into the mix. But the raison d'etre 
+of the intellectual discussion is basically signaling and cuing; in other words, social display. No one 
+really cares about the details and attempting to generate a rigorous model is really beside the point. Trying 
+to push the N much beyond 2 or 3 (what you would see in a college essay format) will only elicit eye-rolling 
+and irritation.
+```
+
+From [Marc Andreessen gives the career advice that nobody wants to hear](https://www.businessinsider.com/andreessen-whatever-you-do-dont-follow-your-passion-2014-5/?IR=T):
+
+```markdown
+"Do what you love" / "Follow your passion" is dangerous and destructive career advice. We tend to hear it 
+from (a) Highly successful people who (b) Have become successful doing what they love. The problem is that 
+we do NOT hear from people who have failed to become successful by doing what they love. Particularly pernicious 
+problem in tournament-style fields with a few big winners lots of losers: media, athletics, startups. Better 
+career advice may be "Do what contributes" -- focus on the beneficial value created for other people vs just 
+one's own ego. People who contribute the most are often the most satisfied with what they do -- and in fields 
+with high renumeration, make the most $. Perhaps difficult advice since requires focus on others vs oneself -- 
+perhaps bad fit with endemic narcissism in modern culture? Requires delayed gratification -- may toil for many 
+years to get the payoff of contributing value to the world, vs short-term happiness.
 ```
