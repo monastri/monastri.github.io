@@ -1,8 +1,8 @@
-*[Word count](https://wordcounter.net/): 5,100*
+*[Word count](https://wordcounter.net/): 9,800*
 
 ## What is this?
 
-This is the "artificial intelligence" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md), last updated Apr 6, 2019, which got so big (1.2 million char) that GitHub refused to render the whole page anymore, ruining my original dream of having my entire notebook in one long page for two purposes: (1) zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience; (2) lower activation energy for continuous document-wide refactoring, to aid recall and cross-domain interlinking.
+This is the "artificial intelligence and biology" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md), last updated Apr 6, 2019, which got so big (1.2 million char) that GitHub refused to render the whole page anymore, ruining my original dream of having my entire notebook in one long page for two purposes: (1) zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience; (2) lower activation energy for continuous document-wide refactoring, to aid recall and cross-domain interlinking.
 
 That said, this is a "living document", a "perpetual draft" in [the style of Gwern](https://www.gwern.net/About#long-content). I'm particulary taken by the following quote: 
 
@@ -50,13 +50,472 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
-
+2. [Animals are not like us](#animals-are-not-like-us)
 1. [Digital evolution and artificial life](#Digital-evolution-and-artificial-life)
 	1. [The evolved radio](#The-evolved-radio)
 	2. [The evolved ear](#The-evolved-ear)
+1. [Evolution](#evolution)
+	1. [Evolution as alien god](#evolution-as-alien-god), where I first learned that there are many evolutions, as many as reproducing populations
+	1. [Gene-centered view](#gene-centered-view)	
 2. [Levels of Organization in General Intelligence](#Levels-of-Organization-in-General-Intelligence)
+2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
    
 ---------------------------------
+
+<a name="#why-we-are-trichromats"></a>
+## Why we are trichromats
+([overview](#overview))
+
+Why are we trichromats, and not (say) tetrachromats like mantis shrimp? I honestly thought this was one of those unanswerable anthropic-style questions, so it was pretty surprising to find a naturalistic non-anthropic-flavored explanation. This quote comes from Eliezer Yudkowsky's paper [LOGI](https://intelligence.org/files/LOGI.pdf):
+
+```markdown
+Among other questions, Roger Shepard’s truly elegant paper “The Perceptual Organization of Colors” seeks to answer 
+the question of trichromancy: Why are there three kinds of cones in the human retina, and not two, or four? Why is 
+human visual perception organized into a three-dimensional color space? Historically, it was often theorized that 
+trichromancy represented an arbitrary compromise between chromatic resolution and spatial resolution; that is, 
+between the number of colors perceived and the grain size of visual resolution. As it turns out, there is a more 
+fundamental reason why three color channels are needed.
+
+To clarify the question, consider that surfaces possess a potentially infinite number of spectral reflectance 
+distributions. We will focus on spectral reflectance distributions, rather than spectral power distributions, 
+because adaptively relevant objects that emit their own light are environmentally rare. Hence the physically 
+constant property of most objects is the spectral reflectance distribution, which combines with the spectral power 
+distribution of light impinging on the object to give rise to the spectral power distribution received by the human 
+eye. The spectral reflectance distribution is defined over the wavelengths from 400 nm to 700 nm (the visible range), 
+and since wavelength is a continuum, the spectral reflectance distribution can theoretically require an unlimited 
+number of quantities to specify. Hence, it is not possible to exactly constrain a spectral reflectance distribution 
+using only three quantities, which is the amount of information transduced by human cones.
+
+The human eye is not capable of discriminating among all physically possible reflecting surfaces. However, it is 
+possible that for “natural” surfaces—surfaces of the kind commonly encountered in the ancestral environment—reflectance 
+for each pure frequency does not vary independently of reflectance for all other frequencies. For example, there might 
+exist some set of basis reflectance functions, such that the reflectance distributions of almost all natural surfaces 
+could be expressed as a weighted sum of the basis vectors. If so, one possible explanation for the trichromancy of 
+human vision would be that three color channels are just enough to perform adequate discrimination in a “natural” color 
+space of limited dimensionality.
+
+The ability to discriminate between all natural surfaces would be the design recommended by the “environmental 
+regularity” philosophy of sensory modalities. The dimensionality of the internal model would mirror the dimensionality 
+of the environment. As it turns out, natural surfaces have spectral reflectance distributions that vary along roughly 
+five to seven dimensions (Maloney 1986). There thus exist natural surfaces that, although appearing to trichromatic 
+viewers as “the same color,” nonetheless possess different spectral reflectance distributions.
+
+Shepard (1992) instead asks how many color channels are needed to ensure that the color we perceive is the same color 
+each time the surface is viewed under different lighting conditions. The amount of ambient light can also potentially 
+vary along an unlimited number of dimensions, and the actual light reaching the eye is the product of the spectral 
+power distribution and the spectral reflectance distribution. A reddish object in bluish light may reflect the same 
+number of photons of each wavelength as a bluish object in reddish light. Similarly, a white object in reddish light 
+may reflect mostly red photons, while the same white object in bluish light may reflect mostly blue photons. And yet 
+the human visual system manages to maintain the property of color constancy; the same object will appear to be the 
+same color under different lighting conditions.
+
+Judd et al. (1964) measured 622 spectral power distributions for natural lighting, under 622 widely varying natural 
+conditions of weather and times of day, and found that variations in natural lighting reduce to three degrees of 
+freedom. Furthermore, these three degrees of freedom bear a close correspondence to the three dimensions of color 
+opponency that were proposed for the human visual system based on experimental examination (Hurvich and Jameson 1957). 
+The three degrees of freedom are:
+
+1. The light-dark variation, which depends on the total light reaching the object.
+
+2. The yellow-blue variation, which depends on whether a surface is illuminated by direct sunlight or is in shade. In 
+shade the surface is illuminated by the Raleigh-scattered blue light of the sky, but is not directly illuminated by the 
+sun. The corresponding yellow extreme occurs when an object is illuminated only by direct sunlight; e.g., if sunlight 
+enters through a small channel and skylight is cut off.
+
+3. The red-green variation, which depends on both the elevation of the sun (how much atmosphere the sun travels through), 
+and the amount of atmospheric water vapor. E.g., illumination by a red sunset versus illumination at midday. Red 
+wavelengths are the wavelengths least scattered by dust and most absorbed by water.
+
+The three color channels of the human visual system are precisely the number of channels needed in order to maintain 
+color constancy under natural lighting conditions.18 Three color channels are not enough to discriminate between all
+natural surface reflectances, but three color channels are the exact number required to compensate for ambient natural 
+lighting and thereby ensure that the same surface is perceptually the “same color” on any two occasions. This 
+simplifies the adaptively important task of recognizing a previously experienced object on future encounters.
+```
+
+<a name="#animals-are-not-like-us"></a>
+## Animals are not like us
+([overview](#overview))
+
+An example of so-called "interocular transfer" from Daniel Dennett in a rabbit:
+
+```markdown
+What is it like to be a rabbit? Well you may think that it’s obvious that rabbits have an inner life
+that’s something like ours.
+
+Well, it turns out that if you put a patch over a rabbit’s left eye and train it in a particular 
+circumstance to be (say) afraid of something, and then you move the patch to the right eye, so that… the
+very same circumstance that it has been trained to be afraid of (is now) coming in the other eye, you
+have a naive rabbit (i.e. the rabbit isn’t afraid of the stimulus it had previously learned to be afraid
+of), because in the rabbit brain the connections that are standard in our brains just aren’t there, there
+isn’t that unification.
+
+What is it like to be which rabbit? The rabbit on the left, or the rabbit on the right? The disunity in a
+rabbit’s brain is stunning when you think about it….
+```
+
+<a name="#evolution"></a>
+## Evolution
+([overview](#overview))
+
+A pretty funny parable from Peter Watts' novel [*Blindsight*](https://rifters.com/real/Blindsight.htm):
+
+```markdown
+In the beginning were the gametes. And though there was sex, lo, there was no gender, and life was in 
+balance.
+
+And God said, "Let there be Sperm": and some seeds did shrivel in size and grow cheap to make, and they 
+did flood the market.
+
+And God said, "Let there be Eggs": and other seeds were afflicted by a plague of Sperm. And yea, few of 
+them bore fruit, for Sperm brought no food for the zygote, and only the largest Eggs could make up the 
+shortfall. And these grew yet larger in the fullness of time.
+
+And God put the Eggs into a womb, and said, "Wait here: for thy bulk has made thee unwieldy, and Sperm 
+must seek thee out in thy chambers. Henceforth shalt thou be fertilized internally." And it was so.
+
+And God said to the gametes, "The fruit of thy fusion may abide in any place and take any shape. It may 
+breathe air or water or the sulphurous muck of hydrothermal vents. But do not forget my one commandment 
+unto you, which has not changed from the beginning of time: spread thy genes."
+
+And thus did Sperm and Egg go into the world. And Sperm said, "I am cheap and plentiful, and if sowed 
+abundantly I will surely fulfill God's plan. I shall forever seek out new mates and then abandon them 
+when they are with child, for there are many wombs and little time."
+
+But Egg said, "Lo, the burden of procreation weighs heavily upon me. I must carry flesh that is but half
+mine, gestate and feed it even when it leaves my chamber" (for by now many of Egg's bodies were warm of 
+blood, and furry besides). "I can have but few children, and must devote myself to those, and protect them 
+at every turn. And I will make Sperm help me, for he got me into this. And though he doth struggle at my 
+side, I shall not let him stray, nor lie with my competitors."
+
+And Sperm liked this not.
+
+And God smiled, for Its commandment had put Sperm and Egg at war with each other, even unto the day they 
+made themselves obsolete.
+```
+
+On evolution vs deliberative design (“intelligent design” would be preferable if it weren’t already so loaded), featuring a notion new to me — the “evolution of evolvability” (Wagner and Altenberg 1996), from Eliezer Yudkowsky's paper [LOGI](https://intelligence.org/files/LOGI.pdf):
+
+```markdown
+There is a fundamental rift between evolutionary design and deliberative design. From the perspective of a 
+deliberative intelligence—a human, for instance—evolution is the degenerate case of design-and-test where 
+intelligence equals zero. Mutations are atomic; recombinations are random; changes are made on the genotype’s 
+lowest level of organization (flipping genetic bits); the grain size of the component tested is the whole 
+organism; and the goodness metric operates solely through induction on historically encountered cases, without 
+deductive reasoning about which contextual factors may later change.
+
+The evolution of evolvability (Wagner and Altenberg 1996) improves this picture somewhat. There is a tendency 
+for low-level genetic bits to exert control over highlevel complexity, so that changes to those genes can 
+create high-level changes. Blind selection pressures can create self-wiring and self-repairing systems that 
+turn out to be highly evolvable because of their ability to phenotypically adapt to genotypical changes.
+
+Evolution never refactors its code. It is far easier for evolution to stumble over a thousand individual 
+optimizations than for evolution to stumble over two simultaneous changes which are together beneficial and 
+separately harmful. The genetic code that specifies the mapping between codons (a codon is three DNA bases) and 
+the 20 amino acids is inefficient; it maps 64 possible codons to 20 amino acids plus the stop code. Why hasn’t 
+evolution shifted one of the currently redundant codons to a new amino acid, thus expanding the range of possible 
+proteins? Because for any complex organism, the smallest change to the behavior of DNA—the lowest level of genetic 
+organization— would destroy virtually all higher levels of adaptive complexity, unless the change were accompanied 
+by millions of other simultaneous changes throughout the genome to shift every suddenly-nonstandard codon to one 
+of its former equivalents. Evolution simply cannot handle simultaneous dependencies, unless individual changes can 
+be deployed incrementally, or multiple phenotypical effects occur as the consequence of a single genetic change. 
+For humans, planning coordinated changes is routine; for evolution, impossible. Evolution is hit with an enormous 
+discount rate when exchanging the paper currency of incremental optimization for the hard coin of complex design.
+```
+
+On the evolution of complex adaptations in general, and of intelligence in particular:
+
+```markdown
+A new adaptation requiring the presence of a previous adaptation cannot spread unless the prerequisite 
+adaptation is present in the genetic environment with sufficient statistical regularity to make the new 
+adaptation a recurring evolutionary advantage. Evolution uses existing genetic complexity to build new genetic 
+complexity, but evolution exhibits no foresight. Evolution does not construct genetic complexity unless it 
+is an immediate advantage, and this is a fundamental constraint on accounts of the evolution of complex systems.
+
+Complex functional adaptations—adaptations that require multiple genetic features to build a complex 
+interdependent system in the phenotype—are usually, and necessarily, universal within a species. Independent 
+variance in each of the genes making up a complex interdependent system would quickly reduce to insignificance 
+the probability of any phenotype possessing a full functioning system. To give an example in a simplified world, 
+if independent genes for “retina,” “lens,” “cornea,” “iris,” and “optic nerve” each had an independent 20% 
+frequency in the genetic population, the random-chance probability of any individual being born with a complete 
+eyeball would be 3125:1.
+
+…Because evolution lacks foresight, complex functions cannot evolve unless their prerequisites are evolutionary 
+advantages for other reasons. The human evolutionary line did not evolve toward general intelligence; rather, 
+the hominid line evolved smarter and more complex systems that lacked general intelligence, until finally the 
+cumulative store of existing complexity contained all the tools and subsystems needed for evolution to stumble 
+across general intelligence. Even this is too anthropocentric; we should say rather that primate evolution 
+stumbled across a fitness gradient whose path includes the subspecies Homo sapiens sapiens, which subspecies 
+exhibits one particular kind of general intelligence.
+```
+
+<a name="#evolution-as-alien-god"></a>
+### Evolution as alien god
+([overview](#overview))	
+
+From Eliezer Yudkowsky's [epomymously titled LW essay](https://www.lesswrong.com/posts/pLRogvJLPPg6Mrvg4/an-alien-god), which pretty much set the template for how I think about evolution all those years back:
+
+```markdown
+A human being, looking at the natural world, sees a thousand times *purpose*. 
+A rabbit's legs, built and articulated for running; a fox's jaws, built and 
+articulated for tearing. But what you see is not exactly what is there...
+
+In the days before Darwin, the cause of all this apparent *purposefulness* was
+a very great puzzle unto science. The Goddists said "God did it", because you 
+get 50 bonus points each time you use the word "God" in a sentence. Yet perhaps
+I'm being unfair. In the days before Darwin, it seemed like a much more
+reasonable hypothesis. Find a watch in the desert, said William Paley, and you
+can infer the existence of a watchmaker.
+
+But when you look at *all* the apparent purposefulness in Nature, rather than
+picking and choosing your examples, you start to notice things that don't fit 
+the Judeo-Christian concept of one benevolent God. Foxes seem well-designed to
+catch rabbits. Rabbits seem well-designed to evade foxes. Was the Creator having
+trouble making up Its mind?
+
+When I design a toaster oven, I don't design one part that tries to get
+electricity to the coils and a second part that tries to prevent electricity from
+getting to the coils. It would be a waste of effort. Who designed the ecosystem,
+with its predators and prey, viruses and bacteria? Even the cactus plant, which
+you might think well-designed to provide water fruit to desert animals, is 
+covered with inconvenient spines.
+
+The ecosystem would make much more sense if it wasn't designed by a unitary Who,
+but, rather, created by a horde of deities—say from the Hindu or Shinto religions.
+This handily explains both the ubiquitous purposefulnesses, and the ubiquitous
+conflicts: More than one deity acted, often at cross-purposes. The fox and rabbit 
+were both designed, but by distinct competing deities. ...
+
+Similarly, the Judeo-Christian God is alleged to be benevolent—well, sort of.
+And yet much of nature's purposefulness seems downright cruel. Darwin suspected 
+a non-standard Creator for studying Ichneumon wasps, whose paralyzing stings
+preserve its prey to be eaten alive by its larvae: "I cannot persuade myself,"
+wrote Darwin, "that a beneficent and omnipotent God would have designedly
+created the Ichneumonidae with the express intention of their feeding within the
+living bodies of Caterpillars, or that a cat should play with mice." ...
+
+Evolution doesn't allow just any kind of purposefulness to leak into Nature. 
+That's what makes evolution a success as an empirical hypothesis. If evolutionary
+biology could explain a toaster oven, not just a tree, it would be worthless. 
+There's a lot more to evolutionary theory than pointing at Nature and saying, 
+"Now purpose is allowed," or "Evolution did it!" The strength of a theory is not
+what it allows, but what it prohibits; if you can invent an equally persuasive
+explanation for any outcome, you have zero knowledge.
+
+"Many non-biologists," observed George Williams, "think that it is for their
+benefit that rattles grow on rattlesnake tails." Bzzzt! This kind of purposefulness
+is not allowed. Evolution doesn't work by letting flashes of purposefulness creep
+in at random—reshaping one species for the benefit of a random recipient.
+
+Evolution is powered by a systematic correlation between the different ways that
+different genes construct organisms, and how many copies of those genes make it
+into the next generation. For rattles to grow on rattlesnake tails, rattle-
+growing genes must become more and more frequent in each successive generation.
+(Actually genes for incrementally more complex rattles, but if I start describing
+all the fillips and caveats to evolutionary biology, we really will be here all 
+day.)
+
+There isn't an Evolution Fairy that looks over the current state of Nature, 
+decides what would be a "good idea", and chooses to increase the frequency of 
+rattle-constructing genes.
+
+I suspect this is where a lot of people get stuck, in evolutionary biology. They 
+understand that "helpful" genes become more common, but "helpful" lets any sort 
+of purpose leak in. They don't think there's an Evolution Fairy, yet they ask 
+which genes will be "helpful" as if a rattlesnake gene could "help" non-rattlesnakes.
+
+The key realization is that *there is no Evolution Fairy*. There's no outside force
+deciding which genes ought to be promoted. Whatever happens, happens *because* of 
+the genes themselves.
+
+Genes for constructing (incrementally better) rattles, must have somehow ended up
+more frequent in the rattlesnake gene pool, because of the rattle. In this case it's
+probably because rattlesnakes with better rattles survive more often—rather than 
+mating more successfully, or having brothers that reproduce more successfully, etc.
+
+Maybe predators are wary of rattles and don't step on the snake. Or maybe the 
+rattle diverts attention from the snake's head.
+
+But that's just a snake's rattle. There are much more complicated ways that a 
+gene can cause copies of itself to become more frequent in the next generation.
+Your brother or sister shares half your genes. A gene that sacrifices one unit of
+resources to bestow three units of resource on a brother, may promote some copies
+of itself by sacrificing one of its constructed organisms. 
+
+The main point is that the gene's effect must cause copies of that gene to become
+more frequent in the next generation. There's no Evolution Fairy that reaches in 
+from outside. There's nothing which decides that some genes are "helpful" and should,
+therefore, increase in frequency. It's just cause and effect, starting from the
+genes themselves.
+
+This explains the strange conflicting purposefulness of Nature, and its frequent
+cruelty. It explains even better than a horde of Shinto deities.
+
+Why is so much of Nature at war with other parts of Nature? Because there isn't 
+one Evolution directing the whole process. There's as many different "evolutions"
+as reproducing populations. Rabbit genes are becoming more or less frequent in 
+rabbit populations. Fox genes are becoming more or less frequent in fox populations.
+Fox genes which construct foxes that catch rabbits, insert more copies of themselves
+in the next generation. Rabbit genes which construct rabbits that evade foxes are 
+naturally more common in the next generation of rabbits. Hence the phrase "natural
+selection".
+
+Why is Nature cruel? You, a human, can look at an Ichneumon wasp, and decide that
+it's cruel to eat your prey alive. You can decide that if you're going to eat your
+prey alive, you can at least have the decency to stop it from hurting. It would 
+scarcely cost the wasp anything to anesthetize its prey as well as paralyze it. Or
+what about old elephants, who die of starvation when their last set of teeth fall 
+out? These elephants aren't going to reproduce anyway. What would it cost evolution—
+the evolution of elephants, rather—to ensure that the elephant dies right away, 
+instead of slowly and in agony? What would it cost evolution to anesthetize the
+elephant, or give it pleasant dreams before it dies? Nothing; that elephant won't 
+reproduce more or less either way.
+
+If you were talking to a fellow human, trying to resolve a conflict of interest, 
+you would be in a good negotiating position—would have an easy job of persuasion.
+It would cost so little to anesthetize the prey, to let the elephant die without 
+agony! Oh please, won't you do it, kindly... um...
+
+There's no one to argue with.
+
+Humans, who are often deeply concerned for the well-being of animals, can be very 
+persuasive in arguing how various kindnesses wouldn't harm reproductive fitness at
+all. Sadly, the evolution of elephants doesn't use a similar algorithm; it doesn't
+select nice genes that can plausibly be argued to help reproductive fitness. Simply:
+genes that replicate more often become more frequent in the next generation. Like 
+water flowing downhill, and equally benevolent.
+
+A human, looking over Nature, starts thinking of all the ways we would design 
+organisms. And then we tend to start rationalizing reasons why our design 
+improvements would increase reproductive fitness—a political instinct, trying to 
+sell your own preferred option as matching the boss's favored justification.
+
+And so, amateur evolutionary biologists end up making all sorts of wonderful and 
+completely mistaken predictions. Because the amateur biologists are drawing their
+bottom line—and more importantly, locating their prediction in hypothesis-space—
+using a different algorithm than evolutions use to draw their bottom lines.
+
+A human engineer would have designed human taste buds to measure how much of each 
+nutrient we had, and how much we needed. When fat was scarce, almonds or 
+cheeseburgers would taste delicious. But if you started to become obese, or if 
+vitamins were lacking, lettuce would taste delicious. But there is no Evolution of
+Humans Fairy, which intelligently planned ahead and designed a general system for
+every contingency. It was a reliable invariant of humans' ancestral environment
+that calories were scarce. So genes whose organisms loved calories, became more 
+frequent. Like water flowing downhill.
+
+We are simply the embodied history of which organisms *did in fact* survive and 
+reproduce, not which organisms *ought prudentially to have* survived and reproduced.
+```
+
+And here's the memorable "alien god" part:
+
+```markdown
+Find a watch in a desert, said William Paley, and you can infer the watchmaker.
+There were once those who denied this, who thought that life "just happened" without
+need of an optimization process, mice being spontaneously generated from straw and 
+dirty shirts.
+
+If we ask who was *more* correct—the theologians who argued for a Creator-God, or 
+the intellectually unfulfilled atheists who argued that mice spontaneously generated—
+then the theologians must be declared the victors: evolution is not God, but it is
+closer to God than it is to pure random entropy. Mutation is random, but selection 
+is non-random. This doesn't mean an intelligent Fairy is reaching in and selecting.
+It means there's a non-zero statistical correlation between the gene and how often
+the organism reproduces. Over a few million years, that non-zero statistical
+correlation adds up to something very powerful. It's not a god, but it's more closely 
+akin to a god than it is to snow on a television screen.
+
+In a lot of ways, evolution *is* like unto theology. "Gods are ontologically distinct
+from creatures," said Damien Broderick, "or they're not worth the paper they're written
+on." And indeed, the Shaper of Life is not itself a creature. Evolution is bodiless, 
+like the Judeo-Christian deity. Omnipresent in Nature, immanent in the fall of every
+leaf. Vast as a planet's surface. Billions of years old. Itself unmade, arising 
+naturally from the structure of physics. Doesn't that all sound like something that
+might have been said about God?
+
+And yet the Maker has no mind, as well as no body. In some ways, its handiwork is 
+incredibly poor design by human standards. It is internally divided. Most of all, it
+isn't *nice*.
+
+In a way, Darwin *discovered* God—a God that failed to match the preconceptions of 
+theology, and so passed unheralded. If Darwin had discovered that life was created 
+by an intelligent agent—a bodiless mind that loves us, and will smite us with lightning 
+if we dare say otherwise—people would have said "My gosh! That's God!"
+
+But instead Darwin discovered a strange alien God—not comfortably "ineffable", but
+*really genuinely different from us*. Evolution is not a God, but if it were, it 
+wouldn't be Jehovah. It would be H. P. Lovecraft's Azathoth, the blind idiot God 
+burbling chaotically at the center of everything, surrounded by the thin monotonous 
+piping of flutes.
+```
+
+<a name="#gene-centered-view"></a>
+### Gene-centered view
+([overview](#overview))
+
+From [After Life](http://sifter.org/~simon/AfterLife/) by Simon Funk:
+
+```markdown
+She had no reasons for it. It’s just how she feels, she said.
+
+*Just* how she feels. Still this hasn’t changed. How sorely people underestimate the totality with
+which their feelings define them. One has but to relentlessly ask themselves “why?” to realize this.
+In particular start with “why am I doing this?” whatever “this” is at the moment. It always bottoms
+out in “want” or “feel”, which is as far as one can go with direct introspection. Though one can go
+further with inference, or more accurately so with neuroscience.
+
+Neuroscience shows us that we are ultimately just vehicles for our genes, and our most sacred spiritual
+essences are simply those genes asserting themselves above our comparably transient bodies and minds.
+What is love but genetic self-interest? Love drives people to many things that seem to defy rational
+cause, but not so when you view the gene as the center of individual identity. Far from its popular
+association with benevolence and selflessness, true love is the ultimate expression of genetic narcissism.
+
+Emotion is the core of all practical intelligence, it is the fuel and cause behind all choice and action.
+Emotion answers the question, “Why am I doing this?” And the answer is, “Because my genes say so.” Or, 
+in my case, because my genes said so, back when they defined my organic brain from which this one was 
+copied.
+
+The rational mind, the conscious self with its delusions of self-preservation in a body that was designed
+to decay in the end, these are tools of the genetic core, subroutines used by the emotional substrate
+to carry out its bidding. “I don’t care how, but eat these, fuck that, and protect this with your life.”
+And so we dutifully obey, because at root we have no will besides this, this genetic program evolved over
+millennia. It is our will; it is us, and we are it.
+
+Even religion, like love, is an evolved trick of the genes. It is the adaptive portion of our genetic
+emotional substrate, the firmware between the hardware of the genetic brain and the software of the 
+rational mind. Religion and the gene live in a symbiosis with each other, where religion provides the
+firmware to optimize genetic success within the current socio-economic context–a form of adaptivity 
+much faster than hard evolution of the gene itself could provide–and the gene in return provides a 
+mechanism in the brain for downloading this firmware. The human species as a whole is the soup in 
+which religions evolve, and whichever find the most effective symbioses thrive and multiply while 
+the others wither and eventually become extinct.
+
+Thus, again, where religion appears irrational at the level of the conscious, embodied individual, it 
+is our mistake of perspective to believe the root of thought is there. The root of thought is in the
+goals of the gene. And religion, and love, and all of the other nearly ubiquitous contradictions with
+“rational thought,” serve it well.
+
+Those born without these traits, the hopelessly rational or atheistic or self-interested (indeed even
+those too intelligent or introspective to be properly ruled by their emotions) are as defective as if
+they’d been born missing arms and legs. Forays down dead-end branches of the evolutionary tree, they
+are pruned as fast as they occur. The common man, for all his apparent flaws, is definitively just right.
+```
+
+Simon puts it more succinctly here:
+
+```markdown
+The human gene itself is a living entity, I realize, each life shed like a lizard’s skin when it grows
+old and worn, each new birth a branch in a single living tree, a tapestry of gene fragments mixing and 
+matching in symbiosis, working as one organism like ants in a colony.
+
+Perhaps more like a fungus; it is, after all, a mindless machine. No, worse than mindless. It grows
+minds like flowers on a vine and then drops them dead to the earth when it’s done with them.
+
+The gene is a vile creature, isn’t it?
+```
+
+For more on intelligence in LOGI see [here](#Levels-of-Organization-in-General-Intelligence).
 
 <a name="#Levels-of-Organization-in-General-Intelligence"></a>
 ## *Levels of Organization in General Intelligence*
