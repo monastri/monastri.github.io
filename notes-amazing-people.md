@@ -40,7 +40,7 @@ a low-restriction exhaust system makes an engine more powerful.
 
 This is my first experiment in Gwern's vein. The quotes here have been collected over more than half a decade, albeit in different pages. I intend for them to shape my worldview; doing so like this allows, or so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping.
 
-I also really, *really* hate experiences of the [Jeremy Bentham type](#Jeremy-bentham). This document is intended to prevent them from happening again.
+I also really, *really* hate experiences of the [Jeremy Bentham type](https://github.com/monastri/monastri.github.io/blob/master/notes-amazing-people.md#Jeremy-bentham). This document is intended to prevent them from happening again.
 
 Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/) (indeed his [entire oeuvre](http://bactra.org/)) are another major inspiration behind this document. 
 
