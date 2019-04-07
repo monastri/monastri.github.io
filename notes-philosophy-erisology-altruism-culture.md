@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 28,800*
+*[Word count](https://wordcounter.net/): 31,500*
 
 ## What is this?
 
