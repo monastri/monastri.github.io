@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 9,800*
+*[Word count](https://wordcounter.net/): 11,800*
 
 ## What is this?
 
@@ -50,17 +50,206 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
-2. [Animals are not like us](#animals-are-not-like-us)
-1. [Digital evolution and artificial life](#Digital-evolution-and-artificial-life)
+1. [Animals are not like us](#animals-are-not-like-us)
+2. [Deep learning](#Deep-learning)
+	1. [Limitations of deep learning](#Deep-learning-limitations)
+2. [Digital evolution and artificial life](#Digital-evolution-and-artificial-life)
 	1. [The evolved radio](#The-evolved-radio)
 	2. [The evolved ear](#The-evolved-ear)
 1. [Evolution](#evolution)
 	1. [Evolution as alien god](#evolution-as-alien-god), where I first learned that there are many evolutions, as many as reproducing populations
 	1. [Gene-centered view](#gene-centered-view)	
 2. [Levels of Organization in General Intelligence](#Levels-of-Organization-in-General-Intelligence)
+3. [Program synthesis](#Program-synthesis)
 2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
    
 ---------------------------------
+
+<a name="#Program-synthesis"></a>
+## Program synthesis
+([overview](#overview))
+
+Francois Chollet is a great explainer. Here's how he talks about program synthesis in his essay [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html):
+
+```markdown
+Program synthesis consists in automatically generating simple programs, by using a
+search algorithm (possibly genetic search, as in genetic programming) to explore a
+large space of possible programs. The search stops when a program is found that 
+matches the required specifications, often provided as a set of input-output pairs.
+As you can see, is it highly reminiscent of machine learning: given "training data"
+provided as input-output pairs, we find a "program" that matches inputs to outputs 
+and can generalize to new inputs. The difference is that instead of learning 
+parameter values in a hard-coded program (a neural network), we generate source 
+code via a discrete search process.
+```
+
+<a name="#Deep-learning"></a>
+## Deep learning
+([overview](#overview))
+
+Francois Chollet is a great explainer. Here's how he talks about deep learning in his essay [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html):
+
+```markdown
+The most surprising thing about deep learning is how simple it is. Ten years ago,
+no one expected that we would achieve such amazing results on machine perception
+problems by using simple parametric models trained with gradient descent. Now, it
+turns out that all you need is *sufficiently large* parametric models trained with
+gradient descent on *sufficiently many* examples. As Feynman once said about the 
+universe, "It's not complicated, it's just a lot of it".
+
+In deep learning, everything is a vector, i.e. everything is a point in a geometric
+space. Model inputs (it could be text, images, etc) and targets are first "vectorized",
+i.e. turned into some initial input vector space and target vector space. Each layer
+in a deep learning model operates one simple geometric transformation on the data that
+goes through it. Together, the chain of layers of the model forms one very complex 
+geometric transformation, broken down into a series of simple ones. This complex 
+transformation attempts to maps the input space to the target space, one point at a
+time. This transformation is parametrized by the weights of the layers, which are 
+iteratively updated based on how well the model is currently performing. A key
+characteristic of this geometric transformation is that it must be differentiable,
+which is required in order for us to be able to learn its parameters via gradient 
+descent. Intuitively, this means that the geometric morphing from inputs to outputs 
+must be smooth and continuous—a significant constraint.
+
+The whole process of applying this complex geometric transformation to the input 
+data can be visualized in 3D by imagining a person trying to uncrumple a paper ball:
+the crumpled paper ball is the manifold of the input data that the model starts with.
+Each movement operated by the person on the paper ball is similar to a simple 
+geometric transformation operated by one layer. The full uncrumpling gesture sequence
+is the complex transformation of the entire model. Deep learning models are
+mathematical machines for uncrumpling complicated manifolds of high-dimensional data.
+
+That's the magic of deep learning: turning meaning into vectors, into geometric
+spaces, then incrementally learning complex geometric transformations that map one 
+space to another. All you need are spaces of sufficiently high dimensionality in 
+order to capture the full scope of the relationships found in the original data.
+```
+
+<a name="#Deep-learning-limitations"></a>
+## Deep learning limitations
+([overview](#overview))
+
+Francois Chollet is a great explainer. Here's how he talks about the limitations of deep learning in his essay [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html) -- in particular, reasoning, long-term planning and algo-like data manipulation are all out of reach:
+
+```markdown
+The space of applications that can be implemented with this simple strategy is 
+nearly infinite. And yet, many more applications are completely out of reach for
+current deep learning techniques—even given vast amounts of human-annotated data.
+Say, for instance, that you could assemble a dataset of hundreds of thousands—even
+millions—of English language descriptions of the features of a software product, 
+as written by a product manager, as well as the corresponding source code
+developed by a team of engineers to meet these requirements. Even with this data,
+you could not train a deep learning model to simply read a product description and 
+generate the appropriate codebase. That's just one example among many. In general,
+anything that requires reasoning—like programming, or applying the scientific 
+method—long-term planning, and algorithmic-like data manipulation, is out of reach
+for deep learning models, no matter how much data you throw at them. Even learning
+a sorting algorithm with a deep neural network is tremendously difficult.
+
+This is because a deep learning model is "just" a chain of simple, continuous 
+geometric transformations mapping one vector space into another. All it can do is 
+map one data manifold X into another manifold Y, assuming the existence of a 
+learnable continuous transform from X to Y, and the availability of a dense 
+sampling of X:Y to use as training data. So even though a deep learning model can 
+be interpreted as a kind of program, inversely most programs cannot be expressed 
+as deep learning models—for most tasks, either there exists no corresponding 
+practically-sized deep neural network that solves the task, or even if there exists
+one, it may not be learnable, i.e. the corresponding geometric transform may be far
+too complex, or there may not be appropriate data available to learn it.
+
+Scaling up current deep learning techniques by stacking more layers and using more
+training data can only superficially palliate some of these issues. It will not
+solve the more fundamental problem that deep learning models are very limited in
+what they can represent, and that most of the programs that one may wish to learn 
+cannot be expressed as a continuous geometric morphing of a data manifold.
+```
+
+Chollet continues by talking about local generalization (what DL does) versus extreme generalization (what we do):
+
+```markdown
+There just seems to be fundamental differences between the straightforward 
+geometric morphing from input to output that deep learning models do, and the
+way that humans think and learn. It isn't just the fact that humans learn by 
+themselves from embodied experience instead of being presented with explicit 
+training examples. Aside from the different learning processes, there is a 
+fundamental difference in the nature of the underlying representations.
+
+Humans are capable of far more than mapping immediate stimuli to immediate 
+responses, like a deep net, or maybe an insect, would do. They maintain complex,
+abstract models of their current situation, of themselves, of other people, and
+can use these models to anticipate different possible futures and perform long-
+term planning. They are capable of merging together known concepts to represent
+something they have never experienced before—like picturing a horse wearing
+jeans, for instance, or imagining what they would do if they won the lottery. 
+This ability to handle hypotheticals, to expand our mental model space far
+beyond what we can experience directly, in a word, to perform abstraction and 
+reasoning, is arguably the defining characteristic of human cognition. I call it
+"extreme generalization": an ability to adapt to novel, never experienced before
+situations, using very little data or even no new data at all.
+
+This stands in sharp contrast with what deep nets do, which I would call "local
+generalization": the mapping from inputs to outputs performed by deep nets
+quickly stops making sense if new inputs differ even slightly from what they saw 
+at training time. Consider, for instance, the problem of learning the appropriate
+launch parameters to get a rocket to land on the moon. If you were to use a deep
+net for this task, whether training using supervised learning or reinforcement 
+learning, you would need to feed it with thousands or even millions of launch 
+trials, i.e. you would need to expose it to a dense sampling of the input space,
+in order to learn a reliable mapping from input space to output space. By 
+contrast, humans can use their power of abstraction to come up with physical 
+models—rocket science—and derive an exact solution that will get the rocket on the
+moon in just one or few trials. Similarly, if you developed a deep net controlling
+a human body, and wanted it to learn to safely navigate a city without getting hit
+by cars, the net would have to die many thousands of times in various situations 
+until it could infer that cars and dangerous, and develop appropriate avoidance 
+behaviors. Dropped into a new city, the net would have to relearn most of what it
+knows. On the other hand, humans are able to learn safe behaviors without having 
+to die even once—again, thanks to their power of abstract modeling of hypothetical
+situations.
+
+In short, despite our progress on machine perception, we are still very far from
+human-level AI: our models can only perform local generalization, adapting to new 
+situations that must stay very close from past data, while human cognition is 
+capable of extreme generalization, quickly adapting to radically novel situations,
+or planning very for long-term future situations.
+```
+
+So how might we improve on these limitations? Chollet says we need models capable of abstraction and reasoning (per above). Yeah, like what? Like RNNs, which are "a bit more than a mere geometric transformation: they are geometric transformations *repeatedly applied inside a for loop*":
+
+```markdown
+Current AI programs that are capable of basic forms of reasoning are all hard-coded
+by human programmers: for instance, software that relies on search algorithms, graph 
+manipulation, formal logic. In DeepMind's AlphaGo, for example, most of the 
+"intelligence" on display is designed and hard-coded by expert programmers (e.g. Monte-
+Carlo tree search); learning from data only happens in specialized submodules (value
+networks and policy networks). But in the future, such AI systems may well be fully
+learned, with no human involvement.
+
+What could be the path to make this happen? Consider a well-known type of network: 
+RNNs. Importantly, RNNs have slightly less limitations than feedforward networks. 
+That is because RNNs are a bit more than a mere geometric transformation: they are 
+geometric transformations repeatedly applied inside a for loop. The temporal for loop
+is itself hard-coded by human developers: it is a built-in assumption of the network.
+Naturally, RNNs are still extremely limited in what they can represent, primarily
+because each step they perform is still just a differentiable geometric transformation,
+and the way they carry information from step to step is via points in a continuous
+geometric space (state vectors). Now, imagine neural networks that would be "augmented"
+in a similar way with programming primitives such as for loops—but not just a single
+hard-coded for loop with a hard-coded geometric memory, rather, a large set of 
+programming primitives that the model would be free to manipulate to expand its
+processing function, such as if branches, while statements, variable creation, disk 
+storage for long-term memory, sorting operators, advanced datastructures like lists,
+graphs, and hashtables, and many more. The space of programs that such a network could
+represent would be far broader than what can be represented with current deep learning 
+models, and some of these programs could achieve superior generalization power.
+
+In a word, we will move away from having on one hand "hard-coded algorithmic 
+intelligence" (handcrafted software) and on the other hand "learned geometric 
+intelligence" (deep learning). We will have instead a blend of formal algorithmic
+modules that provide reasoning and abstraction capabilities, and geometric modules
+that provide informal intuition and pattern recognition capabilities. The whole 
+system would be learned with little or no human involvement.
+```
 
 <a name="#why-we-are-trichromats"></a>
 ## Why we are trichromats
