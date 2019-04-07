@@ -149,7 +149,7 @@ can this not be worsening the overall level of debate?
 ```
 
 <a name="#chinese-perspective-on-western-elite"></a>
-### Chinese perspective on Western elite
+## Chinese perspective on Western elite
 ([overview](#overview))
 
 I love how Puzhong Yao comes across in his essay [The Western Elite from a Chinese Perspective](https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/), about his experiences at Goldman Sachs, Cambridge and Stanford. He’s so honest and straight-laced he reminds me of myself before I ‘got more sophisticated’ in order to ‘navigate the turbulent realities of daily workplace politics’ (well, minimally, so I don’t drown). Here are some quotes I especially liked.
