@@ -50,28 +50,23 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
-1. [Amazing people](#amazing-people)
-   1. [Alexander Grothendieck](#alexander-grothendieck)
-   2. [Andrey Kolmogorov](#Andrey-Kolmogorov)
-   2. [Butler Lampson](#Butler-Lampson)
-   2. [Charlie Fefferman](#charlie-fefferman)
-   2. [Donald Trump](#donald-trump) as autistic child with real estate development special interest 
-   2. [Ed Witten](#ed-witten)
-   2. [Jeff Bezos](#Jeff-Bezos)
-   2. [Jeremy Bentham](#Jeremy-bentham)'s thinking was inseparably (1) batshit, (2) shockingly ahead of his time
-   2. [Johnny von Neumann](#johnny-von-neumann)
-   2. [LeBron James](#lebron-james)
-   2. [Richard Feynman](##Richard-Feynman)
-   2. [Robin Hanson](#robin-hanson)
-   2. [Scott Alexander](#Scott-alexander)
-   2. [Srinivasa Ramanujan](#Srinivasa-Ramanujan)
-   2. [Terry Tao](#terry-tao)
+1. [Alexander Grothendieck](#alexander-grothendieck)
+2. [Andrey Kolmogorov](#Andrey-Kolmogorov)
+2. [Butler Lampson](#Butler-Lampson)
+2. [Charlie Fefferman](#charlie-fefferman)
+2. [Donald Trump](#donald-trump) as autistic child with real estate development special interest 
+2. [Ed Witten](#ed-witten)
+2. [Jeff Bezos](#Jeff-Bezos)
+2. [Jeremy Bentham](#Jeremy-bentham)'s thinking was inseparably (1) batshit, (2) shockingly ahead of his time
+2. [Johnny von Neumann](#johnny-von-neumann)
+2. [LeBron James](#lebron-james)
+2. [Richard Feynman](##Richard-Feynman)
+2. [Robin Hanson](#robin-hanson)
+2. [Scott Alexander](#Scott-alexander)
+2. [Srinivasa Ramanujan](#Srinivasa-Ramanujan)
+2. [Terry Tao](#terry-tao)
    
 ----------------------------------
-
-<a name="#Amazing-people"></a>
-## Amazing people
-([overview](#overview))
 
 <a name="#donald-trump"></a>
 ### Donald Trump
