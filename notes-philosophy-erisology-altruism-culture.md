@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is the "philosophy, erisology and culture" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md), last updated Apr 6, 2019, which got so big (1.2 million char) that GitHub refused to render the whole page anymore, ruining my original dream of having my entire notebook in one long page for two purposes: (1) zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience; (2) lower activation energy for continuous refactoring of contents list, to aid recall.
+This is the "philosophy, erisology, altruism and culture" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md), last updated Apr 6, 2019, which got so big (1.2 million char) that GitHub refused to render the whole page anymore, ruining my original dream of having my entire notebook in one long page for two purposes: (1) zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience; (2) lower activation energy for continuous refactoring of contents list, to aid recall.
 
 That said, this is a "living document", a "perpetual draft" in [the style of Gwern](https://www.gwern.net/About#long-content). I'm particulary taken by the following quote: 
 
@@ -56,8 +56,11 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [Critiques](#critiques-of-the-anthropic-principle), ft. Cosma, Smolin
 2. [Chesterton's fence](#chestertons-fence)
 2. [Diseased philosophy](#diseased-philosophy)
+2. [Effective altruism](#effective-altruism)
+	1. [Weird EA](#weird-EA)
+2. [Erisology and thinking less wrongly](#Erisology)	
 2. [Generalizing from one example, or the typical mind fallacy](#typical-mind-fallacy)
-1. [General](#general-philosophy)
+2. [General philosophy](#general-philosophy)
 2. [Legibility](#Legibility)
 4. [Moloch](#moloch)
 2. [Morality, axiology, law](#morality-axiology-law)
@@ -70,7 +73,253 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 -----------------------------
 
-I'd be remiss not to mention that Carlos Bueno's [advice on optimizing software performance](#Performance-optimization) ("in 8-figure compute environments", as he says on Twitter) has a *ton* of good stuff on thinking less wrongly.
+<a name="#Effective-altruism"></a>
+## Effective altruism
+([overview](#overview))
+
+<a name="#Weird-EA"></a>
+### Weird EA
+([overview](#overview))
+
+The subheading for this section makes it sound like I'm making fun of the weirder parts of EA. Rest assured I'm not -- I am weird myself, and have always loved and sought out the weird. (That's what pretty much half this document *is*.)
+
+The following are from Scott Alexander's [Fear and Loathing at EA Global 2017](https://slatestarcodex.com/2017/08/16/fear-and-loathing-at-effective-altruism-global-2017/), one of the more moving posts on EA he's written (and he's written a lot on this). 
+
+Context:
+
+```markdown
+Effective altruism is the movement devoted to finding the highest-impact ways to help 
+other people and the world. Philosopher William MacAskill described it as “doing for 
+the pursuit of good what the Scientific Revolution did for the pursuit of truth”. They 
+have an annual global conference to touch base and discuss strategy. This year it was 
+in the Palace of Fine Arts in San Francisco, and I got a chance to check it out.
+
+The official conference theme was “Doing Good Together”. The official conference 
+interaction style was “earnest”. The official conference effectiveness level was “very”.
+And it was impossible to walk away from some of the talks without being impressed. ...
+
+The whole conference was flawlessly managed, from laser-fast registration to polished-
+sounding speakers to friendly unobtrusive reminders to use the seventeen different apps
+that would keep track of your conference-related affairs for you. And the of course the
+venue, which really was amazing.
+```
+
+The "underbelly of the movement", where the weird stuff is:
+
+```markdown
+But walk a little bit outside of the perfectly-scheduled talks, or linger in the common
+areas a little bit after the colorfully-arranged vegetarian lunches, and you run into the
+shadow side of all of this, the hidden underbelly of the movement.
+
+William MacAskill wanted a “scientific revolution in doing good”. But the Scientific
+Revolution progressed from “I wonder why apples fall down” to “huh, every particle is in
+an infinite number of places simultaneously, and also cats can be dead and alive at the 
+same time”. The effective altruists’ revolution started with “I wonder if some charities
+work better than others”. But even at this early stage, it’s gotten to some pretty weird
+places.
+
+I got to talk to some people from Wild Animal Suffering Research. They start with the 
+standard EA animal rights argument – if you think animals have moral relevance, you can 
+save zillions of them for almost no cost. A campaign for cage-free eggs, minimal in the 
+grand scheme of things, got most major corporations to change their policies and gave two
+hundred million chickens an improved quality of life. But WASR points out that even this
+isn’t the most neglected cause. There are up to a trillion reptiles, ten quintillion
+insects, and maybe a sextillion zooplankton. And as nasty as factory farms are, life in the
+state of nature is nasty, brutish, short, and prone to having parasitic wasps paralyze you
+so that their larvae can eat your organs from the inside out while you are still alive. 
+WASR researches ways we can alleviate wild animal suffering, from euthanizing elderly 
+elephants (probably not high-impact) to using more humane insecticides (recommended as an 
+‘interim solution’) to neutralizing predator species in order to relieve the suffering of
+prey (still has some thorny issues that need to be resolved).
+
+Wild Animal Suffering Research was nowhere near the weirdest people at Effective Altruism
+Global.
+
+I got to talk to people from the Qualia Research Institute, who point out that everyone 
+else is missing something big: the hedonic treadmill. People have a certain baseline 
+amount of happiness. Fix their problems, and they’ll be happy for a while, then go back to 
+baseline. The only solution is to hack consciousness directly, to figure out what exactly
+happiness is – unpack what we’re looking for when we describe some mental states as having 
+higher positive valence than others – and then add that on to every other mental state
+directly. This isn’t quite the dreaded wireheading, the widely-feared technology that will
+make everyone so doped up on techno-super-heroin (or direct electrical stimulation of the 
+brain’s pleasure centers) that they never do anything else. It’s a rewiring of the brain
+that creates a “perpetual but varied bliss” that “reengineers the network of transition 
+probabilities between emotions” while retaining the capability to do economically useful 
+work. Partly this last criteria is to prevent society from collapsing, but the ultimate
+goal is:
+
+    …the possibility of a full-fledged qualia economy: when people have spare
+    resources and are interested in new states of consciousness, anyone good at
+    mining the state-space for precious gems will have an economic advantage. In 
+    principle the whole economy may eventually be entirely based on exploring the 
+    state-space of consciousness and trading information about the most valuable
+    contents discovered doing so.
+
+The Qualia Research Institute was nowhere near the weirdest people at Effective Altruism 
+Global.
+
+I got to talk to some people from the Foundational Research Institute. They do a lot of 
+research, and a lot of it is very good, but they’re most infamous within the community for
+their particle work. It goes like this: the universe is really really big. So if suffering 
+made up an important part of the structure of the universe, this would be so tremendously 
+outrageously unconscionably bad that we can’t even conceive of how bad it could be. So the
+most important cause might be to worry about whether fundamental physical particles are 
+capable of suffering – and, if so, how to destroy physics. From their writeup:
+
+    Speculative scenarios to change the long-run future of physics may dominate any
+    concrete work to affect the welfare of intelligent computations — at least within 
+    the fraction of our brain’s moral parliament that cares about fundamental physics. 
+    The main value (or disvalue) of intelligence would be to explore physics further 
+    and seek out tricks by which its long-term character could be transformed. 
+    
+    For instance, if false-vacuum decay did look beneficial with respect to reducing
+    suffering in physics, civilization could wait until its lifetime was almost over 
+    anyway (letting those who want to create lots of happy and meaningful intelligent 
+    beings run their eudaimonic computations) and then try to ignite a false-vacuum 
+    decay for the benefit of the remainder of the universe (assuming this wouldn’t 
+    impinge on distant aliens whose time wasn’t yet up). Triggering such a decay might
+    require extremely high-energy collisions — presumably more than a million times 
+    those found in current particle accelerators — but it might be possible. On the 
+    other hand, such decay may happen on its own within billions of years, suggesting
+    little benefit to starting early relative to the cosmic scales at stake. 
+    
+    In any case, I’m not suggesting vacuum decay as the solution — just that there may be 
+    many opportunities like it waiting to be found, and that these possibilities may
+    dwarf anything else that happens with intelligent life.
+```
+
+Scott subscribes to the Lovecraftian "it was not meant that we should voyage far" from our "placid island of ignorance in the midst of black seas of infinity":
+
+```markdown
+We live on a placid island of ignorance in the midst of black seas of infinity, 
+and it was not meant that we should voyage far. The sciences, each straining in 
+its own direction, have hitherto harmed us little; but some day the piecing 
+together of dissociated knowledge will open up such terrifying vistas of reality, 
+and of our frightful position therein, that we shall either go mad from the 
+revelation or flee from the deadly light into the peace and safety of a new dark age.
+```
+
+Scott adds:
+
+```markdown
+Morality wasn’t supposed to be like this. Most of the effective altruists I met were 
+nonrealist utilitarians. They don’t believe in some objective moral law imposed by an 
+outside Power. They just think that we should pursue our own human-parochial moral values
+effectively. If there was ever a recipe for a safe and milquetoast ethical system, that
+should be it. And yet once you start thinking about what morality is – really thinking,
+the kind where you try to use mathematical models and formal logic – it opens up into 
+these dark eldritch vistas of infinities and contradictions. The effective altruists
+started out wanting to do good. And they did: whole nine-digit-sums worth of good,
+spreadsheets full of lives saved and diseases cured and disasters averted. But if you 
+really want to understand what you’re doing – get past the point where you can catch 
+falling apples, to the point where you have a complete theory of gravitation – you end 
+up with something as remote from normal human tenderheartedness as the conference lunches
+were from normal human food.
+```
+
+And this is the money quote that made me start this section in the first place, because it touched me deeply (perhaps part of it is simply Scott's rhetoric working on me?):
+
+```markdown
+But I worry I’m painting a misleading picture here. It isn’t that effective altruism is
+divided into two types of people: the boring effective suits, and the wacky explorers of
+bizarre ethical theories. I mean, there’s always going to be *some* division. But by and 
+large these were the same people, or at least you couldn’t predict who was who. They 
+would go up and give a talk about curing river blindness in Nigeria, and then you’d catch 
+them later and learn that they were worried that maybe the most effective thing was 
+preventing synthetic biology from taking over the ecosystem. Or you would hear someone 
+give their screed, think “what a weirdo”, and then learn they were a Harvard professor who 
+served on a bunch of Fortune 500 company boards. Maybe the right analogy would be physics.
+A lot of physicists work on practical things like solar panels and rechargeable batteries.
+A tiny minority work on stranger things like wormholes and alternate universes. But it’s 
+not like these are two different factions in physics that hate each other. And every so 
+often a solar panel engineer might look into the math behind alternate universes, or a
+wormhole theorist might have opinions on battery design. They’re doing really different 
+stuff, but it’s within the same tradition.
+
+The movement’s unofficial leader is William MacAskill. He’s a pretty typical overachiever
+– became an Oxford philosophy professor at age 28 (!), founded three successful non-profits,
+and goes around hobnobbing with rich people trying to get them to donate money (he himself
+has pledged to give away everything he earns above $36,000). I had always assumed he was 
+just a random dignified suit-wearing person who was slightly exasperated at having to put 
+up with the rest of the movement. But I got a chance to talk to him – just for a few minutes,
+before he had to run off and achieve something – and I was shocked at how much he knew about
+all the weirdest aspects of the community, and how protective he felt of them. And in his 
+closing speech, he urged the attendees to “keep EA weird”, giving examples of times when 
+seemingly bizarre ideas won out and became accepted by the mainstream.
+
+If it were just the senior research analysts at their spreadsheets, we could dismiss them as
+the usual Ivy League lizard people and move on. If it were just the fringes ranting about 
+cyber-neuro-metaphilosophy, we could dismiss them as loonies and forget about it. And if it 
+were just the two groups, separate and doing their own thing, we could end National Geographic-
+style, intoning in our best David Attenborough voice that “Effective Altruism truly is a land
+of contrasts”. But it’s more than that. Some animating spirit gives rise to the whole thing, 
+some unifying aesthetic that can switch to either pole and back again on a whim. After a lot
+of thought, I have only one guess about what it might be.
+
+I think the effective altruists are genuinely good people.
+
+Over lunch, a friend told me about his meeting with an EA philosopher who hadn’t been able 
+to make it to the conference. This friend had met the philosopher, and as they were walking,
+the philosopher had stopped to pick up worms writhing on the sidewalk and put them back in 
+the moist dirt.
+
+And this story struck me, because I had taken a walk with one of the speakers earlier, and 
+seen her do the same thing. She had been apologetic, said she knew it was a waste of her 
+time and mine. She’d wondered if it was pathological, whether maybe she needed to be checked
+for obsessive compulsive disorder. But when I asked her whether she wanted to stop doing it,
+she’d thought about it a little, and then – finally – saved the worm.
+
+And there was a story about the late great moral philosopher Derek Parfit, himself a member
+of the effective altruist movement. This is from Larissa MacFarquhar:
+
+    As for his various eccentricities, I don’t think they add anything to an understanding 
+    of his philosophy, but I find him very moving as a person. When I was interviewing him 
+    for the first time, for instance, we were in the middle of a conversation and suddenly 
+    he burst into tears. It was completely unexpected, because we were not talking about 
+    anything emotional or personal, as I would define those things. I was quite startled, 
+    and as he cried I sat there rewinding our conversation in my head, trying to figure out
+    what had upset him. Later, I asked him about it. It turned out that what had made him 
+    cry was the idea of suffering. We had been talking about suffering in the abstract. I 
+    found that very striking.
+
+    Now, I don’t think any professional philosopher is going to make this mistake, but 
+    nonprofessionals might think that utilitarianism, for instance (Parfit is a utilitarian),
+    or certain other philosophical ways of think about morality, are quite unemotional, 
+    quite calculating, quite cold; and so because as I am writing mostly for nonphilosophers,
+    it seemed like a good corrective to know that for someone like Parfit these issues are 
+    extremely emotional, even in the abstract.
+
+    The weird thing was that the same thing happened again with a philosophy graduate student
+    whom I was interviewing some months later. Now you’re going to start thinking it’s me, 
+    but I was interviewing a philosophy graduate student who, like Parfit, had a very
+    unemotional demeanor; we started talking about suffering in the abstract, and he burst 
+    into tears. I don’t quite know what to make of all this but I do think that insofar as 
+    one is interested in the relationship of ideas to people who think about them, and not 
+    just in the ideas themselves, those small events are moving and important.
+    
+I imagine some of those effective altruists, picking up worms, and I can see them here too. 
+I can see them sitting down and crying at the idea of suffering, at allowing it to exist.
+
+Larissa MacFarquhar says she doesn’t know what to make of this. I think I sort of do. I’m not
+much of an effective altruist – at least, I’ve managed to evade the 80,000 Hours coaches long
+enough to stay in medicine. But every so often, I can see the world as they have to. Where 
+the very existence of suffering, any suffering at all, is an immense cosmic wrongness, an 
+intolerable gash in the world, distressing and enraging. Where a single human lifetime seems
+frighteningly inadequate compared to the magnitude of the problem. Where all the normal 
+interpersonal squabbles look trivial in the face of a colossal war against suffering itself, 
+one that requires a soldier’s discipline and a general’s eye for strategy.
+
+All of these Effecting Effective Effectiveness people don’t obsess over efficiency out of 
+bloodlessness. They obsess because the struggle is so desperate, and the resources so few. 
+Their efficiency is military efficiency. Their cooperation is military discipline. Their unity 
+is the unity of people facing a common enemy. And they are winning. Very slowly, WWI trench-
+warfare-style. But they really are.
+```
+
+<a name="#Erisology"></a>
+### Erisology
+([overview](#overview)) 
 
 From John Nerst's [What is erisology?](https://everythingstudies.com/what-is-erisology/), the founding document of the discipline:
 
@@ -161,6 +410,8 @@ to a lot of erisology covering the often disappointing interactions between acad
 Differing attitudes to reductionism vs. inherent semantics makes people find different kinds of explanations
 satisfactory.
 ```
+
+I'd be remiss not to mention that Carlos Bueno's [advice on optimizing software performance](#Performance-optimization) ("in 8-figure compute environments", as he says on Twitter) has a *ton* of good stuff on thinking less wrongly.
 
 <a name="#The-cowpox-of-doubt"></a>
 ### The cowpox of doubt
