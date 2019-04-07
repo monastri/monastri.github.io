@@ -52,8 +52,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 
 1. [Digital evolution and artificial life](#Digital-evolution-and-artificial-life)
-  1. [The evolved radio](#The-evolved-radio)
-  2. [The evolved ear](#The-evolved-ear)
+	1. [The evolved radio](#The-evolved-radio)
+	2. [The evolved ear](#The-evolved-ear)
 2. [LOGI](#logi), by Eliezer Yudkowsky
    
 ---------------------------------
