@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 14,200*
+*[Word count](https://wordcounter.net/): 14,500*
 
 ## What is this?
 
@@ -63,13 +63,33 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	2. [High organizational standards](#high-standards)
 	2. [Resisting organizational stasis, or, it is always Day 1](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends *(KIV for content list refactoring)*
 1. [Real work and bullshit jobs](#Real-work-and-bullshit-jobs)
+	1. [Don't do what you love, do what contributes](#Dont-do-what-you-love-do-what-contributes)
+2. [Startups](#Startups)
+	1. [The market doesn't give a shit how hard you worked](#The-market-doesnt-give-a-shit-how-hard-you-worked)
 2. [Venture capital](#venture-capital)
 	1. [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
 	  
 -----------------------------
 
+<a name="#Startups"></a>
+## Startups
+([overview](#overview)) 
+
+<a name="#The-market-doesnt-give-a-shit-how-hard-you-worked"></a>
+### The market doesn't give a shit how hard you worked
+([overview](#overview)) 
+
+Paul Graham, [A student's guide to startups](http://www.paulgraham.com/mit.html):
+
+```markdown
+The market doesn't give a shit how hard you worked. Users just want your software to do what they need, 
+and you get a zero otherwise. That is one of the most distinctive differences between school and the 
+real world: there is no reward for putting in a good effort. In fact, the whole concept of a "good effort" 
+is a fake idea adults invented to encourage kids. It is not found in nature. 
+```
+
 <a name="#Bureaucracy"></a>
-### Bureaucracy
+## Bureaucracy
 ([overview](#overview)) 
 
 <a name="#Iron-Law-of-Bureaucracy"></a>
@@ -97,7 +117,7 @@ within the organization.
 ```
 
 <a name="#Real-work-and-bullshit-jobs"></a>
-### Real work and bullshit jobs
+## Real work and bullshit jobs
 ([overview](#overview))
 
 From Sarah Constantin's [How much work is real?](https://srconstantin.wordpress.com/2017/05/09/how-much-work-is-real/).
@@ -221,8 +241,26 @@ patent applications have grown at an accelerating rate; the growth of intellectu
 is another example of our economy becoming more monopolistic.
 ```
 
+<a name="#Dont-do-what-you-love-do-what-contributes"></a>
+### Don't do what you love, do what contributes
+([overview](#overview))
+
+From [Marc Andreessen gives the career advice that nobody wants to hear](https://www.businessinsider.com/andreessen-whatever-you-do-dont-follow-your-passion-2014-5/?IR=T):
+
+```markdown
+"Do what you love" / "Follow your passion" is dangerous and destructive career advice. We tend to hear it 
+from (a) Highly successful people who (b) Have become successful doing what they love. The problem is that 
+we do NOT hear from people who have failed to become successful by doing what they love. Particularly pernicious 
+problem in tournament-style fields with a few big winners lots of losers: media, athletics, startups. Better 
+career advice may be "Do what contributes" -- focus on the beneficial value created for other people vs just 
+one's own ego. People who contribute the most are often the most satisfied with what they do -- and in fields 
+with high renumeration, make the most $. Perhaps difficult advice since requires focus on others vs oneself -- 
+perhaps bad fit with endemic narcissism in modern culture? Requires delayed gratification -- may toil for many 
+years to get the payoff of contributing value to the world, vs short-term happiness.
+```
+
 <a name="#Consulting"></a>
-### Consulting
+## Consulting
 ([overview](#overview))
 
 <a name="#consultings-value-add"></a>
@@ -349,7 +387,7 @@ use these service providers.
 ```
 
 <a name="#Management"></a>
-### Management
+## Management
 ([overview](#overview))
 
 <a name="#comfort-with-uncertainty"></a>
@@ -1217,7 +1255,7 @@ perhaps it is bred of necessity from being the opposition party?
 ```
 
 <a name="#Venture-capital"></a>
-### Venture capital
+## Venture capital
 ([overview](#overview))
 
 <a name="#Typical-route-to-becoming-VC"></a>
@@ -1269,7 +1307,7 @@ that blend the best of both sides into a single, holistic unit.
 ```
 
 <a name="#Insurance"></a>
-### Insurance
+## Insurance
 ([overview](#overview))
 
 <a name="#Main-function-of-insurance-sector-in-economy"></a>
