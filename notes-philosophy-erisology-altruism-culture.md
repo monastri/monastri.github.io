@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 34,600*
+*[Word count](https://wordcounter.net/): 35,600*
 
 ## What is this?
 
@@ -73,10 +73,34 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [X isn't about Y](#x-isnt-about-y)
 	2. [Countersignaling](#countersignaling), including metacontrarianism
 3. [Slack and deliberate mediocrity](#slack-and-deliberate-mediocrity)
+3. [Social rules as game rules](#Social-rules-as-game-rules)
 3. [The absurdity heuristic doesn't work very well](#absurdity-heuristic)
 3. [The cowpox of doubt](#The-cowpox-of-doubt)
 
 -----------------------------
+
+<a name="#Social-rules-as-game-rules"></a>
+## Social rules as game rules
+([overview](#overview))
+
+William T. Powers:
+
+```markdown
+One thing I have advocated, without much success, is that children be taught social rules (when they are 
+ready) in exactly the same way they are taught and teach each other games. The point is not whether the 
+rules are right or wrong. Are the rules of 5-card stud poker or hopscotch right or wrong? It's that we're 
+playing a certain game here, and there are rules to this game just as in any other game. If you want to 
+be in the game, then you have to learn how to play it. Different groups of people play different games 
+(different rules = different game), so if you want to play in different groups, you have to learn the 
+games they play. When you develop the levels of understanding above the rule level, you'll be able to 
+understand all games, and be able to join in anywhere. You won't be stuck knowing how to play only one game.
+
+My problem with selling this idea is that people tend to think that their game is the only right one. 
+In fact, being told that they are playing a game with arbitrary rules is insulting or frightening. They 
+want to believe that the rules they know are the ones that everyone ought to play by; they even set 
+up systems of punishment and reward to make sure that nobody tries to play a different game. They turn 
+the game into something that is deadly serious, and so my idea simply seems frivolous instead of liberating.
+```
 
 <a name="#The-necessary-strangeness-of-scientific-explanations"></a>
 ## The necessary strangeness of scientific explanations
@@ -376,6 +400,25 @@ forced labor as an overqualified ragpicker are that children are entitled to tre
 their mothers’ time as worth nothing, that you can make the world a better place by
 destroying economic value, and that the moral worth of an action should be measured
 by the conspicuousness of the sacrifice rather than the gain to the beneficiary.
+```
+
+What David Friedman says in *The Machinery of Freedom* is also related:
+
+```markdown
+The person who says, as almost everyone does say, that human life is of infinite value, not to be measured 
+in mere material terms, is talking palpable, if popular, nonsense. If he believed that of his own life, he 
+would never cross the street, save to visit his doctor or to earn money for things necessary to physical 
+survival. He would eat the cheapest, most nutritious food he could find and live in one small room, saving 
+his income for frequent visits to the best possible doctors. He would take no risks, consume no luxuries, 
+and live a long life. If you call it living. If a man really believed that other people's lives were 
+infinitely valuable, he would live like an ascetic, earn as much money as possible, and spend everything 
+not absolutely necessary for survival on CARE packets, research into presently incurable diseases, and 
+similar charities.
+
+In fact, people who talk about the infinite value of human life do not live in either of these ways. They 
+consume far more than they need to support life. They may well have cigarettes in their drawer and a sports 
+car in the garage. They recognize in their actions, if not in their words, that physical survival is only 
+one value, albeit a very important one, among many.
 ```
 
 <a name="#Weird-EA"></a>
@@ -1291,6 +1334,42 @@ should be precise enough that one can see what it would mean to make progress on
 need to do, what theorems one would need to prove, etc.
 ```
 
+Patrick McKenzie, "Some Perspective on the Japan Earthquake":
+
+```markdown
+The story of Japanese railways during the earthquake and tsunami is the story of an unceasing drumbeat 
+of everything going right [...] The overwhelming response of Japanese engineering to the challenge posed 
+by an earthquake larger than any in the last century was to function exactly as designed. Millions of 
+people are alive right now because the system worked and the system worked and the system worked.
+
+That this happened was, I say with no hint of exaggeration, one of the triumphs of human civilization. 
+Every engineer in this country should be walking a little taller this week. We can’t say that too loudly, 
+because it would be inappropriate with folks still missing and many families in mourning, but it doesn’t 
+make it any less true.
+```
+
+Bruce Schneier:
+
+```markdown
+In our large, anonymous society, it's easy to forget moral and reputational pressures and concentrate on 
+legal pressure and security systems. This is a mistake; even though our informal social pressures fade 
+into the background, they're still responsible for most of the cooperation in society.
+```
+
+Hastie Dawes, *Rational Choice in an Uncertain World*, pp. 67-8:
+
+```markdown
+A lot of outcomes about which we care deeply are not very predictable. For example, it is not comforting 
+to members of a graduate school admissions committee to know that only 23% of the variance in later 
+faculty ratings of a student can be predicted by a unit weighting of the student's undergraduate GPA, 
+his or her GRE score, and a measure of the student's undergraduate institution selectivity -- but that 
+is opposed to 4% based on those committee members' global ratings of the applicant. We want to predict 
+outcomes important to us. It is only rational to conclude that if one method (a linear model) does not 
+predict well, something else may do better. What is not rational -- in fact, it's irrational -- is to 
+conclude that this "something else" necessarily exists and, in the absence of any positive supporting 
+evidence, is intuitive global judgment.
+```
+
 <a name="#Reality-has-a-surprising-amount-of-detail"></a>
 ## Reality has a surprising amount of detail
 ([overview](#overview))
@@ -1866,6 +1945,20 @@ and so was up for grabs. Heraclitus would have quickly come up with some ersatz,
 identity of practical value for dealing with property rights, oxen, lyres, vineyards, and the like. And then 
 he might have wondered if that watered-down vulgar sense of identity might be a considerably more valuable 
 concept than a pure and philosophical sort of identity that nothing has.
+```
+
+Razib Khan, [Reification is alright by me](http://blogs.discovermagazine.com/gnxp/2012/05/reification-is-alright-by-me/):
+
+```markdown
+The categories and classes we construct are simply the semantic sugar which makes the reality go down 
+easier. They should never get confused for the reality that is, the reality which we perceive but darkly 
+and with biased lenses. The hyper-relativists and subjectivists who are moderately fashionable in some 
+humane studies today are correct to point out that science is a human construction and endeavor. Where 
+they go wrong is that they are often ignorant of the fact that the orderliness of many facets of nature 
+is such that even human ignorance and stupidity can be overcome with adherence to particular methods and 
+institutional checks and balances. The predictive power of modern science, giving rise to modern 
+engineering, is the proof of its validity. No talk or argumentation is needed. Boot up your computer. 
+Drive your car.
 ```
 
 <a name="#morality-axiology-law"></a>
