@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 29,700*
+*[Word count](https://wordcounter.net/): 30,300*
 
 <a name="#overview"></a>
 
@@ -12,6 +12,7 @@ Poems and quotes listed in reverse order of inclusion below.
    1. [The House Beyond Your Sky](#The-House-Beyond-Your-Sky)
    2. [Elsewhere](#elsewhere)
 2. [Bistromathic Drive](#Bistromathic-Drive), by Douglas Adams
+2. [Daddy](#daddy), by Sylvia Plath
 2. [Don't become a well-rounded person](#dont-become-a-well-rounded-person), by Bruce Sterling
 2. [Dover Beach, fourth stanza](#dover-beach-fourth-stanza), by Matthew Arnold
 2. [Five English translations of Baudelaire’s L’Albatros](#Five-English-translations-of-Baudelaires-LAlbatros), by Charles Baudelaire
@@ -87,6 +88,111 @@ environment which was  strategically based, industry-focused, and built upon a
 consistent, clear, and unified market message and aligned with the chicken's mission,
 vision, and core values. This was conducive towards the  creation of a total business
 integration solution. Accenture Consulting helped the chicken to become more successful.
+```
+
+<a name="#daddy"></a>
+## Daddy
+### by Sylvia Plath
+([overview](#overview))
+
+Original [here](). I don't know why this hit me hard, but it *did*.
+
+```markdown
+You do not do, you do not do   
+Any more, black shoe
+In which I have lived like a foot   
+For thirty years, poor and white,   
+Barely daring to breathe or Achoo.
+
+Daddy, I have had to kill you.   
+You died before I had time——
+Marble-heavy, a bag full of God,   
+Ghastly statue with one gray toe   
+Big as a Frisco seal
+
+And a head in the freakish Atlantic   
+Where it pours bean green over blue   
+In the waters off beautiful Nauset.   
+I used to pray to recover you.
+Ach, du.
+
+In the German tongue, in the Polish town   
+Scraped flat by the roller
+Of wars, wars, wars.
+But the name of the town is common.   
+My Polack friend
+
+Says there are a dozen or two.   
+So I never could tell where you   
+Put your foot, your root,
+I never could talk to you.
+The tongue stuck in my jaw.
+
+It stuck in a barb wire snare.   
+Ich, ich, ich, ich,
+I could hardly speak.
+I thought every German was you.   
+And the language obscene
+
+An engine, an engine
+Chuffing me off like a Jew.
+A Jew to Dachau, Auschwitz, Belsen.   
+I began to talk like a Jew.
+I think I may well be a Jew.
+
+The snows of the Tyrol, the clear beer of Vienna   
+Are not very pure or true.
+With my gipsy ancestress and my weird luck   
+And my Taroc pack and my Taroc pack
+I may be a bit of a Jew.
+
+I have always been scared of *you*,
+With your Luftwaffe, your gobbledygoo.   
+And your neat mustache
+And your Aryan eye, bright blue.
+Panzer-man, panzer-man, O You——
+
+Not God but a swastika
+So black no sky could squeak through.   
+Every woman adores a Fascist,   
+The boot in the face, the brute   
+Brute heart of a brute like you.
+
+You stand at the blackboard, daddy,   
+In the picture I have of you,
+A cleft in your chin instead of your foot   
+But no less a devil for that, no not   
+Any less the black man who
+
+Bit my pretty red heart in two.
+I was ten when they buried you.   
+At twenty I tried to die
+And get back, back, back to you.
+I thought even the bones would do.
+
+But they pulled me out of the sack,   
+And they stuck me together with glue.   
+And then I knew what to do.
+I made a model of you,
+A man in black with a Meinkampf look
+
+And a love of the rack and the screw.   
+And I said I do, I do.
+So daddy, I’m finally through.
+The black telephone’s off at the root,   
+The voices just can’t worm through.
+
+If I’ve killed one man, I’ve killed two——
+The vampire who said he was you   
+And drank my blood for a year,
+Seven years, if you want to know.
+Daddy, you can lie back now.
+
+There’s a stake in your fat black heart   
+And the villagers never liked you.
+They are dancing and stamping on you.   
+They always *knew* it was you.
+Daddy, daddy, you bastard, I’m through.
 ```
 
 <a name="#gpt-2-samples"></a>
