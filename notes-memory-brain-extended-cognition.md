@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 10,600*
+*[Word count](https://wordcounter.net/): 10,700*
 
 ## What is this?
 
@@ -383,6 +383,13 @@ external symbols, or by taking advantage of regular and persistent parts of our 
 <a name="#external-brain"></a>
 ## External brain 
 ([overview](#overview))
+
+Alfred North Whitehead, *Symbolism: Its Meaning And Effect*:
+
+```markdown
+“Civilization advances by extending the number of
+important operations which we can perform without thinking about them.”
+```
 
 Aids to memory have been opposed for millennia. Here's Socrates, in Plato's Phaedrus, circa 370 BCE, bemoaning the deleterious effects of the new technology of "writing":
 
