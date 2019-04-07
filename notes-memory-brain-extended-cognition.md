@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 9,800*
+*[Word count](https://wordcounter.net/): 10,600*
 
 ## What is this?
 
@@ -55,11 +55,111 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Externalizing the brain](#external-brain), e.g. Google, writing, Cosma on collective cognition
 3. [Cognitive science](#cognitive-science)
 3. [Names matter](#names-matter)
+3. [Polymathy, or being a generalist](#polymathy)
 4. [Steve Yegge on memory](#Yegge-on-memory)
 5. [Wisdom](#wisdom)
 6. [The predictive uselessness of folk wisdom](#The-predictive-uselessness-of-folk-wisdom) (Stanovich)
 
 ----------------------------------
+
+<a name="#polymathy"></a>
+## Polymathy
+([overview](#overview))
+
+Here's Eric Drexler on [how to understand everything](http://metamodern.com/2009/05/17/how-to-understand-everything-and-why/) and [how to learn about everything](http://metamodern.com/2009/05/27/how-to-learn-about-everything/).
+
+I feel a sort of kinship with what people like Drexler are trying to do here, albeit for different reasons. To oversimplify by mapping my motivations in doing the same to the ‘carrot-and-stick’ model: my carrot is this intrinsic need to ‘see the Systems of the World’ (paraphrasing Neal Stephenson, evoking the unnamed protagonist in Ted Chiang’s Understand, etc); my stick is the pain of being blindsided by unknown unknowns (so I have to at least know the outlines of everything, if not their contents, and how they all fit together). A deeper understanding than the “teacher’s password” awareness of trivia competition champions and my high school self, but not much deeper, not so deep as to sacrifice breadth.
+
+But I digress. Eric contends that we need "knowledge of extent and structure of human knowledge on a trans-disciplinary scale":
+
+```markdown
+Formal education in science and engineering centers on teaching facts and problem-solving skills in a 
+series of narrow topics. It is true that a few topics, although narrow in content, have such broad 
+application that they are themselves integrative: These include (at a bare minimum) substantial chunks 
+of mathematics and the basics of classical mechanics and electromagnetism, with the basics of 
+thermodynamics and quantum mechanics close behind.
+
+Most subjects in science and engineering, however, are narrower than these, and advanced education 
+means deeper and narrower education. What this kind of education omits is knowledge of extent and 
+structure of human knowledge on a trans-disciplinary scale. This means understanding — in a particular,
+limited sense — everything.
+```
+
+How to figure out the outlines of a field, and knowledge about knowledge:
+
+```markdown
+To avoid blunders and absurdities, to recognize cross-disciplinary opportunities, and to make sense of
+new ideas, requires knowledge of at least the outlines of every field that might be relevant to the 
+topics of interest. By knowing the outlines of a field, I mean knowing the answers, to some reasonable
+approximation, to questions like these:
+
+What are the physical phenomena?
+What causes them?
+What are their magnitudes?
+When might they be important?
+How well are they understood?
+How well can they be modeled?
+What do they make possible?
+What do they forbid?
+
+And even more fundamental than these are questions of knowledge about knowledge:
+
+What is known today?
+What are the gaps in what I know?
+When would I need to know more to solve a problem?
+How could I find what I need?
+
+This sort of knowledge is a kind of specialty, really — a limited slice of learning, but oriented
+crosswise. Because of this orientation, though, it provides leverage in integrating knowledge from
+diverse sources.
+```
+
+Why care? Problem recognition is very important:
+
+```markdown
+It takes far less knowledge to recognize a problem than to solve it, yet in key respects, that bit 
+of knowledge is more important: With recognition, a problem may be avoided, or solved, or an idea 
+abandoned. Without recognition, a hidden problem may invalidate the labor of an hour, or a lifetime.
+Lack of a little knowledge can be a dangerous thing.
+```
+
+Eric distinguishes between learning everything (which is impossible) and learning *about* everything (which is not):
+
+```markdown
+Note that the title above isn’t “how to learn everything”, but “how to learn about everything”. The 
+distinction I have in mind is between knowing the inside of a topic in deep detail — many facts and 
+problem-solving skills — and knowing the structure and context of a topic: essential facts, what 
+problems can be solved by the skilled, and how the topic fits with others.
+
+This knowledge isn’t superficial in a survey-course sense: It is about both deep structure and practical
+applications. Knowing about, in this sense, is crucial to understanding a new problem and what must be 
+learned in more depth in order to solve it. The cross-disciplinary reach of nanotechnology almost
+demands this as a condition of competence.
+```
+
+Some advice on going about it:
+
+```markdown
+To intellectually ambitious students I recommend investing a lot of time in a mode of study that may 
+feel wrong. An implicit lesson of classroom education is that successful study leads to good test 
+scores, but this pattern of study is radically different. It cultivates understanding of a kind that 
+won’t help pass tests — the classroom kind, that is:
+
+Read and skim journals and textbooks that (at the moment) you only half understand. Include Science 
+and Nature.
+
+Don’t halt, dig a hole, and study a particular subject as if you had to pass a test on it.
+
+Don’t avoid a subject because it seems beyond you — instead, read other half-understandable journals 
+and textbooks to absorb more vocabulary, perspective, and context, then circle back.
+
+Notice that concepts make more sense when you revisit a topic.
+
+Notice which topics link in all directions, and provide keys to many others. Consider taking a class.
+
+Continue until almost everything you encounter in Science and Nature makes sense as a contribution to 
+a field you know something about.
+```
 
 <a name="#The-predictive-uselessness-of-folk-wisdom"></a>
 ## The predictive uselessness of folk wisdom
