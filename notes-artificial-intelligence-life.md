@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is the "artificial intelligence and biology" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md), last updated Apr 6, 2019, which got so big (1.2 million char) that GitHub refused to render the whole page anymore, ruining my original dream of having my entire notebook in one long page for two purposes: (1) zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience; (2) lower activation energy for continuous document-wide refactoring, to aid recall and cross-domain interlinking.
+This is the "artificial intelligence and life" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md), last updated Apr 6, 2019, which got so big (1.2 million char) that GitHub refused to render the whole page anymore, ruining my original dream of having my entire notebook in one long page for two purposes: (1) zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience; (2) lower activation energy for continuous document-wide refactoring, to aid recall and cross-domain interlinking.
 
 That said, this is a "living document", a "perpetual draft" in [the style of Gwern](https://www.gwern.net/About#long-content). I'm particulary taken by the following quote: 
 
@@ -51,8 +51,6 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
 1. [Animals are not like us](#animals-are-not-like-us)
-2. [Deep learning](#Deep-learning)
-	1. [Limitations of deep learning](#Deep-learning-limitations)
 2. [Digital evolution and artificial life](#Digital-evolution-and-artificial-life)
 	1. [The evolved radio](#The-evolved-radio)
 	2. [The evolved ear](#The-evolved-ear)
@@ -60,10 +58,18 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [Evolution as alien god](#evolution-as-alien-god), where I first learned that there are many evolutions, as many as reproducing populations
 	1. [Gene-centered view](#gene-centered-view)	
 2. [Levels of Organization in General Intelligence](#Levels-of-Organization-in-General-Intelligence)
-3. [Program synthesis](#Program-synthesis)
-2. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
+3. [Models](#models)
+	1. [Deep learning](#Deep-learning)
+		1. [Limitations of deep learning](#Deep-learning-limitations)
+	2. [Program synthesis](#Program-synthesis)
+3. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
+3. [Xenology](#Xenology)
    
 ---------------------------------
+
+<a name="#Xenology"></a>
+## Xenology
+([overview](#overview))
 
 <a name="#Program-synthesis"></a>
 ## Program synthesis
