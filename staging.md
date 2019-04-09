@@ -1,6 +1,236 @@
 1. [Psychological gulfs](#Psychological-gulfs)
 	1. [Ask vs guess vs tell culture](#Ask-vs-guess-vs-tell-culture)
-1. [Epistemic learned helplessness](#Epistemic-learned-helplessness)
+2. [Epistemic learned helplessness](#Epistemic-learned-helplessness)
+(UNDER NAMES MATTER)	
+	1. [Concept handles](#concept-handles)   
+(UNDER ???)
+	1. [The level above Hitler: upper limits on social abilities](#The-level-above-Hitler)
+
+
+(THE LEVEL ABOVE HITLER)
+
+<a name="#The-level-above-Hitler"></a>
+### The level above Hitler
+([overview](#overview))
+
+This was an intriguing and memorable piece of rhetoric by Scott responding to nostalgebraist. 
+
+Nostalgebraist gives "social abilities" as an example of a goal that has a hard upper limit low enough to be discernible in everyday life, as a problem that EY's definition of intelligence (as [efficient cross-domain optimization](https://www.lesswrong.com/posts/yLeEPFnnB9wE7KLx2/efficient-cross-domain-optimization)) doesn't take into account:
+
+```markdown
+At various points Bostrom (like Yudkowsky) implicitly or explicitly uses a 
+definition of intelligence that is something like “ability to achieve one’s goals.”
+This is nicely clean, but problematic, because it doesn’t take into account the 
+fact that some goals may have hard upper limits where others don’t.
+
+In particular, this seems to apply to things having to do with social behavior.  
+I can imagine beings that are qualitatively better than humans at math, information
+recall, etc., since there are already orders of magnitude of variation in these
+abilities among humans.  (John von Neumann is a good example of a person who seems
+to have really been “superhuman” in these kinds of areas.)  However, social abilities
+like “ability to manipulate others” do not seem unbounded in these ways.  There are 
+some people who are good at manipulation, and many of us have developed types of
+wariness, etc. to protect ourselves from these people, but it doesn’t seem like this 
+is a “skill” like math ability that spans orders of magnitude.  Roughly speaking, are
+no “super-manipulators” out there who can manipulate ordinarily wary people (but not 
+“super-wary” people?).
+
+For instance, one of the most effective ways to get people to do your bidding is to
+start a cult: there are plenty of chilling stories about the level of devotion that 
+cultists have had to their various leaders.  However, it’s not at all clear that it 
+is possible to be any *better* at cult-creation than the best historical cult leaders
+— to create, for instance, a sort of “super-cult” that would be attractive even to 
+people who are normally very disinclined to join cults.  (Insert your preferred Less
+Wrong joke here.)  I could imagine an AI becoming L. Ron Hubbard, but I’m skeptical 
+that an AI could become a super-Hubbard who would convince us all to become its
+devotees, even if it wanted to.  If social abilities like this are subject to hard 
+upper bounds that have already been nearly achieved, then there’s no potential for AIs
+to achieve their goals better by becoming superhuman at these abilities, which makes 
+it problematic to just postulate an AI that’s “superhuman at achieving its goals.”
+```
+
+Scott's response is the reason I started this subsection:
+
+```markdown
+A couple of disagreements. First of all, I feel like the burden of proof should be 
+heavily upon somebody who thinks that something stops at the most extreme level 
+observed. Socrates might have theorized that it’s impossible for it to get colder than
+about 40 F, since that’s probably as low as it ever gets outside in Athens. But when 
+we found the real absolute zero, it was with careful experimentation and theoretical 
+grounding that gave us a good reason to place it at that point. While I agree it’s 
+*possible* that the best manipulator we know is also the hard upper limit for 
+manipulation ability, I haven’t seen any evidence for that so I default to thinking 
+it’s false.
+
+(lots of fantasy and science fiction does a good job intuition-pumping what a super-
+manipulator might look like; I especially recommend R. Scott Bakker’s *Prince Of Nothing*)
+
+But more important, I disagree that L. Ron Hubbard is our upper limit for how successful
+a cult leader can get. L. Ron Hubbard might be the upper limit for how successful a cult
+leader can get *before we stop calling them a cult leader*.
+
+The level above L. Ron Hubbard is Hitler. It’s difficult to overestimate how sudden and 
+surprising Hitler’s rise was. Here was a working-class guy, not especially rich or smart
+or attractive, rejected from art school, and he went from nothing to dictator of one of
+the greatest countries in the world in about ten years. If you look into the stories, 
+they’re really creepy. When Hitler joined, the party that would later become the Nazis 
+had a grand total of fifty-five members, and was taken about as seriously as modern
+Americans take Stormfront. There are records of conversations from Nazi leaders when 
+Hitler joined the party, saying things like “Oh my God, we need to promote this new guy,
+everybody he talks to starts agreeing with whatever he says, it’s the creepiest thing.”
+There are stories of people who hated Hitler going to a speech or two just to see what 
+all the fuss was about and ending up pledging their lives to the Nazi cause.  Even while
+he was killing millions and trapping the country in a difficult two-front war, he had
+what historians estimate as a 90% approval rating among his own people and rampant
+speculation that he was the Messiah. Yeah, sure, there was lots of preexisting racism 
+and discontent he took advantage of, but there’s been lots of racism and discontent 
+everywhere forever, and there’s only been one Hitler. If he’d been a little bit smarter 
+or more willing to listen to generals who were, he would have had a pretty good shot at
+conquering the world. 100% with social skills.
+
+The level above Hitler is Mohammed. I’m not saying he was evil or manipulative, just that
+he was a genius’ genius at creating movements. Again, he wasn’t born rich or powerful, 
+and he wasn’t particularly scholarly. He was a random merchant. He didn’t even get the 
+luxury of joining a group of fifty-five people. He started by converting his own family 
+to Islam, then his friends, got kicked out of his city, converted another city and then 
+came back at the head of an army. By the time of his death at age 62, he had conquered 
+Arabia and was its unquestioned, God-chosen leader. By what would have been his eightieth
+birthday his followers were in control of the entire Middle East and good chunks of 
+Africa. Fifteen hundred years later, one fifth of the world population still thinks of him
+as the most perfect human being ever to exist and makes a decent stab at trying to conform
+to his desires and opinions in all things.
+
+The level above Mohammed is the one we should be worried about.
+```
+
+Additional candidates: Karl Marx, Osama bin Laden, Donald Trump (I don't know how else to explain his win).
+
+Additional discussion below. Roccondilrinon pushes back against Scott with an argument I actually had half-baked in mind:
+
+```markdown
+I have to disagree. I think there’s a clear limit to how much you can manipulate people,
+because unlike mathematical ability, the ability to manipulate is opposed by other 
+people’s ability to reason and defy it. 
+
+I think once you get above the L. Ron Hubbard level, the only examples you can come up 
+with are based on sheer circumstance, or are true mass movements that aren’t manipulated
+beyond ordinary levels by individuals. That is, a lot of things were the cause of Nazism; 
+if nationalist interests hadn’t coalesced around Hitler and his particular brands of
+bigotry, they’d have found something else. Mohammed didn’t single-handedly create Islam or
+the caliphate, any more than Jesus (or Paul, for that matter) single-handedly created 
+Christianity; although I’ll admit I know much less about that part of history than about 
+the Nazis.
+
+Education makes people resistant to manipulation. It’s not nearly as simple as “levels” of
+manipulative ability. We know a lot more about what makes people tick; we can do
+psychological studies and know with mathematical accuracy about causes and effects on the 
+mind, and advertisers can and do take advantage of this knowledge. Yet we are (on the whole)
+less susceptible to their manipulation than Germany in the 1930s was to Hitler’s propaganda.
+Why is that? Because we know more about everything else — we are more educated, and we have
+ready access to information about things we don’t know — and because knowledge of these 
+techniques makes them somewhat less effective.
+
+Does this mean we shouldn’t worry? On the contrary; we are safer precisely because we do 
+worry, and there are plenty of people who don’t and who are still manipulated by demagogues,
+and the above obviously applies much more in (what we anachronistically term) the first world.
+But if you know anything like as much as someone like Bostrom or Yudkowsky about psychology 
+and human biases and so on, you’re already inoculated against manipulation in general.
+```
+
+I'm with Rocco for the most part, but having read *The Attention Merchants* I'm less convinced of the part where we're "less susceptible to manipulation", as advertising revenues so amply falsify in the macroscale.
+
+Veronica straszh distinguishes between "super talent" and "fertile soil":
+
+```markdown
+We need to explore two questions. The first is, to what degree was this *super talent?*
+The second is, to what degree was this *fertile soil?* Obviously it was probably both, 
+to some degree. But to my view, if we look closely at the rise of Hitler we see a 
+singularly receptive audience. Which does not diminish his talent. But it is to say 
+this, in another time or place, we would not know who he is.
+
+Probably.
+
+On the other hand, I know literally nothing about the shape of Arabian culture at the 
+time. In fact, I’m not sure how many people do anymore. We might think Arabs do, but 
+that was long ago and much has changed, particularly *because* of Islam. A few historians
+might. But I bet they disagree on this stuff. How do we distinguish those who know from 
+those who do not? (Their answers to these questions probably tell us more about their 
+approaches to historiography and less about pre-Islamic Arabia.)
+
+Thus, I think that, like the Hitler example, we should see this as some improbable 
+combination of a super talent and highly fertile soil.
+
+So with all that, we get to another question: where are we more likely to be effective, 
+in blocking the rise of a super manipulator or in reshaping culture to be less open to 
+memetic attack? Which do you think will work?
+```
+
+(UNDER NAMES MATTER)
+
+<a name="#Concept-handles"></a>
+### Concept handles
+([overview](#overview))
+
+One way how names matter is in providing concept handles. 
+
+The term comes from Scott Alexander in [Nonfiction writing advice](https://slatestarcodex.com/2016/02/20/writing-advice/):
+
+```markdown
+**Use strong concept handles**
+
+The idea of concept-handles is itself a concept-handle; it means a catchy phrase
+that sums up a complex topic.
+
+Eliezer Yudkowsky is *really good* at this. “belief in belief“, “semantic stopsigns“,
+“applause lights“, “Pascal’s mugging“, “adaptation-executors vs. fitness-maximizers“,
+“reversed stupidity vs. intelligence“, “joy in the merely real” – all of these are
+interesting ideas, but more important they’re interesting ideas with short catchy 
+names that everybody knows, so we can talk about them easily.
+
+I have very consciously tried to emulate that when talking about ideas like trivial
+inconveniences, meta-contrarianism, toxoplasma, and Moloch.
+
+I would go even further and say that this is one of the most important things a blog
+like this can do. I’m not too likely to discover some entirely new social phenomenon
+that nobody’s ever thought about before. But there are a lot of things people have 
+vague nebulous ideas about that they can’t quite put into words. Changing those into
+crystal-clear ideas they can manipulate and discuss with others is a big deal.
+
+If you figure out something interesting and very briefly cram it into somebody else’s
+head, don’t waste that! Give it a nice concept-handle so that they’ll remember it and
+be able to use it to solve other problems!
+```
+
+Eric Raymond, [rule-swarm attacks](http://esr.ibiblio.org/?p=8153):
+
+```markdown
+It not news to readers of this blog that I like to find common tactics and traps 
+in programming that don’t have names and name them. I don’t only do this because 
+it’s fun. When you have named a thing you give your brain permission to reason 
+about it as a conceptual unit. Bad jargon obfuscates, map hiding territory; good 
+jargon reveals, aiding reflection on and and improvement of your practice.
+```
+
+Pushback against concept handles from David Barry for two reasons -- high barrier to entry for new readers when enough jargon has accumulated, and risk of wrong concepts "sticking" encouraging use of faulty ideas:
+
+```markdown
+I’m not a huge fan of the concept handles though. Of Eliezer’s “short catchy names 
+that everybody knows”, I’m only confident that I could define one of them, and have
+a decent guess at a couple of others. Building up such a jargon can improve 
+communication efficiency within your blog reader community, but it puts up a larger
+barrier to entry than perhaps there ought to be.
+
+I also think that if a concept is wrong, then turning it into a handle encourages
+overuse of a faulty idea. I think your “tolerate the outgroup” post was wonderful 
+and describes a real dynamic that I can feel in my own reactions to events and which
+I can now more easily recognise in others. But your “staying classy” post looks much
+weaker to me, and I expect that better treatments exist somewhere in an academic 
+literature that I’m unfamiliar with. Over time, as you continue to build up an
+edifice of related ideas, you’ll sometimes link to the outgroup post and sometimes 
+link to the classy post, and as a result I think some pieces of your arguments will
+be resting on solid foundations and some will be very shaky. Those shaky bits don’t
+deserve the apparent authority of a blue and underlined word or two.
+```
 
 
 <a name="#Epistemic-learned-helplessness"></a>
