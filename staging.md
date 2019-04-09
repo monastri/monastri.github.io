@@ -1,12 +1,311 @@
 1. [Psychological gulfs](#Psychological-gulfs)
 	1. [Ask vs guess vs tell culture](#Ask-vs-guess-vs-tell-culture)
 2. [Epistemic learned helplessness](#Epistemic-learned-helplessness)
-(UNDER NAMES MATTER)	
+	1. [Fact posts as solution](#Fact-posts-as-solution)
+3. (UNDER NAMES MATTER)	
 	1. [Concept handles](#concept-handles)   
-(UNDER ???)
+4. (UNDER ???)
 	1. [The level above Hitler: upper limits on social abilities](#The-level-above-Hitler)
-(UNDER AI)
+5. (UNDER AI)
 	1. [Intelligence as efficient cross-domain optimization](#efficient-cross-domain optimization)
+6. [Figuring out Buddhism](#Figuring-out-Buddhism)	
+	1. [An analogy for awakening](#Awakening-an-analogy)
+	2. [Buddhism is impenetrable because it hasn't been translated](#Buddhism-is-impenetrable-because-it-hasnt-been-translated)
+7. [Tools shape users](#Tools-shape-users)	
+
+
+<a name="#Tools-shape-users"></a>
+## Tools shape users
+([overview](#overview))
+
+From Venkat Rao's [When tools shape you](https://www.ribbonfarm.com/2016/11/23/when-tools-shape-you/):
+
+```markdown
+The weaponized form of McLuhan’s famous phrase the medium is the message is the 
+phrase, *first we shape our tools, then our tools shape us* (due to to McLuhan’s 
+friend John Culkin).
+
+Doc Ock’s artificially intelligent arms fuse to his brain stem in a reactor 
+accident. In the movie version, the intelligence in the arms alters his behavior
+by making lower-level brain functions, such as emotional self-regulation, more 
+powerful and volatile. The character backstory suggests a personality — a blue-
+collar nerd bullied as a schoolkid — that was already primed for destabilization
+by the usual sort of super-villain narcissistic wound. The accident alters the 
+balance of power between his higher-level brain functions, and the hardware-
+extended lower-level brain functions. 
+
+In the Doc Ock story, *first we shape our tools, then our tools shape us* captures
+the adversarial coupling between medium and message-sender.
+```
+
+Three forms -- weak, stronger, strongest:
+
+```markdown
+The weaker form of McLuhan’s idea suggests that media select messages rather than
+the other way around: paper selects for formal communication, email selects for 
+informal communication, 4chan selects for trolling.
+
+The stronger form suggests that when there is a conflict between medium and message,
+the medium wins. A formal communication intent naturally acquires informal overtones
+if it ends up as an email, memetic overtones if it ends up as a 4chan message.
+
+Culkin’s form is the strongest. It suggests that the medium reshapes the principal 
+crafting the message. The Doc Ock motif suggests why. There is no such thing as a 
+dumb agent. All media have at least weak, latent, distributed intelligence. 
+Intelligence that can accumulate power, exhibit agency, and contend for control.
+```
+
+I wasn't very convinced of Culkin's version, but then Venkat cites Pournelle's iron law of bureaucracy which gave me pause:
+
+```markdown
+The most familiar example of this effect is in organizational behavior, captured in
+an extension to Alfred Chandler’s famous observation that structure follows strategy.
+That becomes *first structure follows strategy, then strategy follows structure*. The 
+explicit form is Pournelle’s Iron Law of Bureaucracy: in a mature organization, *agent
+goals trump principal goals*.
+
+In all such examples, the mechanism is the same. A seemingly powerless and dumb agent, 
+by virtue of having privileged access to information and organizational operations, can
+become the principal by converting growing tacit knowledge of reality into consciously
+exercised political leverage.
+```
+
+Yeah, still not quite convinced that "media can contend for control" -- a bit too anthropomorphic for me. Egregores aren't really like that. Moloch isn't, Ra isn't, and they're *plenty* powerful! But I do think Venkat is pointing towards something real and important here.
+
+<a name="#Figuring-out-Buddhism"></a>
+## Figuring out Buddhism
+([overview](#overview))
+
+<a name="#Buddhism-is-impenetrable-because-it-hasnt-been-translated"></a>
+### Buddhism is impenetrable because it hasn't been translated
+([overview](#overview))
+
+From Romeo Stevens via Kaj Sotala in [this FB post](https://www.facebook.com/romeostevens/posts/10215386227941544):
+
+```markdown
+The issue, as it seems to me, is that almost every text you read on Buddhism does
+not attempt to do the actual work of translation. The first transmission of 
+Buddhism to the west reified a bunch of translations of terms, such as
+concentration, equanimity, tranquility, mindfulness, suffering, etc. and works 
+since then have mostly stuck to rearranging these words in different combinations
+and referencing the same metaphors that have been in use since the time of the 
+Buddha. If these authors had true discernment they would realize that the
+umpteenth text on 'establishing the noble bases of tranquility secluded from 
+sensuous ignorance' or what-have-you aren't helping anyone who didn't already get 
+the message.
+
+At this point I want to say that I think this approach is 'working' for the 
+fraction of the population it is going to work for. If we want to make the
+practical fruits of Buddhist practice dramatically more accessible to a broader
+range of humanity we need people to do the hard work of translation to put the
+Buddha's teachings in forms that will be accessible to various groups of people.
+
+The hard work of translation is to attempt to use language to point your mind at 
+the same distinctions that the original author was trying to point to. Attempts to
+do this will inevitably fail in lots of ways, but can hopefully communicate enough 
+of the core message that people can piece together the essential causal relations
+after which, having had direct experience as a result of skillful practice, they can
+help to improve the translations further.
+
+So, putting my money where my mouth is, I want to try to produce a translation of 
+what I see as the core causal loop that causes progress on the Buddha's path. I'm 
+attempting this because I believe the core causal loop is actually quite small. The
+Buddha had a tougher task because he had to explain causation, locus of control, and
+other critical concepts to farmers from scratch.
+
+To begin with, you may think that the purpose of meditation is to eliminate thoughts.
+But read the Pali Canon and you find a text rife with concepts, schemas, diagnostic
+methods for various classifications of mental activity, meditation taxonomies, 
+sensory taxonomies, feedback loops etc. Pretending you're already enlightened and 
+that there isn't hard work to do is something the new agers have borrowed from some
+shitty spiritual schools of various flavors. I refer to people preaching such 
+messages as mindlessness teachers.
+
+To be clear, a decrease in discursive thought, and especially unpleasant mental 
+contents that don't seem to serve any purpose, are one of many pleasant effects of
+proper practice, but don't really need to be focused on. It is a benefit that arrives
+in stages on its own.
+```
+
+Romeo claims that Buddhism's core loop is CBT supercharged with a mental state "more intense than most pharmaceuticals":
+
+```markdown
+So, what is the core loop?
+
+It's basically cognitive behavioral therapy, supercharged with a mental state
+more intense than most pharmaceuticals.
+
+There are two categories of practice, one for cultivating the useful mental state,
+the other uses that mental state to investigate the causal linkages between 
+various parts of your perception (physical sensations, emotional tones, and mental
+reactions) which leads to clearing out of old linkages that weren't constructed 
+well.
+
+You have physical sensations in the course of life. Your nervous system reacts to
+these sensations with high or low valence (positive, negative, neutral) and arousal
+(sympathetic and parasympathetic nervous system activation), your mind reacts to
+these now-emotion-laden sensations with activity (mental image, mental talk) out of
+which you then build stories to make sense of your situation.
+
+The key insight that drives everything is the knowledge (and later, direct 
+experience) that this system isn't wired up efficiently. Importantly: I don't mean
+this in a normative way. Like you should wire it the way I say just because, but in
+the 'this type of circuit only needs 20 nand gates, why are there 60 and why is it
+shunting excess voltage into the anger circuits over there that have nothing to do
+with this computation?' way. Regardless of possible arguments over an ultimately 
+'correct' way to wire everything, there are very low hanging fruit in terms of 
+improvements that will help you effectively pursue *any* other goal you set your
+mind to.
+
+Funny aside, emotional 'resistance' might be well named, it might be literal 
+electrical resistance in the CNSs wiring as a result of this spaghetti logic.
+
+So back to these stories and story building blocks that are the outputs of this 
+system. You generated a bunch of the primitive building blocks when you were very 
+young and throwing everything together on an as needed basis with no instructions.
+You both have a back log of such stories and story building-blocks and are
+generating new ones all the time. Practice improves each of these situations. It 
+improves the backlog by going through and reprocessing stories that aren't actually
+reality aligned when examined. Again, not pointing to edge cases here but things in
+the 'your partner humming the spongebob theme shouldn't make you furious because of
+something that happened when you were 12' class. You can clean up all the obvious 
+stuff and then let your future self (who now has more resources) think about how to
+wisely deal with the fuzzy edge cases. It improves the new stories coming in 
+(partially by learning as it processes the back log) by building far fewer incoherent
+stories out of pieces that don't fit together, and building less of the shittier
+building blocks in the first place.
+```
+
+Now for some names, because [names matter](https://github.com/monastri/monastri.github.io/blob/master/notes-memory-brain-extended-cognition.md#names-matter):
+
+```markdown
+I'll go ahead and name these things now to connect them up for people who have some
+knowledge of existing translations.
+
+Concentration meditation gives rise to a mental state where the mind is very calm and
+inclined to neutrality. Of the same sort you'd want in a good judge.
+
+Insight meditation makes one aware of the causal links in the perceptual system between
+physical sensations, feelings, and mental reactions.
+
+Sankharas are the stories and story pieces that get reexamined and refactored as a result.
+```
+
+The core loop of meditation practice:
+
+```markdown
+Concentration puts you in the ideal state for insight.
+
+Insight stirs up Sankaras.
+
+Examining Sankharas riles up the mind, eventually leading to a desire to do some more 
+concentration in order to calm down and keep making progress.
+
+Clearing Sankharas cause concentration to go much better. And onward.
+```
+
+Why concentration puts you in the ideal state for insight:
+
+```markdown
+Insight requires a high degree of temporal and spatial resolution in order to see the 
+finer linkages between mental activities that normally flow past you without you
+noticing. Concentration meditation improves that resolution.
+
+Second, to examine the Sankharas is to, to some extent, reactivate the sensations, 
+feelings, and mental reactions associated with them. Since the ones we are most 
+concerned with are the ones that are causing the biggest negative reactions in our 
+lives, we need the mind to be calm and tranquil in order to do this work. 
+Concentration greatly improves this tranquility as well.
+```
+
+How insight stirs up Sankaras -- mindfulness as a way to "clear out the backlog of stories":
+
+```markdown
+This would require more speculation about somatic theories that don't yet have a 
+good evidence base. Subjectively, it feels like building up insights into 
+particular kinds of linkages between physical sensations, feelings, and mental
+reactions causes areas of your backlog that are particularly heavy in those 
+linkages to get some activation and thus be available to consciousness.
+
+You've experienced this if you've ever had a conceptual insight and then spent the
+next week noticing ways it was applicable, seemingly spontaneously. The only 
+difference here is that insight can also be non-conceptual (ie, insight into how 
+two particular physical sensations interact might generate no verbal content/mental
+talk but some sense of something happening.)
+
+So, the Buddha taught a method of concentration, a system for developing insight
+that we know as mindfulness, and to use these to both stop building new stories and 
+to clear out our backlog of stories. That's actually it. The rest is details for
+how this plays out in practice. Failure modes can get a bit weird, and even if you
+do it right some mind blowing states and experiences can pop up. So there's lots of
+whataboutism for all that.
+
+The miswired central nervous system story gives us simple answers to things like 
+trauma (extreme levels of miswiring of things into fear and freeze responses), why
+stuff like yoga and exercise help (general CNS health, probably capacitance/fuse
+breaker improvements), why psychotherapy sometimes but not always activates 
+childhood memories and the significance of that, and why practitioners claim they 
+have a much better life but can't always explain why (they perform the same actions
+but with much less internal resistance).
+```
+
+So why all the extraneous stuff?
+
+```markdown
+Well, besides my post on why practitioners make so many metaphysical claims, it's 
+also just that there's a lot of idiosyncrasy in first unwiring a randomly wired CNS
+and then rewiring it in arbitrary order. Especially when you don't really know that
+that's what you're doing as you're doing it and your mindlessness teacher is a bit 
+clueless as well (though may still have good pragmatic advice despite bad epistemics.)
+
+In addition, note I said that each of the practices is actually a practice category.
+Though the Buddha taught one specific concentration technique and a simple series of
+insight techniques, but there are probably a dozen alternatives in each category that
+seem to work for some people and which entire traditions have subsequently built 
+themselves around and gotten into fights with rival schools about.
+```
+
+The last part sounds like this quote by Bruce Lee:
+
+```markdown
+It is conceivable that a long time ago a certain martial artist discovered some partial
+truth.
+
+During his lifetime, the man resisted the temptation to organize this partial truth, 
+although this is a common tendency in a man’s search for security and certainty in life.
+
+After his death, his students took “his” hypothesis, “his” postulates and “his” method
+and turned them into law. Impressive creeds were then invented, solemn reinforcing 
+ceremonies prescribed, rigid philosophy and patterns formulated, and so on, until finally
+an institution was erected. So what originated as one man’s intuition of some sort of
+personal fluidity was transformed into solidified, fixed knowledge, complete with 
+organized classified responses presented in a logical order.
+
+In so doing, the well-meaning, loyal followers not only made this knowledge a holy shrine 
+but also a tomb in which they buried the founder’s wisdom.
+```
+
+<a name="#Awakening-an-analogy"></a>
+### Awakening: an analogy
+([overview](#overview))
+
+From Romeo Stevens via Kaj Sotala in [this FB post](https://www.facebook.com/romeostevens/posts/10215356324193969):
+
+```markdown
+If you want to know why it is called awakening, remember a time that you woke up
+in a dream. There was a shift in the quality of perception right before and right 
+after the realization. Imagine that happening in waking life. 
+
+A taste of this can be given in the quality of the following experience: become aware
+that you are observing glowing glyphs on a screen. Now notice the body posture of the
+whole organism reading the screen. The various muscular tensions, the feeling of the 
+tongue and eyelids blinking, the rise and fall of respiration. There is a small shift 
+in perception.
+
+Take the directionality of the difference between now and a few moments ago when you
+were unconscious of these things, and extend that vector out past your current horizon
+of experience. That is why.
+```
 
 
 (THE LEVEL ABOVE HITLER)
@@ -465,7 +764,11 @@ area where I'm weak) it's hard not to take them seriously, even when they're sup
 wrong.
 ```
 
-While rereading this essay I was thinking of how Sarah Constantin's [fact posts](https://www.lesswrong.com/posts/Sdx6A6yLByRRs8iLY/fact-posts-how-and-why) fit in. Well, whaddyaknow? The *first comment under Scott's essay* is Sarah Constantin's pushback, where she also talks about factposting for the first time(!!). She says she used to practice ELH, but then realized it wasn't all that hard to make your own judgments about ideas:
+<a name="#Fact-posts-as-solution-to-epistemic-learned-helplessness"></a>
+### Fact posts as solution to epistemic learned helplessness
+([overview](#overview))
+
+While rereading Scott's [epistemic learned helplessness essay](https://web.archive.org/web/20170622074346/https://squid314.livejournal.com/350090.html) I was thinking of how Sarah Constantin's [fact posts](https://www.lesswrong.com/posts/Sdx6A6yLByRRs8iLY/fact-posts-how-and-why) fit in. Well, whaddyaknow? The *first comment under Scott's essay* is Sarah Constantin's pushback, where she also talks about factposting for the first time(!!). She says she used to practice ELH, but then realized it wasn't all that hard to make your own judgments about ideas:
 
 ```markdown
 I love this essay.
@@ -526,6 +829,132 @@ Maybe not everyone can do this (my education certainly helped a lot), but it is 
 and I think most people who are comparably educated and bright (e.g. you) can get better at
 evaluating weird claims themselves and do better than they would with epistemic learned 
 helplessness.
+```
+
+Seven years later, Sarah finally wrote up a continuation (which I've linked to above). 
+
+How?
+
+```markdown
+The most useful thinking skill I've taught myself, which I think should be more widely 
+practiced, is writing what I call "fact posts."
+
+To write a fact post, you start with an empirical question, or a general topic.  
+Something like "How common are hate crimes?" or "Are epidurals really dangerous?" or 
+"What causes manufacturing job loss?"  
+
+It's okay if this is a topic you know very little about. This is an exercise in original
+seeing and showing your reasoning, not finding the official last word on a topic or doing
+the best analysis in the world.
+
+Then you open up a Google doc and start taking notes.
+
+You look for *quantitative data from conventionally reliable sources*.  CDC data for
+incidences of diseases and other health risks in the US; WHO data for global health 
+issues; Bureau of Labor Statistics data for US employment; and so on. Published scientific
+journal articles, especially from reputable journals and large randomized studies.
+
+You explicitly do *not* look for opinion, even expert opinion. You avoid news, and you're 
+wary of think-tank white papers. You're looking for raw information. You are taking a sola
+scriptura approach, for better and for worse.
+
+And then you start letting the data show you things. 
+
+You see things that are surprising or odd, and you note that. 
+
+You see facts that seem to be inconsistent with each other, and you look into the data
+sources and methodology until you clear up the mystery.
+
+You orient towards the random, the unfamiliar, the things that are totally unfamiliar to
+your experience. One of the major exports of Germany is *valves*?  When was the last time
+I even thought about valves? *Why* valves, what do you use valves in?  OK, show me a list
+of all the different kinds of machine parts, by percent of total exports.  
+
+And so, you dig in a little bit, to this part of the world that you hadn't looked at before.
+You cultivate the ability to spin up a lightweight sort of fannish obsessive curiosity when
+something seems like it might be a big deal.
+
+And you take casual notes and impressions (though keeping track of all the numbers and
+their sources in your notes).
+
+You do a little bit of arithmetic to compare things to familiar reference points. How 
+does this source of risk compare to the risk of smoking or going horseback riding? How 
+does the effect size of this drug compare to the effect size of psychotherapy?
+
+You don't really want to do statistics. You might take percents, means, standard
+deviations, maybe a Cohen's d here and there, but nothing fancy.  You're just trying to 
+figure out what's going on.
+
+It's often a good idea to rank things by raw scale. What is responsible for the bulk of 
+deaths, the bulk of money moved, etc? What is *big*?  Then pay attention more to things,
+and ask more questions about things, that are *big*. (Or disproportionately high-impact.)
+
+Once you've accumulated a bunch of facts, and they've "spoken to you" with some conclusions
+or answers to your question, you write them up on a blog, so that other people can check
+your reasoning.  If your mind gets changed, or you learn more, you write a follow-up post.
+You should, on any topic where you continue to learn over time, feel embarrassed by the 
+naivety of your early posts.  This is fine. This is how learning works.
+```
+
+Why?
+
+```markdown
+This is an exercise in original seeing and showing your reasoning, not finding the official 
+last word on a topic or doing the best analysis in the world.
+
+You may find that this process gives you contrarian beliefs, but often you won't, you'll 
+just have a strongly fact-based assessment of why you believe the usual thing.  
+
+There's a quality of ordinariness about fact-based beliefs. It's not that they're never 
+surprising -- they often are. But if you do fact-checking frequently enough, you begin to
+have a sense of the world overall that stays in place, even as you discover new facts, 
+instead of swinging wildly around at every new stimulus.  For example, after doing lots and
+lots of reading of the biomedical literature, I have sort of a "sense of the world" of
+biomedical science -- what sorts of things I expect to see, and what sorts of things I 
+don't. My "sense of the world" isn't that the world itself is boring -- I actually believe 
+in a world rich in discoveries and low-hanging fruit -- but the sense itself has stabilized,
+feels like "yeah, that's how things are" rather than "omg what is even going on."
+
+In areas where I'm less familiar, I feel more like "omg what is even going on", which 
+sometimes motivates me to go accumulate facts.
+
+The advantage of fact posts is that they give you the ability to form independent opinions 
+based on evidence. It's a sort of practice of the skill of seeing. They likely aren't the
+optimal way to get the most accurate beliefs -- listening to the best experts would almost
+certainly be better -- but you, personally, may not know who the best experts are, or may
+be overwhelmed by the swirl of controversy. Fact posts give you a relatively low-effort way
+of coming to informed opinions. They make you into the proverbial 'educated layman.'
+
+Being an 'educated layman' makes you much more fertile in generating ideas, for research, 
+business, fiction, or anything else. Having facts floating around in your head means you'll 
+naturally think of problems to solve, questions to ask, opportunities to fix things in the 
+world, applications for your technical skills.
+```
+
+Scott Alexander, who's probably forgotten by now the link I dug up above, adds:
+
+```markdown
+Don't underestimate Wikipedia as a really good place to get a (usually) unbiased overview of
+things and links to more in-depth sources.
+
+The warning against biased sources is well-taken, but if you're looking into something
+controversial, you might have to just read the biased sources on both sides, then try to 
+reconcile them. I've found it helpful to find a seemingly compelling argument, google something 
+like "why X is wrong" or "X debunked" into Google, and see what the other side has to say about 
+it. Then repeat until you feel like both sides are talking past each other or disagreeing on 
+minutiae. This is important to do even with published papers!
+
+Success often feels like realizing that a topic you thought would have one clear answer actually
+has a million different answers depending on how you ask the question. You start with something
+like "did the economy do better or worse this year?", you find that it's actually a thousand 
+different questions like "did unemployment get better or worse this year?" vs. "did the stock
+market get better or worse this year?" and end up with things even more complicated like "did
+employment as measured in percentage of job-seekers finding a job within six months get better"
+vs. "did employment as measured in total percent of workforce working get better?". Then finally
+once you've disentangled all that and realized that the people saying "employment is getting 
+better" or "employment is getting worse" are using statistics about subtly different things and 
+talking past each other, you use all of the specific things you've discovered to reconstruct a 
+picture of whether, in the ways important to you, the economy really is getting better or worse.
 ```
 
 ------------------
