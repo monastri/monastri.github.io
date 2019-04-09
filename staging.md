@@ -1,6 +1,171 @@
-2. [Psychological gulfs](#Psychological-gulfs)
+1. [Psychological gulfs](#Psychological-gulfs)
 	1. [Ask vs guess vs tell culture](#Ask-vs-guess-vs-tell-culture)
+1. [Epistemic learned helplessness](#Epistemic-learned-helplessness)
+
+
+<a name="#Epistemic-learned-helplessness"></a>
+## Epistemic learned helplessness
+([overview](#overview))
 	
+There's really only one entry in this subsection until I stumble across more -- Scott Alexander's [eponymous essay on LiveJournal](https://web.archive.org/web/20170622074346/https://squid314.livejournal.com/350090.html), back in the days before he exploded. But one is more than enough: epistemic learned helplessness is one of the largest drivers behind this entire notebook (of which this is just a section).
+
+Scott:
+
+```markdown
+I don't think I'm overselling myself too much to expect that I could argue circles
+around the average high school dropout. Like I mean that on almost any topic, given
+almost any position, I could totally demolish her and make her look like an idiot.
+Reduce her to some form of "Look, everything you say fits together and I can't 
+explain why you're wrong, I just know you are!" Or, more plausibly, "Shut up I don't
+want to talk about this!"
+
+And there are people who can argue circles around me. Not on any topic, maybe, but
+on topics where they are experts and have spent their whole lives honing their 
+arguments. When I was young I used to read pseudohistory books; Immanuel Velikovsky's
+Ages in Chaos is a good example of the best this genre has to offer. I read it and 
+it seemed so obviously correct, so *perfect*, that I could barely bring myself to
+bother to search out rebuttals.
+
+And then I read the rebuttals, and they were so obviously correct, so *devastating*,
+that I couldn't believe I had ever been so dumb as to believe Velikovsky.
+
+And then I read the rebuttals to the rebuttals, and they were so obviously correct
+that I felt silly for ever doubting.
+
+And so on for several more iterations, until the labyrinth of doubt seemed 
+inescapable. What finally broke me out wasn't so much the lucidity of the consensus
+view so much as starting to sample different crackpots. Some were almost as bright
+and rhetorically gifted as Velikovsky, all presented insurmountable evidence for 
+their theories, and all had mutually exclusive ideas. After all, Noah's Flood 
+couldn't have been a cultural memory *both* of the fall of Atlantis *and* of a change 
+in the Earth's orbit, let alone of a lost Ice Age civilization or of megatsunamis
+from a meteor strike. So given that at least some of those arguments are wrong and
+all seemed practically proven, I am obviously just gullible in the field of ancient
+history. Given a total lack of independent intellectual steering power and no desire
+to spend thirty years building an independent knowledge base of Near Eastern history,
+I choose to just accept the ideas of the prestigious people with professorships in 
+Archaeology rather than the universally reviled crackpots who write books about Venus
+being a comet.
+
+I guess you could consider this a form of *epistemic learned helplessness*, where I 
+know any attempt to evaluate the arguments are just going to be a bad idea so I don't 
+even try. If you have a good argument that the Early Bronze Age worked completely
+differently from the way mainstream historians believe, *I just don't want to hear 
+about it*. If you insist on telling me anyway, I will nod, say that your argument makes 
+complete sense, and then totally refuse to change my mind or admit even the slightest
+possibility that you might be right.
+
+(This is the correct Bayesian action, by the way. If I know that a false argument
+sounds just as convincing as a true argument, argument convincingness provides no
+evidence either way, and I should ignore it and stick with my prior.)
+```
+
+ELH is a useful social safety valve most of the time:
+
+```markdown
+I consider myself lucky in that my epistemic learned helplessness is circumscribed;
+there are still cases where I will trust the evidence of my own reason. In fact, I 
+trust it in most cases other than very carefully constructed arguments known for 
+their deceptiveness in fields I know little about. But I think the average high 
+school dropout both doesn't and *shouldn't*. Anyone anywhere - politicians, scammy 
+businessmen, smooth-talking romantic partners - would be able to argue her into
+anything. And so she takes the obvious and correct defensive manuever - she will
+never let anyone convince her of any belief that sounds "weird". ...
+
+People used to talk about how terrorists must be very poor and uneducated to fall 
+for militant Islam, and then someone did a study and found that they were 
+disproportionately well-off, college educated people (many were engineers). I've 
+heard a few good arguments in this direction before, things like how engineering 
+trains you to have a very black-and-white right-or-wrong view of the world based 
+on a few simple formulae, and this meshes with fundamentalism better than it meshes
+with subtle liberal religious messages. 
+
+But to these I would add that a sufficiently smart engineer has never been burned
+by arguments above his skill level before, has never had any reason to develop 
+epistemic learned helplessness. If Osama comes up to him with a really good argument
+for terrorism, he thinks "Oh, there's a good argument for terrorism. I guess I 
+should become a terrorist," as opposed to "Arguments? You can prove *anything* with
+arguments. I'll just stay right here and not do something that will get me 
+ostracized and probably killed."
+
+Responsible doctors are at the other end of the spectrum from terrorists in this
+regard. I once heard someone rail against how doctors totally ignored all the latest
+and most exciting medical studies. The same person, practically in the same breath, 
+then railed against how 50% to 90% of medical studies are wrong. *These two 
+observations are not unrelated*. Not only are there so many terrible studies, but
+pseudomedicine (not the stupid homeopathy type, but the type that links everything
+to some obscure chemical on an out-of-the-way metabolic pathway) has, for me, proven
+much like pseudohistory in that unless I am an expert *in that particular field of 
+medicine* (biochemistry has a disproportionate share of these people and is also an
+area where I'm weak) it's hard not to take them seriously, even when they're super-
+wrong.
+```
+
+While rereading this essay I was thinking of how Sarah Constantin's [fact posts](https://www.lesswrong.com/posts/Sdx6A6yLByRRs8iLY/fact-posts-how-and-why) fit in. Well, whaddyaknow? The *first comment under Scott's essay* is Sarah Constantin's pushback, where she also talks about factposting for the first time(!!). She says she used to practice ELH, but then realized it wasn't all that hard to make your own judgments about ideas:
+
+```markdown
+I love this essay.
+
+I love it because it's an articulation of a serious argument that I respect but still
+end up ultimately opposed to.
+
+I've spent a lot of time considering "What should a person do about weird claims?" The
+stuff that *sounds* like the ideas of a crackpot, but potentially a crackpot so clever
+that you can't see a hole in his reasoning -- and, also, potentially not a crackpot at
+all but an insightful, correct thinker. I used to have roughly the same conclusion as 
+you. And roughly the same problem with a tendency to believe the last thing I read, and
+along with it, a fear of reading things that might delude me.
+
+But the thing is, I've come to the conclusion that it's not actually that hard to make
+your own judgments about ideas. I was confused about strong AI for a while. What did I
+do? I read a bunch of papers and textbooks. I talked to my friends who were AI
+researchers. I still don't *really* know what's going on because I never really learned 
+mathematical logic, but it's a hell of a lot better than a black box. I know *some* 
+mathematics, and I can tell the difference between a proof and a hand-wavy argument,
+and I've had independent confirmation of the falseness of the ideas I was skeptical
+about...I'm pretty sure, sure enough to go on with my life, that my picture of "what's 
+up with AI" is more or less accurate.
+
+I'm learning how to do this with biomedical research papers. I am not a biologist so I 
+have to black-box a lot, but not *everything*. I can tell that claims with five
+conjunctive hypotheses are less likely than claims with one. I can tell when a study was
+done with 15 subjects or 15,000. I can certainly evaluate statistical methodology. I can
+come to estimates of my true beliefs -- not high confidence, but not all that biased, 
+and way better than learned helplessness.
+
+I don't go to the trouble of doing this with everything. I haven't checked out climate
+change skeptics, because I don't know fluid dynamics and I'm a little scared of the work
+involved in learning. But mostly, my heuristic is, "When confronted with a weird claim
+that would be really interesting if true and isn't immediately obvious as bullshit, it's
+worth checking Wikipedia and reading one scholarly paper. If I'm still uncertain and
+still interested, it's worth reading several more scholarly papers and asking experts I
+know."
+
+A lot of bunk is not that hard to debunk. I looked through an 1880 book of materia medica
+(herbal medicine) once; most treatments were not just useless but poisonous, and it took
+30 seconds of googling to find that out. (Oil of tansy will *fuck you up*, ladies and
+gentlemen.) 
+
+A good all-purpose scientist can more or less trust his/her bullshit-o-meter. You should 
+know where you're least able to evaluate claims explicitly (for me, that's physics, 
+chemistry, and anything to do with war or foreign policy) and use implicit meta-techniques
+(were their results reproducible? do they make a lot of conjunctive claims? that sort of
+thing). But often, I can just *go in and check the math.* Tim Ferriss makes arithmetic 
+errors in his books. You don't have to be a fitness expert to catch them.
+
+I'm no longer afraid of being deluded by charlatans. I wouldn't go to a Scientology 
+meeting, because they engage in physical brainwashing, but I can read racists without
+becoming a racist, read homeopaths without becoming a homeopath, and so on. I've banged my
+brain against a *lot* of things, and come out more or less clean. 
+
+Maybe not everyone can do this (my education certainly helped a lot), but it is *possible*,
+and I think most people who are comparably educated and bright (e.g. you) can get better at
+evaluating weird claims themselves and do better than they would with epistemic learned 
+helplessness.
+```
+
+------------------
+
 <a name="#Psychological-gulfs"></a>
 ## Psychological gulfs
 ([overview](#overview))
