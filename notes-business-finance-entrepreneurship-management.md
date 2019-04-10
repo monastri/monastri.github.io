@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 14,500*
+*[Word count](https://wordcounter.net/): 16,500*
 
 ## What is this?
 
@@ -65,6 +65,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	2. [High organizational standards](#high-standards)
 	2. [Resisting organizational stasis, or, it is always Day 1](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends *(KIV for content list refactoring)*
 2. [Startups](#Startups)	
+	1. [Data content loops](#Data-content-loops), or creating Schelling points of public common knowledge to offset info asymmetry and give bargaining power back to the people
 2. [Venture capital](#venture-capital)
 	1. [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
 3. [Work](#work)
@@ -73,6 +74,179 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	3. [The market doesn't give a shit how hard you worked](#The-market-doesnt-give-a-shit-how-hard-you-worked)
 	  
 -----------------------------
+
+<a name="#Startups"></a>
+## Startups
+([overview](#overview)) 
+
+<a name="#Data-content-loops"></a>
+### Data content loops
+([overview](#overview)) 
+
+First came across this in Kevin Kwok's essay [Making uncommon knowledge common](https://kwokchain.com/2019/04/09/making-uncommon-knowledge-common/), where he tries to figure out Rich Barton's playbook for repeated success in founding unicorns in consumer tech (three to be exact, unheard of among founders). 
+
+Kevin first hypes up Rich:
+
+```markdown
+When Michael Jordan returned to basketball from retirement—the first time, in 
+his prime, not the second time of which we do not speak—the whole world watched
+in awe. Meanwhile, the tech world just saw the return of arguably the GOAT of 
+consumer tech, the founder of three household names in Expedia, Glassdoor, and 
+Zillow. And hardly anyone, even inside Silicon Valley itself, paid it any mind.
+
+Rich Barton is hardly a household name. Perhaps this is because he’s not based 
+here, and makes relatively few investments. However, while there are more visible
+founders (like Bezos and Zuckerberg) who’ve built bigger businesses, market cap 
+and notoriety aren’t the only measures of a founder. And Barton is a strong 
+contender for the title of best consumer tech founder because of his repeated
+success. He’s founded three consumer companies each worth over a billion dollars
+with Expedia ($18.6B), Zillow ($8.8B), and Glassdoor (Said to have been acquired
+for $1.6B).
+
+Repeatable success is key, especially in Consumer tech which is one of the hardest
+areas to succeed in. Companies that sell to large Enterprise customers are 
+relatively well understood now, and even our understanding of SaaS metrics and 
+business model decisions has matured a lot over the last decade. The Consumer tech
+sector, however, remains dark magic. The playbooks are far less developed—and no 
+one’s playbook has demonstrated the repeatability of Rich Barton’s.
+```
+
+Then the claim:
+
+```markdown
+Rich Barton’s companies all became household names by following a common playbook.
+
+The Rich Barton Playbook is building Data Content Loops to disintermediate
+incumbents and dominate Search. And then using this traction to own demand in their 
+industries.
+
+Or as he puts it “Power to the People”.
+```
+
+Do you get it? Me neither. 
+
+Let's soldier on anyway. *Why* data loops? 
+
+```markdown
+Owning demand gives companies a compounding advantage, but needs to be bootstrapped.
+When a company is just starting out, it not only doesn’t own demand, it has all the 
+disadvantages of competing against others that do.
+
+In order to grow their demand high enough to become a beneficial flywheel, Barton’s 
+companies use a Data Content Loop to bootstrap their demand and create unique content
+and index an industry online (homes for Zillow, hotels and flights for Expedia, 
+companies for Glassdoor).
+
+- Expedia: Prices for flights and hotels that before you’d have to get from travel agent
+- Zillow: Zestimate of what your house is likely worth that before you’d have to get from
+broker
+- Glassdoor: Reviews from employees about what a company is like that before you’d have 
+to get from a recruiter or the company itself
+
+These Data Content Loops help the companies reach the scale where other loops like SEO,
+brand, and network effects can kick in.
+
+Barton’s companies then use this content to own search for their market. This gives them
+a durable and strong source of free user acquisition, which enables them to own demand.
+```
+
+Per Thiel: you want to be a monopoly. 
+
+Where does the industry disintermediation thing happen? Via the whole "power to the people" thing/"data content loops":
+
+```markdown
+His companies take power from the incumbents and give it to consumers. Instead of trying
+to hoard information, they are on the side of consumers and giving them more data 
+transparency.
+
+Glassdoor revealed how employees really felt about companies. Zillow shed light on what 
+any house was worth. Expedia let people see the prices and availability of flights and 
+hotels without talking to an agent. 
+
+These were knowable things that people have always talked about with each other. There 
+are few topics adults love gossiping about more than work, real estate, or travel. And 
+few categories as core to their net worth.
+
+Rich Barton took these whispered conversations and made them public for everyone to see.
+Afterwards, everyone wondered why they were ever private.
+
+Part of the reason was that companies benefited from this credibility through obscurity.
+Real estate brokers have access to significantly more data about the specific houses and 
+the general market via a set of data sources called the MLS. Historically, only brokers 
+had access to MLS data, which gave them leverage over their customers and entrenched 
+their importance as market makers. 
+
+Similarly, lack of visibility into companies allowed bad ones to put on a good face until
+prospective employees had already joined. And only large companies could pay for data 
+from compensation research providers, giving them advantage over the potential hires they
+negotiated with. Many incumbents are able to intermediate their markets and unfairly gain
+an edge from people’s lack of knowledge. And it’s scary to be the first to buck this trend
+on your own.
+
+Plus it is logistically difficult. Job applicants are unlikely to know a current employee 
+at companies they are considering joining. And even if they did, it’s unlikely they could 
+trust them to tell them the unvarnished truth. Employees have little incentive to say
+negative things about their employer, unless very close with the person asking.
+```
+
+Kevin calls this a "sparse commons", and notes that it's a classic example of "natural market failure". Rich, claims Kevin, is solving this problem with his companies:
+
+```markdown
+While some incumbents take advantage of the information asymmetry, most benefit from a third party that will handle the logistics things like:
+
+- Verifying legitimacy of information being shared
+- Maintaining privacy of participants
+- Aligning incentives to get people to participate in contributing to the commons
+- Finding, ingesting, and curating third party data into the commons
+
+Rich Barton’s companies became public Schelling Points. They create common knowledge in 
+their industries from information only middlemen had access to before, from public-but-
+hard to aggregate data, or from information collected from users themselves. These 
+intermediaries, whether brokers or travel agents were misaligned. They controlled what 
+information was shared with the public, but has an interest in withholding it. Instead of
+pushing increasingly more and higher quality information to the public, they maintained
+the status quo.
+
+Creating common knowledge creates a network effect. All companies in Silicon Valley want
+to build network effects, but few have followed Barton’s path despite its effectiveness.
+The more people use and trust Glassdoor, the more companies must take it seriously. And 
+as users see more people contributing to Glassdoor, they can be more confident they’ll 
+stay anonymous when they add their review. There are virtuous loops in common knowledge.
+```
+
+So apparently Rich's secret is creating Schelling points of common knowledge ("I know that you know" as an improvement over just "I know" and "you know" separately, because enables coordination) to create network effects. 
+
+Aggressive focus on search as acquisition channel + first-mover advantage:
+
+```markdown
+All of Rich Barton’s companies have primarily used Search (and word of mouth) as their
+acquisition channel. Search is a great channel, since it can drive significant demand
+at low cost. Few companies can generate enough high quality web pages about their 
+industries to fully capitalize on it, however. 
+
+The Data Content Loops of Barton’s companies let them be the authoritative public 
+source on a subject at scale and low cost. By having super relevant information about 
+every hotel, home, or company someone might be interested in, Barton’s companies become
+the ideal destination for consumers.
+
+Over the years, he’s refined this model. Expedia aggregated all the various hotel and 
+travel options, but others had done that as well. However, Expedia and Booking.com were
+among the most aggressive to understand the importance of search. If you had the top 
+spot in search, the next best thing was to acquire more sites so you owned the next top 
+result, and so on. Use Travelocity, Orbitz, CheapTickets, or Hotels.com? All of them are
+owned by Expedia. And any site not owned by Expedia is probably owned by Booking.com. 
+This approach, coupled with dominating the paid acquisition side as well, helped them 
+dominate.
+
+With Zillow and Glassdoor, Barton took this a step further.
+
+Before Zillow and Glassdoor, if you wanted to look up information about a specific home
+or company, there wasn’t a webpage for it. Barton’s companies created the definitive page
+for each house and company. Using a combination of data from authoritative sources (like
+all the various MLS systems) and user-generated data, they created high quality content
+unique to each company or listing. Being among the first to do this let them do a huge 
+SEO land grab, which has been hard to displace since.
+```
 
 <a name="#Advertising"></a>
 ## Advertising
