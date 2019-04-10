@@ -50,6 +50,8 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
+1. [Advertising](#Advertising)
+	1. [The value of advertising](#The-value-of-working-in-advertising)
 1. [Bureaucracy](#Bureaucracy)
 	1. [Pournelle's Iron Law of Bureaucracy](#Iron-Law-of-Bureaucracy)
 1. [Consulting](#consulting)
@@ -62,31 +64,80 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	2. [Dealing with message distortion](#Dealing-with-message-distortion)
 	2. [High organizational standards](#high-standards)
 	2. [Resisting organizational stasis, or, it is always Day 1](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends *(KIV for content list refactoring)*
-1. [Real work and bullshit jobs](#Real-work-and-bullshit-jobs)
-	1. [Don't do what you love, do what contributes](#Dont-do-what-you-love-do-what-contributes)
-2. [Startups](#Startups)
-	1. [The market doesn't give a shit how hard you worked](#The-market-doesnt-give-a-shit-how-hard-you-worked)
+2. [Startups](#Startups)	
 2. [Venture capital](#venture-capital)
 	1. [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
+3. [Work](#work)
+	1. [Real work and bullshit jobs](#Real-work-and-bullshit-jobs)
+	2. [Don't do what you love, do what contributes](#Dont-do-what-you-love-do-what-contributes)
+	3. [The market doesn't give a shit how hard you worked](#The-market-doesnt-give-a-shit-how-hard-you-worked)
 	  
 -----------------------------
 
-<a name="#Startups"></a>
-## Startups
+<a name="#Advertising"></a>
+## Advertising
 ([overview](#overview)) 
 
-<a name="#The-market-doesnt-give-a-shit-how-hard-you-worked"></a>
-### The market doesn't give a shit how hard you worked
+<a name="#The-value-of-working-in-advertising"></a>
+### The value of working in advertising
 ([overview](#overview)) 
 
-Paul Graham, [A student's guide to startups](http://www.paulgraham.com/mit.html):
+Jeff Kaufman discusses whether [there is value in working in ads](https://www.jefftk.com/p/value-of-working-in-ads?fbclid=IwAR3GaiMu50C4PsQzA_1jFLUoYRIW12ReR5eyvOFGeXJIQs2kkgceT2x9tXI) in response to someone asking him whether he saw the direct impact of his earning-to-give strategy as positive or negative, because he worked in display advertising at Google. 
+
+Jeff agrees that this is a good question:
 
 ```markdown
-The market doesn't give a shit how hard you worked. Users just want your software to do what they need, 
-and you get a zero otherwise. That is one of the most distinctive differences between school and the 
-real world: there is no reward for putting in a good effort. In fact, the whole concept of a "good effort" 
-is a fake idea adults invented to encourage kids. It is not found in nature. 
+This is a good question, and a common objection to earning to give: you wouldn't
+want to take a job that was majorly negative for the world in order to earn a bit
+more money to donate. So how is the world different with me doing this job as 
+opposed to something else?
 ```
+
+He thinks the display ads business is "overall positive, despite some downsides", because ads are "a very progressive and democratic way of funding things" that's "invisibly intrusive" (instead of obnoxious visibly intrusive ads):
+
+```markdown
+The majority of websites are funded through ads, and this has allowed an enormous
+diversity of information to flourish. I can afford to write for fun and run this 
+site without ads on it, but many people with interesting things to say can't.
+The New York Times can convince some people to pay, but a subscription-only web
+would be much worse. Overall, ads are a very progressive and democratic way of
+funding things: everyone can read and everyone can write, not just people who can
+pay.
+
+On the other hand, it's not ideal. Ads are often annoying, and can get in the way
+of what you're trying to read. They can be slow to download or execute and delay
+the rest of the page. Similarly, they can download large images or videos using up
+your metered data plan. While sometimes ads fill a beneficial function of 
+informing you about something you'll honestly be better off from having purchased,
+other times they're trying to convince you to spend your money foolishly.
+
+Many people would put ad tracking on this list of downsides: sites pass information
+to data brokers that build custom profiles for each user and allow personalizing 
+ads. From my perspective, however, while having this information collected seems a
+bit creepy, it allows showing ads I'm more likely to be interested in. This makes 
+publishers more money than showing untargeted ads, and I'd much rather fund them 
+through better ad targeting (invisibly intrusive) than through more obnoxious ads 
+(visibly intrusive).
+```
+
+This reminds me of Jessica Su's [answer](https://qr.ae/TWTGvh) to "Why does everyone want to work for Google if it is just an advertising company? What is so inspirational about solving complex engineering problems in the advertising space?":
+
+```markdown
+I think targeted ads are the coolest thing. They
+
+1. Empower people who would not otherwise be given a voice
+2. Connect people with interesting and relevant content
+3. Keep the web free for users
+4. Directly motivate research in artificial intelligence and machine learning
+5. Make the internet smarter and more personalized, and bring us one step closer to 
+the sci-fi dream of fully intelligent computers.
+
+Google is one of the world’s best advertising companies, and by improving their
+products, you get to directly help billions of people. Who wouldn’t want to help billions 
+of people?
+```
+
+------------------------------------
 
 <a name="#Bureaucracy"></a>
 ## Bureaucracy
@@ -116,8 +167,12 @@ control of the organization. It will write the rules, and control promotions
 within the organization.
 ```
 
+<a name="#Work"></a>
+## Work
+([overview](#overview)) 
+
 <a name="#Real-work-and-bullshit-jobs"></a>
-## Real work and bullshit jobs
+### Real work and bullshit jobs
 ([overview](#overview))
 
 From Sarah Constantin's [How much work is real?](https://srconstantin.wordpress.com/2017/05/09/how-much-work-is-real/).
@@ -239,6 +294,19 @@ It also includes patents, which arguably do not increase innovation on the margi
 or changes in patent laws.) Copyright and patent lengths have gotten longer in the US, and 
 patent applications have grown at an accelerating rate; the growth of intellectual property
 is another example of our economy becoming more monopolistic.
+```
+
+<a name="#The-market-doesnt-give-a-shit-how-hard-you-worked"></a>
+### The market doesn't give a shit how hard you worked
+([overview](#overview)) 
+
+Paul Graham, [A student's guide to startups](http://www.paulgraham.com/mit.html):
+
+```markdown
+The market doesn't give a shit how hard you worked. Users just want your software to do what they need, 
+and you get a zero otherwise. That is one of the most distinctive differences between school and the 
+real world: there is no reward for putting in a good effort. In fact, the whole concept of a "good effort" 
+is a fake idea adults invented to encourage kids. It is not found in nature. 
 ```
 
 <a name="#Dont-do-what-you-love-do-what-contributes"></a>
