@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 10,700*
+*[Word count](https://wordcounter.net/): 12,400*
 
 ## What is this?
 
@@ -56,6 +56,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 3. [Cognitive science](#cognitive-science)
 3. [Names matter](#names-matter)
 3. [Polymathy, or being a generalist](#polymathy)
+	1. [Semicolon-shaped people](#Semicolon-shaped-people)
 4. [Steve Yegge on memory](#Yegge-on-memory)
 5. [Wisdom](#wisdom)
 6. [The predictive uselessness of folk wisdom](#The-predictive-uselessness-of-folk-wisdom) (Stanovich)
@@ -159,6 +160,250 @@ Notice which topics link in all directions, and provide keys to many others. Con
 
 Continue until almost everything you encounter in Science and Nature makes sense as a contribution to 
 a field you know something about.
+```
+
+<a name="#Semicolon-shaped-people"></a>
+### Semicolon-shaped people
+([overview](#overview))
+
+From Venkat Rao's [Breaking Smart newsletter](https://us1.campaign-archive.com/?u=78cbbb7f2882629a5157fa593&id=f280d3e632).
+
+Venkat first starts off with T-shaped people, which he'll later contrast with semicolons like himself:
+
+```markdown
+2/  Back in grad school 15 years ago, I read a book called Tomorrow's Professor
+by Newport's spiritual predecessor, Richard Reis (and clearly learned nothing 
+from it).
+
+3/ In it, I encountered the idea of a T-shaped person. Reis' model was that you
+ought to have a broad understanding of adjacent fields and a deep understanding
+of your own to be a "good" academic.
+
+4/ You've probably heard the phrase. T-shaped people are what  career counsellors
+and HR people have in mind when they talk about "talent." Not just depth in craft,
+but breadth in vision.
+
+5/ You have your horizontal bar representing shallow generalist skills, and your 
+vertical stem representing deep specialist skills.
+
+6/ The horizontal bar represents your socialization as a knowledge worker. It 
+overlaps with others' horizontal bars, enabling you to communicate across 
+specialist disciplines.
+
+7/ You can think of the T as spanning knowledge/skill based roles you could occupy. 
+It's your intellectual home. T for turf. T for territory. T for textbook. 
+
+8/ People who have a highly socialized, institutionalized, and territorial 
+understanding of knowledge and work love the T-shaped-person idea. Academics 
+particularly love it.
+
+9/ In Freudian terms, T-shapes are how your superego thinks you ought to work. You
+find your T, make friends and find collaborators along the bar, and dive deep along
+the stem.
+
+10/ All the while staying harmoniously connected to your intellectual community
+oriented around a shared sense of "up" and directing your work "down" in the mines.  
+
+11/ So long as you stay in your digging lane indicated by the stem, you'll also be
+a good citizen of a knowledge economy, respecting others' expertise, and quietly 
+proud of your own.
+
+12/ T's stack and overlap nicely. They can be used to build stable big structures,
+with good redundancy properties and natural paths of career development.
+
+13/ In a knowledge map covered by overlapping T's, your T can grow bigger or sink
+deeper. Your stem may be in your mentor's bar. Your current stem may become your 
+future bar.
+
+14/ T's induce natural authority relationships. If two people are trying to occupy
+the same turf, the one for whom the position is shallower has authority (because 
+they can go deeper).
+
+15/ As in Tetris, T's are easy to work with. They are fine, upstanding citizens. 
+They chair committees, organize interdisciplinary conferences, give TED talks, and
+write solid books.
+
+16/ They are nice people. To use an academic term of art, they are "collegial" types.
+They can afford to be. They know where they belong in the world, and it's a good
+place.
+
+17/ Think T for Tenure. The American system of academic tenure is the perfect example
+of an institution of, by, and for T-shaped people.
+
+18/ Don't get me wrong. Unlike empty suit types, scenesters, and pretenders, T-
+shaped people are people of substance. They are sincere and they do good, sometimes
+great work.
+
+19/ I have nothing but respect for T-shaped types. The backstop the reliability of 
+civilizational knowledge, and are pillars of the community in an entirely positive 
+sense of the term.
+
+20/ You should WANT your Statistics 101 professors, doctors, lawyers, accountants,
+bankers to be T-shaped. Trust in institutions is about the presence of T-shaped people
+within them.
+
+21/ So to summarize. T for textbook, T for tenure, T for turf, T for territory, T for
+trust, T for talent. All good things. If you are T-shaped, or want to be T-shaped, 
+more power to you. The world needs T's.
+```
+
+And now a taster for semicolons, illustrated with an example:
+
+```markdown
+22/ That said, I personally find T-shaped people boring, and am personally a lousy 
+T. By the norms of T-shaped people, I am a could-have-been T who betrayed the values
+and virtues of T-dom.
+
+23/ Fortunately, I don't navigate by T-shaped norms. I navigate by the belief that 
+there is an entire universe of deep knowing and doing that cannot be accessed by T-
+shaped means.
+
+24/ Here's an example. My buddy Kyle just released version 1.0 of a powerful React-
+based open-source website building tool called Gatsby, after a year of heavy effort.
+
+25/ It's definitely deep work, but throughout, Kyle was active on Twitter and social 
+media. More importantly, the work didn't get done in a traditional institutional 
+context. It was free-agent deep work.
+
+26/ The work itself is not "T-shaped." It is a work of tech art in the rhizomatic 
+frankenstack mess that is web technology.
+
+27/ One of the interesting things about watching the project evolve was how it was 
+driven by Kyle's contrarian view that the messy explosion of Javascript frameworks
+and libraries is a good thing.
+
+28/ That was his Thiel-ian "secret" -- the belief, not shared by most programmers, 
+that the Javascript jungle is a good thing for the web, not a swamp to be drained. 
+He vigorously defends this view online.
+
+29/ The world of Javascript is decidedly unfriendly to systematic T-shaped approaches
+to organizing, mapping, and navigating intellectual territories. T-shaped programmers
+don't do well there.
+
+30/ It is not surprising that the evolution of Javascript, unlike that of backend
+computing technologies, has been strongly driven outside of academia. 
+
+31/ It is also not surprising that you need a contrarian view of apparent messiness, 
+and a willingness to ignore disciplinary maps and categories, to navigate and build 
+on such rhizomatic knowledge.
+
+32/ Javascript for example, began life as an underpowered browser language and evolved
+into a powerful language for both backend and frontend systems in unexpected ways.
+
+33/ To do deep work in the world of Javascript, you can't afford to be a T-shaped 
+person. You have to be what I call a semi-colon shaped person.
+```
+
+Semicolons:
+
+```markdown
+34/ The dot of the semi-colon represents the anchor community for your deep work. 
+In Gatsby's case, the world of Javascript sprawling messily across industry and 
+open-source worlds.
+
+35/ The curvy tail is the rhizomatic structure you explore to do something deep. 
+It will sprawl untidily across a map built out of T's. It will offend sensibilities
+and violate sacred beliefs about what goes where.
+
+36/ The gap between the dot and the tail is what I call the Explorer's Chasm. To 
+do deep work in a rhizomatic zone, you must have a "secret" separating you from 
+your community.
+
+37/ The chasm is CRUCIAL. It represents a sort of epistemic estrangement from the
+nearest socialized zone of knowledge. This is necessary for work that is not just 
+deep, but has truly ORIGINAL elements.
+
+38/ The chasm also symbolizes the possibility that a work of deep knowing and doing
+does not have a necessary, pre-determined and fixed connection to a locus of 
+socialization that "owns" the work. 
+
+39/ This means the knowledge could be subversive and challenge institutional 
+authority. Squint a little and the tail of the semicolon might appear attached to a
+different dot.
+
+40/ And finally, a semicolon is both smaller and lower in a line of text than a T. 
+I like to think this symbolizes its capacity for a) going deeper b) being efficient
+at a smaller scale.
+```
+
+Contrasting T's and semicolons:
+
+```markdown
+41/ Paradoxically, because being semicolon-shaped means being less attached to a 
+default social home locus, it requires you to be more agile, nomadic, alive, and 
+active in relating to social context.
+
+42/ Tenured professors with status in a discipline can tune out the world and do 
+"deep work" peers recognize as "important" before it is done (with accompanying
+ivory-tower/angels-on-pinhead risks).
+
+43/ But a free agent, with no institutional safety net, no underwriting of 
+exploratory expeditions by disciplinary consensus, and no research grants, cannot 
+afford this luxury.
+
+44/ To do deep work in semicolon mode, you must be plugged in, despite being 
+fundamentally alone on your path, continuously renegotiating the meaning of what 
+you're doing with the social context. 
+
+45/ If T-shaped work is like climbing a sheer rock face with all kinds of safety
+equipment and ropes, semicolon-shaped work is like free climbing. Riskier, but
+much more rewarding if you pull it off.
+
+46/ Almost all the people I personally find interesting, and learn a lot from,
+tend to be semicolon shaped. This may be a personal preference, but I think
+there's more to it.
+
+47/ I suspect, for T-shaped people, exploration is at best an instrumental activity
+that furthers their social development. For them, belongingness trumps curiosity.
+That's why it can stay in its lane.
+
+48/ But curiosity ungoverned by belongingness motives does not stay in fixed lanes,
+seek permission to stray, apologize for wandering, or express contrition for 
+"moving fast and breaking things."
+
+49/ Such curiosity can be unapologetically rude, abrasive, damaging, combative, 
+difficult, and intransigent when it conflicts with belongingness. It can appear to
+be spoiling for a fight for no good reason.
+
+50/ Belongingness-governed curiosity is great for stewarding existing 
+institutionalized knowledge and building systematically and cautiously upon it. 
+T-shaped curiosity is the bedrock of living traditionalism.
+
+51/ You don't need formal institutions like universities for this kind of collective
+knowledge environment. Even mature and developed cultural scenes have this 
+characteristic. 
+
+58/ Most T-shaped people and semicolon shaped ones probably find their own kind
+interesting and admirable, and the opposite kind offensive and boring. Voice people
+and exit people don't mix well.
+
+59/ Most of the time, most people are (and should be), T-shaped. But in times of
+institutional decay, renewal, and churn, you should be asking yourself: should I 
+perhaps be semicolon-shaped?
+```
+
+Why are T's dominant? Venkat draws parallels to Pournelle's law; I first thought of atheism vs organized religion actually:
+
+```markdown
+53/ In a way, the dominance of T-shaped people and their modes of knowing and doing
+are a consequence of Pournelle's Iron's Law of bureaucracy generalized to any social
+system. 
+
+54/ Pournelle's Law, restated for this context: *in any community, those who 
+prioritize primal belongingness will eventually wrest control from those who
+prioritize primal curiosity*.
+
+55/ By contrast, semicolon shaped people and their modes of knowing and doing reflect 
+a primacy of curiosity over belongingness. A willingness to sacrifice social harmony 
+and relationships to the exploratory urge.
+
+56/ This means, of course, that semicolon shaped people can be (but need not be, unless 
+challenged or obstructed) socially disruptive, destabilizing, unreliable, disloyal, and
+a "threat to society."
+
+57/ But on the other hand, they also represent creative-destructive potential, and the
+possibility of societies renewing themselves through the actions of those who don't 
+feel strong belonging.
 ```
 
 <a name="#The-predictive-uselessness-of-folk-wisdom"></a>
