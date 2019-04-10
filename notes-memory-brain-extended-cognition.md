@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 12,400*
+*[Word count](https://wordcounter.net/): 14,500*
 
 ## What is this?
 
@@ -51,17 +51,258 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
 1. [Augmenting long-term memory](#augmenting-long-term-memory), e.g. Anki
-2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
-2. [Externalizing the brain](#external-brain), e.g. Google, writing, Cosma on collective cognition
 3. [Cognitive science](#cognitive-science)
+2. [Errors vs bugs](#errors-vs-bugs)
+2. [Externalizing the brain](#external-brain), e.g. Google, writing, Cosma on collective cognition
+2. [Important findings on learning](#important-findings-on-learning), ft. 25 principles by U of Missouri
 3. [Names matter](#names-matter)
 3. [Polymathy, or being a generalist](#polymathy)
 	1. [Semicolon-shaped people](#Semicolon-shaped-people)
+2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
 4. [Steve Yegge on memory](#Yegge-on-memory)
 5. [Wisdom](#wisdom)
-6. [The predictive uselessness of folk wisdom](#The-predictive-uselessness-of-folk-wisdom) (Stanovich)
+	6. [The predictive uselessness of folk wisdom](#The-predictive-uselessness-of-folk-wisdom) 
+	
 
 ----------------------------------
+
+<a name="#errors-vs-bugs"></a>
+## Errors vs bugs
+([overview](#overview))
+
+Sarah Constantin is one of my favorite writers -- she appears a *lot* in these notebooks. She has a blog, [Otium](https://srconstantin.wordpress.com/), and goes by celandine13 on LiveJournal. This quote on the *error vs bug model of learning* comes from her LJ essay [Errors vs Bugs and the End of Stupidity](https://celandine13.livejournal.com/33599.html).
+
+```markdown
+A common mental model for performance is what I'll call the "error model."  In the error model, a person's 
+performance of a musical piece (or performance on a test) is a perfect performance plus some random error.  
+You can literally think of each note, or each answer, as x + c times epsilon_i, where x is the correct note 
+/ answer, and epsilon_i is a random variable, iid Gaussian or something.  Better performers have a lower 
+error rate c.  Improvement is a matter of lowering your error rate.  This, or something like it, is the model 
+that underlies school grades and test scores. Your grade is based on the percent you get correct.  Your 
+performance is defined by a single continuous parameter, your accuracy.
+
+But we could also consider the "bug model" of errors.  A person taking a test or playing a piece of music is 
+executing a program, a deterministic procedure.  If your program has a bug, then you'll get a whole class of 
+problems wrong, consistently.  Bugs, unlike error rates, can't be quantified along a single axis as less or 
+more severe.  A bug gets everything that it affects wrong.  And fixing bugs doesn't improve your performance 
+in a continuous fashion; you can fix a "little" bug and immediately go from getting everything wrong to 
+everything right.  You can't really describe the accuracy of a buggy program by the percent of questions it 
+gets right; if you ask it to do something different, it could suddenly go from 99% right to 0% right.  You 
+can only define its behavior by isolating what the bug does.
+
+Often, I think mistakes are more like bugs than errors.  My clinkers weren't random; they were in specific 
+places, because I had sub-optimal fingerings in those places.  A kid who gets arithmetic questions wrong 
+usually isn't getting them wrong at random; there's something missing in their understanding, like not 
+getting the difference between multiplication and addition.  Working generically "harder" doesn't fix bugs 
+(though fixing bugs does require work). 
+
+Once you start to think of mistakes as deterministic rather than random, as caused by "bugs" (incorrect 
+understanding or incorrect procedures) rather than random inaccuracy, a curious thing happens.
+
+You stop thinking of people as "stupid."
+
+Tags like "stupid," "bad at X", "sloppy," and so on, are ways of saying "You're performing badly and I 
+don't know why." Once you move it to "you're performing badly because you have the wrong fingerings," or 
+"you're performing badly because you don't understand what a limit is," it's no longer a vague personal 
+failing but a causal necessity. Anyone who never understood limits will flunk calculus. 
+
+It's not you, it's the bug.
+```
+
+The rest of the linked article is *fantastic*. I had trouble quoting it because I felt like quoting everything.
+
+<a name="#important-findings-on-learning"></a>
+## Important findings on learning
+([overview](#overview))
+
+From the University of Missouri's [25 Learning Principles to Guide Pedagogy and the
+Design of Learning Environments](http://whaaales.com/25principlesoflearning.pdf). I only picked those I found interesting. 
+
+Contiguity Effects:
+
+```markdown
+Ideas that need to be associated should be presented contiguously in space and time in the
+multimedia learning environment. For example, the verbal label for a picture needs to be placed
+spatially near the picture on the display, not on the other side of the screen. An explanation of an
+event should be given when the event is depicted rather than many minutes, hours, or days later.
+```
+
+Perceptual-motor Grounding:
+
+```markdown
+Whenever a concept is first introduced, it is important to ground it in a concrete
+perceptual-motor experience. The learner will ideally visualize a picture of the concept, will be
+able to manipulate its parts and aspects, and will observe how it functions over time. The teacher
+and learner will also gain a common ground (shared knowledge) of the learning material.
+
+Perceptual-motor experience is particularly important when there is a need for precision, such as
+getting directions to find a spatial location. For example, a course in statistics is not grounded in
+perceptual-motor experience when the teacher presents symbols and formulae that have no
+meaning to the student and cannot be visualized
+```
+
+Dual Code and Multimedia Effects:
+
+```markdown
+Information is encoded and remembered better when it is delivered in multiple modes
+(verbal and pictorial), sensory modalities (auditory and visual), or media (computers and
+lectures) than when delivered in only a singe mode, modality, or medium. Dual codes provide
+richer and more varied representations that allow more memory retrieval routes. 
+
+However, the amount of information should not overwhelm the learner because attention is 
+split or cognitive capacities are overloaded.
+```
+
+Testing Effect:
+
+```markdown
+There are direct and indirect effects of taking frequent tests. One indirect benefit is that
+frequent testing keeps students constantly engaged in the material. Although students will learn
+from testing without receiving feedback, there is less forgetting if students receive informative
+feedback about their performance. Multiple tests slow forgetting better than a single test.
+Formative assessment refers to the use of testing results to guide teachers in making decisions
+about what to teach. Learners also benefit if they use test results as a guide for their own
+learning. 
+```
+
+The best way to do this is via spaced repetition. It's the whole idea behind Anki flashcards. See also [here](#augmenting-long-term-memory), as well as the next section -- Spaced Effects:
+
+```markdown
+Spaced schedules of testing (like spaced schedules of studying) produce better long-term
+retention than a single test. When a single test is administered immediately after learning,
+students obtain high scores, but long-term retention is reduced with a single immediate test
+relative to spaced testing. When a test is given immediately after learning has occurred, learners
+still have the newly-learned information in a primary memory system and therefore obtain high
+test scores. Both teachers and learners often misjudge their high scores on a test given
+immediately after learning as evidence of good retention, when, in fact, long-term retention
+suffers with this practice
+```
+
+Generation Effect:
+
+```markdown
+Learning is enhanced when learners produce answers compared to having them recognize
+answers. Free recall or essay tests which require the test taker to generate answers with minimal
+cues produce better learning than multiple choice tests in which the learner only needs to be able
+to recognize correct answers. In fact, free recall tests produce as much learning as restudying the
+material
+```
+
+Organization effects (part of the reason this document exists in the first place!):
+
+```markdown
+Outlining, integrating, and synthesizing information produces better learning than rereading
+materials or other more passive strategies. Students frequently report that when they study they
+reread materials they already read once. Strategies that require learners to be actively engaged
+with the material to-be-learned produce better long-term retention than the passive act of reading.
+Learners should develop their own mini-testing situations as they review, such as stating the
+information in their own words (without viewing the text) and synthesizing information from
+multiple sources, such as from class and textbooks.
+```
+
+Coherence effect (Robert Frost does this well in [his answers on Quora](https://www.quora.com/profile/Robert-Frost-1/answers)):
+
+```markdown
+The learner needs to get a coherent, well connected representation of the main ideas to be
+learned. It is important to remove distracting, irrelevant material, even when the added
+information is artistically appealing. Seductive details that do not address the main points to be
+conveyed run the risk of consuming the learner’s attention and effort at the expense of their
+missing the main points. 
+```
+
+Stories and example cases (see also [John Baez on why math publications should take a page from the storytelling skillbook](#why-math-is-boring)):
+
+```markdown
+Stories and other forms of narrative are easier to read, comprehend, and remember than
+other types of learning materials. For many millennia, the primary way of passing wisdom down
+from generation to generation was through stories. Stories have concrete characters, objects,
+locations, plot, themes, emotions, and actions that bear some similarity to everyday experiences.
+Many stories also convey a point or moral that can be generalized to many situations. Example
+cases in a story-like format are persuasive, easy to comprehend, and very memorable. 
+```
+
+Negative suggestion effects:
+
+```markdown
+Just as people learn correct information with frequent testing, they also can learn wrong
+information this way. For example, when incorrect alternatives on multiple choice tests are
+presented, the wrong answers can be learned instead of the correct answers. This effect is also
+found on short answer essay questions when students do not know the answers and use their
+general knowledge about the field to construct a response that seems reasonable to them. In this
+situation, learners recall their incorrect, but logically consistent response as being correct. These
+effects can be reduced when learners receive feedback immediately after taking a test which
+allows them to revise their memory and understanding without delay.
+```
+
+Desirable Difficulties (struggle promotes long-term recall -- true more so in math):
+ 
+```markdown
+Learning is enhanced when learners have to organize the information themselves or exert
+additional effort during acquisition or retrieval than in conditions in which the information to be
+learned or retrieved does not require effort. One possible explanation for this effect is that
+learners create multiple retrieval paths which make the information more accessible at retrieval.
+These practices slow initial learning, but promote long-term recall.
+```
+
+Explanation effects:
+
+```markdown
+Explanations consist of causal analyses of events, logical justifications of claims, and
+functional rationales for actions. Explanations provide coherence to the material and justify why
+information is relevant and important. Students may be prompted to give self-explanations of the
+material through think aloud protocols or questioning tasks that elicit explanations that connect
+the material to what they already know. Self-explanations and the activity of studying good
+explanations facilitate deeper comprehension, learning, memory, and transfer. 
+```
+
+Deep questions:
+
+```markdown
+Deep explanations of material and reasoning are elicited by questions such as why, how,
+what-if-and what-if not, as opposed to shallow questions that require the learner to simply fill in
+missing words, such as who, what, where, and when. Training students to ask deep questions
+facilitates comprehension of material from text and classroom lectures. The learner gets into the
+mindset of having deeper standards of comprehension and the resulting representations are more
+elaborate. 
+```
+
+Cognitive disequilibrium:
+
+```markdown
+Cognitive disequilibrium stimulates inquiry, curiosity, thinking, and deep questions,
+which in turn lead to deeper learning. Cognitive disequilibrium occurs when there are obstacles
+to goals, contradictions, conflicts, anomalous events, breakdown scenarios, salient gaps in
+knowledge, uncertainty, equally attractive alternatives, and other types of impasses. When these
+impasses occur, the learner needs to engage in reasoning, thought, problem solving, and planning
+in route to restoring cognitive equilibrium. There is a higher incidence of deep questions,
+thought, reasoning, and study efforts when learners undergo cognitive disequilibrium.
+```
+
+Goldilocks principle: 
+
+```markdown
+Assignments should not be too hard or two easy, but at the right level of difficulty for the
+student’s level of skill or prior knowledge. The definition of the zone of proximal development
+(ZPD) is a bit more technical: the difference in learning that occurs with versus without a
+learning scaffold (e.g., tutor, teacher, text, and computer). Researchers have identified a number
+of zones that reflect how much learning, memory, mastery, or satisfaction occurs along a
+continuum of task difficulty and that is sensitive to individual differences among learners. When
+the material is too easy for the learner, the student is not challenged and may get bored. When it
+is too difficult, the student acquires very little and gets frustrated or tunes out
+```
+
+Anchored learning:
+
+```markdown
+Anchored learning occurs when students work in teams for several hours or days trying to
+solve a challenging practical problem that matters to the student. The activity is linked to
+background knowledge of the learner on a topic that is interesting. The problem is challenging,
+so the learner needs to engage in problem solving and recruit multiple levels of knowledge and
+skills. These activities are coherently organized around solving the practical problem. Examples
+of anchored learning are problem-based curricula in medical schools where students work on
+genuine medical cases and communities of practice where students try to solve problems of
+pollution in their city.
+```
 
 <a name="#polymathy"></a>
 ## Polymathy
@@ -404,48 +645,6 @@ a "threat to society."
 57/ But on the other hand, they also represent creative-destructive potential, and the
 possibility of societies renewing themselves through the actions of those who don't 
 feel strong belonging.
-```
-
-<a name="#The-predictive-uselessness-of-folk-wisdom"></a>
-## The predictive uselessness of folk wisdom
-([overview](#overview))
-
-Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
-
-```markdown
-Often a person uses some folk proverb to explain a behavioral event even though, on an earlier occasion, this 
-same person used a directly contradictory folk proverb to explain the same type of event. For example, most of 
-us have heard or said, “look before you leap.” Now there’s a useful, straightforward bit of behavioral advice—
-except that I vaguely remember admonishing on occasion, “he who hesitates is lost.” And “absence makes the heart 
-grow fonder” is a pretty clear prediction of an emotional reaction to environmental events. But then what about 
-“out of sight, out of mind”? And if “haste makes waste,” why do we sometimes hear that “time waits for no man”? 
-How could the saying “two heads are better than one” not be true? Except that “too many cooks spoil the broth.” 
-If I think “it’s better to be safe than sorry,” why do I also believe “nothing ventured, nothing gained”? And if 
-“opposites attract,” why do “birds of a feather flock together”? I have counseled many students to “never to put 
-off until tomorrow what you can do today.” But I hope my last advisee has never heard me say this, because I just 
-told him, “cross that bridge when you come to it.”
-
-The enormous appeal of clichés like these is that, taken together as implicit “explanations” of behavior, they 
-cannot be refuted. No matter what happens, one of these explanations will be cited to cover it. No wonder we all 
-think we are such excellent judges of human behavior and personality. We have an explanation for anything and 
-everything that happens. Folk wisdom is cowardly in the sense that it takes no risk that it might be refuted.
-
-That folk wisdom is “after the fact” wisdom, and that it actually is useless in a truly predictive sense, is why 
-sociologist Duncan Watts titled one of his books: Everything Is Obvious—Once You Know the Answer (2011). Watts 
-discusses a classic paper by Lazarsfeld (1949) in which, over 60 years ago, he was dealing with the common 
-criticism that “social science doesn’t tell us anything that we don’t already know.” Lazarsfeld listed a series 
-of findings from a massive survey of 600,000 soldiers who had served during World War II; for example, that men 
-from rural backgrounds were in better spirits during their time of service than soldiers from city backgrounds. 
-People tend to find all of the survey results to be pretty obvious. In this example, for instance, people tend 
-to think it obvious that rural men would have been used to harsher physical conditions and thus would have 
-adapted better to the conditions of military life. It is likewise with all of the other findings—people find them 
-pretty obvious. Lazarsfeld then reveals his punchline: All of the findings were the opposite of what was originally 
-stated. For example, it was actually the case that men from city backgrounds were in better spirits during their 
-time of service than soldiers from rural backgrounds. The last part of the learning exercise is for people to 
-realize how easily they would have explained just the opposite finding. In the case of the actual outcome, people 
-tend to explain it (when told of it first) by saying that they expected it because city men are used to working 
-in crowded conditions and under hierarchical authority. They never realize how easily they would have concocted an 
-explanation for exactly the opposite finding.
 ```
 
 <a name="#names-matter"></a>
@@ -1285,4 +1484,46 @@ Today, our abilities at different kinds of tasks peak at different ages. For exa
 cognitive processing peaks in late teens, learning and remembering names in early 20s, 
 short-term memory about age 30, face recognition in early 30s, social understanding about
 age 50, and word knowledge above age 65 (Hartshorne and Germine 2015).
+```
+
+<a name="#The-predictive-uselessness-of-folk-wisdom"></a>
+### The predictive uselessness of folk wisdom
+([overview](#overview))
+
+Keith E. Stanovich, [How to Think Straight About Psychology](http://www.pearsonhighered.com/assets/hip/us/hip_us_pearsonhighered/samplechapter/0205914128.pdf):
+
+```markdown
+Often a person uses some folk proverb to explain a behavioral event even though, on an earlier occasion, this 
+same person used a directly contradictory folk proverb to explain the same type of event. For example, most of 
+us have heard or said, “look before you leap.” Now there’s a useful, straightforward bit of behavioral advice—
+except that I vaguely remember admonishing on occasion, “he who hesitates is lost.” And “absence makes the heart 
+grow fonder” is a pretty clear prediction of an emotional reaction to environmental events. But then what about 
+“out of sight, out of mind”? And if “haste makes waste,” why do we sometimes hear that “time waits for no man”? 
+How could the saying “two heads are better than one” not be true? Except that “too many cooks spoil the broth.” 
+If I think “it’s better to be safe than sorry,” why do I also believe “nothing ventured, nothing gained”? And if 
+“opposites attract,” why do “birds of a feather flock together”? I have counseled many students to “never to put 
+off until tomorrow what you can do today.” But I hope my last advisee has never heard me say this, because I just 
+told him, “cross that bridge when you come to it.”
+
+The enormous appeal of clichés like these is that, taken together as implicit “explanations” of behavior, they 
+cannot be refuted. No matter what happens, one of these explanations will be cited to cover it. No wonder we all 
+think we are such excellent judges of human behavior and personality. We have an explanation for anything and 
+everything that happens. Folk wisdom is cowardly in the sense that it takes no risk that it might be refuted.
+
+That folk wisdom is “after the fact” wisdom, and that it actually is useless in a truly predictive sense, is why 
+sociologist Duncan Watts titled one of his books: Everything Is Obvious—Once You Know the Answer (2011). Watts 
+discusses a classic paper by Lazarsfeld (1949) in which, over 60 years ago, he was dealing with the common 
+criticism that “social science doesn’t tell us anything that we don’t already know.” Lazarsfeld listed a series 
+of findings from a massive survey of 600,000 soldiers who had served during World War II; for example, that men 
+from rural backgrounds were in better spirits during their time of service than soldiers from city backgrounds. 
+People tend to find all of the survey results to be pretty obvious. In this example, for instance, people tend 
+to think it obvious that rural men would have been used to harsher physical conditions and thus would have 
+adapted better to the conditions of military life. It is likewise with all of the other findings—people find them 
+pretty obvious. Lazarsfeld then reveals his punchline: All of the findings were the opposite of what was originally 
+stated. For example, it was actually the case that men from city backgrounds were in better spirits during their 
+time of service than soldiers from rural backgrounds. The last part of the learning exercise is for people to 
+realize how easily they would have explained just the opposite finding. In the case of the actual outcome, people 
+tend to explain it (when told of it first) by saying that they expected it because city men are used to working 
+in crowded conditions and under hierarchical authority. They never realize how easily they would have concocted an 
+explanation for exactly the opposite finding.
 ```
