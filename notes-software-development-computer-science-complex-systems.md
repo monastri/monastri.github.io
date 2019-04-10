@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is the "computer science, software development and complex systems" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md), last updated Apr 6, 2019, which got so big (1.2 million char) that GitHub refused to render the whole page anymore, ruining my original dream of having my entire notebook in one long page for two purposes: (1) zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience; (2) lower activation energy for continuous document-wide refactoring, to aid recall and cross-domain interlinking.
+This is the "software development, computer science and complex systems" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md), last updated Apr 6, 2019, which got so big (1.2 million char) that GitHub refused to render the whole page anymore, ruining my original dream of having my entire notebook in one long page for two purposes: (1) zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience; (2) lower activation energy for continuous document-wide refactoring, to aid recall and cross-domain interlinking.
 
 That said, this is a "living document", a "perpetual draft" in [the style of Gwern](https://www.gwern.net/About#long-content). I'm particulary taken by the following quote: 
 
@@ -53,7 +53,9 @@ I've sorted the quotes below into the following categories. This is a provisiona
 1. [Amazon vs Google comparison (2011)](#Amazon-vs-Google-2011)
 2. [CS is beyond the glass ceiling of popular science](#CS-is-beyond-the-glass-ceiling-of-pop-science)
 2. [Esolangs](#Esolangs)
+	1. [What esolangs are, and why](#What-are-esolangs)
 	1. [Daniel Temkin on code art](#Temkin-on-code-art)
+	2. [Intentionally unusable, uncomputable, or conceptual languages](#Language-without-code)
 2. [Hacking](#Hacking)
 2. [Operating systems](#Operating-systems)
 	1. [Why OSes?](#Why-operating-systems)
@@ -61,7 +63,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	3. [Selling OSes was a radical idea](#Selling-operating-systems-was-a-radical-idea)
 2. [Practical magic](#practical-magic)
 2. [Performance optimization](#Performance-optimization), pretty much all Carlos Bueno 
-2. [Programming languages](#Programming-languages)
+2. [Non-pathological programming languages](#Programming-languages)
 	2. [Smalltalk](#smalltalk), ft. misconception corrections by Alan Kay
 2. [Software complexity](#Software-complexity)
 	1. [The many faces of software complexity](#The-many-faces-of-software-complexity)
@@ -78,6 +80,125 @@ I've sorted the quotes below into the following categories. This is a provisiona
 <a name="#Esolangs"></a>
 ## Esolangs
 ([overview](#overview)) 
+
+Ben Olmstead (creator of Malbolge) describes esolangs as “pushing the boundaries of programming, but not in useful directions.”
+
+<a name="#What-are-esolangs"></a>
+### What are esolangs
+([overview](#overview)) 
+
+Daniel Temkin on programming languages in general:
+
+```markdown
+We might think of languages as being software-like themselves, but this is 
+not quite right; they’re more immaterial than software. Languages are lists 
+of rules about how to interpret combinations of symbols, that sometimes are
+used to write programs. They are more like a(n Oulipean) field of potential
+software; tools that can be used in infinite different ways but have their
+own logic of getting to that goal.
+```
+
+More discussion in [Language without code](http://artes.ucp.pt/citarj/article/view/432/212):
+
+```markdown
+Surprisingly, this
+concept is hard to pin down. It is usually defined
+through utility: a programming language is used to
+express commands to a computer. The Merriam
+Webster definition, Wikipedia's definitions (both the
+longest-posted one and the one currently posted at
+the time of writing) are all variations of these,
+sometimes with "formal language" mentioned, which
+at least points to a substantial difference from natural
+language.
+
+Wikipedia helpfully notes that the first programming
+languages were used for automation before
+existence of the digital computer, which points to
+perhaps the biggest issue with the term: what is a
+computer and do we need it to execute code? Before
+the first modern digital computer, we had the Turing
+Machine, a purely theoretical automaton used for
+mathematical proofs about computation. Are we
+defining programming languages in terms of
+computers as they are today? As we imagine them
+tomorrow? Or always in terms of the theoretical
+machine, as the first languages were designed?
+Microsoft, IBM, and others have designed quantum
+computing languages for computers that don't yet
+physically exist and perhaps won’t, at least as they
+are currently conceived (Simonite, 2017). While we
+have a system of computational complexity that
+shows the algorithmic potential of a language, as we
+will see through example, there is no established
+lower boundary of what we expect programming
+languages to be capable of in order to consider them
+languages. As the (possibly apocryphal but wholly
+-incharacter) quote from Edsger Dijkstra goes,
+"Computer science is no more about computers than
+astronomy is about telescopes". 
+```
+
+Chris Pressey is a central figure of esolangs; he ran the mailing list where the first community of esolangs came together. In [*The Aesthetics of Esolangs*](http://catseye.tc/node/The_Aesthetics_of_Esolangs), he argues that esolangs can be understood as art, but not as a form of digital art: 
+
+```markdown
+...they’re made up of concepts, and these concepts would exist even if our
+computing equipment wasn’t electronic, or wasn’t digital, or if we didn’t
+have computing equipment at all. It’s just that having computing equipment 
+makes it a lot easier to design and experience these programming languages.
+
+The rules are the work, and the fact that these rules produce runnable code 
+is secondary.
+```
+
+As to why esolangs -- there's a lot of nostalgia:
+
+```markdown
+Where code golf and obfuscated code willingly embrace esoteric methods of
+programming, we can also see in these alternate methods a breaking away from 
+the safety of high-level languages, a call back to what programming was like 
+in the days of machine code – particularly in esolangs themselves. 
+
+Wendy Hui Kyong Chun has written about how giving up the direct interface with
+the machine was hard for early programmers. Chun quotes John Backus, developer
+of FORTRAN about the “black art” of early coding, saying they had a
+
+	chauvinistic pride in their frontiersmanship and a corresponding
+	conservatism, so many programmers of the 1950s began to regard themselves 
+	as members of a priesthood guarding skills and mysteries far too complex 
+	for ordinary mortals. Languages like FORTRAN opened up this world to
+	people who were not trained in this black art.
+
+In a sense, alternative coding practices recreate this sense of code as an
+esoteric knowledge. Here not in a chauvansitic way, but with a sense of 
+excitement in breaking new ground within deliberately obscure rules offered by
+an esolang or a set of code golf constraints. Each esolang creating a unique 
+means of communicating with the computer that make sense only to esoprogrammers
+willing to bypass the niceties of mainstream computing. Esolangs may convolute
+code but do it in a way that gives esolangers access to low-level activity 
+masked in the name of safety and ease provided by these high level languages. 
+As crazy as brainfuck looks, it forces one to deal with memory cells directly;
+much of the delight of the language is in this engagement with the machine
+which is obscured by the safety of high level code and the “humble” approach 
+of reducing complexity. The most extreme of which is probably Checkout, a 
+language proposal that tries to give direct chip access to the programmer.
+```
+
+Scott Feeney, founder of esolangs.org:
+
+```markdown
+I think what’s most interesting about
+esolangs is the conversation between
+languages, which ask questions, and
+programs written in those languages, which
+answer the questions. When you build a new
+esoteric language with a weird set of
+constraints, you get people thinking: I wonder
+if I can do X in this language? I wonder if
+there’s a way to do Y? And figuring that out,
+by writing programs that do X and Y, can be
+a fun challenge.
+```
 
 <a name="#Temkin-on-code-art"></a>
 ## Temkin on code art
@@ -125,6 +246,86 @@ increased repetition, as it is hard for us to understand even relatively immedia
 repercussions of our actions in the logical space, bringing us again and again to 
 unexpected places.
 ```
+
+<a name="#Language-without-code"></a>
+### Language without code
+([overview](#overview)) 
+
+Some of the most mind-bending stuff in Daniel Temkin's [eponymous paper](http://artes.ucp.pt/citarj/article/view/432/212). 
+
+The abstract promises/claims a whole lot:
+
+```markdown
+Most esolangs are experiential works; we understand the
+languages by writing code in them. Through this
+action, the logic of the language becomes clear.
+
+However, a smaller subset of esolangs make their
+point not through actively writing code, but instead by
+simply contemplating their rules. We can think of
+these esolangs as conceptual rather than
+experiential. Some are designed in such a way that
+they don’t allow any code to be written for them at all.
+
+By stepping away from usability, the conceptual
+esolangs offer the most direct challenge to the
+definition of programming language, a commonly
+used term which is surprisingly unspecific, and
+usually understood through utility, despite the fact
+that programming languages predate digital
+computers. 
+```
+
+PLs that don't allow code to be written for them at *all?* What does that even *mean?*
+
+Take Three Star Programmer, created in 2015 by ais523:
+
+```markdown
+This language asks programmers to write code with
+three levels of indirection: pointers to pointers to
+pointers to memory cells. A program in Three Star
+Programmer is in the form of a string of numbers;
+each can be thought of as both raw data and as a
+pointer to another location in memory, where that
+memory is also the code itself. The numbers are
+consecutively read, each dereferenced three times
+(meaning the interpreter jumps to the location
+corresponding to the number in that cell), until we get
+to a final number which is then incremented.
+However, that final location is also a pointer (to a
+pointer to a pointer), meaning where it points has just
+changed. 
+
+On the esolangs wiki, ais523 (the creator of
+the language) says "it's very hard to actually write
+anything in the language, because of the fundamental
+nature of the language, in which everything affects
+everything else and no change is really reversible."
+Despite this, at the time of writing, it was not yet
+known how powerful it was, in terms of the language’s
+potential to represent algorithms. 
+
+Between the time of writing and final publication of
+this paper, ais523 has reported that the language has 
+indeed been proven Turing Complete.
+```
+
+Why do esolangs strive for Turing completeness? Because it's aesthetic to show that a strange idea is also very expressive/powerful:
+
+```markdown
+For example, the highly influential
+esolang brainfuck (typically spelled lower-case)
+expresses all code in eight commands, each
+represented by a punctuation mark. What makes
+brainfuck interesting is how such a minimal language
+with such odd logic is provably as powerful a
+language as Python or C, despite having no built-in
+representation of the number 2 or of the action of
+multiplication. 
+```
+
+
+
 
 <a name="#Hacking"></a>
 ## Hacking
