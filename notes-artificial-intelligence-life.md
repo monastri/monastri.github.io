@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 11,800*
+*[Word count](https://wordcounter.net/): 12,700*
 
 ## What is this?
 
@@ -58,6 +58,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [Evolution as alien god](#evolution-as-alien-god), where I first learned that there are many evolutions, as many as reproducing populations
 	1. [Gene-centered view](#gene-centered-view)	
 2. [Levels of Organization in General Intelligence](#Levels-of-Organization-in-General-Intelligence)
+2. [Microbiology](#Microbiology)
+	1. [Cells are very fast and crowded places](#Cells-are-very-fast-and-crowded-places)
 3. [Models](#models)
 	1. [Deep learning](#Deep-learning)
 		1. [Limitations of deep learning](#Deep-learning-limitations)
@@ -66,6 +68,101 @@ I've sorted the quotes below into the following categories. This is a provisiona
 3. [Xenology](#Xenology)
    
 ---------------------------------
+
+
+<a name="#Microbiology"></a>
+## Microbiology
+([overview](#overview))
+
+<a name="#Cells-are-very-fast-and-crowded-places"></a>
+### Cells are very fast and crowded places
+([overview](#overview))
+
+From the [eponymous blog post](http://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html) by computer historian/old-school electronic engineer Ken Shirriff -- do visit his page for videos and illustrations!
+
+Cells are packed:
+
+```markdown
+I recently learned that cells are extremely crowded and busy places. I knew there's 
+a lot of activity in cells, but I didn't realize just how much until I was reading 
+*Molecular Biology of the Cell*. ...
+
+I imagined cells as big open spaces with lots of stuff happening, perhaps something 
+like Central Park. From the "Inner Life of a Cell" video, or the typical drawing of 
+a cell, it looks like a lot of empty space. But it turns out that cells are crammed 
+full of stuff, more like New Year's Eve at Times Squares. Proteins are packed tightly
+into cells.
+
+I came across another interesting representation of how crowded cells are. This 
+diagram shows a synaptic vesicle, which is the part of a neuron that releases 
+neurotransmitters from one neuron to another. When I saw this diagram, I assumed that
+the authors crammed all the different proteins into the picture so they could create
+a nice illustration of the different membrane proteins. But in fact, the diagram below
+omits 1/3 of the proteins so real membranes are even more crowded. The paper 
+containing this diagram states that instead of thinking of membranes with proteins 
+floating in them like icebergs, we should think of membranes as packed with proteins
+like a cobblestone pavement. 
+```
+
+Intracellular stuff moves fast:
+
+```markdown
+You may wonder how things get around inside cells if they are so crowded. It turns out
+that molecules move unimaginably quickly due to thermal motion. A small molecule such
+as glucose is cruising around a cell at about 250 miles per hour, while a large protein
+molecule is moving at 20 miles per hour. Note that these are actual speeds inside the 
+cell, not scaled-up speeds. I'm not talking about driving through a crowded Times 
+Square at 20 miles per hour; to scale this would be more like driving through Times 
+Square at 20 million miles per hour!
+
+Because cells are so crowded, molecules can't get very far without colliding with 
+something. In fact, a molecule will collide with something billions of times a second 
+and bounce off in a different direction. Because of this, molecules are doing a random 
+walk through the cell and diffusing all around. A small molecule can get from one side 
+of a cell to the other in 1/5 of a second.
+
+As a result of all this random motion, a typical enzyme can collide with something to 
+react with 500,000 times every second. Watching the video, you might wonder how the
+different pieces just happen to move to the right place. In reality, they are covering
+so much ground in the cell so fast that they will be in the "right place" very 
+frequently just by chance.
+
+In addition, a typical protein is tumbling around, a million times per second. Imagine 
+proteins crammed together, each rotating at 60 million RPM, with molecules slamming 
+into them billions of times a second. This is what's going on inside a cell.
+
+The incredible speed and density of cells also helps explain why it's so difficult to 
+simulate what's happening inside a cell. Even with a supercomputer, there's way too much
+going on inside a cell to simulate it without major simplifications. Even simulating a 
+single ribosome is a huge computational challenge.
+
+Another thing that surprised me about cells is how fast the motors inside cells move. 
+Like a mechanical robot with two lumbering feet, a kinesin motor protein can be seen in
+the video at the 2 minute mark dragging a monstrous bag-like vesicle along a microtubule
+track. These motor proteins move cargo through the cell if diffusion isn't fast enough to
+get things to their destination, which is especially important in extremely long cells 
+such as neurons. Kinesin motors also help separate cells that are dividing.
+
+It's remarkable enough that cells contain these mechanical walkers, but I recently learned 
+that they aren't plodding along, but actually sprint at 100 steps per second. If you watch 
+the video again, imagine it sped up to that rate.
+
+Mitochondria also provide a fascinating look at just how fast things are inside cells. You
+may know that mitochondria are the power plants of cells; they take in food molecules, 
+process it through the famous citric acid cycle, and then use oxygen to extract more energy,
+which is provided to the rest of the cell through molecules of ATP, the cell's "energy 
+currency".
+
+Mitochondria have many strange features - such as their own DNA separate from the cell's - 
+but one of their strangest features is they use electric motors to produce ATP. Mitochondria
+use the energy from oxidizing food to pump protons out of the cell, creating a voltage of 
+170mV across the cell. This voltage causes a complex enzyme to spin, and the mechanical 
+energy of this spinning enzyme creates the ATP molecules that energize the rest of the cell.
+
+Watching the leisurely turning enzymes illustrates one of the amazingly complex mechanisms in
+a cell. But what really surprised me was to learn that in real life, these enzymes spin at up
+to 700 revolutions per second, which is faster than a jet engine. 
+```
 
 <a name="#Xenology"></a>
 ## Xenology
