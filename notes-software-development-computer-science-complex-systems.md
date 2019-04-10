@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 31,300*
+*[Word count](https://wordcounter.net/): 33,700*
 
 ## What is this?
 
@@ -56,6 +56,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [What esolangs are, and why](#What-are-esolangs)
 	1. [Daniel Temkin on code art](#Temkin-on-code-art)
 	2. [Intentionally unusable, uncomputable, or conceptual languages](#Language-without-code)
+	3. [INTERCAL](#intercal)
 2. [Hacking](#Hacking)
 2. [Operating systems](#Operating-systems)
 	1. [Why OSes?](#Why-operating-systems)
@@ -98,6 +99,12 @@ software; tools that can be used in infinite different ways but have their
 own logic of getting to that goal.
 ```
 
+or: 
+
+```markdown
+Languages are already almost nothing: sets of rules, with no particular implementation. 
+```
+
 More discussion in [Language without code](http://artes.ucp.pt/citarj/article/view/432/212):
 
 ```markdown
@@ -137,6 +144,13 @@ languages. As the (possibly apocryphal but wholly
 -incharacter) quote from Edsger Dijkstra goes,
 "Computer science is no more about computers than
 astronomy is about telescopes". 
+
+Programming languages as logical systems lacking in
+ambiguity, along with their relentlessly imperative
+tone (even for the non-imperative languages, which
+are different in form but not in mood)—are perhaps
+what most clearly differentiate programming
+languages from natural language. 
 ```
 
 Chris Pressey is a central figure of esolangs; he ran the mailing list where the first community of esolangs came together. In [*The Aesthetics of Esolangs*](http://catseye.tc/node/The_Aesthetics_of_Esolangs), he argues that esolangs can be understood as art, but not as a form of digital art: 
@@ -198,6 +212,20 @@ if I can do X in this language? I wonder if
 there’s a way to do Y? And figuring that out,
 by writing programs that do X and Y, can be
 a fun challenge.
+```
+
+Why do esolangs strive for Turing completeness? Because it's aesthetic to show that a strange idea is also very expressive/powerful:
+
+```markdown
+For example, the highly influential
+esolang brainfuck (typically spelled lower-case)
+expresses all code in eight commands, each
+represented by a punctuation mark. What makes
+brainfuck interesting is how such a minimal language
+with such odd logic is provably as powerful a
+language as Python or C, despite having no built-in
+representation of the number 2 or of the action of
+multiplication. 
 ```
 
 <a name="#Temkin-on-code-art"></a>
@@ -310,22 +338,147 @@ this paper, ais523 has reported that the language has
 indeed been proven Turing Complete.
 ```
 
-Why do esolangs strive for Turing completeness? Because it's aesthetic to show that a strange idea is also very expressive/powerful:
+Another example is uncomputable code. Take Lenguage:
 
 ```markdown
-For example, the highly influential
-esolang brainfuck (typically spelled lower-case)
-expresses all code in eight commands, each
-represented by a punctuation mark. What makes
-brainfuck interesting is how such a minimal language
-with such odd logic is provably as powerful a
-language as Python or C, despite having no built-in
-representation of the number 2 or of the action of
-multiplication. 
+Lenguage embraces the minimalism of brainfuck, and
+uses the same command set, with a different
+encoding of signifiers. Lenguage’s name is a play on
+words; LEN() is the command in many languages that
+reports the length of a string. In Lenguage, the length
+of the program in characters is the only thing that
+matters. A C program could be a Lenguage program
+as well, if its length were correct to correspond to a
+series of commands (“Lenguage - Esolang,” 2014).
+
+Lenguage asks the question: do we need both 0 and
+1? If we're going for pure minimalism, why not just
+one symbol? With a vocabulary of undifferentiated
+symbols (such as 1s), we could represent code with
+anything: the length of a line, or enumerating each in
+a pile of rocks.
+
+In Lenguage, this is performed by translating each of
+brainfuck's commands into a binary sequence: 000
+for + (increment), 001 for - (decrement) etc., and set
+in order, to produce a single number. A program with
+the length of that number will be read by the
+Lenguage interpreter by translating that number into
+binary and reading the sequence, giving us the
+program.
+
+The Hello World program for Lenguage is any file with
+17,498,005,810,995,570,277,424,757,300,680,353,
+162,371,620,393,379,153,004,301,136,096,632,219
+,477,184,361,459,647,073,663,110,750,484
+characters. At 1.75 * 10^102, it's more than a Googol
+characters. This means the Hello World program, if
+stored at the atomic level (counting individual atoms
+to determine the program), would be larger than the
+size of the known Universe.
+```
+
+A somewhat more "practical" version of Lenguage is Spoon, which lets you just write the number representing the length of the input sequence for Lenguage:
+
+```markdown
+Spoon, created by S. Goodwin in 1998, took
+brainfuck and represented each of the commands
+with a binary sequence, similar to Lenguage. Where
+Lenguage took a minimalist approach to variety in
+input, Spoon allows us to simply write the number,
+rather than use the length of the sequence of the
+number. Furthermore, Spoon uses Huffman-encoded
+binary sequences, meaning the most commonly used
+commands (+ and -) are represented with the shortest
+sequence in binary digits; + is a single 1, - is 000. Had
+Lenguage used Huffman-encoding, its Hello World
+program would be only nineteen quattuorvigintillion,
+10^76, only the informational content of a one-solar
+mass black hole. 
+```
+
+And *then* there's Chris Pressey's derivative of Spoon, called You are Reading the Name of this Esolang (pronounced "You are Hearing the Name of this Esolang"); running programs written in it is equivalent to solving the halting problem:
+
+```markdown
+It is Spoon with two additional
+symbols; opening and closing brackets. Code held in
+the brackets are read as complete Spoon programs
+in themselves and executed first. If they complete,
+they are translated to 1s and dropped back into the
+original sequence. If they do not halt (get stuck in an
+infinite loop), they are translated into 0s (“You are
+Reading the Name of this Esolang - Esolang,” n.d.).
+
+While some trivial infinite loops can be detected, Alan
+Turing proved that there is no generalized solution to
+determining whether a piece of code will halt; this is
+known as the Halting Problem (Turing, 1937). You are
+Reading the Name of this Esolang has taken a
+fundamental computational problem and moved it
+from the performance of code into the lexical analysis
+of code. While some You are Reading the Name of
+this Esolang programs may be validated by a human
+reader or the compiler, it has been proven definitively
+that the machine has no general way to validate a
+sequence as being a You are Reading the Name of
+this Esolang program. It could take exponential time,
+or possibly forever, to compile such a program.
+Rather than being larger than the universe, You are
+Reading the Name of This Esolang is beyond the
+reach of any currently conceivable technology.
+
+Traditional programming languages try to remain
+unobtrusive, to let us see how the code will function
+as clearly as possible, rather than drawing attention
+to its actual structure as symbols on a screen,
+esolangs frequently bring our attention back to the
+surface layer of the language. With a language like
+You are Reading the Name of This Esolang, the
+name alone is a constant reminder that we are
+dealing with something very different, where the
+language is not something we can easily see through,
+but a structure to be wrestled with, or a puzzle for us
+to ponder and consider in its own right.
 ```
 
 
+<a name="#INTERCAL"></a>
+### INTERCAL
+([overview](#overview)) 
 
+INTERCAL was the first esolang. From Daniel Temkin's [Language without code](http://artes.ucp.pt/citarj/article/view/432/212):
+
+```markdown
+INTERCAL (somehow short for "Compiler Language
+With No Pronounceable Acronym"), generally
+considered the first esolang (it was created in 1972),
+included a set of documentation filled with
+nonsensical diagrams and misleading statements.
+Some aspects of the language were left to be
+discovered, or intentionally ambiguous. INTERCAL
+required the keyword PLEASE scattered throughout
+the program. Not enough PLEASEs and the entire
+program would be ignored, as the interpreter found
+the program too rude. Too many PLEASEs and the
+interpreter saw the programmer as simpering and
+also ignored the entire thing. The correct proportion
+of PLEASEs to commands was not in the
+documentation, leaving the programmer to discover
+on her own how to get the program running
+(Bratishenko, 2009; Smith, 2007). The PLEASE
+command also brings our attention to the one aspect
+that nearly all programming languages have in
+common: the relentlessness of their commanding
+tone.
+
+When INTERCAL was rewritten as C-INTERCAL (by
+Eric S. Raymond in 1990), making it available to a
+wider audience, he had to choose which features
+were critical to maintain and which to modernise. He
+chose to better document the language (spoiler: it's
+"approximately 3 non-polite identifiers for every polite
+identifier used")
+```
 
 <a name="#Hacking"></a>
 ## Hacking
