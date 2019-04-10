@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 3,100*
+*[Word count](https://wordcounter.net/): 4,500*
 
 ## What is this?
 
@@ -57,11 +57,213 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	3. [The Singularity has already happened](#the-singularity-has-happened)
 2. [The origins of information society](#Origins-of-information-society)
 3. [Rambling and AI](#rambling-and-ai)
+4. [The rhizomatic frankenstack of today's IT ecosystem](#rhizomatic-frankenstack)
 
 ---------------------------------------------------
 
+<a name="#rhizomatic-frankenstack"></a>
+## Rhizomatic frankenstack
+([overview](#overview))
+
+From Venkat's [Breaking Smart newsletter](https://mailchi.mp/ribbonfarm/frankenstacks-and-rhizomes). 
+
+Introduction:
+
+```markdown
+The experience of suddenly being dumped into a messy, high-stakes emerging IT ecosystem
+got me reflecting on a theme I keep returning to lately: the sheer complexity of the IT
+stack we rely on today as individuals. 
+
+Today, each of us lives within what I call a frankenstack. An assemblage of information 
+technologies duct-taped together with a mess of protocols, and forming what philosophers
+call a rhizomatic structure.
+
+1/ Consider the difference between an onion and a piece of ginger. The ginger root is the
+motif for what philosophers call a rhizome. The onion for what they call an arborescence.
+
+2/ With an onion, you can always tell which way is up, and can distinguish horizontal 
+sections apart from vertical sections easily by visual inspection.
+
+2/ With a piece of ginger, there is no clear absolute orientation around an up, and no 
+clear distinction between horizontal and vertical.
+
+3/ According to the linked Wikipedia entry (worth reading), a rhizome "allows for multiple, 
+non-hierarchical entry and exit points in data representation and interpretation."
+
+4/ If you tend to use the cliched "hierarchies versus networks" metaphor for talking about
+old versus new IT, you would do well to shift to the rhizomatic/arborescent distinction.
+
+5/ Both onions and ginger roots show some signs of both hierarchical structure and network-
+like internal connections.
+
+6/ The difference is that one has no default orientation, direction of change, or defining
+internal symmetries. Rhizomes are disorderly and messy in architectural terms.
+
+7/ The diagram above shows a partial view of my personal frankenstack: a mess sprawling 
+over wordpress, slack, mailchimp and dozens of other technology platforms.
+
+8/ As a free agent solopreneur with a weird mix of activities, my frankenstack is probably
+more complex than most, but not as complex as some power-users I know.
+
+9/ If you work in a large organization defined by an enterprise IT system, your frankenstack
+is likely more arborescent than mine. More onion-like.
+
+10/ But this is not going to last much longer. Already, bleeding edge enterprise IT platform
+architecture is acquiring the rhizomatic characteristics of the consumer web.
+```
+
+Why is the rhizome a better mental model for IT infrastructure than either hierarchies or networks? The answer has to do with the curse of dimensionality:
+
+```markdown
+12/ All of us today live informationally high-dimensional lives. We manage many complex 
+information stocks and flows that merge and mix in a labyrinthine permissions/security
+matrix.
+
+13/ Hierarchies and networks are both clean, legible architectural patterns. Applying 
+them to high dimensional situations is highly budrensome and largely useless.
+
+14/ Consider an organization with a strictly hierarchical org chart. You could model it
+with a single variable: who reports to whom. "Level" is a dependent variable.
+
+15/ Or consider an organization that's a strict network topology. You could model it
+with a graph: who is connected to whom. "Degrees of separation" is a dependent variable.
+
+16/ Now start to throw in complicating factors. In orgs, you could have dotted-line 
+relationships, floating assignments, full-time/part-time boundaries, staff vs. line etc.
+
+17/ In a network, you could have different complicating factors: asymmetry vs symmetry in
+follows, algorithmically maintained feeds that drive interactions, and so forth.
+
+18/ With each complicating factor, more new variables enter the picture. The 
+dimensionality increases. However, not all dimensions are equally important.
+
+19/ So you end up with a mess of organizing constructs: hierarchies, networks, group
+boundaries, permission levels, version histories, event histories, and so on.
+
+20/ If you tried to extend a platonic concept like "hierarchy" or "network" you'd end up 
+with impossibly high-dimensional structures that are empty for the most part.
+
+21/ Instead, you switch to only modeling things that have information content, and doing 
+so piecemeal. You end up with "crumpled" versions of high-dimensional structures in low-
+dimensional spaces.
+
+22/ In my rhizome picture above for example, there are a dozen dimensions (the words in
+green). But I have a loose, gingery representation in 3d space.
+
+23/ Things are related as they are pragmatically required to be, and interpenetrate and
+relatively orient as is most convenient, rather than to conform to a platonic pattern.
+
+24/ The archetypal action in a rhizomatic information architecture is cut-and-paste. The 
+spreadsheet is the archetypal integration tool: a sort of generalized clipboard.
+
+25/ There is a relationship here to the idea that the medium is the message, and Conway's
+law (product structure mirrors org structure).
+
+26/ Our information environments are becoming rhizomatic because our informational lives
+are becoming rhizomatic, and vice versa, in a chicken-and-egg loop.
+
+27/ Tools with rhizomatic dispositions include, besides cut-and-paste and spreadsheets, 
+things like IFTTT, Zapier, and at the enterprise level, things like microservices.
+```
+
+Rhizomes aren't just about information:
+
+```markdown
+28/ Rhizomes aren't just about information. They are also about computational
+capabilities, distribution capabilities, relationships, trust, and permission 
+architectures.
+
+29/ Two of the biggest technologies evolving today -- the blockchain and machine learning
+-- are fundamentally rhizomatic in their DNA. You have to tread gingerly around them.
+
+30/ Both have the predisposition to follow the contours of information content rather 
+than idealized organization patterns. Neither is architecturally well-behaved and 
+disciplined.
+
+31/ Rhizomes are information dense, topologically complex (things connecting in weird ways),
+highly heterogeneous and variegated, structurally compact, and with strong form-content 
+coupling.
+
+32/ Unlike pure-paradigm architectures, rhizomes mix and match multiple architectural 
+paradigms along with emergent structures to create high-dissonance information environments.
+```
+
+What is it like to live in a rhizome?
+
+```markdown
+33/ What is it like to live in a rhizome? Well for starters, there are no default entry or
+exit points, no "onboarding manual" that teaches you how to survive in one, and no "up."
+
+34/ There is perhaps a distinction between a n00b and an expert, but it is highly localized 
+around specific corners of the rhizome. You can go from n00b to expert and back to n00b in
+2 steps.
+
+35/ In a traditional org, you can count the floors between the executive suite and say 
+the shop floor where blue-collar workers build products on assembly lines. Authority falls
+as the elevator descends.
+
+36/ n00b/expert relationships change slowly and predictably in space as you move. Expertise
+and authority turfs are simply connected and simply bounded.
+
+37/ In a rhizome, in a move from point A to point B, relative knowledge and expertise might
+swing wildly. And the value of actions might swing wildly while you're moving.
+
+38/ A rhizome is also a high-friction space. Movement through a rhizome involves an
+unpredictable stream of transaction costs. Every journey is an obstacle course.
+
+39/ Sometimes there's a good FAQ page, other times a tweet makes a difference between a 
+minute and a week. Discovered structure, rather than inferences from maps, dictates the 
+cost of action.
+
+40/ Sometimes having a programmer friend whom you can quickly email can make the impossible
+possible. Sometimes an online forum saves hours, sometimes it wastes hours.
+
+41/ Sometimes a single click moves mountains. Other times, you need to move mountains to do
+one tiny thing. Effort-outcome relationships get out of whack.
+
+42/ Sometimes really important things are trivially easy if you happen to know somebody who
+knows one weird trick. Other times, common-sense things turn out to be impossible.
+
+43/ In a rhizomatic world, if your expectations and work habits are built around architectural 
+cleanliness, you will get deeply frustrated and be perennially frozen.
+
+44/ If you can only navigate well-paved paths and clean, well-lit spaces, you'll likely spend
+a lot of time in low-value, or even futile, ritualized behaviors while getting nothing done.
+
+45/ You must be willing to adopt an opportunistic approach to navigating complexity, and 
+switch from ugly hack to elegant beauty, from amateurish fumble to expert flourish, in an 
+instant.
+
+46/ You've heard of analysis paralysis, right? I have a similar concept I call aesthetic 
+paralysis: the desire for elegance in behavior limiting your agency. Superficial beauty is 
+expensive in a rhizome.
+
+47/ This is not to say rhizomes are ugly. Once you accept their inevitability, the act of 
+navigating a rhizome can start to acquire its own beauty. 
+
+48/ You start to be less attached to received ideas of importance, order, and logic, and 
+learn to interact with the natural logic of the environment.
+
+49/ You learn to adjust your aesthetic sensibilities to what you're experiencing, so you 
+can actually see what's going on, rather than being bound by aesthetic expectations.
+
+50/ You start to gain what a friend of mine just described as "infrastructure fluency." This
+is in a way the opposite of architectural taste: an ability to experience the artificial
+world in its natural language.
+
+51/ Unlike in physical architecture, where there is such thing as an architect's view of 
+reality, the only guide to a true rhizome is a burglar's guide. So stop worrying, and learn
+to love your frankenstack.
+```
+
+
+
+```markdown
+
+```
+
 <a name="#rambling-and-ai"></a>
-### Rambling and AI
+## Rambling and AI
 ([overview](#overview))
 
 From Robin Hanson's post [Better Babblers](http://www.overcomingbias.com/2017/03/better-babblers.html), speculating on how the world might change in the proliferation of GPT-2s: 
