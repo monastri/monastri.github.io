@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 4,500*
+*[Word count](https://wordcounter.net/): 5,000*
 
 ## What is this?
 
@@ -60,8 +60,57 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [Show, don't tell -- or not](#show-dont-tell)
 	2. [Vary sentence lengths](#Vary-sentence-lengths)
 	2. [The road to hell is paved with adverbs](#The-road-to-hell-is-paved-with-adverbs)
+3. [Books vs blogs](#books-vs-blogs)	
 	
 -----------------------
+
+<a name="#books-vs-blogs"></a>
+## Books vs blogs
+([overview](#overview))
+
+Tech/biz strategy writer Ben Thompson [wrote](https://stratechery.com/2017/books-and-blogs/) that in his personal experience, "while books remained a fantastic medium for stories, both fiction and non, blogs were not only good enough, they were actually better for ideas closely tied to a world changing far more quickly than any book-related editorial process can keep up with":
+
+```markdown
+A book, at least a successful one, has a great business model: spend a lot of time and 
+effort writing, editing, and revising it up front, and then make money selling as many 
+identical copies as you can. The more you sell the more you profit, because the work has
+already been done. Of course if you are successful, the pressure is immense to write 
+another; the payoff, though, is usually greater as well: it is much easier to sell to
+customers you have already sold to before than it is to find customers for the very first
+time.
+
+There is, though, at least from my perspective, a downside to this model: a book, by 
+necessity, is a finished object; that is why it can be printed and distributed at scale.
+The problem is that one’s thoughts may not be final; indeed, the more vital the subject,
+the more likely a book, with its many-month production process, is to be obsolete the 
+moment it enters its final state of permanence.
+
+When I started Stratechery four years ago, with my 384 Twitter followers and little else,
+the thought of writing a book never crossed my mind; not only did I not have a contract, 
+I didn’t even have a topic beyond the business and strategy of technology, a niche I
+thought was both under-served and that I had the inklings of a point of view on.
+
+Since then it has been an incredible journey, especially intellectually: instead of 
+writing with a final goal in mind — a manuscript that can be printed at scale — 
+Stratechery has become in many respects a journal of my own attempts to understand 
+technology specifically and the way in which it is changing every aspect of society 
+broadly. And, it turns, out, the business model is even better: instead of taking on the 
+risk of writing a book with the hope of one-time payment from customers at the end, 
+Stratechery subscribers fund that intellectual exploration directly and on an ongoing 
+basis; all they ask is that I send them my journals of said exploration every day in email
+form.
+
+To put it another way, at least in my experience, the lowly blog has fully disrupted the
+mighty book: the former was long thought to be an inferior alternative, or at best, a 
+complementary piece for an author looking to drum up an audience; slowly but surely, 
+though, the tools have gotten better, everything from social media for marketing to 
+Stripe for payments to WordPress for publishing to tools like Memberful for subscriber
+management. It became increasingly apparent, to me anyways, that while books remained a 
+fantastic medium for stories, both fiction and non, blogs were not only good enough, they
+were actually better for ideas closely tied to a world changing far more quickly than any
+book-related editorial process can keep up with.
+```
+
 
 <a name="#fiction"></a>
 ## Fiction
