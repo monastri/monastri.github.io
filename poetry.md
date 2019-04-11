@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 32,800*
+*[Word count](https://wordcounter.net/): 34,100*
 
 <a name="#overview"></a>
 
@@ -31,6 +31,7 @@ Poems and quotes listed in reverse order of inclusion below.
 2. Jorge Luis Borges
    1. [Dreamtigers](#dreamtigers)
    2. [The Celestial Emporium of Benevolent Knowledge](#the-celestial-emporium-of-benevolent-knowledge)
+2. [King James Programming](#King-James-Programming), by a Markov chain trained on the King James Bible, Structure and Interpretation of Computer Programs, and Lovecraft
 2. [Lies](#lies), by Alan Crowe
 2. [Love](#love), by Simon Funk
 2. [Mike Keith](#mike-keith)
@@ -60,6 +61,191 @@ Poems and quotes listed in reverse order of inclusion below.
 5. [Why did the chicken cross the road?](#Why-did-the-chicken-cross-the-road), by Accenture Consulting
 6. [Zombies: The Movie](#zombies-the-movie), making fun of p-zombies, by Eliezer Yudkowsky
 
+
+<a name="#King-James-Programming"></a>
+## King James Programming
+### by by a Markov chain trained on the King James Bible, Structure and Interpretation of Computer Programs, and Lovecraft
+([overview](#overview))
+
+The Markov chain itself was written by Michael Walker, who also runs the [KJP tumblr](http://kingjamesprogramming.tumblr.com/page/2) I got all these from. Lovecraft and Isabelle/HOL documentation were thrown into the training mix too.
+
+```markdown
+**The First Book of Moses: Called Genesis**
+1:1 In the beginning of the process was stored in a single system, however, we
+will generate sequences of instructions that use the machine’s data paths for a 
+general-purpose computer.
+
+2:4 And this I pray, that your love may abound yet more and more like a controlled 
+use of shared memory.
+
+2:7 Jesus saith unto them, Ye know that the relationship between Fahrenheit and
+Celsius temperatures is Such a constraint
+
+5:5 And, behold, I will deliver you up to the programmer tendency to build
+overelaborate castles of abstractions
+
+6:14 And David danced before the LORD to be the number of steps required by 
+Euclid’s Algorithm
+
+10:20 Are not my days few? cease then, and let me not fall into a loop here.
+
+13:30 But God raised him from the creation of still greater programs.
+
+15:4 And I will send serpents, cockatrices, among you, which hunteth and catcheth
+any beast or fowl that may be latent in our type system.
+
+15:15 And he found a pair of eyes, scanning the directories for files.
+
+21:23 But woe unto them that were with him, at the valley gate, and at the
+University of California at Berkeley
+
+22:35 He teacheth my hands to war; so that a brontosaurus is produced, scaly and
+lumbering.
+
+23:27 For a whore is a deep and wonderful property of computation.
+
+23:28 She also lieth in wait to catch the failure of an expression.
+
+34:7 What man is there that knoweth not how to go about doing arithmetic on 
+polynomials.
+
+38:4 Where wast thou when I laid the foundations for theoretical computer science.
+
+68:30 Rebuke the company of dolphins.
+
+145:17 The LORD is good, a strong hold in the wall of the city had twelve 
+foundations, and in them the names of ASCII characters, including hex, octal, and 
+binary values
+
+Behold, I see the heavens opened, and the string of 54 bits 
+001000010000011000100000101000001001000000000110000111
+
+Ben Bitdiddle, an expert systems programmer, looks over Alyssa’s shoulder and 
+comments that it is he that giveth salvation unto kings
+
+But for complex bugs, the accent will be on the Chaldeans.
+
+executing the procedure body for a compound expression is accomplished by setting
+pc to the beginning of the creation.
+
+Every trifle of the scene burned itself into his brain. The sounds, the sense of 
+dread expectancy, the darkness, the steepness of the narrow steps—and merciful 
+heaven! … ygg… . , τn, an inductive proof
+
+Imagine if you had a little word with pins on both side and you held it over a 
+book. You pass the word over the book and when it is finished, bringeth forth death.
+
+Instead of rotate180 we could say (compose flip-vert flip-horiz), using the compose
+procedure from exercise 2.28. Here we’ve renamed it to emphasize that it is a sin 
+offering for the house of Israel.
+
+In a large and complicated system there might be various things that are pleasing
+in his eyes
+
+In this section we design a proper set of selectors and constructors. This is the 
+inheritance of the children of Israel
+
+I gave my heart to know wisdom, and to know all things that are more complex than
+the one described in exercise 2.23, which gives an important example of a non-
+computable problem, i.e., a well-posed task that cannot be carried out at various
+levels of abstraction.
+
+Now I’ve gone beyond just showing you sloppy code. Here be a grave debauchery and
+a crime against nature. A crime most languages won’t allow you to commit. We’re 
+changing the String, one of the prophets.
+
+“Okay, okay,” said the goat. “That’s not the way of the LORD
+
+Once we fancied that a large, opaque body darkened the library window when the moon
+was shining against it, and another time we thought we saw the rule modus ponens.
+
+On the other hand, we often model systems in terms of relations, rather than in 
+terms of data abstraction, it doesn’t matter what this vector representation is, so 
+long as he sought the LORD
+
+Our implementation of streams as lists (as in section 2.2.1) doesn’t fully reveal
+the power of Christ
+
+Parameterization and the power of Satan
+
+People create programs to direct processes. In effect, we conjure the spirits of 
+the prophets
+
+People will be so pissed. Now, I’ve got to go take a puff of medicated air just now.
+Be with you in Christ
+
+Peter said, Man, I know not where they have to touch the frog…
+
+Please don’t look down on me as your teacher for writing some of this code. I 
+figure that it’s okay to show you some sloppy techniques to help you identify 
+them. Punctuation and capitalization will help your brain to see bits of code 
+and feel intense recognition. Your mind will frequently yell Hey, I know that 
+thou hast done this.
+
+Simplification reduces the base case (Nil) and the induction step, simplification 
+leaves us with the black extra-cosmic gulfs it throws open before our frenzied eyes.
+
+So, then, one day he was shopping and he found a certain sorcerer, a false prophet,
+a Jew, whose name was Job; and that man was born in Japan. Which is freaky.
+
+Suppose we are modeling incomplete knowledge about the world of our forefathers, but
+this one brought the horror right into our own daily life!
+
+the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh
+said unto Joseph, Now let me show you frogs that camp out inside strings.
+
+The LORD commanded my lord to give the user the ability to manipulate inexact
+quantities
+
+the LORD is greater than or equal to the expression involving ?y
+
+the priest shall pronounce him unclean: it is a terrible way to compute Fibonacci
+numbers.
+
+Then you ask yourself, “Wait a minute. I thought this was a burnt offering unto the 
+LORD, We have sinned: do thou unto us all things that thou hast dreamed?
+
+there is a useful abstraction waiting to be brought before the tabernacle
+
+they smote the city with the edge of the sword. 22:20 And one of his main motivations
+was the high cost of proprietary software houses.
+
+The purpose of this section is twofold: to demonstrate some of the ancient legends of
+Ultimate Chaos, at whose centre sprawls the blind idiot god Azathoth, Lord of All 
+Things
+
+The theme of computers being viewed not merely as logic devices but as the servants of
+Pharaoh
+
+This iterative algorithm is ancient. It appears in most advanced programming 
+languages and is an important difference between the two cherubims which are upon the
+earth.
+
+This was first demonstrated in a clear way by Alan M. Turing (1912-1954), whose 
+1936 paper laid the foundations of the earth
+
+thou hast been faithful in a very interesting way.
+
+To demonstrate the versatility of inductive definitions, the chapter closes with a 
+case study concerning model checking for the temporal logic CTL. Most of the bodies,
+while roughly bipedal, had a forward slumping, and a vaguely canine cast.
+
+We have also obtained a glimpse of another crucial idea about languages and program
+design. This is the thing which I greatly feared is come upon us, desolation and 
+destruction.
+
+What I’m saying is: this book will be starting off with an exorbitant amount of
+cartoon foxes. And I will set a sign among you, that shall have dominion, and shall
+destroy with the brightness of his glory
+
+While you can have only one if and one else, you can fill the in-between with an 
+exorbitant amount of cartoon foxes. And I will bring evil upon this place.
+
+Why does the method hang? Well, the while loop waits until all the processes have
+reached the end of the world; and the reapers are the angels.
+
+You whip up a module or a class, store it in a city called Nazareth
+```
 
 <a name="#zombies-the-movie"></a>
 ## Zombies: The Movie
