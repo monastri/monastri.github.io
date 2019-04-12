@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 34,100*
+*[Word count](https://wordcounter.net/): 34,500*
 
 <a name="#overview"></a>
 
@@ -13,6 +13,7 @@ Poems and quotes listed in reverse order of inclusion below.
    1. [The House Beyond Your Sky](#The-House-Beyond-Your-Sky)
    2. [Elsewhere](#elsewhere)
 2. [Bistromathic Drive](#Bistromathic-Drive), by Douglas Adams
+2. [Capitalism's nightmare dance](#The-nightmare-dance-of-capitalism), by Francis Spufford in *Red Plenty*
 2. [Daddy](#daddy), by Sylvia Plath
 2. [Don't become a well-rounded person](#dont-become-a-well-rounded-person), by Bruce Sterling
 2. [Dover Beach, fourth stanza](#dover-beach-fourth-stanza), by Matthew Arnold
@@ -62,9 +63,43 @@ Poems and quotes listed in reverse order of inclusion below.
 6. [Zombies: The Movie](#zombies-the-movie), making fun of p-zombies, by Eliezer Yudkowsky
 
 
+<a name="#The-nightmare-dance-of-capitalism"></a>
+## The nightmare dance of capitalism
+### by Francis Spufford
+([overview](#overview))
+
+This quote from Francis' book *Red Plenty* has been making the rounds on Tumblr, and it's not hard to see why. I first bumped into it in Scott's [review](https://slatestarcodex.com/2014/09/24/book-review-red-plenty/), itself a fantastic piece of rhetoric (it convinced me, for starters; it's got a ton of quotable passages for another). 
+
+Francis' prose is evocative. It evoked the same sense of dread/wonder/monstrous abomination that Allen Ginsberg's *Howl* did, if less intense.  (Every time the bar is cleared, it rises. Just like the [Barkley marathon](http://barkleymarathons.com/).)
+
+```markdown
+Marx had drawn a nightmare picture of what happened to human life under capitalism,
+when everything was produced only in order to be exchanged; when true qualities and
+uses dropped away, and the human power of making and doing itself became only an 
+object to be traded.
+
+Then the makers and the things made turned alike into commodities, and the motion of
+society turned into a kind of zombie dance, a grim cavorting whirl in which objects 
+and people blurred together till the objects were half alive and the people were half
+dead. Stock-market prices acted back upon the world as if they were independent
+powers, requiring factories to be opened or closed, real human beings to work or rest,
+hurry or dawdle; and they, having given the transfusion that made the stock prices
+come alive, felt their flesh go cold and impersonal on them, mere mechanisms for 
+chunking out the man-hours. Living money and dying humans, metal as tender as skin and 
+skin as hard as metal, taking hands, and dancing round, and round, and round, with no
+way ever of stopping; the quickened and the deadened, whirling on.
+
+And what would be the alternative? The consciously arranged alternative? A dance of 
+another nature. A dance to the music of use, where every step fulfilled some real need,
+did some tangible good, and no matter how fast the dancers spun, they moved easily, 
+because they moved to a human measure, intelligible to all, chosen by all.
+```
+
+The last passage was a paean to the dream of central planning, which arguably failed due to [computational complexity constraints](http://crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/).
+
 <a name="#King-James-Programming"></a>
 ## King James Programming
-### by by a Markov chain trained on the King James Bible, Structure and Interpretation of Computer Programs, and Lovecraft
+### by a Markov chain trained on the King James Bible, Structure and Interpretation of Computer Programs, and Lovecraft
 ([overview](#overview))
 
 The Markov chain itself was written by Michael Walker, who also runs the [KJP tumblr](http://kingjamesprogramming.tumblr.com/page/2) I got all these from. Lovecraft and Isabelle/HOL documentation were thrown into the training mix too.
