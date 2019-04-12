@@ -54,6 +54,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Cognitive science](#cognitive-science)
 2. [Collective cognition](#Collective-cognition)
 2. [Externalizing the brain](#external-brain), e.g. Google, writing
+	1. [The social computational hindbrain and the planetwide metabrain](#Social-computational-hindbrain), e.g. newsletter/blog+commentariat
 2. [Learning](#learning)
 	1. [Errors vs bugs](#errors-vs-bugs)
 	2. [Learning as maximizing the throughput of assumptions invalidated](#maximizing-the-throughput-of-assumptions-invalidated)
@@ -64,7 +65,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
 4. [Steve Yegge on memory](#Yegge-on-memory)
 5. [Wisdom](#wisdom)
-	6. [The predictive uselessness of folk wisdom](#The-predictive-uselessness-of-folk-wisdom) 
+	1. [The predictive uselessness of folk wisdom](#The-predictive-uselessness-of-folk-wisdom) 
 	
 
 ----------------------------------
