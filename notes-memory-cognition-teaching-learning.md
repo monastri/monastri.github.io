@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 17,500*
+*[Word count](https://wordcounter.net/): 19,600*
 
 ## What is this?
 
@@ -51,8 +51,9 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
 1. [Augmenting long-term memory](#augmenting-long-term-memory), e.g. Anki
-3. [Cognitive science](#cognitive-science)
-2. [Externalizing the brain](#external-brain), e.g. Google, writing, Cosma on collective cognition
+2. [Cognitive science](#cognitive-science)
+2. [Collective cognition](#Collective-cognition)
+2. [Externalizing the brain](#external-brain), e.g. Google, writing
 2. [Learning](#learning)
 	1. [Errors vs bugs](#errors-vs-bugs)
 	2. [Learning as maximizing the throughput of assumptions invalidated](#maximizing-the-throughput-of-assumptions-invalidated)
@@ -1275,7 +1276,245 @@ places physics in the most elegant possible notation. It’s not just theory add
 justify their work when they say that it aids in problem solving, it’s how cognition works.
 ```
 
-Cosma Shalizi is a great read for collective cognition. Here's the introduction he wrote to the [Collective Cognition:
+<a name="#Social-computational-hindbrain"></a>
+### Social computational hindbrain
+([overview](#overview))
+
+From Venkat Rao's [Passport to the metabrain](https://us1.campaign-archive.com/?u=78cbbb7f2882629a5157fa593&id=0f299f9100). Starts from the idea of distributed cognition, but segues into [collective cognition](#Collective-cognition). This subsection's topical placement should hence be taken as recall-aiding, not strict hierarchical.
+
+```markdown
+1/ We think about digital social technology with a connection metaphor: the social graph. 
+In this metaphor other people form a space we enter via connections.
+
+2/ I want to introduce you to the alternative *non-exclusive mutual containment* metaphor:
+the social hind-brain. In this metaphor, each of us has a second brain which other people 
+inhabit. ...
+
+6/ For concreteness, consider this email list of 4500 odd. Only a small minority of you 
+also have your own email lists. But what if ALL did and we were all on each other’s lists.
+
+7/ Imagine that participation inequality — the 90:9:1 rule — applied. For each of us, 1%
+of subscribers (450) would be active conversation partners, 9% (405) would be casual 
+commenters, and 90% (4050) would be lurkers.
+
+8/ This is very different from the idea of a single shared hive mind. There are 4500 
+*different* hive minds here, each with a different 90:9:1 "neural" structure and 
+interconnections within them.
+
+9/ The themes of the 4500 email lists, the writing style, collaborative thinking style,
+Q&A style, socialization style, all would make each second brain very unique.
+
+10/ And this is just email and text mediated semi-public relationships. Once you take into
+account for the media mix, content types, and access structure each of uses, you get 
+serious uniqueness.
+
+11/ In fact, each of us maintains an entire city-like social space, with a variety of formal
+and tacit rules, gatekeeping processes, conversations flows, memory structures (Evernote, 
+blogs) and so on. Our second brains are complete societies of other minds.
+
+12/ How these societies get “filled up” over time as we age and non-coercively “collect” 
+other people is non-trivial.
+
+13/ If you couple this concept of a second brain with the idea of fingers of mind, or 
+Fingerspitzengehful, which we talked about last season, you get a very different sense of
+your species nature.
+
+14/ Even with hardware hacking of the human brain and body, we are already a very different 
+species than the one that inhabits our default self-perceptions.
+
+15/ We are like the reverse of the Ood species in Doctor Who. We use technological prosthetics 
+to create a universe of hive minds, to which we’re connected via a sub-linguistic digital 
+tissue. ...
+
+19/ But humans are neither as collective and hive-mind-like as the Ood, nor as individualistic
+as many earth species. We just use ideology to wishfully mark where we think we are on the 
+spectrum.
+
+20/ Leftists place us more towards the global collective end. Libertarians place us towards
+the individualist end. Conservatives focus on connection structures rather than degree.
+
+21/ There is truth to all three ideological views of our species nature. Technology today 
+allows each of these abstract ideologies to be concretely realized via actual connection 
+modalities.
+
+22/ As you might expect, the old “containment as exclusive collection" ethos is not dead. 
+Many would like to see social media turn into new serfdoms defined by unified collectives.
+No opting out (did you know you can't block Mark Zuckerberg on Facebook? 😂)
+
+23/ But the idea that each of us has a unique, individual, social hindbrain is much more 
+powerful and generative. Why enslave each other when we can put partial digital copies of 
+ourselves in each other’s second brains?
+
+24/ This newsletter itself is an example of second-brain work: I have used the living 
+ideas/work of several people, whom I know to varying degrees, for my own ends, without 
+"enslaving" them on my manorial estate.
+
+25/ The second brain, or social hindbrain (I use the terms interchangeably) would be useless
+without a corresponding evolution in the structure of our agency.
+
+26/ Today, 12,000-15,000 years after the Neolithic revolution, we have evolved far beyond
+being dependent on our muscles and opposable thumbs, guided primarily by our eyes and ears.
+
+27/ Our sensory-tactile loop, through which our two-brained minds acts in the world, is now
+much more a metaphoric tactile structure of tentacles, emanating from our face like the Ood:
+the fingers of our mind.
+
+29/ Anything we can do with the visual-aural-tactile loop, machines can already do better, 
+or soon will. What we are getting better at is things that require the “fingers of the mind.”
+
+30/ Programming is the classic example. You grope your way in the dark, so to speak, through
+complex, ever-changing toolchains and stacks far beyond our sensory capacities.
+
+31/ These tools are based on advanced mathematics (such as category theory for functional 
+programming) far beyond the 3d visualizable geometries we can intuitively navigate with eyes.
+
+32/ Unlike our ancestors, who threw spears at mammoths using the eye-ear-arm-hand loop, 
+programmers act on the world through feedback structures like REPL (read-eval-print loop)
+
+33/ More and more things that humans do will involve feedback structures like the REPL loop
+that interface with entire armies of bots and machines spanning the datacenter-to-Internet-
+of-things gap at planet scale.
+
+34/ As we are each developing a unique second brain, a social hindbrain, with which to think,
+we are also collectively developing a planet-scale shared body through which to act. 
+
+35/ Conflicts over use of the body — two programmers fighting to control the smart traffic 
+grid of a city full of driverless cars for instance — will be mediated by conflicts between
+two extended minds. ...
+
+37/ Our individual second brains — theoretically 7 billion of them — are only the lowest 
+layer of a much more complex emerging meta-brain containing brains of all scales.
+
+38/ This metabrain is neither individualist nor collective. Neither a stifling, claustrophobic
+condition of forced "belonging" and Borg-like "assimilation", nor a terrifying one of isolation.
+
+39/ Instead, it's a higher-dimensional version of our current one-dimensional individual-to-
+collective notion of social possibilities. It includes ways of being for which we have no words.
+
+40/ In this emerging metabrain, questions like "are you an introvert or extrovert" behave as 
+weirdly as matter at near-speed-of-light velocities.
+
+41/ Today's metabrain is a clumsy and wobbly structure of industrial age institutions — 
+marriages, families, cities, nations, corporations.
+
+42/ This industrial metabrain works by applying mutually-exclusive-collectively-exhaustive
+(MECE) territorial “collection” logic to minds and fingers. ...
+
+43/ Within a couple of centuries, we will probably have a meta-brain based on non-MECE 
+contaiment logic. Each human will flexibly move around within a much vaster space than today.
+
+44/ Yes, science-fictional, but there are no essential scientific or technological roadblocks
+preventing this future, and a variety of signs already point in this direction.
+
+45/ Today, we use vague, abstract concepts like egregores to think about ideologies, nations,
+communities, and Arendtian publics, to understand the human condition.
+
+46/ We are entering an age where all such abstractions can take concrete, literal form through
+technologies as far beyond Twitter as Twitter is beyond a campfire or traditional public square.
+
+47/ Future generations might think of our clumsy social groping on twitter and primitive “IoT
+hacks” and “troll mobs” the way we think of cavewomen gathering berries in baskets and cavemen 
+fumbling with fire and spears.
+
+48/ They will laugh at our impoverished and primitive imagination, evident in ideas like the
+Singularity, Gaia, or a single Borg-like hive mind, the way astronomers laugh at astrologers
+today.
+
+49/ But even the limited form of the emerging future that exists today is an enormous challenge
+for our psyches, evolved for speech-and-text based collectivism and muscle power agency.
+```
+
+So what can we do to start living in this future? Venkat's suggestions are mostly the obvious ones, just with cool Lovecraftian-overtones metaphors: 
+
+```markdown
+51/ You can consciously learn to use your second brain and extended body: your extended 
+phenotype as Richard Dawkins called it.
+
+52/ The key to using your second brain well is to switch from the connection metaphor to
+the non-exclusive containment metaphor, and consciously design how other humans “people”
+it. Your brain has a public square attached now. 
+
+53/ First, as a friend of mine once said, “if you keep an open mind, other people will 
+throw trash in it.” The alternative is not a closed mind, but a managed, consciously 
+peopled second brain, evolved as carefully as a beehive (you’re the queen).
+
+54/ Second, you must learn to be a good citizen of other people’s second brains, to the 
+extent you’re an active participant in them. If you are like me, almost everything you do
+involves being a neuron in others’ second brains.
+
+55/ Remember, every link you pass along, every action you suggest, is a neuron firing in 
+the second brain of somebody who is struggling as hard as you are to get comfy in their
+new digitally extended skins.
+
+56/ Third, think of your ways of acting as technological tentacles emerging from where 
+your mouth is. Your actions are always “programming” the live behavior of complex 
+technological systems.
+
+57/ Stop thinking of typing a tweet, for example, as 140 characters worth of hand-eye 
+coordination. You are sending a quiver down a planet-scale tentacle that causes movement 
+in tens of thousands of devices.
+
+58/ Thinking with your second brain does not feel like either work or play, nor does it 
+feel like either individual or collective modes of being. The first, biological brain is
+simple not used to the feel of the second brain.
+
+59/ To the first brain, an active second brain feels like somewhat tiring, exhausting, 
+futile, dissipative, yet oddly addictive “wasting time on social media” or “idle browsing”
+or “Evernote cut-and-paste going nowhere”
+
+60/ Compared to the delightful feel of working on a clean math problem, writing a poem,
+solving a puzzle, or "shipping" a product, second-brain thinking feels like long periods
+of pointless messiness interspersed with short bursts of weird-fun play.
+
+61/ Similarly, compared to the harmonious, positive feels of say cooking a leisurely meal
+or playing a musical instrument alone, working through your technological tentacles via 
+fingers-of-mind feels ugly and awkward.
+
+62/ Recognize both feelings and states for what they are, and get used to managing them.
+If you reject them as “unnatural” you will never learn to tell the good and bad apart 
+within this emerging experiential space.
+
+63/ Inhabiting modernity with a second social hindbrain and planet-scale tentacular 
+hypertactile form of agency is, as Sarah Perry puts it, a messy condition. Whether it's a 
+good or bad mess is up to you.
+
+64/ Instead of yearning romantically, as Hannah Arendt did, for the lost Greek polis as the
+ideal of a "public," you have to situate your Arendtian action in a roll-your-own community
+within the metabrain.
+```
+
+Donald Trump as one of the first "truly powerful inhabitants of the metabrain of social hindbrains":
+
+```markdown
+65/ And if you’re ever inclined to doubt that you can indeed use a social second brain and
+your tentacles in leveraged ways that lead to great power, just think of Donald Trump.
+
+66/ Trump comes across as a sort of chaosbot/ubertroll who operates by very simple button-
+pushing. This has made him one of the first truly powerful inhabitants of the metabrain.
+
+67/ His rise is in a way a revenge of every person who has ever been dismissed with the
+programmer’s insult, “I will replace you with a very small shell script.” ...
+
+69/ But the fact that he’s one of the first true reverse-Oods does not mean he’s the best 
+or the last. Anymore than the fact that porn is usually an early adopter of technology makes
+the economy porn-based.
+
+70/ The rest of us are slower in moving into this metabrain condition because we are, to our
+credit, being more thoughtful about it. We are not as willing to hurt and abuse along the way.
+
+71/ This is a good thing. If the entry condition for entering the metabrain is to be a small,
+abusive script, and leaving the better side of human nature behind, then the passport is not
+worth having.
+
+72/ Figure out how to enter the metabrain on your own terms, and take what’s good and 
+worthwhile about you. But don’t be too quick to judge good/bad as you pack your baggage.
+```
+
+<a name="#Collective-cognition"></a>
+## Collective cognition
+([overview](#overview))
+
+Related to [distributed cognition](#external-brain), but not quite the same. Cosma Shalizi is a great read here. Here's the introduction he wrote to the [Collective Cognition:
 Mathematical Foundations of Distributed Intelligence](http://csc.ucdavis.edu/~dynlearn/colcog/description.htm) workshop he co-organized awhile back, giving modern science and markets as examples:
 
 ```markdown
