@@ -2,8 +2,6 @@
 	1. [Ask vs guess vs tell culture](#Ask-vs-guess-vs-tell-culture)
 2. [Epistemic learned helplessness](#Epistemic-learned-helplessness)
 	1. [Fact posts as solution](#Fact-posts-as-solution)
-3. (UNDER NAMES MATTER)	
-	1. [Concept handles](#concept-handles)   
 4. (UNDER ???)
 	1. [The level above Hitler: upper limits on social abilities](#The-level-above-Hitler)
 5. (UNDER AI)
@@ -362,72 +360,6 @@ in blocking the rise of a super manipulator or in reshaping culture to be less o
 memetic attack? Which do you think will work?
 ```
 
-(UNDER NAMES MATTER)
-
-<a name="#Concept-handles"></a>
-### Concept handles
-([overview](#overview))
-
-One way how names matter is in providing concept handles. 
-
-The term comes from Scott Alexander in [Nonfiction writing advice](https://slatestarcodex.com/2016/02/20/writing-advice/):
-
-```markdown
-**Use strong concept handles**
-
-The idea of concept-handles is itself a concept-handle; it means a catchy phrase
-that sums up a complex topic.
-
-Eliezer Yudkowsky is *really good* at this. “belief in belief“, “semantic stopsigns“,
-“applause lights“, “Pascal’s mugging“, “adaptation-executors vs. fitness-maximizers“,
-“reversed stupidity vs. intelligence“, “joy in the merely real” – all of these are
-interesting ideas, but more important they’re interesting ideas with short catchy 
-names that everybody knows, so we can talk about them easily.
-
-I have very consciously tried to emulate that when talking about ideas like trivial
-inconveniences, meta-contrarianism, toxoplasma, and Moloch.
-
-I would go even further and say that this is one of the most important things a blog
-like this can do. I’m not too likely to discover some entirely new social phenomenon
-that nobody’s ever thought about before. But there are a lot of things people have 
-vague nebulous ideas about that they can’t quite put into words. Changing those into
-crystal-clear ideas they can manipulate and discuss with others is a big deal.
-
-If you figure out something interesting and very briefly cram it into somebody else’s
-head, don’t waste that! Give it a nice concept-handle so that they’ll remember it and
-be able to use it to solve other problems!
-```
-
-Eric Raymond, [rule-swarm attacks](http://esr.ibiblio.org/?p=8153):
-
-```markdown
-It not news to readers of this blog that I like to find common tactics and traps 
-in programming that don’t have names and name them. I don’t only do this because 
-it’s fun. When you have named a thing you give your brain permission to reason 
-about it as a conceptual unit. Bad jargon obfuscates, map hiding territory; good 
-jargon reveals, aiding reflection on and and improvement of your practice.
-```
-
-Pushback against concept handles from David Barry for two reasons -- high barrier to entry for new readers when enough jargon has accumulated, and risk of wrong concepts "sticking" encouraging use of faulty ideas:
-
-```markdown
-I’m not a huge fan of the concept handles though. Of Eliezer’s “short catchy names 
-that everybody knows”, I’m only confident that I could define one of them, and have
-a decent guess at a couple of others. Building up such a jargon can improve 
-communication efficiency within your blog reader community, but it puts up a larger
-barrier to entry than perhaps there ought to be.
-
-I also think that if a concept is wrong, then turning it into a handle encourages
-overuse of a faulty idea. I think your “tolerate the outgroup” post was wonderful 
-and describes a real dynamic that I can feel in my own reactions to events and which
-I can now more easily recognise in others. But your “staying classy” post looks much
-weaker to me, and I expect that better treatments exist somewhere in an academic 
-literature that I’m unfamiliar with. Over time, as you continue to build up an
-edifice of related ideas, you’ll sometimes link to the outgroup post and sometimes 
-link to the classy post, and as a result I think some pieces of your arguments will
-be resting on solid foundations and some will be very shaky. Those shaky bits don’t
-deserve the apparent authority of a blue and underlined word or two.
-```
 
 
 <a name="#Epistemic-learned-helplessness"></a>
