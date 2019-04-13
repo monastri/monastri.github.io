@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 36,300*
+*[Word count](https://wordcounter.net/): 39,600*
 
 <a name="#overview"></a>
 
@@ -8,7 +8,7 @@ Poems and quotes listed in reverse order of inclusion below.
 
 1. [A new kind of review](#a-new-kind-of-review), by 'a reader'
 1. [Animals have no interest in teaching you anything](#Animals-have-no-interest-in-teaching-you-anything), by Oglaf
-2. [A sunset glimpse of deep time](#a-sunset-glimpse-of-deep-time), by Lee Billings
+2. [A sunset glimpse of deep time](#a-sunset-glimpse-of-deep-time), by Lee Billings in *Five Billion Years of Solitude*
 2. Benjamin Rosenbaum
    1. [The House Beyond Your Sky](#The-House-Beyond-Your-Sky)
    2. [Elsewhere](#elsewhere)
@@ -56,6 +56,7 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [The greatest con ever botched](#The-greatest-con-ever-botched), by various authors 
 2. [The hare and the tortoise](#The-hare-and-the-tortoise), by Winston Rowntree
 2. [The Idea of Order at Key West](#The-Idea-of-Order-at-Key-West), by Wallace Stevens
+2. [The most complete human being who ever lived](#The-most-complete-human-being-who-ever-lived), by Jon Mooallem on Frederick Russell Burnham
 2. [The technical interview trilogy](#aphyr), where a witch interviews for tech companies, by Aphyr a.k.a. Kyle Kingsbury
 2. [Three Men in a Boat (to say nothing of the dog)](#three-men-in-a-boat), by Jerome K. Jerome
 3. [Toast for Unsung Heroes](#toast-for-unsung-heroes), by Leslie Fish
@@ -63,6 +64,525 @@ Poems and quotes listed in reverse order of inclusion below.
 5. [Why did the chicken cross the road?](#Why-did-the-chicken-cross-the-road), by Accenture Consulting
 6. [Zombies: The Movie](#zombies-the-movie), making fun of p-zombies, by Eliezer Yudkowsky
 
+
+<a name="#Total-Eclipse"></a>
+## Total Eclipse
+### by Annie Dillard
+([overview](#overview))
+
+Original essay [here](https://www.theatlantic.com/science/archive/2017/08/annie-dillards-total-eclipse/536148/). I consider this truly great writing.
+
+On a painting of a smiling clown’s head made of vegetables, hung in the hotel room Dillard and her husband stayed at while waiting for the eclipse:
+
+```markdown
+I lay in bed. My husband, Gary, was reading beside me. I lay in bed and looked at the 
+painting on the hotel room wall.
+
+It was a print of a detailed and lifelike painting of a smiling clown’s head, made out 
+of vegetables. It was a painting of the sort which you do not intend to look at, and which,
+alas, you never forget. Some tasteless fate presses it upon you; it becomes part of the
+complex interior junk you carry with you wherever you go. Two years have passed since the 
+total eclipse of which I write. During those years I have forgotten, I assume, a great many
+things I wanted to remember—but I have not forgotten that clown painting or its lunatic
+setting in the old hotel.
+
+The clown was bald. Actually, he wore a clown’s tight rubber wig, painted white; this 
+stretched over the top of his skull, which was a cabbage. His hair was bunches of baby 
+carrots. Inset in his white clown makeup, and in his cabbage skull, were his small and
+laughing human eyes. The clown’s glance was like the glance of Rembrandt in some of the 
+self-portraits: lively, knowing, deep, and loving. The crinkled shadows around his eyes were 
+string beans. His eyebrows were parsley. Each of his ears was a broad bean. His thin, joyful
+lips were red chili peppers; between his lips were wet rows of human teeth and a suggestion 
+of a real tongue. The clown print was framed in gilt and glassed.
+```
+
+Up on that grassy hill, waiting for the moon to eclipse the dawning sun:
+
+```markdown
+Now the sun was up. We could not see it; but the sky behind the band of clouds was yellow, 
+and, far down the valley, some hillside orchards had lighted up.
+
+More people were parking near the highway and climbing the hills. It was the West. All of us
+rugged individualists were wearing knit caps and blue nylon parkas. People were climbing the
+nearby hills and setting up shop in clumps among the dead grasses. It looked as though we had 
+all gathered on hilltops to pray for the world on its last day. It looked as though we had all 
+crawled out of spaceships and were preparing to assault the valley below. It looked as though
+we were scattered on hilltops at dawn to sacrifice virgins, make rain, set stone stelae in a ring.
+
+There was no place out of the wind. The straw grasses banged our legs. Up in the sky where we
+stood the air was lusterless yellow. To the west the sky was blue.
+
+Now the sun cleared the clouds. We cast rough shadows on the blowing grass; freezing, we waved
+our arms. Near the sun, the sky was bright and colorless. There was nothing to see.
+```
+
+The eclipse itself:
+
+```markdown
+Now the sky to the west deepened to indigo, a color never seen. A dark sky usually loses color.
+This was a saturated, deep indigo, up in the air. Stuck up into that unworldly sky was the cone 
+of Mount Adams, and the alpenglow was upon it. The alpenglow is that red light of sunset which 
+holds out on snowy mountaintops long after the valleys and tablelands are dimmed. “Look at Mount
+Adams,” I said, and that was the last sane moment I remember.
+
+I turned back to the sun. It was going. The sun was going, and the world was wrong. The grasses 
+were wrong; they were platinum. Their every detail of stem, head, and blade shone lightless and 
+artificially distinct as an art photographer’s platinum print. This color has never been seen on 
+Earth. The hues were metallic; their finish was matte. The hillside was a 19th-century tinted 
+photograph from which the tints had faded. All the people you see in the photograph, distinct and
+detailed as their faces look, are now dead. The sky was navy blue. My hands were silver. All the
+distant hills’ grasses were finespun metal which the wind laid down. I was watching a faded color
+print of a movie filmed in the Middle Ages; I was standing in it, by some mistake. I was standing 
+in a movie of hillside grasses filmed in the Middle Ages. I missed my own century, the people I 
+knew, and the real light of day.
+
+I looked at Gary. He was in the film. Everything was lost. He was a platinum print, a dead artist’s
+version of life. I saw on his skull the darkness of night mixed with the colors of day. My mind was
+going out; my eyes were receding the way galaxies recede to the rim of space. Gary was light-years 
+away, gesturing inside a circle of darkness, down the wrong end of a telescope. He smiled as if he 
+saw me; the stringy crinkles around his eyes moved. The sight of him, familiar and wrong, was 
+something I was remembering from centuries hence, from the other side of death: Yes, that is the way
+he used to look, when we were living. When it was our generation’s turn to be alive. I could not hea
+r him; the wind was too loud. Behind him the sun was going. We had all started down a chute of time.
+At first it was pleasant; now there was no stopping it. Gary was chuting away across space, moving 
+and talking and catching my eye, chuting down the long corridor of separation. The skin on his face 
+moved like thin bronze plating that would peel. …
+
+From all the hills came screams. A piece of sky beside the crescent sun was detaching. It was a 
+loosened circle of evening sky, suddenly lighted from the back. It was an abrupt black body out of
+nowhere; it was a flat disk; it was almost over the sun. That is when there were screams. At once 
+this disk of sky slid over the sun like a lid. The sky snapped over the sun like a lens cover. The
+hatch in the brain slammed. Abruptly it was dark night, on the land and in the sky. In the night 
+sky was a tiny ring of light. The hole where the sun belongs is very small. A thin ring of light 
+marked its place. There was no sound. The eyes dried, the arteries drained, the lungs hushed. There
+was no world. We were the world’s dead people rotating and orbiting around and around, embedded in
+the planet’s crust, while the Earth rolled down. Our minds were light-years distant, forgetful of 
+almost everything. Only an extraordinary act of will could recall to us our former, living selves 
+and our contexts in matter and time. We had, it seems, loved the planet and loved our lives, but
+could no longer remember the way of them. We got the light wrong. In the sky was something that 
+should not be there. In the black sky was a ring of light. It was a thin ring, an old, thin silver
+wedding band, an old, worn ring. It was an old wedding band in the sky, or a morsel of bone. 
+There were stars. It was all over.
+```
+
+More:
+
+```markdown
+I saw, early in the morning, the sun diminish against a backdrop of sky. I saw a circular piece
+of that sky appear, suddenly detached, blackened, and backlighted; from nowhere it came and 
+overlapped the sun. It did not look like the moon. It was enormous and black. If I had not read 
+that it was the moon, I could have seen the sight a hundred times and never thought of the moon 
+once. (If, however, I had not read that it was the moon—if, like most of the world’s people 
+throughout time, I had simply glanced up and seen this thing—then I doubtless would not have 
+speculated much, but would have, like Emperor Louis of Bavaria in 840, simply died of fright on
+the spot.) It did not look like a dragon, although it looked more like a dragon than the moon. 
+It looked like a lens cover, or the lid of a pot. It materialized out of thin air—black, and flat,
+and sliding, outlined in flame.
+
+Seeing this black body was like seeing a mushroom cloud. The heart screeched. The meaning of the 
+sight overwhelmed its fascination. It obliterated meaning itself. If you were to glance out one 
+day and see a row of mushroom clouds rising on the horizon, you would know at once that what you
+were seeing, remarkable as it was, was intrinsically not worth remarking. No use running to tell
+anyone. Significant as it was, it did not matter a whit. For what is significance? It is 
+significance for people. No people, no significance. This is all I have to tell you.
+
+In the deeps are the violence and terror of which psychology has warned us. But if you ride these 
+monsters deeper down, if you drop with them farther over the world’s rim, you find what our sciences
+cannot locate or name, the substrate, the ocean or matrix or ether which buoys the rest, which gives
+goodness its power for good, and evil. Its power for evil, the unified field: our complex and 
+inexplicable caring for each other, and for our life together here. This is given. It is not learned.
+
+The world which lay under darkness and stillness following the closing of the lid was not the
+world we know. The event was over. Its devastation lay around about us. The clamoring mind and 
+heart stilled, almost indifferent, certainly disembodied, frail, and exhausted. The hills were 
+hushed, obliterated. Up in the sky, like a crater from some distant cataclysm, was a hollow ring.
+
+You have seen photographs of the sun taken during a total eclipse. The corona fills the print. 
+All of those photographs were taken through telescopes. The lenses of telescopes and cameras can 
+no more cover the breadth and scale of the visual array than language can cover the breadth and 
+simultaneity of internal experience. Lenses enlarge the sight, omit its context, and make of it a 
+pretty and sensible picture, like something on a Christmas card. I assure you, if you send any 
+shepherds a Christmas card on which is printed a three-by-three photograph of the angel of the Lord,
+the glory of the Lord, and a multitude of the heavenly host, they will not be sore afraid. More 
+fearsome things can come in envelopes. More moving photographs than those of the sun’s corona can 
+appear in magazines. But I pray you will never see anything more awful in the sky.
+
+You see the wide world swaddled in darkness; you see a vast breadth of hilly land, and an enormous,
+distant, blackened valley; you see towns’ lights, a river’s path, and blurred portions of your hat
+and scarf; you see your husband’s face looking like an early black-and-white film; and you see a 
+sprawl of black sky and blue sky together, with unfamiliar stars in it, some barely visible bands
+of cloud, and over there, a small white ring. The ring is as small as one goose in a flock of 
+migrating geese—if you happen to notice a flock of migrating geese. It is one-360th part of the 
+visible sky. The sun we see is less than half the diameter of a dime held at arm’s length.
+
+The Crab Nebula, in the constellation Taurus, looks, through binoculars, like a smoke ring. It is
+a star in the process of exploding. Light from its explosion first reached the Earth in 1054; it
+was a supernova then, and so bright it shone in the daytime. Now it is not so bright, but it is 
+still exploding. It expands at the rate of 70 million miles a day. It is interesting to look through
+binoculars at something expanding 70 million miles a day. It does not budge. Its apparent size
+does not increase. Photographs of the Crab Nebula taken 15 years ago seem identical to photographs
+of it taken yesterday. Some lichens are similar. Botanists have measured some ordinary lichens twice,
+at 50-year intervals, without detecting any growth at all. And yet their cells divide; they live.
+
+The small ring of light was like these things—like a ridiculous lichen up in the sky, like a 
+perfectly still explosion 4,200 light-years away: It was interesting, and lovely, and in witless
+motion, and it had nothing to do with anything.
+
+It had nothing to do with anything. The sun was too small, and too cold, and too far away, to
+keep the world alive. The white ring was not enough. It was feeble and worthless. It was as 
+useless as a memory; it was as off-kilter and hollow and wretched as a memory.
+
+When you try your hardest to recall someone’s face, or the look of a place, you see in your mind’s
+eye some vague and terrible sight such as this. It is dark; it is insubstantial; it is all wrong.
+
+The white ring and the saturated darkness made the Earth and the sky look as they must look in 
+the memories of the careless dead. What I saw, what I seemed to be standing in, was all the 
+wrecked light that the memories of the dead could shed upon the living world. We had all died in
+our boots on the hilltops of Yakima, and were alone in eternity. Empty space stoppered our eyes
+and mouths; we cared for nothing. We remembered our living days wrong. With great effort we had
+remembered some sort of circular light in the sky—but only the outline. Oh, and then the orchard 
+trees withered, the ground froze, the glaciers slid down the valleys and overlapped the towns. 
+If there had ever been people on Earth, nobody knew it. The dead had forgotten those they had 
+loved. The dead were parted one from the other and could no longer remember the faces and lands
+they had loved in the light. They seemed to stand on darkened hilltops, looking down.
+```
+
+Remembering, and the sheer stupefying scale of the cosmos:
+
+```markdown
+Further: While the mind reels in deep space, while the mind grieves or fears or exults, the workaday
+senses, in ignorance or idiocy, like so many computer terminals printing out market prices while the
+world blows up, still transcribe their little data and transmit them to the warehouse in the skull.
+Later, under the tranquilizing influence of fried eggs, the mind can sort through this data. The 
+restaurant was a halfway house, a decompression chamber. There I remembered a few things more.
+
+The deepest, and most terrifying, was this: I have said that I heard screams. (I have since read that
+screaming, with hysteria, is a common reaction even to expected total eclipses.) People on all the 
+hillsides, including, I think, myself, screamed when the black body of the moon detached from the sky 
+and rolled over the sun. But something else was happening at that same instant, and it was this, I 
+believe, which made us scream.
+
+The second before the sun went out we saw a wall of dark shadow come speeding at us. We no sooner saw 
+it than it was upon us, like thunder. It roared up the valley. It slammed our hill and knocked us out.
+It was the monstrous swift shadow cone of the moon. I have since read that this wave of shadow moves 
+1,800 miles an hour. Language can give no sense of this sort of speed—1,800 miles an hour. It was 195
+miles wide. No end was in sight—you saw only the edge. It rolled at you across the land at 1,800 miles
+an hour, hauling darkness like plague behind it. Seeing it, and knowing it was coming straight for you,
+was like feeling a slug of anesthetic shoot up your arm. If you think very fast, you may have time to 
+think, “Soon it will hit my brain.” You can feel the deadness race up your arm; you can feel the appalling,
+inhuman speed of your own blood. We saw the wall of shadow coming, and screamed before it hit.
+
+This was the universe about which we have read so much and never before felt: the universe as a clockwork
+of loose spheres flung at stupefying, unauthorized speeds. How could anything moving so fast not crash,
+not veer from its orbit amok like a car out of control on a turn?
+
+Less than two minutes later, when the sun emerged, the trailing edge of the shadow cone sped away. It 
+coursed down our hill and raced eastward over the plain, faster than the eye could believe; it swept
+over the plain and dropped over the planet’s rim in a twinkling. It had clobbered us, and now it roared
+away. We blinked in the light. It was as though an enormous, loping god in the sky had reached down and
+slapped the Earth’s face.
+```
+
+<a name="#The-most-complete-human-being-who-ever-lived"></a>
+## The most complete human being who ever lived
+### by Jon Mooallem
+([overview](#overview))
+
+From [American Hippopotamus](https://magazine.atavist.com/american-hippopotamus), a *great* historical piece about an idea that seemed ludicrous, during a time when America was larger than life. 
+
+The "most complete human being who ever lived" was the title bestowed by a period writer upon Frederick Russell Burnham, the King of Scouts. And what a *dynamo* of a man!
+
+(Today the term 'scout' carries a bit of a pejorative connotation, pace 'boy scout', so I was happy to find out that this was due to a sort of euphemism treadmill effect. 'Scout', back in the day, was a very esteemed title indeed.)
+
+One:
+
+```markdown
+Frederick Russell Burnham didn’t like public speaking, but he arrived at the
+Maryland Hotel, in Pasadena, California, on the night of September 19, 1910,
+determined to communicate a few clear and uncontroversial truths.
+
+Burnham was 49 years old—a frontiersman and soldier of fortune who’d spent his 
+life leaping into conflicts with American Indians and colonial wars in Africa.
+He looked bronzed and weather-beaten, like a living monument to those campaigns,
+and though small—he was only about five foot four—his presence was imposing. 
+He was a compact strongbox of a man. One admirer would describe him as 
+“emphatically a man’s man: able, active, alert.” The impression he gave was
+immediately one of “force and self-control.” 
+
+Burnham had risen to fame as a scout—an esteemed breed of solitary wayfinder and 
+spy with no exact analog in contemporary warfare. Scouts slinked into enemy
+territory to gather intelligence or cut supply lines, or roamed the no man’s
+land around camp to keep watch. They were disciplined, self-sufficient,
+preternaturally competent. Their proficiency in the wilderness seemed almost 
+supernatural at times, and Burnham, who’d earned the nickname King of Scouts, 
+exemplified their character and prowess.
+
+“He has trained himself to endure the most appalling fatigues, hunger, thirst,
+and wounds; has subdued the brain to infinite patience, has learned to force
+every nerve in his body to absolute obedience, to still even the beating of 
+his heart,” wrote the journalist Richard Harding Davis. “He reads ‘the face 
+of Nature’ as you read your morning paper.” Another writer described Burnham’s 
+life as “an endless chain of impossible achievements.”
+
+People who met Burnham tended to comment on the same disarming quality of his 
+eyes. The novelist H. Rider Haggard called them “steady, grey blue eyes that 
+have in them a far-away look such as those acquire whose occupation has caused 
+them to watch continually at sea or on great plains.” They were eyes that
+absorbed every inch of the periphery, even as they bored deep into your own—
+eyes, one woman noted, “of startling keenness and brilliancy, eyes that see 
+everything without seeming to see.” She remembered sitting with friends under
+a great sycamore tree in California while Burnham spun tales of a certain
+African siege. The scout paused at one point and said casually, “We’ll kill 
+that snake when I finish the story.” No one else had noticed the rattlesnake
+that had slithered in silently behind them as he spoke.
+
+He was “a man whose senses and abilities approached that of a wild predator,”
+one writer explained. He could go two and a half days without sleep. He could 
+fix a pistol’s broken mainspring with a bit of buffalo bone. It was said he 
+could smell water from afar, and very seldom drank alcohol and never smoked, 
+for fear it would dull his senses. Commanding officers described him as half 
+jackrabbit and half wolf, or as “a man totally without fear.” But ultimately,
+the most impressive thing about Burnham may have been his reticence to talk 
+too much about his conspicuous impressiveness. (Years later he would prepare
+two versions of a prologue for his memoirs and label them “Boastful” and “Non-
+Boastful.” The “Boastful” version was hardly boastful, and the last paragraph
+of the “Non-Boastful” version began: “If mine seems a rather boastful recital,
+I shall apologize.”) One acquaintance would call him “the most complete human 
+being who ever lived.”
+```
+
+Two:
+
+```markdown
+The master of ceremonies at the Maryland Hotel that night was the Reverend 
+Robert Jones Burdette, an avuncular Baptist minister known nationally for his
+early career as a newspaper humorist and touring performer. (Burdette, it was
+said, had delivered his comedic lecture “The Rise and Fall of the Mustache” 
+more than 3,000 times.) All night he introduced speakers with poems and little
+jokes. But when announcing Burnham, all of Burdette’s corniness fell away. The
+reverend seemed suddenly stiffened, stilled—like the air before an electrical 
+storm.
+
+“I am going to introduce to you a man who knows the cruel edges of war,” he 
+began. “Who has seen the keen blades sweep together as they clashed like the
+grim shears of Atropos, severing the throbbing threads of human life, smearing
+the golden sands and the emerald grasses with the darkest stains that ever 
+discolored the pain-distorted face of God’s beautiful world. A soldier. A scout
+whose name has filled both hemispheres with stories of his daring and loyal 
+service. The rider of the bad lands between the lines, who trusts his own 
+knowledge some, providence a great deal, and the sound legs and good horse sense
+of his steed perhaps most of all in some blood-freezing emergencies.… I am 
+honored, in being permitted to present, as our next speaker, the only man in 
+America who [knows] the darkest shades of darkest Africa.… Major Frederick R. 
+Burnham.”
+
+The scout surveyed his audience. He readied himself to speak.
+
+“I am by nature an optimist,” he said.
+```
+
+Origin story:
+
+```markdown
+Frederick Russell Burnham was born in southern Minnesota in 1861. One night the
+following year, his parents watched from their isolated log cabin as the night 
+sky turned red in the distance. The nearby town of New Ulm was burning. Chief 
+Little Crow was leading the Lakota on a raid, killing hundreds of people, 
+including children, during a conflict known as the Dakota War. Burnham’s father,
+Edwin, a Presbyterian minister, rushed off to the town of Mankato to gather 
+powder and bullets to protect the family.
+
+One evening while Edwin was away, Burnham’s mother, Rebecca, was brushing her 
+hair in the doorway when she saw a band of Lakota slip out of the forest. 
+Knowing she wouldn’t be able to evade them with her child in tow, she hid the
+boy—not yet two years old—in a heap of newly shucked corn, too green to catch 
+fire. She told him to keep perfectly still. Then she took off, vanishing into
+the cottonwoods toward a neighbor’s house six miles away. At dawn she came back
+to find that the Indians had burned the cabin, but her son was still alive. 
+He’d stayed motionless in the corn—stashed away, like baby Moses in his basket,
+as a river of violence rushed past. “I had faithfully carried out my first
+orders of silent obedience,” the scout later wrote.
+
+Seven years later, Edwin was injured when a log he was carrying slipped and fell
+on him, puncturing a lung. The family relocated to Los Angeles, a town
+materializing out of the sagebrush and dust, where he could find some relief in
+the warmer climate. But Edwin would pass away only a few years after they arrived.
+Burnham’s mother took out a loan and bought two train tickets, for herself and 
+Burnham’s young brother, to return east, where they could be with family. Fred 
+stayed behind, deciding to strike out on his own in California. He got a job 
+delivering telegrams as a mounted messenger for Western Union and excelled at the
+job, riding hard over precarious terrain day and night, switching to a second horse
+when he wore out the first, then a third horse, and a fourth. In no time, he’d 
+repaid his mother’s loan, racing between Los Angeles and Anaheim, out to Santa 
+Monica, and through the hinterlands that would become Pasadena. He was often alone
+for days at a time. He was 13 years old.
+
+When he was 14, religious family members in the small town of Clinton, Iowa, 
+concerned about his soul, summoned Burnham to live with them—to try life as a
+regular townie kid. But the regularness of Clinton didn’t suit him. He resented
+his relatives for trying to impose a prefabricated existence on him. He wanted 
+to live in a world that unfolded, little by little, on the trail ahead of him. 
+Playing games—ordinary kid games, with sticks and balls—seemed strange to him; 
+he couldn’t get his head around it. “I felt an urge to do bigger things,” he said. 
+He lasted a year. Then one night he stole a canoe, slipped off down the Mississippi,
+and never came back.
+
+Burnham reached Texas, where he encountered the grizzled characters of a fading 
+West. Many of these old frontiersmen had wound up as alone at the end of their 
+lives as Burnham was at the outset of his, and they’d sit with him for hours, 
+unspooling their stories. An old scout named Holmes had lost his family in the 
+Indian Wars and, without any heirs to pass his knowledge on to, began teaching 
+Burnham the old ways of scouting. He led Burnham through the desert for six months, 
+forging the boy’s grit and courage into actual skills.
+
+These adventures were exhilarating but often unpleasant. Holmes could be a curmudgeon, 
+especially at the end of a long, hot day, and would pick apart everything Burnham did.
+Watching the boy sling a saddle off his horse, the old man would bark: “Oh my God, I
+never can teach you anything! You are a little ass. In the morning you can go back 
+home.” But then the sun would come up and all would seem forgiven.
+
+From Holmes and the other high priests of scouting he encountered, Burnham learned to 
+read the air like a river and pull the scent of a campfire out of the warmer currents 
+floating along high ridges; how to build up his internal compass and rely on it even 
+in total darkness; how to hone a photographic memory for the tracks of individual 
+horses; how to improvise and conceal booby traps; how to carry a gallon or two of 
+water in a saddle blanket, then wring it out over a concave rock; how never to ride
+a straight line into camp, in case someone had detected you and was plotting an 
+ambush. One of the old men would use corncobs and sand to demonstrate how forts were
+built, or how to decipher the movements of troops. More than anything, Burnham 
+learned that, as he later put it, “we should be learning something always, no matter 
+how long we live, or how long we play the game.”
+
+Soon he began spending all his money on ammunition. He practiced trick shots, trained 
+himself to be ambidextrous. He’d set up oilcans in the brush and fire at them from a
+gallop, or place a cork in a puddle and shoot underneath it to make it hop, then try
+to hit it again in midair—practicing, again and again, until he could nail them three
+times out of five. But he also learned to treat his gun as a luxury and a lifeline, 
+not an appendage. (The old scouts had taught him that reliance on a firearm decayed a
+man’s courage and made him worthless in hand-to-hand combat.)
+
+The most grueling lessons were psychological—learning to weather the loneliness, fear, 
+and deprivation amid which those physical skills would be deployed. Scouts, after all,
+worked alone. “The darkness of night is his best friend,” Burnham wrote, “for it will 
+hide his secret movements—although it is at night that physical exhaustion is most apt
+to breed the cowardice that comes creeping into the bones of every man at times.” One 
+of the most pernicious forces a scout needed to suppress was hunger. It could be just
+as powerful a disincentive as exhaustion or fear—often more powerful. In a way, Burnham
+came to see the stomach, paradoxically, as the weakest and most persuasive part of
+a man. It messed with you mentally, tried to order you around. A scout couldn’t 
+afford to humor his stomach; it was hard enough to make sure his horse was properly
+fed. And when Burnham ended his years of apprenticeship and began working out in the
+world—protecting mining camps from raids or guarding prospectors as they transported
+their gold back to town—he found that eating conventional food on these missions was
+often impossible. (Hunting can be a problem, for example, because cooking over a fire 
+creates light and smoke, and butchered carcasses attract conspicuous circles of 
+buzzards.) So he adapted. He’d hammer deer jerky into a powder, mix the powder with
+flour, and bake the mixture into a saddle-bag-shaped loaf. Then he’d eat off that 
+block of deer cake for the duration of his travels, one pound per day.
+
+This flexibility—the fierce epicurean stoicism that Burnham cultivated—would be a
+subtle hallmark of all of Burnham’s future adventures. In East Africa, he’d do as 
+the local tribesmen did, eating no vegetables for months at a time, instead consuming
+a mixture of three parts milk and one part fresh blood, drawn from a vein in the neck
+of a living ox the way syrup makers tap the trunk of a maple. (After ten days, 
+Burnham claimed, his system had adjusted.) During conflicts in Africa, he’d steal 
+rank-smelling, partially fermented corn that had been buried in the ground by the 
+locals and live off that for a while. During one stakeout, he subsisted wholly on a
+ration of uncooked corn, grinding away at the stuff until his jaw was sore and his 
+starchy, thickened tongue made his speech unintelligible.
+
+“The man of one diet is hopelessly handicapped,” he wrote, “for nature has made it 
+possible for a well organized human being to wrest sustenance out of a thousand foods.
+… Man’s stomach, like his hand, can be trained to adapt itself to many strange uses.”
+In other words, the stomach wanted what it wanted, but appetite, like all desire, was
+a liability. And with enough discipline, you could disregard it and fill the stomach
+with drab blocks of pure common sense instead.
+```
+
+Enraptured by his storytelling:
+
+```markdown
+In late January 1900, the novelist and war correspondent Richard Harding Davis 
+was sailing from England to Cape Town on a ship called the SS Scot. The journey 
+lasted 17 days, and every night, Davis noticed, the men on deck would gather 
+around the same small, reserved man with piercing blue eyes. The crowd consisted 
+of big-game hunters and career soldiers, many of whom had held command in British
+wars in India or Sudan—roughneck, capable survivors, in other words, with their 
+own yarns to spin and advice to give. But they all sat like schoolkids, Davis 
+later wrote, pelting the quiet man with questions.
+
+The man explained to them how to tell a column of dust raised by a cavalry from
+one kicked up by a wagon train; how to read the speed of a horse from its prints;
+how to conceal a campfire. The crowd was impressed with the quickness and clarity
+of the man’s answers, but more impressed that, in the couple of instances when he
+wasn’t able to answer, he told them so—it was a unique combination of mastery and
+humility. This man was Frederick Russell Burnham, of course, on his way back to 
+Africa seven years after that first impulsive trip. He had made his name fighting
+for Rhodes’s Cape Colony and gained a reputation as a scout.
+```
+
+Almost dying:
+
+```markdown
+Burnham’s exploits were numerous and bizarre. Once, he hid for two days and nights 
+inside an aardvark hole. Another time, he floated down a river disguised as a dead 
+cow, drifting under a fresh, fleshy hide with two eyeholes cut out of it, to size 
+up an enemy camp downstream.
+
+In the spring of 1900, he was captured by Boer scouts but managed to conceal his
+identity. The Boers had been given index cards describing the famous Frederick 
+Russell Burnham—a supposedly ruthless, godless, illiterate rogue from the American
+West. Realizing this, Burnham sparked an erudite theological debate with one of his
+captors—was baptism by immersion the one true route to salvation, or was it baptism
+by sprinkling?—then followed that up by reciting some poetry. Eventually, he slipped
+away from the Boers’ wagon train in the dark. As day broke, he hunkered in a fallow
+field, hidden just barely by four inches of vegetation, and resigned himself to lie
+there in the heat, with his hat over his head for camouflage, until the sun set again
+and it was safe to move on. Stuck in the brush, he became fixated on a thick ear of
+corn he’d jammed in his breast pocket before escaping, worried it was sticking up just
+enough beneath his shirt to give him away. He was already carrying one whole biscuit
+and a fragment of a second; the corn suddenly seemed to him like a horrible indulgence.
+“What a fool to be such a glutton for food!” he later remembered thinking. “I was not
+living up to the traditions of the American scout.” But a Boer patrol came and went.
+Burnham had waited them out, invisibly.
+
+Eventually, he made it back to a campsite and from there was sent on a series of
+missions to cut supply lines. He spent his 39th birthday, in May of 1900, hiding in
+enemy territory, preparing to blow up some bridges, feasting on a ration of chocolate
+and condensed soup. Then, in early June, he was given 25 pounds of explosives and sent
+to cut the railway connecting Pretoria to the Indian Ocean.
+
+After setting out, Burnham encountered a group of Boers in the distance, and his horse,
+Stembok, was shot. The animal fell on him. His spine burned. He assumed his back was
+broken. But he managed to reach his target anyway—a specific point on the railway, 
+beside a distillery—traveling the rest of the way on foot, vomiting blood and 
+compressing his abdomen with both hands to lessen the pain slightly, as though he were
+holding his guts together manually. (At one point, he wrote a farewell note to his wife,
+Blanche, and dropped it on the ground, hoping British soldiers would eventually pass by
+and find it.) Then, after rigging his explosives and detonating them, he hauled his
+busted body into a grove of eucalyptus and hid, trying to make himself invisible yet
+again as a unit of Boers fired systematically into the trees to flush him out. At one
+point, a commander sat on horseback less than 20 yards away from where Burnham was 
+hiding, chastising his men for their ineptitude. Eventually, the troops gave up and
+moved on.
+
+Hours later, Burnham heard the voices of British soldiers approaching. He was rushed
+to a field hospital, where doctors determined that, though his spine was not damaged,
+his internal injuries were severe. Lord Roberts promoted him to major and sent him to
+recuperate in England. On the ship back, he chatted with a young British newspaperman
+named Winston Churchill who had also been captured by the Boers and escaped. The two 
+men swapped stories and, though Churchill’s involved taking many risks which Burnham, 
+as a scout, could not condone, the scout ultimately understood that the writer had done
+the best he could. “His moves were restricted by the handicap of physical weakness,” 
+Burnham wrote, “which made a twenty mile run at night”—what Burnham judged to be the 
+most straightforward move in those circumstances—“entirely beyond his power.”
+
+In England, Burnham was invited to dine with Queen Victoria and decorated with the 
+Distinguished Service Order, a high honor for heroism during wartime, by King Edward
+VII. Burnham, with his characteristic stoicism, described the award as so humbling and
+unnecessary that it was “almost humiliating.” “I felt of no more importance than a 
+grain of sand on the shore of the mighty sea,” he wrote.
+```
 
 <a name="#The-nightmare-dance-of-capitalism"></a>
 ## The nightmare dance of capitalism
@@ -2633,224 +3153,6 @@ if they had me.  I was a hospital in myself.  All they need do would be to walk 
 after that, take their diploma. ...
 
 I had walked into that reading-room a happy, healthy man.  I crawled out a decrepit wreck.
-```
-
-<a name="#Total-Eclipse"></a>
-## Total Eclipse
-### by Annie Dillard
-([overview](#overview))
-
-Original essay [here](https://www.theatlantic.com/science/archive/2017/08/annie-dillards-total-eclipse/536148/). I consider this truly great writing.
-
-On a painting of a smiling clown’s head made of vegetables, hung in the hotel room Dillard and her husband stayed at while waiting for the eclipse:
-
-```markdown
-I lay in bed. My husband, Gary, was reading beside me. I lay in bed and looked at the 
-painting on the hotel room wall.
-
-It was a print of a detailed and lifelike painting of a smiling clown’s head, made out 
-of vegetables. It was a painting of the sort which you do not intend to look at, and which,
-alas, you never forget. Some tasteless fate presses it upon you; it becomes part of the
-complex interior junk you carry with you wherever you go. Two years have passed since the 
-total eclipse of which I write. During those years I have forgotten, I assume, a great many
-things I wanted to remember—but I have not forgotten that clown painting or its lunatic
-setting in the old hotel.
-
-The clown was bald. Actually, he wore a clown’s tight rubber wig, painted white; this 
-stretched over the top of his skull, which was a cabbage. His hair was bunches of baby 
-carrots. Inset in his white clown makeup, and in his cabbage skull, were his small and
-laughing human eyes. The clown’s glance was like the glance of Rembrandt in some of the 
-self-portraits: lively, knowing, deep, and loving. The crinkled shadows around his eyes were 
-string beans. His eyebrows were parsley. Each of his ears was a broad bean. His thin, joyful
-lips were red chili peppers; between his lips were wet rows of human teeth and a suggestion 
-of a real tongue. The clown print was framed in gilt and glassed.
-```
-
-Up on that grassy hill, waiting for the moon to eclipse the dawning sun:
-
-```markdown
-Now the sun was up. We could not see it; but the sky behind the band of clouds was yellow, 
-and, far down the valley, some hillside orchards had lighted up.
-
-More people were parking near the highway and climbing the hills. It was the West. All of us
-rugged individualists were wearing knit caps and blue nylon parkas. People were climbing the
-nearby hills and setting up shop in clumps among the dead grasses. It looked as though we had 
-all gathered on hilltops to pray for the world on its last day. It looked as though we had all 
-crawled out of spaceships and were preparing to assault the valley below. It looked as though
-we were scattered on hilltops at dawn to sacrifice virgins, make rain, set stone stelae in a ring.
-
-There was no place out of the wind. The straw grasses banged our legs. Up in the sky where we
-stood the air was lusterless yellow. To the west the sky was blue.
-
-Now the sun cleared the clouds. We cast rough shadows on the blowing grass; freezing, we waved
-our arms. Near the sun, the sky was bright and colorless. There was nothing to see.
-```
-
-The eclipse itself:
-
-```markdown
-Now the sky to the west deepened to indigo, a color never seen. A dark sky usually loses color.
-This was a saturated, deep indigo, up in the air. Stuck up into that unworldly sky was the cone 
-of Mount Adams, and the alpenglow was upon it. The alpenglow is that red light of sunset which 
-holds out on snowy mountaintops long after the valleys and tablelands are dimmed. “Look at Mount
-Adams,” I said, and that was the last sane moment I remember.
-
-I turned back to the sun. It was going. The sun was going, and the world was wrong. The grasses 
-were wrong; they were platinum. Their every detail of stem, head, and blade shone lightless and 
-artificially distinct as an art photographer’s platinum print. This color has never been seen on 
-Earth. The hues were metallic; their finish was matte. The hillside was a 19th-century tinted 
-photograph from which the tints had faded. All the people you see in the photograph, distinct and
-detailed as their faces look, are now dead. The sky was navy blue. My hands were silver. All the
-distant hills’ grasses were finespun metal which the wind laid down. I was watching a faded color
-print of a movie filmed in the Middle Ages; I was standing in it, by some mistake. I was standing 
-in a movie of hillside grasses filmed in the Middle Ages. I missed my own century, the people I 
-knew, and the real light of day.
-
-I looked at Gary. He was in the film. Everything was lost. He was a platinum print, a dead artist’s
-version of life. I saw on his skull the darkness of night mixed with the colors of day. My mind was
-going out; my eyes were receding the way galaxies recede to the rim of space. Gary was light-years 
-away, gesturing inside a circle of darkness, down the wrong end of a telescope. He smiled as if he 
-saw me; the stringy crinkles around his eyes moved. The sight of him, familiar and wrong, was 
-something I was remembering from centuries hence, from the other side of death: Yes, that is the way
-he used to look, when we were living. When it was our generation’s turn to be alive. I could not hea
-r him; the wind was too loud. Behind him the sun was going. We had all started down a chute of time.
-At first it was pleasant; now there was no stopping it. Gary was chuting away across space, moving 
-and talking and catching my eye, chuting down the long corridor of separation. The skin on his face 
-moved like thin bronze plating that would peel. …
-
-From all the hills came screams. A piece of sky beside the crescent sun was detaching. It was a 
-loosened circle of evening sky, suddenly lighted from the back. It was an abrupt black body out of
-nowhere; it was a flat disk; it was almost over the sun. That is when there were screams. At once 
-this disk of sky slid over the sun like a lid. The sky snapped over the sun like a lens cover. The
-hatch in the brain slammed. Abruptly it was dark night, on the land and in the sky. In the night 
-sky was a tiny ring of light. The hole where the sun belongs is very small. A thin ring of light 
-marked its place. There was no sound. The eyes dried, the arteries drained, the lungs hushed. There
-was no world. We were the world’s dead people rotating and orbiting around and around, embedded in
-the planet’s crust, while the Earth rolled down. Our minds were light-years distant, forgetful of 
-almost everything. Only an extraordinary act of will could recall to us our former, living selves 
-and our contexts in matter and time. We had, it seems, loved the planet and loved our lives, but
-could no longer remember the way of them. We got the light wrong. In the sky was something that 
-should not be there. In the black sky was a ring of light. It was a thin ring, an old, thin silver
-wedding band, an old, worn ring. It was an old wedding band in the sky, or a morsel of bone. 
-There were stars. It was all over.
-```
-
-More:
-
-```markdown
-I saw, early in the morning, the sun diminish against a backdrop of sky. I saw a circular piece
-of that sky appear, suddenly detached, blackened, and backlighted; from nowhere it came and 
-overlapped the sun. It did not look like the moon. It was enormous and black. If I had not read 
-that it was the moon, I could have seen the sight a hundred times and never thought of the moon 
-once. (If, however, I had not read that it was the moon—if, like most of the world’s people 
-throughout time, I had simply glanced up and seen this thing—then I doubtless would not have 
-speculated much, but would have, like Emperor Louis of Bavaria in 840, simply died of fright on
-the spot.) It did not look like a dragon, although it looked more like a dragon than the moon. 
-It looked like a lens cover, or the lid of a pot. It materialized out of thin air—black, and flat,
-and sliding, outlined in flame.
-
-Seeing this black body was like seeing a mushroom cloud. The heart screeched. The meaning of the 
-sight overwhelmed its fascination. It obliterated meaning itself. If you were to glance out one 
-day and see a row of mushroom clouds rising on the horizon, you would know at once that what you
-were seeing, remarkable as it was, was intrinsically not worth remarking. No use running to tell
-anyone. Significant as it was, it did not matter a whit. For what is significance? It is 
-significance for people. No people, no significance. This is all I have to tell you.
-
-In the deeps are the violence and terror of which psychology has warned us. But if you ride these 
-monsters deeper down, if you drop with them farther over the world’s rim, you find what our sciences
-cannot locate or name, the substrate, the ocean or matrix or ether which buoys the rest, which gives
-goodness its power for good, and evil. Its power for evil, the unified field: our complex and 
-inexplicable caring for each other, and for our life together here. This is given. It is not learned.
-
-The world which lay under darkness and stillness following the closing of the lid was not the
-world we know. The event was over. Its devastation lay around about us. The clamoring mind and 
-heart stilled, almost indifferent, certainly disembodied, frail, and exhausted. The hills were 
-hushed, obliterated. Up in the sky, like a crater from some distant cataclysm, was a hollow ring.
-
-You have seen photographs of the sun taken during a total eclipse. The corona fills the print. 
-All of those photographs were taken through telescopes. The lenses of telescopes and cameras can 
-no more cover the breadth and scale of the visual array than language can cover the breadth and 
-simultaneity of internal experience. Lenses enlarge the sight, omit its context, and make of it a 
-pretty and sensible picture, like something on a Christmas card. I assure you, if you send any 
-shepherds a Christmas card on which is printed a three-by-three photograph of the angel of the Lord,
-the glory of the Lord, and a multitude of the heavenly host, they will not be sore afraid. More 
-fearsome things can come in envelopes. More moving photographs than those of the sun’s corona can 
-appear in magazines. But I pray you will never see anything more awful in the sky.
-
-You see the wide world swaddled in darkness; you see a vast breadth of hilly land, and an enormous,
-distant, blackened valley; you see towns’ lights, a river’s path, and blurred portions of your hat
-and scarf; you see your husband’s face looking like an early black-and-white film; and you see a 
-sprawl of black sky and blue sky together, with unfamiliar stars in it, some barely visible bands
-of cloud, and over there, a small white ring. The ring is as small as one goose in a flock of 
-migrating geese—if you happen to notice a flock of migrating geese. It is one-360th part of the 
-visible sky. The sun we see is less than half the diameter of a dime held at arm’s length.
-
-The Crab Nebula, in the constellation Taurus, looks, through binoculars, like a smoke ring. It is
-a star in the process of exploding. Light from its explosion first reached the Earth in 1054; it
-was a supernova then, and so bright it shone in the daytime. Now it is not so bright, but it is 
-still exploding. It expands at the rate of 70 million miles a day. It is interesting to look through
-binoculars at something expanding 70 million miles a day. It does not budge. Its apparent size
-does not increase. Photographs of the Crab Nebula taken 15 years ago seem identical to photographs
-of it taken yesterday. Some lichens are similar. Botanists have measured some ordinary lichens twice,
-at 50-year intervals, without detecting any growth at all. And yet their cells divide; they live.
-
-The small ring of light was like these things—like a ridiculous lichen up in the sky, like a 
-perfectly still explosion 4,200 light-years away: It was interesting, and lovely, and in witless
-motion, and it had nothing to do with anything.
-
-It had nothing to do with anything. The sun was too small, and too cold, and too far away, to
-keep the world alive. The white ring was not enough. It was feeble and worthless. It was as 
-useless as a memory; it was as off-kilter and hollow and wretched as a memory.
-
-When you try your hardest to recall someone’s face, or the look of a place, you see in your mind’s
-eye some vague and terrible sight such as this. It is dark; it is insubstantial; it is all wrong.
-
-The white ring and the saturated darkness made the Earth and the sky look as they must look in 
-the memories of the careless dead. What I saw, what I seemed to be standing in, was all the 
-wrecked light that the memories of the dead could shed upon the living world. We had all died in
-our boots on the hilltops of Yakima, and were alone in eternity. Empty space stoppered our eyes
-and mouths; we cared for nothing. We remembered our living days wrong. With great effort we had
-remembered some sort of circular light in the sky—but only the outline. Oh, and then the orchard 
-trees withered, the ground froze, the glaciers slid down the valleys and overlapped the towns. 
-If there had ever been people on Earth, nobody knew it. The dead had forgotten those they had 
-loved. The dead were parted one from the other and could no longer remember the faces and lands
-they had loved in the light. They seemed to stand on darkened hilltops, looking down.
-```
-
-Remembering, and the sheer stupefying scale of the cosmos:
-
-```markdown
-Further: While the mind reels in deep space, while the mind grieves or fears or exults, the workaday
-senses, in ignorance or idiocy, like so many computer terminals printing out market prices while the
-world blows up, still transcribe their little data and transmit them to the warehouse in the skull.
-Later, under the tranquilizing influence of fried eggs, the mind can sort through this data. The 
-restaurant was a halfway house, a decompression chamber. There I remembered a few things more.
-
-The deepest, and most terrifying, was this: I have said that I heard screams. (I have since read that
-screaming, with hysteria, is a common reaction even to expected total eclipses.) People on all the 
-hillsides, including, I think, myself, screamed when the black body of the moon detached from the sky 
-and rolled over the sun. But something else was happening at that same instant, and it was this, I 
-believe, which made us scream.
-
-The second before the sun went out we saw a wall of dark shadow come speeding at us. We no sooner saw 
-it than it was upon us, like thunder. It roared up the valley. It slammed our hill and knocked us out.
-It was the monstrous swift shadow cone of the moon. I have since read that this wave of shadow moves 
-1,800 miles an hour. Language can give no sense of this sort of speed—1,800 miles an hour. It was 195
-miles wide. No end was in sight—you saw only the edge. It rolled at you across the land at 1,800 miles
-an hour, hauling darkness like plague behind it. Seeing it, and knowing it was coming straight for you,
-was like feeling a slug of anesthetic shoot up your arm. If you think very fast, you may have time to 
-think, “Soon it will hit my brain.” You can feel the deadness race up your arm; you can feel the appalling,
-inhuman speed of your own blood. We saw the wall of shadow coming, and screamed before it hit.
-
-This was the universe about which we have read so much and never before felt: the universe as a clockwork
-of loose spheres flung at stupefying, unauthorized speeds. How could anything moving so fast not crash,
-not veer from its orbit amok like a car out of control on a turn?
-
-Less than two minutes later, when the sun emerged, the trailing edge of the shadow cone sped away. It 
-coursed down our hill and raced eastward over the plain, faster than the eye could believe; it swept
-over the plain and dropped over the planet’s rim in a twinkling. It had clobbered us, and now it roared
-away. We blinked in the light. It was as though an enormous, loping god in the sky had reached down and
-slapped the Earth’s face.
 ```
 
 <a name="#lies"></a>
