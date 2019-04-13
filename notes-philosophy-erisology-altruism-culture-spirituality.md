@@ -29,6 +29,8 @@ So this suggests a solution: never start. Merely have perpetual drafts, which on
 time. And the rest takes care of itself.
 ```
 
+(There's also the parallel to [perpetual beta](https://breakingsmart.com/en/season-1/running-code-and-perpetual-beta/) for web-based software: scaffolding for extensive ongoing experimentation within the already-deployed app. Never start, as Gwern says.)
+
 There's also this quote from Paul Graham's essay [You weren't meant to have a boss](http://www.paulgraham.com/boss.html), [paraphrased](https://meltingasphalt.com/about/) by Kevin Simler:
 
 ```markdown
