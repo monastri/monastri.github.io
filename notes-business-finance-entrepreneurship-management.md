@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 16,500*
+*[Word count](https://wordcounter.net/): 18,200*
 
 ## What is this?
 
@@ -28,6 +28,8 @@ I actually get into the swing of working on even dull tasks, it’s not so bad.
 So this suggests a solution: never start. Merely have perpetual drafts, which one tweaks from time to
 time. And the rest takes care of itself.
 ```
+
+(There's also the parallel to [perpetual beta](https://breakingsmart.com/en/season-1/running-code-and-perpetual-beta/) for web-based software: scaffolding for extensive ongoing experimentation within the already-deployed app. Never start, as Gwern says.)
 
 There's also this quote from Paul Graham's essay [You weren't meant to have a boss](http://www.paulgraham.com/boss.html), [paraphrased](https://meltingasphalt.com/about/) by Kevin Simler:
 
@@ -654,136 +656,189 @@ stuff.
 A bit of historical context:
 
 ```markdown
-3/ The middle manager -- somebody who manages other managers, but isn't the owner/leader or CEO -- is the sine qua non of the no-skin-in-the-game industrial age ethos.
+3/ The middle manager -- somebody who manages other managers, but isn't the owner/leader
+or CEO -- is the sine qua non of the no-skin-in-the-game industrial age ethos.
 
-4/ They do not bear responsibility either for the work getting done, or for the ultimate aims of the organization being attained. That does not mean, however, that they are useless.
+4/ They do not bear responsibility either for the work getting done, or for the ultimate
+aims of the organization being attained. That does not mean, however, that they are 
+useless.
 
-5/ The middle manager evolved to occupy a niche: providing a lot of middleware support and coordination required in large-scale organizations.
+5/ The middle manager evolved to occupy a niche: providing a lot of middleware support 
+and coordination required in large-scale organizations.
 
-7/ Many of the pathologies of hierarchical command-and-control organizations arise not from the structure itself, but from the existence of unaccountable middle layers.
+7/ Many of the pathologies of hierarchical command-and-control organizations arise not
+from the structure itself, but from the existence of unaccountable middle layers.
 
-8/ Unlike the bottom layers with direct responsibility for getting work done, middle layers are not responsible for immediate consequences.
+8/ Unlike the bottom layers with direct responsibility for getting work done, middle 
+layers are not responsible for immediate consequences.
 
-9/ Unlike the top layers, with accountability to stakeholders and overall organizational performance, middle layers are not responsible for ultimate consequences.
+9/ Unlike the top layers, with accountability to stakeholders and overall organizational
+performance, middle layers are not responsible for ultimate consequences.
 
-10/ This is a structural position rife with moral hazard. There is a principal-agent problem/no-skin-in-game issue in relation to both the top and bottom of the pyramid.
+10/ This is a structural position rife with moral hazard. There is a principal-agent 
+problem/no-skin-in-game issue in relation to both the top and bottom of the pyramid.
 
-11/ But the role has not always been vacuous, even though it often is now. A lot of routine logistics, information dissemination, and large-scale coordination used to depend on it.
+11/ But the role has not always been vacuous, even though it often is now. A lot of
+routine logistics, information dissemination, and large-scale coordination used to 
+depend on it.
 ```
 
 And then times changed:
 
 ```markdown
-6/ That niche, however, began shrinking in the late 70s. Since that time, a gradual process of unbundling middle-management functions has been underway.
+6/ That niche, however, began shrinking in the late 70s. Since that time, a gradual 
+process of unbundling middle-management functions has been underway.
 
-12/ Over the last 40 years, a great many middle-management functions have been refactored into other functions, automated, outsourced, or simply done away with.
+12/ Over the last 40 years, a great many middle-management functions have been 
+refactored into other functions, automated, outsourced, or simply done away with.
 
-13/ You can think of four broad phases, each taking about ten years, and each concerned with a core unbundling principle: 
+13/ You can think of four broad phases, each taking about ten years, and each 
+concerned with a core unbundling principle: 
 - autonomy
 - efficiency
 - innovation
 - empathy. 
 
-13/ You can read about the autonomy phase (1975-85)  in books like Tom Peters' Thriving on Chaos, which was the first management book I read as a teenager.
+13/ You can read about the autonomy phase (1975-85)  in books like Tom Peters' 
+Thriving on Chaos, which was the first management book I read as a teenager.
 
-14/ Much of what he wrote about the era of "flattening" organizations is conventional wisdom today, but back then the core idea seemed really radical: trust the individual.
+14/ Much of what he wrote about the era of "flattening" organizations is conventional
+wisdom today, but back then the core idea seemed really radical: trust the individual.
 
-15/ The result of that early era was simply fewer managers, in fewer layers, and most importantly, more autonomous individual contributors, at least at skilled levels.
+15/ The result of that early era was simply fewer managers, in fewer layers, and most
+importantly, more autonomous individual contributors, at least at skilled levels.
 
-16/ Peters' ideas came out of a long tradition of people arguing that workers could be trusted rather than treated like convicted felons. McGregor's Theory X/Theory Y (1960s) was an early part of it.
+16/ Peters' ideas came out of a long tradition of people arguing that workers could be
+trusted rather than treated like convicted felons. McGregor's Theory X/Theory Y (1960s)
+was an early part of it.
 
-17/ After autonomy, the focus shifted to efficiency (1985-95). This led to the global spread of Japanese ideas, with much of the impact being on the factory floor.
+17/ After autonomy, the focus shifted to efficiency (1985-95). This led to the global
+spread of Japanese ideas, with much of the impact being on the factory floor.
 
-18/ The impact on managers -- a focus on process discipline, monitoring and feedback, is captured in Andy Grove's classic High Output Management (1983).
+18/ The impact on managers -- a focus on process discipline, monitoring and feedback, 
+is captured in Andy Grove's classic High Output Management (1983).
 
-19/ Autonomy+efficiency in an environment of deregulation and computerization meant "bad management" was solved in a specific way: elimination, automation and outsourcing.
+19/ Autonomy+efficiency in an environment of deregulation and computerization meant
+"bad management" was solved in a specific way: elimination, automation and outsourcing.
 
-20/ Many middle-managerial functions such as signing off on routine paperwork or disseminating information, were simply computerized or networked away.
+20/ Many middle-managerial functions such as signing off on routine paperwork or 
+disseminating information, were simply computerized or networked away.
 
-21/ Other functions were downcycled: it was recognized that many functions weren't really "management" work, and outsourced to lower-cost non-manager workers, often in other countries.
+21/ Other functions were downcycled: it was recognized that many functions weren't really 
+"management" work, and outsourced to lower-cost non-manager workers, often in other countries.
 
-22/ Matrix management, value-chain optimization, and process re-engineering marked the later stages of this era: broadly, the era of process discipline.
+22/ Matrix management, value-chain optimization, and process re-engineering marked the 
+later stages of this era: broadly, the era of process discipline.
 
-23/ Process discipline helped cleave line management from project/program management, shrink the former (absorbed into "staff" functions in many cases), and frame the latter in "core competency" terms.
+23/ Process discipline helped cleave line management from project/program management, shrink
+the former (absorbed into "staff" functions in many cases), and frame the latter in "core 
+competency" terms.
 
-24/ In the early 90s, line management functions shrank through unbundling, abandonment, automation and outsourcing, while project/program management functions grew in importance.
+24/ In the early 90s, line management functions shrank through unbundling, abandonment,
+automation and outsourcing, while project/program management functions grew in importance.
 
-25/ Managers began to be held accountable for end-to-end value addition rather than just the internal silo-functioning metrics, setting the stage for the "innovation" era.
+25/ Managers began to be held accountable for end-to-end value addition rather than just
+the internal silo-functioning metrics, setting the stage for the "innovation" era.
 
-26/ By 1995 the stage was set for the "innovation" phase. Fueled by books such as The Innovator's Dilemma (1997), the surviving middle managers turned into risk managers.
+26/ By 1995 the stage was set for the "innovation" phase. Fueled by books such as The 
+Innovator's Dilemma (1997), the surviving middle managers turned into risk managers.
 
-27/ The timing was perfect, since the rise of the Internet shifted the entire economy into an innovate-or-die/software-eating-the-world gear. 
+27/ The timing was perfect, since the rise of the Internet shifted the entire economy
+into an innovate-or-die/software-eating-the-world gear. 
 
-28/ Middle managers became like VCs or angel investors, stewarding agendas defined by "porftolios" of "strategic" projects with varied risk profiles and "ROI" expectations.
+28/ Middle managers became like VCs or angel investors, stewarding agendas defined by
+"porftolios" of "strategic" projects with varied risk profiles and "ROI" expectations.
 
-29/ This 30 year/three phase drive towards increasing individual autonomy, efficiency, and innovation focus utterly transformed the staid middle manager of the 1970s.
+29/ This 30 year/three phase drive towards increasing individual autonomy, efficiency, 
+and innovation focus utterly transformed the staid middle manager of the 1970s.
 
-30/ Before they were paternalistic types, taking it easy in low-stress robotic functions, insulated from harsh incentives, growing little siloed fiefdoms within safe "job descriptions"
+30/ Before they were paternalistic types, taking it easy in low-stress robotic 
+functions, insulated from harsh incentives, growing little siloed fiefdoms within safe
+"job descriptions"
 
-31/ After, they were anxious, ambitious, hungry and stressed risk managers, shepherding a dozen "value-adding strategic initiatives" through brutally Darwinian internal ecosystems.
+31/ After, they were anxious, ambitious, hungry and stressed risk managers, shepherding
+a dozen "value-adding strategic initiatives" through brutally Darwinian internal ecosystems.
 
-32/ Obedient, docile employees turned into autonomous, authority-challenging nightmares for bosses who might jump or be reassigned to competing projects anytime.
+32/ Obedient, docile employees turned into autonomous, authority-challenging nightmares 
+for bosses who might jump or be reassigned to competing projects anytime.
 
-33/ Autonomy meant that what used to be "rank insubordination" was now "effectiveness." In an environment of competing internal projects, loyalties became  uncertain.
+33/ Autonomy meant that what used to be "rank insubordination" was now "effectiveness."
+In an environment of competing internal projects, loyalties became  uncertain.
 
-34/ Efficiency meant that scrutiny of costs and performance turned brutal (if not always particularly effective). Except on Wall Street, work stopped being a bacchanalian party.
+34/ Efficiency meant that scrutiny of costs and performance turned brutal (if not always
+particularly effective). Except on Wall Street, work stopped being a bacchanalian party.
 
-35/ The focus on innovation meant the static peacetime construct of "job description" transformed into constant maneuvering against shifting internal/external competition. 
+35/ The focus on innovation meant the static peacetime construct of "job description" 
+transformed into constant maneuvering against shifting internal/external competition. 
 
-36/ Instead of attracting admiration and envy, bragging about the size of your organization  attracted unwanted disruptive innovation from both internal and external competitors.
+36/ Instead of attracting admiration and envy, bragging about the size of your organization
+attracted unwanted disruptive innovation from both internal and external competitors.
 
-37/ Chet Richards' Certain to Win (another top recommendation of mine that I use all the time), captures this last management-as-innovation-maneuvering aspect.
+37/ Chet Richards' Certain to Win (another top recommendation of mine that I use all the 
+time), captures this last management-as-innovation-maneuvering aspect.
 ```
 
 What was sacrificed in the process?
 
 ```markdown
-39/ Like many Gen Xers in their early 40s, I am a product of the first three phases, spanning 30 years, of the long-term unbundling of the manager.  
+39/ Like many Gen Xers in their early 40s, I am a product of the first three phases, 
+spanning 30 years, of the long-term unbundling of the manager.  
 
-40/ Thinking in terms of autonomy, efficiency and innovation is so instinctively natural for me, and distaste for the 70s fat-cat managers so ingrained, I can't think any other way.
+40/ Thinking in terms of autonomy, efficiency and innovation is so instinctively natural
+for me, and distaste for the 70s fat-cat managers so ingrained, I can't think any other
+way.
 
-41/ Which means this "native" way of thinking comes with some big blindspots I share with others of my generation, which 70s-era managers would have recognized.
+41/ Which means this "native" way of thinking comes with some big blindspots I share 
+with others of my generation, which 70s-era managers would have recognized.
 
-42/ The biggest blindspot has to do with the role of caring in management. This is where Kim's challenge directly versus care personally 2x2 comes in.
+42/ The biggest blindspot has to do with the role of caring in management.
 
-43/ Pre-80s managers could be paternalistic in the sense of caring, in part because the overall inefficiency and conflict-averse consensus culture of the economy made it cheap to care.
+43/ Pre-80s managers could be paternalistic in the sense of caring, in part because the 
+overall inefficiency and conflict-averse consensus culture of the economy made it cheap
+to care.
 
-44/ So 1970s style managerial caring was usually not accompanied by candor and direct challenging. Workplaces were dominantly in Kim's top-left quadrant: ruinous empathy.
+44/ So 1970s style managerial caring was usually not accompanied by candor and direct
+challenging. Workplaces were dominantly in Kim's top-left quadrant: ruinous empathy.
 
-45/ The effect of the first three phases of the unbundling of managers was that a lot of managers, if they survived at all, shifted into one of the two lower quadrants.
+45/ The effect of the first three phases of the unbundling of managers was that a lot
+of managers, if they survived at all, shifted into one of the two lower quadrants.
 
-46/ Many shifted into manipulative insincerity, looking out for themselves at the expense of others, in the classic 1980s-douchebag mode, now a cultural trope.
+46/ Many shifted into manipulative insincerity, looking out for themselves at the expense
+of others, in the classic 1980s-douchebag mode, now a cultural trope.
 
-47/ Many shifted into obnoxious aggression, turning into stress-inducing internal cancers, short-term effectiveness being paid for with long-term damage.
+47/ Many shifted into obnoxious aggression, turning into stress-inducing internal cancers,
+short-term effectiveness being paid for with long-term damage.
 
-48/ After 30 years of unbundling the manager, a lot of the behavioral mass concentrated in "ruinous empathy" got redistributed into these other two quadrants, even as it shrank.
+53/ Silicon Valley was not immune to this broader shift. In the valley, people began 
+deluding themselves that nice buffets and beanbag chairs were "culture" and stock options a
+substitute for "caring."
 
-49/ The result, on the eve of the crash of 2008, was a corporate world with a deep deficit of caring, with or without strong cultures of truth-telling. Then the crash happened.
+54/ Across the board, Silicon Valley companies joined the great party of accumulating caring 
+debt, except with nicer perks. 
 
-50/ A big part of the Great Recession was that "caring debt" had come due. We were paying the costs of an economy based on manipulative insincerity and obnoxious aggression.
+55/ In society, more broadly, politics too succumbed to the same forces that had created the
+caring deficit in the private sector.
 
-51/ These are not the same as an economy or company grounded in truth-telling. It is just a culture of the strong exploiting the weak while being indifferent to the truth or effectiveness.
+56/ A party based on ruinous empathy -- the tendency to cloak important truths in "PC" and
+hypocrisy -- lost to one that specializing in obnoxious aggression and manipulative insincerity.
 
-52/ The public sector was no better. The parts gutted by deregulation succumbed to the same pathologies as the private sector. The left-behind part doubled down on ruinous empathy.
+57/ What was lost across the board, at all levels from Washington DC to the Uber, poster-
+child for software eating the world, was a culture of caring without sacrificing truth-telling.
 
-53/ Silicon Valley was not immune to this broader shift. In the valley, people began deluding themselves that nice buffets and beanbag chairs were "culture" and stock options a substitute for "caring."
+58/  This is not a nice-to-have feature of society. A society can create meaning and be worth
+living in only if individuals actually sincerely care about each other and show it.
 
-54/ Across the board, Silicon Valley companies joined the great party of accumulating caring debt, except with nicer perks. 
+59/ At the same time, a society that lacks candor and the ability to challenge lies directly,
+is one that lacks the ability to function at a very basic level. 
 
-55/ In society, more broadly, politics too succumbed to the same forces that had created the caring deficit in the private sector.
+60/ What can you do about it? Buffets and expensive sweatshirts aren't the answer. The answer
+is grounding the key 1:1 relationships of society in radical candor.
 
-56/ A party based on ruinous empathy -- the tendency to cloak important truths in "PC" and hypocrisy -- lost to one that specializing in obnoxious aggression and manipulative insincerity.
-
-57/ What was lost across the board, at all levels from Washington DC to the Uber, poster-child for software eating the world, was a culture of caring without sacrificing truth-telling.
-
-58/  This is not a nice-to-have feature of society. A society can create meaning and be worth living in only if individuals actually sincerely care about each other and show it.
-
-59/ At the same time, a society that lacks candor and the ability to challenge lies directly, is one that lacks the ability to function at a very basic level. 
-
-60/ What can you do about it? Buffets and expensive sweatshirts aren't the answer. The answer is the grounding the key 1:1 relationships of society in radical candor.
-
-62/ If you recognize that the core managerial function left, after all the unbundling, is to simply care personally and challenge directly, you will help build institutions that endure.
+62/ If you recognize that the core managerial function left, after all the unbundling, is to
+simply care personally and challenge directly, you will help build institutions that endure.
 ```
+
+Y'know, a lot of what Venkat Rao says here, and in general (in his Breaking Smart newsletters more so than on Ribbonfarm), feel like BS. This is especially evident in his strawmanning of AI safety, where he (knowingly) sets up strawmen to be disposed of in one or two pithy deep-sounding sentences. This was why I omitted so many tweets above (pace numbering jumping around). It's just that every once in a while his attempts at refactoring perception yield something I genuinely like, so the ROI is worth it, encouraging me to soldier on through another round of condescending strawmen and non sequiturs. (Up to a point. It used to be 3-5 days; in my old age it's closer now to 24-48 hours.)
 
 <a name="#comfort-with-uncertainty"></a>
 ### Comfort with uncertainty
