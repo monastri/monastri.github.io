@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 18,200*
+*[Word count](https://wordcounter.net/): 22,000*
 
 ## What is this?
 
@@ -56,6 +56,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [The value of advertising](#The-value-of-working-in-advertising)
 1. [Bureaucracy](#Bureaucracy)
 	1. [Pournelle's Iron Law of Bureaucracy](#Iron-Law-of-Bureaucracy)
+	2. [Bureaucracy as proof of work filter based on systematizing trivial inconvenience](#Bureaucracy-as-proof-of-work-filter-based-on-systematizing-trivial-inconvenience)
 1. [Consulting](#consulting)
 	1. [Consulting's value-add](#consultings-value-add)
 3. [Insurance](#Insurance)
@@ -66,13 +67,13 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [Business success measures](#Business-success-measures)
 	2. [Dealing with message distortion](#Dealing-with-message-distortion)
 	2. [High organizational standards](#high-standards)
-	2. [Resisting organizational stasis, or, it is always Day 1](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends *(KIV for content list refactoring)*
+	2. [Resisting organizational stasis](#always-day-1): obsess over customers, resist managing by proxy, disagree and commit, embrace external trends 
 2. [Startups](#Startups)	
 	1. [Data content loops](#Data-content-loops), or creating Schelling points of public common knowledge to offset info asymmetry and give bargaining power back to the people
 2. [Venture capital](#venture-capital)
 	1. [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
 3. [Work](#work)
-	1. [Real work and bullshit jobs](#Real-work-and-bullshit-jobs)
+	1. [Real work and bullshit jobs](#Real-work-and-bullshit-jobs) (long section)
 	2. [Don't do what you love, do what contributes](#Dont-do-what-you-love-do-what-contributes)
 	3. [The market doesn't give a shit how hard you worked](#The-market-doesnt-give-a-shit-how-hard-you-worked)
 	  
@@ -343,6 +344,56 @@ control of the organization. It will write the rules, and control promotions
 within the organization.
 ```
 
+<a name="#Bureaucracy-as-proof-of-work-filter-based-on-systematizing-trivial-inconvenience"></a>
+### Bureaucracy as proof of work filter based on systematizing trivial inconvenience
+([overview](#overview))
+
+From Scott's post [Bureaucracy as active ingredient](https://slatestarcodex.com/2018/08/30/bureaucracy-as-active-ingredient/):
+
+```markdown
+Imagine there’s a new $10,000 medication. Insurance companies are legally required
+to give it to people who really need it and would die without it. But they don’t 
+want somebody who’s only a little bit sick demanding it as a “lifestyle” drug. In 
+principle doctors are supposed to help with this, but doctors have no incentive to
+ever say no to their patients. If the insurance just sends the doctor a form asking
+“does this patient really need this medication?”, the doctor will always just check
+“yes” and send it back. Even if the form says in big red letters PLEASE ONLY SAY 
+YES IF THERE IS AN IMPORTANT MEDICAL NEED, the doctor will still check “yes” more 
+often than a rational central planner allocating scarce resources would like. And 
+insurance companies are sometimes paranoid about refusing to do things doctors say
+are important, because sometimes the doctor was right and then they can get sued.
+
+But imagine it takes the doctor an hour of painful phone calls to even get the right
+person from the insurance company on the line. Now there’s a cost involved. If your
+patient is going to die without the medication, you’ll probably groan and start
+making the phone calls. But if your patient doesn’t really need it, and you just
+wanted to approve it in order to be nice, now you might start having a heartfelt
+talk with your patient about the importance of trying less expensive medications 
+before jumping right to the $10,000 one.
+
+Organizations have a legal incentive not to deny people things, because the people
+involved can sue them. But they have an economic incentive not to say yes to every 
+request they get. Seeing how much time and exasperation people are willing to put 
+up with in order to get what they want is an elegant way of separating out the needy 
+from the greedy if every other option is closed to you.
+
+This sort of thing does explain rituals like doctor’s notes for back pain or ADHD 
+diagnoses for stimulants.
+```
+
+Where doesn't this metaphor fit?
+
+```markdown
+I’m not sure it really fits the evidence. People complain a lot about bureaucracy 
+in places like the Department of Motor Vehicles, but the DMV doesn’t lose anything
+by giving you a drivers license and isn’t interested in separating out people who 
+really want licenses from people who only want them a little. If the DMV can be as
+bureaucratic as it is without any conspiratorial explanation, maybe everything is 
+as bureaucratic as it is without any conspiratorial explanation.
+```
+
+Some pushback in the comments by people whose experience was that the DMV is efficient, just severely underresourced (story of my team's life c. early 2019). 
+
 <a name="#Work"></a>
 ## Work
 ([overview](#overview)) 
@@ -350,6 +401,353 @@ within the organization.
 <a name="#Real-work-and-bullshit-jobs"></a>
 ### Real work and bullshit jobs
 ([overview](#overview))
+
+See also [bureaucracy](#bureaucracy) and the [non-code competencies of the middle manager](#Radical-candor-is-the-core-competency-of-the-modern-manager).
+
+Scott Alexander in [Bullsh!t jobs: part 1 of ∞](https://slatestarcodex.com/2018/08/29/bullst-jobs-part-1-of-%E2%88%9E/):
+
+```markdown
+I think a lot about David Graeber’s work on bullshit jobs. In an efficient market,
+why would profit-focused companies employ a bunch of people who by their own
+admission aren’t doing anything valuable? I’ve been wondering about this for a long
+time, and I try to notice when something I’m doing is bullshit. I guess this fits 
+the bill. It seems to be an issue of people spending time and money to create and
+satisfy procedures that degenerate into rituals, so that they can look all 
+procedural and responsible in front of – courts? regulators? bosses? investors? I’m
+not sure. But I do wonder how much of the economy is made of things like this.
+```
+
+From my POV it's pretty self-explanatory: it's all ass-covering. But perhaps there are more productive ways to look at it.
+
+Commenter Eric Rall calls it "warding off evil spirits":
+
+```markdown
+When I’ve encountered this sort of seemingly-empty procedural work in my career,
+I’ve referred to it as “warding off evil spirits”. In general, the pattern seems 
+to be that there’s a plausible failure mode being guarded against. The procedure
+guarding against it is rather silly and poorly-tuned to address the actual issue,
+but it more-or-less gets the job done, and coming up with a better-tuned procedure
+is a non-trivial problem which no one person has the information, power, and 
+incentives to solve.
+
+Thinking about it a little more, I think a lot of “warding off evil spirits” activity
+seems to be driven by a combination of exporting trivial inconveniences, covering 
+your ass against risk, and complying with externally-imposed mandates (government
+regulations, union rules, contractual obligations, and dictates by upper-level
+management).
+```
+
+Commenter LesHapablap:
+
+```markdown
+It is easy for a regulator or another business (usually a customer) to create
+mountains of extra work that has no value. Both the regulator and customer/agent
+have leverage to make you do the work, and their own incentives for requiring the
+work, and even if the incentive is tiny, that’s fine for them because they can 
+externalize the cost onto you.
+```
+
+Thank goodness there are at least checks and balances in the system (some systems at least) to prevent this from spiraling out of hand. Commenter Dave92f1:
+
+```markdown
+In our company we have customers requesting those “mountains of extra work that 
+(have) no value” all the time.
+
+It’s my job to scrutinize those requests and say “no”. A firm but friendly “no”,
+accompanied with a rational explanation, makes 95% of the requests go away. If 
+they really insist, I reply “ok, we’ll do it if you pay for it” (with our normal
+profit margin included). That makes another 4% of the requests go away.
+
+The last 1%, we’ll either do it if they pay for it, or we’ll forgo their business.
+
+But somebody has to do this job. And it has to be somebody who won’t get fired
+for making the occasional customer go away.
+```
+
+Bless you, Daves of the world. And bless you [trivial inconveniences](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences).
+
+But I digress. Scott was impelled to write the above due to the following "surprisingly common" work experience he has:
+
+```markdown
+A surprisingly common part of my life: a patient asks me for a doctor’s note for 
+back pain or something. Usually it’s a situation like their work chair hurts their
+back, and their work won’t let them bring in their own chair unless they have a 
+doctor’s note saying they have back pain, and they have no doctor except me, and
+their insurance wants them to embark on a three month odyssey of phone calls and 
+waiting lists for them to get one.
+
+In favor of writing the note: It would take me all of five seconds. I completely
+believe my patients when they say their insurance is demanding the three month 
+odyssey. Or sometimes they don’t have insurance and it would be a major financial 
+burden for them to consult another doctor. Also, I’ve seen these other doctors and 
+they have no objective test for back pain. 90% of the time they just have the
+patient stand in front of them, make whatever movement it is that hurts their back,
+ask the patient if it hurt their back, and when the patient says yes, the doctor 
+says “That’s back pain all right, take some aspirin or ibuprofen or whatever”.
+
+Against writing the note: I am a psychiatrist. I usually treat patients via
+telemedicine, which means that in many cases I have literally never seen their back.
+All I remember about back pain from medical school is that some people call it 
+“lumbago”, a word that stuck in my head because it sounds like a cryptid or small 
+African nation. I know even less about the ergonomics of chairs, or when people do
+vs. don’t require better ones. Any note I write about back pain and chair
+recommendations is going to be a total sham, bordering on medical fraud. I could 
+demand my patient take time off work to come in for an examination, sometimes from
+several hours away, just so I can do the thing where they bend their back in front
+of me and tell me it hurts. But that’s kind of just passing the shamminess a little
+bit down the line in a way that seriously inconveniences them.
+
+In other words: the request puts me in a position where I either have to lie, or
+have to refuse to give people help that they really need and that it would be trivial 
+for me to provide. It’s one of my least favorite things, and I would appreciate any
+ethical advice the philosophers here have to give.
+
+But my latest strategy is radical honesty. I write a note saying:
+
+	To whom it may concern:
+
+	I am a psychiatrist treating Mr. Smith. He tells me that he has 
+	chronic back pain (“lumbago”), and asks to be allowed to bring in
+	his own chair to work.
+
+	Yours,
+	Dr. Alexander
+
+It’s too soon to have a good sample size. But it seems to usually work. I think it
+works because there is nobody at Mr. Smith’s workplace – maybe nobody in the entire
+world – who’s really invested in preventing Mr. Smith from bringing a chair into 
+work. Someone wrote up a procedure for employees using special chairs, so that 
+they’re not the sort of cowboys who make decisions without procedures. Someone else
+feels like they have to enforce it, so that they’re not the sort of rebel who flouts
+procedures. But nobody *cares*.
+```
+
+Why doesn't he just say it's his recommendation? Ass-covering:
+
+```markdown
+If I say it’s my recommendation, I can be challenged in court, and if I don’t have
+great reasons behind the recommendation, I can lose lots of money or my license.
+```
+
+Eric Rall adds:
+
+```markdown
+Letting anyone bring in their own chairs would be a bit of a pain for the company to 
+manage: the company would have to keep track of which chairs are theirs vs which 
+belong to employees, so they don’t accidentally steal someone’s personal chair, and
+there are probably some liability concerns as well (say, Bob brings in a chair that’s
+stuffed with asbestos, and his coworker Carol sues the company for negligently
+exposing her to a hazardous material). But the opposite extreme runs into problems
+with the Americans with Disabilities Act, which requires the company to make 
+reasonable accommodations for legitimate medical needs.
+
+The “Doctor’s Note” rule addresses all three of these problems: 
+
+- it minimizes the burden to the company’s facilities team of keeping track of
+employee-owned chairs (since the trivial inconvenience of getting a doctor’s note 
+screens out all but the most motivated personal-chair-bringers), 
+
+- it fulfills the company’s requirements ADA responsibilities (sure, we’ll accommodate
+your legitimate medical needs: we just need basic documentation of those needs), 
+
+- it mitigates any potential liability exposure (we weren’t negligent: we had to let
+Bob bring in his chair because he had a well-documented medical need that we were 
+legally obligated to accommodate). 
+
+It’s silly (especially since in practice, it reduces to “you can’t bring in your own 
+chair unless you really want to”), but it gets the job done.
+```
+
+"Real manager" Nate the Albatross gives his seal of approval on Scott's note:
+
+```markdown
+The purpose of the note is almost certainly an accounting classification. The budget
+for new chairs is $0.00 and is a capital expense that has requires layers of approval
+and your manager is tasked specifically with “keeping expenses low.”
+
+But an ADA accommodation probably comes out of the HR budget. Everyone hates HR and
+your HR representive likely sits in some other state and isn’t likely to every view 
+the note. In fact the manager probably has a check box on the chair order form that 
+says, “Does the employee have a doctor’s note?” yes/no. For privacy reasons you might
+not even need to retain the note.
+
+And even if there IS an audit process, the manager ordering the chair almost certainly
+knows better than most doctors if the employee has back pain or not and all of the 
+layers of management who oppose buying a chair out of their budget are in lock step 
+that HR should definitely pay.
+
+Thus the dubious note, if challenged by HR, is likely to be met by passionate pleas 
+about taking care of employees and anger from people who don’t want the expense 
+assigned to them.
+
+And before you ask why they can’t just set the new chair operations budget at $1,000, 
+keep in mind that if they only spend $800, there will be a $200 cut to that budget. 
+And if they spend $1,200 you lose your bonus. Plus there is always a jerk who orders 
+his team all new chairs each year leaving the rest of the department with ten year old
+junk chairs.
+
+In a perfect world each employee gets an ergonomic budget. But if you have a chair 
+policy clearly perfection is not in the cards. So you get a note, and charge it to HR. 
+Because HR is mostly Bull$%t
+```
+
+Bit of nuance on what it means for jobs to "produce no value". Frederic Mari points out that
+
+```markdown
+First rule of bullshit jobs – don’t assume people know shit about their own function
+in a company.
+
+When they say they have a bullshit job that adds no value, it usually means their job
+doesn’t give them meaning/life satisfaction. It’s an issue but not the same thing at 
+all from it having no value for the organisation.
+```
+
+To which NostalgiaforInfinity gives the obvious response:
+
+```markdown
+An activity can have value for an organisation but not for society as a whole. 
+
+Anything that functions as an arms race for example – your company needs to adopt 
+shiny-new-thing because your competitors have, but then everyone has adopted
+shiny-new-thing and you’re all essentially back where you started. If your job is solely 
+about shiny-new-thing, it’s kind of bullshit in that if your company stopped doing it,
+your company would be out-competed and suffer; but if everyone stopped doing it, society
+as a whole would benefit from not wasting resources in an arms race.
+```
+
+This is [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), man! C'mon Fred, keep up!
+
+Above Scott quoted David Graeber's work:
+
+```markdown
+In the year 1930, John Maynard Keynes predicted that, by century's end, technology
+would have advanced sufficiently that countries like Great Britain or the United 
+States would have achieved a 15-hour work week. There's every reason to believe he
+was right. In technological terms, we are quite capable of this. And yet it didn't
+happen. Instead, technology has been marshaled, if anything, to figure out ways to
+make us all work more. In order to achieve this, jobs have had to be created that 
+are, effectively, pointless. Huge swathes of people, in Europe and North America in
+particular, spend their entire working lives performing tasks they secretly believe
+do not really need to be performed. ...
+
+Why did Keynes' promised utopia—still being eagerly awaited in the '60s—never
+materialise? The standard line today is that he didn't figure in the massive increase 
+in consumerism. Given the choice between less hours and more toys and pleasures, 
+we've collectively chosen the latter. This presents a nice morality tale, but even a
+moment's reflection shows it can't really be true. Yes, we have witnessed the 
+creation of an endless variety of new jobs and industries since the '20s, but very
+few have anything to do with the production and distribution of sushi, iPhones, or
+fancy sneakers.
+
+So what are these new jobs, precisely? A recent report comparing employment in the
+US between 1910 and 2000 gives us a clear picture (and I note, one pretty much
+exactly echoed in the UK). Over the course of the last century, the number of workers
+employed as domestic servants, in industry, and in the farm sector has collapsed 
+dramatically. At the same time, ‘professional, managerial, clerical, sales, and 
+service workers’ tripled, growing ‘from one-quarter to three-quarters of total
+employment.’ In other words, productive jobs have, just as predicted, been largely
+automated away (even if you count industrial workers globally, including the toiling 
+masses in India and China, such workers are still not nearly so large a percentage
+of the world population as they used to be.)
+
+But rather than allowing a massive 
+reduction of working hours to free the world's population to pursue their own
+projects, pleasures, visions, and ideas, we have seen the ballooning of not even so
+much of the ‘service’ sector as of the administrative sector, up to and including 
+the creation of whole new industries like financial services or telemarketing, or 
+the unprecedented expansion of sectors like corporate law, academic and health 
+administration, human resources, and public relations. And these numbers do not even
+reflect on all those people whose job is to provide administrative, technical, or 
+security support for these industries, or for that matter the whole host of 
+ancillary industries (dog-washers, all-night pizza delivery) that only exist because
+everyone else is spending so much of their time working in all the other ones.
+
+These are what I propose to call ‘bullshit jobs’. ...
+
+There is a whole class of salaried professionals that, should you meet them at parties
+and admit that you do something that might be considered interesting (an anthropologist,
+for example), will want to avoid even discussing their line of work entirely (one or 
+t'other?) Give them a few drinks, and they will launch into tirades about how pointless
+and stupid their job really is.
+```
+
+I'm not convinced in David's explanation of the proliferation of bullshit jobs. J r's "compliance culture arising from risk aversion in large institutions" makes more sense:
+
+```markdown
+The more likely answers lie in the fact that institutions trend towards developing
+rules and fostering a culture of compliance for those rules because people are, by
+and large, risk adverse. Few people want to stick their neck out and take 
+responsibility for decisions, so the remain under the institutional cover of the
+rules. And in certain situations, that is the absolute correct thing to do. The 
+problem is knowing what situations are and are not the correct one. My guess is that
+is where so much of the wasted effort lies and from the outside that process look a
+lot like bullshit.
+
+ETA: I should add that I do believe that compliance culture is also about control as
+much as it is about risk aversion. Some people really do like having arbitrary 
+authority over others and get utility from wielding it in capricious ways. However,
+contra Graeber, this petty authoritarianism isn’t being directed by some cabal of cigar 
+smoking capitalists. It’s almost always the result of a poor management culture and
+not a deliberate management strategy.
+```
+
+And then there's the "organizational debt" explanation, which I also tend to lean towards because it's got parallels in [research](https://distill.pub/2017/research-debt) and [software development](https://en.wikipedia.org/wiki/Technical_debt):
+
+```markdown
+I think that there’s a fundamental phenomenon at work where the older and larger an
+organization of people gets, the more baggage it will accrue, and this happens 
+automatically and without any conscious effort. Why does it happen? I think there are
+two interrrelated reasons: entropy and lack of a counterforce.
+
+For entropy, there are a lot of ways to organize your organization, and most of those
+are pretty far from the optimal. Over time, the organization will keep sampling those
+methods and will become more and more complicated, since (chaotic) complexity inherently 
+increases over time in a system that is in the process of dissipating an energy gradient
+(which is kind of what you could say companies are doing in an economic sense), due to
+the inherent nature of the arrow of time (the motions of a glass falling off the table
+and breaking start off simple but become more complicated as the fragmentation process
+keeps going). Thus, the efficiency will go down over time, and that comes largely in the
+form of ‘bullshit’ being introduced.
+
+So why don’t these organizations get outcompeted? How do they get anything done at all?
+
+Well, to begin with their competitors are plagued by the same problems as well, but 
+sometimes they do get outcompeted, by something new that is resetting the counter, and
+starting afresh, like Uber and the taxis. but mark my words, Uber will get ‘plicompicated’
+over time as well. Plus, most companies will fail eventually, and a lot of the time they
+implode under their own bullshit.
+
+I’m starting to think that essentially the only thing that really saves companies is 
+‘free energy’, as in, their product is so desired that they can essentially afford to be 
+inefficient. If everyone really wants to buy an iphone and will pay really high prices for
+it, your company can be successfull making them even if it has a lot of extra weight 
+internally.
+
+So what about lack of counterforce?
+
+Essentially, no one *really* has much of a reason to make things go well. Usually my 
+solution to these things is to just say something like “well, why don’t we just not care 
+about the chairs?” and the response is usually sort of befuddlement. “What do you mean not
+care about the chairs? I don’t really *Care* about the chairs, but it’s not The Way Things
+Are Done.” Some of it is “i could get in trouble for not doing things The Way Things Are
+Done” but I think a lot of it is just blind acceptance of ritual. Something that’s probably
+a holdover from the stone age, where in your community, you kind of just had to accept The
+Way Things Are Done, since that was how knowledge about how to do things was maintained, and
+for more ‘pointless rituals’ how group affiliation signaling and cohesion was maintained. 
+and peopple who did not were evolutionarily selected against. So basically people were under
+selection pressure to not really think for themselves and question how things are done.
+```
+
+Kenny Easwaran adds that refactoring organizations (comprised of Real People!) is harder than refactoring code:
+
+```markdown
+Accumulation of cruft is a major problem for any system, whether it’s computer code or an
+organization. Refactoring it and tidying everything up is hard work. When you’re dealing
+with people rather than computers, it’s made harder by the fact that any major change is 
+going to negatively affect some people, and loss aversion means they will fight against it
+more than the people seeing the diffuse benefits (across the organization) of general 
+efficiency improvement will support it.
+```
 
 From Sarah Constantin's [How much work is real?](https://srconstantin.wordpress.com/2017/05/09/how-much-work-is-real/).
 
