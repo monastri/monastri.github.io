@@ -9,6 +9,19 @@
 7. [Tools shape users](#Tools-shape-users)	
 
 
+From John Backus' tweet:
+
+```markdown
+I've used 'black hole' as a metaphor in conversatino like 5 times in the last 
+2 days. Absolutely because of the new image (EHT first BH image).
+
+Language is a side-channel attack. Every sentence I speak embeds tiny clues 
+about where my mind has been in the past few days/weeks/months.
+```
+
+Jives with my "recency-weighted biased training set" metaphor, but I like the "language as side-channel attack" metaphor too.
+
+
 <a name="#Tools-shape-users"></a>
 ## Tools shape users
 ([overview](#overview))
