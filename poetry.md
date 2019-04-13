@@ -2819,6 +2819,7 @@ they had loved in the light. They seemed to stand on darkened hilltops, looking 
 
 Remembering, and the sheer stupefying scale of the cosmos:
 
+```markdown
 Further: While the mind reels in deep space, while the mind grieves or fears or exults, the workaday
 senses, in ignorance or idiocy, like so many computer terminals printing out market prices while the
 world blows up, still transcribe their little data and transmit them to the warehouse in the skull.
