@@ -68,7 +68,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Perpetual beta](#Perpetual-beta)
 2. [Practical magic](#practical-magic)
 2. [Non-pathological programming languages](#Programming-languages)
-	2. [Smalltalk](#smalltalk), ft. misconception corrections by Alan Kay
+	1. [Smalltalk](#smalltalk), ft. misconception corrections by Alan Kay
 2. [Software complexity](#Software-complexity)
 	1. [The many faces of software complexity](#The-many-faces-of-software-complexity)
 	2. [Codebase as organism](#codebase-as-organism)
