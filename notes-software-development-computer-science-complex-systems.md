@@ -68,7 +68,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [Why OSes?](#Why-operating-systems)
 	2. [OSes as stack of metaphors](#Operating-systems-as-stack-of-metaphors)
 	3. [Selling OSes was a radical idea](#Selling-operating-systems-was-a-radical-idea)
-2. [Optimization](#	Optimization)
+2. [Optimization](#Optimization)
 	1. [Performance optimization done properly](#Performance-optimization), pretty much all Carlos Bueno 
 	2. [The unreasonable effectiveness of a thousand small optimizations](#The-unreasonable-effectiveness-of-a-thousand-small-optimizations)
 2. [Software complexity](#Software-complexity)
