@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 33,700*
+*[Word count](https://wordcounter.net/): 34,800*
 
 ## What is this?
 
@@ -64,8 +64,9 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [Why OSes?](#Why-operating-systems)
 	2. [OSes as stack of metaphors](#Operating-systems-as-stack-of-metaphors)
 	3. [Selling OSes was a radical idea](#Selling-operating-systems-was-a-radical-idea)
-2. [Practical magic](#practical-magic)
 2. [Performance optimization](#Performance-optimization), pretty much all Carlos Bueno 
+2. [Perpetual beta](#Perpetual-beta)
+2. [Practical magic](#practical-magic)
 2. [Non-pathological programming languages](#Programming-languages)
 	2. [Smalltalk](#smalltalk), ft. misconception corrections by Alan Kay
 2. [Software complexity](#Software-complexity)
@@ -79,6 +80,125 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Why platforms matter](#platforms)
 
 ---------------------------------------
+
+<a name="#Perpetual-beta"></a>
+## Perpetual beta
+([overview](#overview)) 
+
+From Venkat Rao's [Breaking Smart newsletter](https://breakingsmart.com/en/season-1/running-code-and-perpetual-beta/) on the topic. 
+
+```markdown
+All modern web-based software includes scaffolding for extensive ongoing 
+experimentation within the deployed production site or smartphone app 
+backend (and beyond, through developer APIs). Some of it is even visible 
+to users. In addition to experimental features that allow users to stay 
+ahead of the curve, many services also offer “classic” settings that allow
+them to stay behind the curve — for a while. The best products use 
+perpetual beta as a way to lead their users towards richer, more empowered
+behaviors, instead of following them through customer-driven processes. 
+Backward compatibility is limited to situations of pragmatic need, rather
+than being treated as a religious imperative.
+
+How does anything ambitious get finished by groups of stubborn individuals
+heading in the foggiest possible direction of “maximal interestingness” with
+neither purist visions nor “customer needs” guiding them?
+
+The answer is that it *doesn’t* get finished. But unlike in waterfall models,
+this does not necessarily mean the *product* is incomplete. It means the *vision*
+is perpetually incomplete and growing in unbounded ways, due to ongoing 
+evolutionary experiments. When this process works well, what engineers call 
+technical debt can get transformed into what we might call technical surplus.
+The parts of the product that lack satisfying design justifications represent
+the areas of rapid innovation. The gaps in the vision are sources of 
+serendipitous good luck. (If you are a Gmail user, browsing the “Labs” section
+might lead you to some serendipitous discoveries: features you did not know
+you wanted might already exist unofficially).
+
+The deeper significance of perpetual beta culture in technology often goes
+unnoticed: in the industrial age, engineering labs were impressive, enduring
+buildings inside which experimental products were created. In the digital 
+age, engineering labs are experimental sections inside impressive, enduring
+products. Those who bemoan the gradual decline of famous engineering labs 
+like AT&T Bell Labs and Xerox PARC often miss the rise of even more impressive 
+labs inside major modern products and their developer ecosystems.
+```
+
+Corollary to perpetual beta:
+
+```markdown
+Just as rough consensus drives ideation towards “maximal interestingness”,
+agile processes drive evolution towards the regimes of greatest operational
+uncertainty, where failures are most likely to occur. In well-run modern 
+software processes, not only is the resulting chaos tolerated, it is 
+actively invited. Changes are often deliberately made at seemingly the worst
+possible times. 
+
+Intuit, a maker of tax software, has a history of making large numbers of 
+changes and updates at the height of tax season.
+
+Conditions that cause failure, instead of being cordoned off for avoidance
+in the future, are deliberately and systematically recreated and explored 
+further. There are even automated systems designed to deliberately cause 
+failures in production systems, such as ChaosMonkey, a system developed by
+Netflix to randomly take production servers offline, forcing the system to
+heal itself or die trying.
+
+This is neither perverse, nor masochistic: it is necessary to uncover hidden
+risks in experimental ideas early, and to quickly resolve gridlocks with data.
+
+The origins of this curious philosophy lie in what is known as the release 
+early, release often (RERO) principle, usually attributed to Linus Torvalds,
+the primary architect of the Linux operating system. The idea is exactly what
+it sounds like: releasing code as early as possible, and as frequently as 
+possible while it is actively evolving.
+
+What makes this possible in software is that most software failures do not
+have life-threatening consequences. As a result, it is usually faster and 
+cheaper to learn from failure than to attempt to anticipate and accommodate
+it via detailed planning (which is why the RERO principle is often restated 
+in terms of failure as fail fast).
+
+	This is not true of all software of course: there is a different 
+	development regime for code with life-threatening consequences. 
+	Code developed in such regimes tends to evolve far more slowly 
+	and is often between 10-30 years behind the curve. This is one
+	reason for the perception that trivial applications dominate the 
+	industry: it takes longer for mission-critical code in life-
+	threatening applications to be updated.
+
+So crucial is the RERO mindset today that many companies, such as Facebook
+and Etsy, insist on new hires contributing and deploying a minor change to 
+mission-critical systems on their very first day. Companies that rely on 
+waterfall processes by contrast, often put new engineers through years of 
+rotating assignments before trusting them with significant autonomy.
+
+To appreciate just how counterintuitive the RERO principle is, and why it 
+makes traditional engineers nervous, imagine a car manufacturer rushing to 
+put every prototype into “experimental” mass production, with the intention
+of discovering issues through live car crashes. Or supervisors in a 
+manufacturing plant randomly unplugging or even breaking machinery during peak
+demand periods. Even lean management models in manufacturing do not go this 
+far. Due to their roots in scarcity, lean models at best mitigate the problems
+caused by waterfall thinking. Truly agile models on the other hand, do more: 
+they catalyze abundance.
+
+Perhaps the most counter-intuitive consequence of the RERO principle is this: 
+where engineers in other disciplines attempt to minimize the number of releases,
+software engineers today strive to maximize the frequency of releases. The 
+industrial-age analogy here is the stuff of comedy science fiction: an intern 
+launching a space mission just to ferry a single paper-clip to the crew of a 
+space station.
+
+This tendency makes no sense within waterfall models, but is a necessary feature 
+of agile models. The only way for execution to track the changing direction of 
+the rough consensus as it pivots is to increase the frequency of releases. Failed
+experiments can be abandoned earlier, with lower sunk costs. Successful ones can
+migrate into the product as fast as hidden risks can be squeezed out. As a result,
+a lightweight sense of direction — rough consensus — is enough. There is no need
+to navigate by an increasingly unattainable utopian vision.
+```
+
+Not convinced/impressed, but perhaps that's my backwards mindset talking; in any case it's a nice example of perception refactoring. Another issue is causality tracing: *why* did the system fuck up, *which* release caused it? That segues into complex systems stuff. 
 
 <a name="#Esolangs"></a>
 ## Esolangs
