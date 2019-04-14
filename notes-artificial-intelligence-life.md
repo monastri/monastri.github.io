@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 13,800*
+*[Word count](https://wordcounter.net/): 15,100*
 
 ## What is this?
 
@@ -63,8 +63,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Levels of Organization in General Intelligence](#Levels-of-Organization-in-General-Intelligence)
 2. [Microbiology](#Microbiology)
 	1. [Cells are very fast and crowded places](#Cells-are-very-fast-and-crowded-places)
-3. [Models](#models)
-	1. [Deep learning](#Deep-learning)
+3. [Machine learning and statistical inference](#Machine-learning)
+	2. [Deep learning](#Deep-learning)
 		1. [Limitations of deep learning](#Deep-learning-limitations)
 	2. [Program synthesis](#Program-synthesis)
 3. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
@@ -275,12 +275,168 @@ a cell. But what really surprised me was to learn that in real life, these enzym
 to 700 revolutions per second, which is faster than a jet engine. 
 ```
 
-<a name="#Xenology"></a>
-## Xenology
+<a name="#Machine-learning"></a>
+## Machine learning
 ([overview](#overview))
 
+From Alex Clemmer's [What exactly is the difference between machine learning and statistics?](http://blog.nullspace.io/ml-vs-stats.html). 
+
+Alex espouses the view that ML is "a computational interpretation of statistical inference:
+
+```markdown
+To say they’re completely equivalent (which is what I often hear) is probably a 
+bit too strong. 
+
+I tend to think of ML as mostly a contribution to the general problem of
+statistical inference, particularly as it is applied computationally. 
+
+In contrast, statistics as a field is certainly not entirely devoted to inference.
+```
+
+This contextualizes the idiosyncratic differences between ML and stats:
+
+```markdown
+Unlike statistics, there are very few ideas that really “unite” ML as a field. 
+People seem to have split up work into a set of common tasks (e.g., 
+classification, clustering, reinforcement learning), and these tasks really 
+only seem to be unified by the fact that they depend on statistical inference.
+
+Statistics tends to focus on longer journal publications, which are heavy on 
+mathematics and theoretical analysis. ML tends to focus on shorter publications
+at conferences, with empiricism (especially in explaining methodology and
+evaluation of results) playing a much bigger role.
+
+Distinctions important to statistical theory (e.g., whether a procedure is 
+frequentist or Bayesian) are often not emphasized or are totally absent from 
+discussion in ML. In a lot of cases, this is because the discussion of the
+empirical results is emphasized, so discussion about the different types of
+guarantees given by different theoretical assumptions becomes less meaningful
+because the theoretical analysis and guarantees are not given as much play to 
+begin with.
+
+ML people tend to import globs of statistics literature as it helps them to 
+accomplish the tasks they care about. It is sometimes said that ML is a
+computational interpretation of statistical inference, and this is not hard to
+see that this is mostly a fair assessment.
+```
+
+Or in short:
+
+```markdown
+Statisticians care a lot about things like “asymptotics”, “guarantees”, and 
+“math.” Machine learning people care a lot about things like “methodology” and
+“how do I *actually do* this statistical inference with a computer.”
+```
+
+Yeah okay, but what *is* statistical inference? (Should this go under the "stats" subsection?)
+
+```markdown
+Statistical inference generally involves inferring some quantity based on some 
+set of statistics.
+
+For example, say I have a bin with some number of black balls and white balls 
+in it. I draw one at random and show it to you. How many times do I need to 
+repeat this before you can accurately estimate the number of ball in the bin?
+
+Statistics! It’s magic!
+
+Of course this is a simple example. Generally you’re doing something dramatically
+more complicated.
+```
+
+Hm. What's a model again?
+
+```markdown
+A model is a concise summary of data that simply retains some statistical property
+of the data that you care about. These summaries that “model” your data can be 
+used for any number of things:
+
+1. **To simply tell you about the behavior of your data**. For example, the mean is a
+model. If you imaging picking numbers at random from 1-10, a mean does summarize 
+some useful information about your data. The same with the median and the variance.
+These are extremely lossy models, but they are models of your data.
+
+2. **To classify data**. Say you’ve trained a classifier that classifies whether a photo 
+contains a cat or not. That classifier concisely summarizes your data as “cat 
+photo” or “non-cat photo.”
+
+3. **As a more space-efficient way to represent data for some other task**. For example, 
+you might generate paraphrases of some document, and then use that paraphrase to 
+classify a document. Or you might present it to a user. etc.
+
+This goes on and on. It also gets dramatically more complicated, of course, but the
+idea that we’re providing a concise summary of the data is always true.
+```
+
+Why use ML? To save time:
+
+```markdown
+Machine learning doesn’t give you perfect answers, but sometimes it can save you a lot 
+of time.
+
+For example, some time in 2011, thousands of Sarah Palin’s emails were released. If you
+were a reporter, you could read all the emails yourself, or you could hire someone like
+Edwin Chen to do machine learning magic to automatically discover all the topics she 
+talked about.
+
+Were the topics perfect? Absolutely not; some of them were junk. But would they have 
+saved you a lot of time reading? Absolutely.
+
+There are lots of other examples, too. If you’re a programmer, and you want to implement
+an algorithm that detects if there’s a cow in a picture, you could write an algorithm, 
+or you could get it mostly right most of the time, and just use machine learning.
+```
+
+When *not* to use ML? Some heuristics:
+
+```markdown
+The first heuristic is two parts. If one of the following is not true, then you might
+still be able to use machine learning to solve your problem. But, if neither of the 
+following is true, then machine learning probably can’t help you. The heuristic is:
+
+1. If I give all your data to a real person, can they find a pattern?
+2. If I give a person your pattern, is it meaningful to them?
+
+So take an example like search engines. If I ask a law librarian to find all relevant
+cases for something, they will usually produce good work. Likewise, if a search engine 
+produces results for me, I can quickly determine if they’re good or not.
+
+So, at the very least it satisfies both these criteria. And indeed, as we all probably 
+know, machine learning has helped search engines along.
+
+In contrast, take music recommendations. If I give you a series of suggested songs, 
+can you detect a pattern? If you give a list of your favorite songs to even a really
+good friend, can they generate a list of recommendations? I mean, maaaaaaaayyybe they
+can, but a lot of times, they can’t. Like, I listen to Bach and also stuff like 
+Dillinger Escape Plan. So good luck predicting what else I’ll like.
+
+And this bears out with the rule above. Looking at content recommendation sites, it 
+is obvious that machine learning might save you a bit of time, and it might generate
+interesting suggestions, but really it’s not so much that the recommendations are 
+good as it is that the recommendations are better than nothing.
+
+Of course, it should be noted that if your task passes the above criteria it does not
+mean it can or should be solved with machine learning. For example, it takes a lot of 
+work to make a good search engine. Those questions only help you throw out a large 
+number of possible problems you might approach using machine learning.
+
+Another good question to ask is:
+
+- Can this problem be solved by looking at statistical outcomes?
+
+Actually the answer is “yes” surprisingly often, like in the case of inferring topics
+in Sarah Palin’s email (see above). But that was a surprising result even when it came
+out. And it is certainly not always true, so when starting out, you should pause and 
+think, “ok, but what is the statistical nature of this?”
+
+Avoid it if you can. But a particularly bad time to use it is when you can describe
+the phenomenon precisely using some mathematical equation. So, for example, you 
+wouldn’t use machine learning to predict when a dropped ball is going to hit the 
+ground, because you already know that from math.
+```
+
 <a name="#Program-synthesis"></a>
-## Program synthesis
+### Program synthesis
 ([overview](#overview))
 
 Francois Chollet is a great explainer. Here's how he talks about program synthesis in his essay [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html):
@@ -298,7 +454,7 @@ code via a discrete search process.
 ```
 
 <a name="#Deep-learning"></a>
-## Deep learning
+### Deep learning
 ([overview](#overview))
 
 Francois Chollet is a great explainer. Here's how he talks about deep learning in his essay [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html):
@@ -340,7 +496,7 @@ order to capture the full scope of the relationships found in the original data.
 ```
 
 <a name="#Deep-learning-limitations"></a>
-## Deep learning limitations
+### Deep learning limitations
 ([overview](#overview))
 
 Francois Chollet is a great explainer. Here's how he talks about the limitations of deep learning in his essay [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html) -- in particular, reasoning, long-term planning and algo-like data manipulation are all out of reach:
