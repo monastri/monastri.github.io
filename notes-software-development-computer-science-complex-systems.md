@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 34,800*
+*[Word count](https://wordcounter.net/): 36,000*
 
 ## What is this?
 
@@ -60,15 +60,17 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	2. [Intentionally unusable, uncomputable, or conceptual languages](#Language-without-code)
 	3. [INTERCAL](#intercal)
 2. [Hacking](#Hacking)
-2. [Operating systems](#Operating-systems)
-	1. [Why OSes?](#Why-operating-systems)
-	2. [OSes as stack of metaphors](#Operating-systems-as-stack-of-metaphors)
-	3. [Selling OSes was a radical idea](#Selling-operating-systems-was-a-radical-idea)
-2. [Performance optimization](#Performance-optimization), pretty much all Carlos Bueno 
 2. [Perpetual beta](#Perpetual-beta)
 2. [Practical magic](#practical-magic)
 2. [Non-pathological programming languages](#Programming-languages)
 	1. [Smalltalk](#smalltalk), ft. misconception corrections by Alan Kay
+2. [Operating systems](#Operating-systems)
+	1. [Why OSes?](#Why-operating-systems)
+	2. [OSes as stack of metaphors](#Operating-systems-as-stack-of-metaphors)
+	3. [Selling OSes was a radical idea](#Selling-operating-systems-was-a-radical-idea)
+2. [Optimization](#	Optimization)
+	1. [Performance optimization done properly](#Performance-optimization), pretty much all Carlos Bueno 
+	2. [The unreasonable effectiveness of a thousand small optimizations](#The-unreasonable-effectiveness-of-a-thousand-small-optimizations)
 2. [Software complexity](#Software-complexity)
 	1. [The many faces of software complexity](#The-many-faces-of-software-complexity)
 	2. [Codebase as organism](#codebase-as-organism)
@@ -2379,8 +2381,177 @@ departments. That, I think, is the only real schism. It’s like what they say a
 Britain: two nations divided by a common language.
 ```
 
+<a name="#optimization"></a>
+## Optimization
+([overview](#overview)) 
+
+<a name="#The-unreasonable-effectiveness-of-a-thousand-small-optimizations"></a>
+### The unreasonable effectiveness of a thousand small optimizations
+([overview](#overview)) 
+
+From Venkat's [eponymous article](https://us1.campaign-archive.com/?u=78cbbb7f2882629a5157fa593&id=3d9f8e7dc5). 
+
+```markdown
+The challenge of building large-scale complex systems often gets caught between
+purist visions that never get off the ground and seemingly pragmatic random-walk 
+tinkering that slowly grinds to a halt via diminishing returns. How do you break
+out of this rock-and-a-hard place impasse?
+
+My friend Keith Adams, veteran of several such complex scaling challenges at 
+VMWare, Facebook, and now Slack, pointed out the key insight: what he calls the 
+"unreasonable effectiveness of small optimizations." I am going to paraphrase the
+version he shared over lunch at the Facebook campus a few years ago and call it
+Keith's Law: In a complex system, the cumulative effect of a large number of small
+optimizations is externally indistinguishable from a radical leap. If you want to
+do big things in a software-eaten world, it is absolutely crucial that you 
+understand Keith's Law.
+```
+
+The Keith Adams here is precisely *the* Keith Adams that Carlos Bueno worked with in [performance optimization](#Performance-optimization). He happened to write what's effectively a [defense of PHP](https://slack.engineering/taking-php-seriously-cf7a60065329), a novel and daring enough stance that I included it in this notebook as a counterpoint to the usual criticism, made all the more valuable because Venkat pretty much contextualized Keith's PHP-defense within the insight in *this* subsection (read more below).
+
+Intuition pump illustration:
+
+![small-optimizations](https://gallery.mailchimp.com/78cbbb7f2882629a5157fa593/images/93a830e5-27ce-4624-bbab-1691e499af36.png)
+
+```markdown
+1/ Let's unpack Keith's Law: *In a complex system, the cumulative effect of a 
+large number of small optimizations is externally indistinguishable from a radical
+leap*.
+
+5/ Dan Luu discussed scale-effects blindness in his excellent recent post, Why's
+that company so big? I could do that in a weekend.
+
+6/ The question reveals a basic inability to switch between weed-level and system-
+level perspectives of complexity, and how the two levels relate.
+
+7/ Every great technologist I’ve met, however, with a track record of big 
+achievements, seems to intuitively grok Keith’s Law. It is quite amazing how
+consistent this trait is: 100% of my sample set.
+
+8/ To understand why, consider what happens as you expand a system's capability,
+adding capacity, features, and coverage of increasingly rare corner cases.
+
+9/ As you do this, failure modes become more catastrophic, bugs become more obscure,
+and improbable things become probable.
+
+10/ You start to fall behind on situation awareness and urgent starts to outrun
+important. Things slow to a crawl along a 1000-project frontier. Work begins to
+resemble attrition warfare against chaos.
+
+11/ In companies with mediocre engineering leadership, this can lead to out-of-
+control reactive fire-fighting, where huge teams are doing a thousand unrelated
+things.
+
+12/ A growing complex system is like a huge machine with a proliferating number 
+of tuning/tweaking knobs, each staffed by a small, depressed and stressed-out 
+team.
+
+13/ Turning a given knob makes some things better, other things worse. Usually,
+the good is concentrated locally, the bad is diffused globally.
+
+14/ The depressed losers give up, the sociopaths switch to zero-sum mode, moving 
+the system towards a  "privatize gains, socialize losses" regime of operations. 
+The clueless stir in extra chaos.
+
+15/ The knobs also interact to drive emergent behavior. If two knobs are turned a
+certain way at the same time, they could trigger higher-dimensional emergent 
+behavior. The world gets weirder.
+
+16/ Such systems can be thought of as having significant decision-making slop. 
+Small decisions have both local, deterministic effects and global, probabilistic
+effects.
+
+17/ The global probabilistic effects constitute decision-making slop, which can
+either power a grand systemic random walk to zemblanity, or accumulating 
+serendipity: the unreasonable effectiveness.
+
+18/ A random walk does not mean a system stays in the same place. It means it 
+will slowly drift. Generally in a “bad” direction, since bad directions outnumber
+good ones.
+
+19/ But, with the right people in the right places, the random walk can turn into
+slow steady progress in a chosen direction. What do they do that's so special? 
+They harness Keith's Law.
+
+20/ At smaller scales, one person with god-level visibility into, and comprehension
+of, the system can keep it all in their head and herd the various knob-turnings/
+tweakings in a chosen direction.
+
+21/ But in a complex system, where hundreds of people can be doing little things,
+this does not work. And more communication is not the answer (at least not the 
+whole answer). 
+
+22/ As Keith observed once, most humans can at best understand 1-2 levels of
+abstraction above/below their home zone. Beyond, you rely on things like metaphor
+and pop sociology.
+
+23/ So architects and leaders being deluged by a firehose of information on ongoing
+firefights is useless. At some point even the most formidable genius cannot keep up.
+```
+
+Tangent: perhaps the limit is somewhere near Stephen Wolfram with his company. Wolfram [reviews every damn line of code](https://blog.stephenwolfram.com/2008/01/ten-thousand-hours-of-design-reviews/) prior to rolling out new versions of WolframAlpha. Not for him, the [philosophy of perpetual beta](#Perpetual-beta)...
+
+```markdown
+24/ OTOH, the naive version of what is sometimes called the “holographic” model,
+where everybody sort of has the “DNA” of the whole thing in their head or muscle
+memory, is worse.
+
+25/ If the overwhelmed architect leads the troops on a death march, the supposedly
+smart "crowd" tears itself apart because shared "DNA" does not equal shared 
+direction.
+
+26/ The way out is people with strong “finger-tip feeling” (which we’ve discussed
+before), herding the system, which can turn the uncontrolled random walk into 
+controlled, cumulative gains. 
+
+27/ They have an intuitive sense of which tactical challenges also have the power 
+to herd the whole system in good directions, towards serendipity. It's not think-
+global/act local. It's feel-global/act local.
+
+28/ They are able to pick out “herding” knobs whose probabilistic effects have a 
+somewhat predictable direction, and are likely to "socialize gains and limit losses"
+
+29/ This effect is most visible where there is an obvious core piece in the system.
+In a computer for example, smaller, faster and more memory are all generally good 
+things.
+
+30/ This is not the same as the 80-20 principle. 80% of the gains cannot be 
+deterministically attributed to 20% of the improvements. That’s the “leverage” view
+of complex systems.
+
+31/ The “leverage” view of leads people to go on futile, quixotic quests for the 
+“one weird trick” that will magically trigger a big leap in a  system that is 
+assumed to be complex in a Rube-Goldberg sense. 
+```
+
+Venkat contrasts here with Donella Meadows: [Leverage Points: Places to Intervene in a System](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/).
+
+```markdown
+32/ Architect Indy Johar suggested what might be called the “resonance” view: 
+getting the parts of the complex system to harmonize through loose mutual awareness.
+This is a probabilistic view.
+
+33/ A system with such resonance is ripe for Keith’s Law to operate. It creates a
+system-level harmonies in the environment that can shape positive spillover and 
+surplus effects.
+
+34/ In such a resonant system, catalysis, rather than leverage, is key. What things
+can you do that makes other things increasingly easier, and cumulative in their 
+effects?
+
+35/ This is not a one-shot thing. You have to keep finding new herding knobs as old
+ones lose potency and new ones become available due to ongoing growth.
+
+36/ The “herding” potential of a given knob is finite, and limited to a range of 
+system behaviors. Leadership is knowing when you've entered the range of a given 
+knob, and when you've exited it.
+
+37/ This is the essence of Schwerpunkt — the ability to repeatedly find the “center
+of gravity” where effort drives systemic synergy.
+```
+
 <a name="#Performance-optimization"></a>
-## Performance optimization
+### Performance optimization
 ([overview](#overview)) 
 
 ```markdown
