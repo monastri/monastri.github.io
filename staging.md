@@ -8,6 +8,8 @@
 	1. [Intelligence as efficient cross-domain optimization](#efficient-cross-domain optimization)
 7. [Tools shape users](#Tools-shape-users)	
 
+![Tiago Forte productivity graph](https://s24953.pcdn.co/blog/wp-content/uploads/2018/01/1_Bending_Productivity_graphs.006-e1484172423880.jpeg)
+
 
 From John Backus' tweet:
 
