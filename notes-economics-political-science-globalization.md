@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 3,000*
+*[Word count](https://wordcounter.net/): 5,900*
 
 ## What is this?
 
@@ -54,8 +54,315 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
 2. [Critique of Freakonomics](#critique-of-freakonomics)
+3. [Framing globalization and modernity in terms of corporations instead of nation-states](#Framing-globalization-and-modernity-in-terms-of-corporations)
 
 ------------------------------------------------
+
+<a name="#Framing-globalization-and-modernity-in-terms-of-corporations"></a>
+## Framing globalization and modernity in terms of corporations
+([overview](#overview))
+
+From an old essay of Venkat's, [A Brief History of the Corporation: 1600 to 2100](https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/). I briefly wondered whether to put this subsection under the "business etc" section instead, but then again this is about trying to understand globalization, so here it goes.
+
+The corporation is viewed as an intellectual construct. In a bit more detail:
+
+```markdown
+There are some who treat corporate forms as yet another technology (in this 
+case a technology of people-management), but despite the trappings of 
+scientific foundations (usually in psychology) and engineering synthesis (we
+speak of organizational “design”), the corporate form is not a technology. 
+It is the consequence of a social contract like the one that anchors nationhood. 
+
+It is a codified bundle of quasi-religious beliefs externalized into an animate
+form that seeks to preserve itself like any other living creature.
+
+Organizational forms represent externalized mental models, codified concepts
+and structure-following-strategy (as Alfred Chandler eloquently put it)...
+
+We are not used to viewing world history through the perspective of the 
+corporation for the very good reason that corporations are a recent invention, 
+and instances that had the ability to transform the world in magical ways did
+not really exist till the British East India Company (EIC) was born. ...
+
+What was new was the idea of a publicly traded joint-stock corporation, an 
+entity with rights similar to those of states and individuals, with limited 
+liability and significant autonomy (even in its earliest days, when corporations
+were formed for defined periods of time by royal charter).
+```
+
+The impetus for writing the piece:
+
+```markdown
+For quite a while now, I have been looking for the right set of frames to get me 
+started on understanding geopolitics and globalization. For a long time, I was 
+misled by the fact that 90% of the available books frame globalization and the 
+emergence of modernity in terms of the nation-state as the fundamental unit of 
+analysis, with politics as the fundamental area of human activity that shapes 
+things. On the face of it, this seems reasonable. Nominally, nation-states 
+subsume economic activity, with even the most powerful multi-national 
+corporations being merely secondary organizing schemes for the world.
+
+But the more I’ve thought about it, the more I’ve been pulled towards a business-
+first perspective on modernity and globalization.
+
+The human world, like physics, can be reduced to four fundamental forces: culture,
+politics, war and business. That is also roughly the order of decreasing strength,
+increasing legibility and partial subsumption of the four forces.
+
+Culture is the most mysterious, illegible and powerful force. It includes such 
+tricky things as race, language and religion. Business, like gravity in physics, is
+the weakest and most legible: it can be reduced to a few basic rules and principles
+(comprehensible to high-school students) that govern the structure of the corporate
+form, and descriptive artifacts like macroeconomic indicators, microeconomic
+balance sheets, annual reports and stock market numbers.
+```
+
+Convenient illustration:
+
+![four-forces-human-world](https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2011/06/fourForces.png)
+
+Now that you've analogized business to gravity, you need to flesh it out:
+
+```markdown
+One quality makes gravity dominate at large space-time scales: gravity affects
+all masses and is always attractive, never repulsive.  So despite its weakness,
+it dominates things at sufficiently large scales. I don’t want to stretch the 
+metaphor too far, but something similar holds true of business.
+
+On the scale of days or weeks, culture, politics and war matter a lot more in
+shaping our daily lives. But those forces fundamentally cancel out over longer
+periods.  They are mostly noise, historically speaking. They don’t cause 
+creative-destructive, unidirectional change (whether or not you think of that
+change as “progress” is a different matter).
+
+Business though, as an expression of the force of unidirectional technological
+evolution, has a destabilizing unidirectional effect. It is technology, acting
+through business and Schumpeterian creative-destruction, that drives monotonic,
+historicist change, for good or bad. Business is the locus where the non-human
+force of technological change sneaks into the human sphere.
+
+Of course, there is arguably some progress on all four fronts. You could say 
+that Shakespeare represents progress with respect to Aeschylus, and Tom 
+Stoppard with respect to Shakespeare.  You could say Obama understands politics 
+in ways that say, Hammurabi did not. You could say that General Petraeus thinks
+of the problems of military strategy in ways that Genghis Khan did not. But all
+these are decidedly weak claims.
+
+On the other hand the proposition that Facebook (the corporation) is in some 
+ways a beast entirely beyond the comprehension of an ancient Silk Road trader 
+seems vastly more solid. And this is entirely a function of the intimate 
+relationship between business and technology. Culture is suspicious of 
+technology. Politics is mostly indifferent to and above it. War-making uses it,
+but maintains an arms-length separation. Business? It gets into bed with it. 
+It is sort of vaguely plausible that you could switch artists, politicians and
+generals around with their peers from another age and still expect them to 
+function. But there is no meaningful way for a businessman from (say) 2000 BC 
+to comprehend what Mark Zuckerberg does, let alone take over for him. Too much
+magical technological water has flowed under the bridge.
+
+Arthur C. Clarke once said that any sufficiently advanced technology is
+indistinguishable from magic, but technology (and science) aren’t what create 
+the visible magic. Most of the magic never leaves journal papers or discarded 
+engineering prototypes. It is business that creates the world of magic, not
+technology itself. And the story of business in the last 400 years is the story
+of the corporate form.
+```
+
+Okay, so how to understand world history (and modernity, and globalization) via the lens of the evolution of corporations? 
+
+A corporation's reach should be distinguished from its power:
+
+```markdown
+The apogee of power did not coincide with the apogee of reach. In the 1780s, 
+only a small fraction of humanity was employed by corporations, but corporations
+were shaping the destinies of empires. In the centuries that followed the crash
+of 1772, the power of the corporation was curtailed significantly, but in terms
+of sheer reach, they continued to grow, until by around 1980, a significant 
+fraction of humanity was effectively being governed by corporations.
+
+I don’t have numbers for the whole world, but for America, less than 20% of the
+population had paycheck incomes in 1780, and over 80% in 1980, and the percentage
+has been declining since... Employment fraction is of course only one of the many
+dimensions of corporate power (which include economic, material, cultural, human 
+and political forms of power).
+
+It is tempting to analyze corporations in terms of some measure of overall power, 
+which I call “reach.” Certainly corporations today seem far more powerful than 
+those of the 1700s, but the point is that the form is much weaker today, even 
+though it has organized more of our lives. This is roughly the same as the 
+distinction between fertility of women and population growth: the peak in 
+fertility (a per-capita number) and peak in population growth rates (an 
+aggregate) behave differently.
+```
+
+Making sense of world history 1500-1800 through the story of the EIC in particular and corporate mercantilism in general:
+
+```markdown
+Constantinople fell to the Ottomans in 1453 and the last Muslim ruler was thrown 
+out of Spain in 1492, the year Columbus sailed the ocean blue. Vasco de Gama
+found a sea route to India in 1498. The three events together caused a defensive
+consolidation of Islam under the later Ottomans, and an economic undermining of 
+the Islamic world (a process that would directly lead to the radicalization of 
+Islam under the influence of religious leaders like Abd-al Wahhab (1703-1792)).
+
+The 16th century makes a vague sort of sense as the “Age of Exploration,” but it
+really makes a lot more sense as the startup/first-mover/early-adopter phase of 
+the corporate mercantilism. The period was dominated by the daring pioneer spirit 
+of Spain and Portugal, which together served as the Silicon Valley of Mercantilism.
+But the maritime business operations of Spain and Portugal turned out to be the 
+MySpace and Friendster of Mercantilism: pioneers who could not capitalize on their
+early lead.
+
+Conventionally, it is understood that the British and the Dutch were the ones who
+truly took over. But in reality, it was two corporations that took over: the EIC 
+and the VOC (the Dutch East India Company,  Vereenigde Oost-Indische Compagnie, 
+founded one year after the EIC) the Facebook and LinkedIn of Mercantile economics
+respectively. Both were fundamentally more independent of the nation states that 
+had given birth to them than any business entities in history. The EIC more so 
+than the VOC.  Both eventually became complex multi-national beasts.
+
+A lot of other stuff happened between 1600 – 1800. The names from world history are
+familiar ones: Elizabeth I, Louis XIV, Akbar, the Qing emperors (the dynasty is 
+better known than individual emperors) and the American Founding Fathers. The events
+that come to mind are political ones: the founding of America, the English Civil 
+War, the rise of the Ottomans and Mughals.
+
+The important names in the history of the EIC are less well-known: Josiah Child,
+Robert Clive, Warren Hastings. The events, like Plassey, seem like sideshows on 
+the margins of land-based empires.
+
+The British Empire lives on in memories, museums and grand monuments in two countries.
+Company Raj is largely forgotten. The Leadenhall docks in London, the heart of the 
+action, have disappeared today under new construction.
+
+But arguably, the doings of the EIC and VOC on the water were more important than the 
+pageantry on land.  Today the invisible web of container shipping serves as the
+bloodstream of the world. Its foundations were laid by the EIC.
+```
+
+Another convenient illustration of "the rise and fall of the corporation as an idea" -- I didn't know the proportion swung back up that sharply:
+
+![rise-fall](https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2011/06/freeagents.png)
+
+How powerful was the EIC? Unimaginable by today's standards:
+
+```markdown
+It is difficult for us in 2011, with Walmart and Facebook as examples of
+corporations that significantly control our lives, to understand the sheer 
+power the East India Company exercised during its heyday. Power that makes 
+even the most out-of-control of today’s corporations seem tame by comparison.
+To a large extent, the history of the first 200 years of corporate evolution
+is the history of the East India Company. And despite its name and nation of
+origin, to think of it as a corporation that helped Britain rule India is to
+entirely misunderstand the nature of the beast.
+
+Two images hint at its actual globe-straddling, 10x-Walmart influence: the
+image of the Boston Tea Partiers dumping crates of tea into the sea during the
+American struggle for independence, and the image of smoky opium dens in China.
+One image symbolizes the rise of a new empire. The other marks the decline of 
+an old one.
+
+The East India Company supplied both the tea and the opium.
+
+At a broader level, the EIC managed to balance an unbalanced trade equation 
+between Europe and Asia whose solution had eluded even the Roman empire.
+Massive flows of gold and silver from Europe to Asia via the Silk and Spice 
+routes had been a given in world trade for several thousand years. Asia 
+simply had far more to sell than it wanted to buy. Until the EIC came along.
+
+A very rough sketch of how the EIC solved the equation reveals the structure
+of value-addition in the mercantilist world economy.
+
+The EIC started out by buying textiles from Bengal and tea from China in 
+exchange for gold and silver.
+
+Then it realized it was playing the same sucker game that had trapped and helped 
+bankrupt Rome.
+
+Next, it figured out that it could take control of the opium industry in Bengal,
+trade opium for tea in China with a significant surplus, and use the money to 
+buy the textiles it needed in Bengal. Guns would be needed.
+
+As a bonus, along with its partners, it participated in yet another clever trade:
+textiles for slaves along the coast of Africa, who could be sold in America for
+gold and silver.
+
+For this scheme to work, three foreground things and one background thing had 
+to happen: the corporation had to effectively take over Bengal (and eventually 
+all of India), Hong Kong (and eventually, all of China, indirectly) and England.
+Robert Clive achieved the first goal by 1757. An employee of the EIC, William 
+Jardine, founded what is today Jardine Matheson, the spinoff corporation most 
+associated with Hong Kong and the historic opium trade. It was, during in its 
+early history, what we would call today a narco-terrorist corporation; the Taliban
+today are kindergarteners in that game by comparison. And while the corporation 
+never actually took control of the British Crown, it came close several times, by
+financing the government during its many troubles.
+
+The background development was simpler. England had to take over the oceans and 
+ensure the safe operations of the EIC.
+
+Just how comprehensively did the EIC control the affairs of states? Bengal is an 
+excellent example. In the 1600s and the first half of the 1700s, before the
+Industrial Revolution, Bengali textiles were the dominant note in the giant sucking
+sound drawing away European wealth (which was flowing from the mines and farms of 
+the Americas). The European market, once the EIC had shoved the Dutch VOC aside, 
+constantly demanded more and more of an increasing variety of textiles, ignoring the 
+complaining of its own weavers. Initially, the company did no more than battle the
+Dutch and Portuguese on water, and negotiate agreements to set up trading posts on
+land. For a while, it played by the rules of the Mughal empire and its intricate 
+system of economic control based on various imperial decrees and permissions. The 
+Mughal system kept the business world firmly subservient to the political class, 
+and ensured a level playing field for all traders. Bengal in the 17th and 18th 
+centuries was a cheerful drama of Turks, Arabs, Armenians, Indians, Chinese and 
+Europeans. Trade in the key commodities, textiles, opium, saltpeter and betel nuts,
+was carefully managed to keep the empire on top.
+
+But eventually, as the threat from the Dutch was tamed, it became clear that the 
+company actually had more firepower at its disposal than most of the nation-states 
+it was dealing with. The realization led to the first big domino falling, in the 
+corporate colonization of India, at the battle of Plassey. Robert Clive along with
+Indian co-conspirators managed to take over Bengal, appoint a puppet Nawab, and get
+himself appointed as the Mughal diwan (finance minister/treasurer) of the province 
+of Bengal, charged with tax collection and economic administration on behalf of the 
+weakened Mughals, who were busy destroying their empire. Even people who are familiar
+enough with world history to recognize the name Robert Clive rarely understand the 
+extent to which this was the act of a single sociopath within a dangerously unregulated 
+corporation, rather than the country it was nominally subservient to (England).
+
+This history doesn’t really stand out in sharp relief until you contrast it with the
+behavior of modern corporations. Today, we listen with shock to rumors about the
+backroom influence of corporations like Halliburton or BP, and politicians being in
+bed with the business leaders in the Too-Big-to-Fail companies they are supposed to
+regulate.
+
+The EIC was the original too-big-to-fail corporation. The EIC was the beneficiary of
+the original Big Bailout. Before there was TARP, there was the Tea Act of 1773 and 
+the Pitt India Act of 1783. The former was a failed attempt to rein in the EIC, which
+cost Britain the American Colonies.  The latter created the British Raj as Britain 
+doubled down in the east to recover from its losses in the west. An invisible thread
+connects the histories of India and America at this point. Lord Cornwallis, the loser
+at the Siege of Yorktown in 1781 during the revolutionary war, became the second
+Governor General of India in 1786.
+
+But these events were set in motion over 30 years earlier, in the 1750s. There was no 
+need for backroom subterfuge.  It was all out in the open because the corporation was
+such a new beast, nobody really understood the dangers it represented. The EIC
+maintained an army. Its merchant ships often carried vastly more firepower than the
+naval ships of lesser nations. Its officers were not only not prevented from making
+money on the side, private trade was actually a perk of employment (it was exactly this
+perk that allowed William Jardine to start a rival business that took over the China 
+trade in the EIC’s old age).  And finally — the cherry on the sundae — there was 
+nothing preventing its officers like Clive from simultaneously holding political 
+appointments that legitimized conflicts of interest. If you thought it was bad enough 
+that Dick Cheney used to work for Halliburton before he took office, imagine if he’d 
+worked there while in office, with legitimate authority to use his government power 
+to favor his corporate employer and make as much money on the side as he wanted, and
+call in the Army and Navy to enforce his will. That picture gives you an idea of the
+position Robert Clive found himself in, in 1757.
+
+He made out like a bandit. A full 150 years before American corporate barons earned 
+the appellation “robber.”
+```
 
 <a name="#critique-of-freakonomics"></a>
 ## Critique of Freakonomics
