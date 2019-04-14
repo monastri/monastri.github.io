@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 36,000*
+*[Word count](https://wordcounter.net/): 37,400*
 
 ## What is this?
 
@@ -75,6 +75,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [The many faces of software complexity](#The-many-faces-of-software-complexity)
 	2. [Codebase as organism](#codebase-as-organism)
 	2. [Second-system effect, or well-intended redesign bloat](#Second-system-effect)
+	3. [Single-handedly designing large codebases](#Single-handedly-designing-large-codebases), Wolfram's 10,000 hours of design reviews
 2. [Systems galore: complex systems, complexity science, systems theory](#Complex-systems-and-systems-theory)		
 	1. [How complex systems fail](#How-complex-systems-fail)
 3. [The conservative-liberal axis in software development](#yegges-conservative-liberal-axis)   
@@ -82,6 +83,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Why platforms matter](#platforms)
 
 ---------------------------------------
+
 
 <a name="#Perpetual-beta"></a>
 ## Perpetual beta
@@ -4037,3 +4039,190 @@ rewrite you are abandoning history and condemning yourself to relive it.
 ```
 
 Neil's last remark reminds me of Kevin Simler's [A Codebase is an Organism](https://meltingasphalt.com/a-codebase-is-an-organism/), which is a distinct enough idea that I also want to remember that I've created [its own subheading](#codebase-as-organism).
+
+<a name="#Single-handedly-designing-large-codebases"></a>
+### Single-handedly designing large codebases
+([overview](#overview))
+
+From Stephen Wolfram's [Ten thousand hours of design reviews](https://blog.stephenwolfram.com/2008/01/ten-thousand-hours-of-design-reviews/).
+
+Motivation:
+
+```markdown
+It’s not easy to make a big software system that really fits together. It’s 
+incredibly important, though. Because it’s what makes the whole system more
+than just the sum of its parts. It’s what gives the system limitless
+possibilities—rather than just a bunch of specific features.
+
+But it’s hard to achieve. It requires maintaining consistency and coherence 
+across every area, over the course of many years. But I think it’s something 
+we’ve been very successful at doing with Mathematica.
+
+I’ve been the chief architect and chief designer of Mathematica‘s core 
+functionality. And particularly for Mathematica 6, there was a huge amount of
+design to do. Actually, I think much more even than for Mathematica 1.
+
+In fact, I just realized that over the course of the decade during which were 
+developing Mathematica 6—and accelerating greatly towards the end—I spent 
+altogether about 10,000 hours doing what we call “design reviews” for 
+Mathematica 6, trying to make all those new functions and pieces of 
+functionality in Mathematica 6 be as clean and simple as possible, and all fit
+together.
+```
+
+Software design analogized to fundamental science, Wolfram's first stomping ground:
+
+```markdown
+At least the way I do it, doing software design is a lot like doing
+fundamental science.
+
+In fundamental science, one starts from a bunch of phenomena, and then one
+tries to drill down to find out what’s underneath them—to try to find the 
+root causes, the ultimate primitives, of what’s going on.
+
+Well, in software design, one starts from a bunch of functionality, and then 
+one needs to drill down to find out just what ultimate primitives one needs 
+to support them.
+
+In science, if one does a good job at finding the primitives, then one can
+have a very broad theory that covers not just the phenomena one started from,
+but lots of others too.
+
+And in software design, it’s the same kind of thing.
+
+If one does a good job at finding the primitives, then one can build a very 
+broad system that gives one not just the functionality one was first thinking
+about, but lots more too.
+```
+
+Design review process for making the entire codebase "cohere together holistically":
+
+```markdown
+Over the years, we’ve developed a pretty good process for doing design 
+reviews.
+
+We start with some particular new area of functionality. Then we get a
+rough description of the functions—or whatever—that we think we’ll need
+to cover it. Then we get down to the hard job of design analysis. Of 
+trying to work out just what the correct fundamental primitives to cover
+the area are. The clean, simple functions that represent the essence of
+what’s going on—and that fit together with each other, and with the rest
+of Mathematica, to cover what’s needed.
+
+Long ago I used to do design analysis pretty much solo.
+
+But nowadays our company is full of talented people who help. The focal
+point is our Design Analysis group, which works with our experts in
+particular areas to start the process of refining possible designs.
+
+At some point, though, I always get involved. So that anything that’s a 
+core function of Mathematica is always something that I’ve personally 
+design reviewed.
+
+I sometimes wonder whether it’s crazy for me to do this. But I think 
+having one person ultimately review everything is a good way to make
+sure that there really is coherence and consistency across the system. 
+Of course, when the system is as big as Mathematica 6, doing all those 
+design reviews to my level of perfection takes a long time—about 10,000
+hours, in fact.
+
+Design reviews are usually meetings with somewhere between two and twenty
+people. (Almost always they’re done with web conferencing, not in person.)
+
+The majority of the time, there’s a preliminary implementation of whatever
+it is that we’re reviewing. Sometimes the people who are in the design 
+review meeting will say “we think we have this mostly figured out”. 
+Sometimes they’ll say “we can’t see how to set this up; we need your help”. 
+Either way, what usually happens is that I start off trying out what’s 
+been built, and asking lots and lots of questions about the whole area 
+that’s involved.
+
+It’s often a very grueling process. Progressively polishing things until 
+they are as clean and simple as possible.
+
+Sometimes we’ll start a meeting with things looking pretty complicated. A 
+dozen functions that use some strange new construct, and have all sorts of
+weird arguments and options.
+
+It’s usually pretty obvious that we have to do better. But figuring out how
+is often really hard.
+
+There’ll usually be a whole series of incremental ideas. And then a few big 
+shifts—which usually come from getting a clearer understanding of what the
+true core functionality has to be.
+```
+
+Big-picture generalist's wet dream quote, the one impression I vaguely garnered most from this essay actually:
+
+```markdown
+It’s sometimes a little weird. One hour I’ll be intensely thinking about 
+the higher mathematics of number theory functions. And the next hour I’ll
+be intensely focused on how we should handle data about cities around the 
+world. Or how we should set up the most general possible interfaces to 
+external control devices.
+
+But although the subject matter is very varied, the principles are at some
+level the same.
+
+I want to understand things at the most fundamental level—to see what the 
+essential primitives should be. Then I want to make sure those primitives
+are built so that they fit in as well as possible to the whole existing
+structure of Mathematica—and so they are as easy as possible for people to
+understand, and work with.
+
+Doing design reviews and nailing down the functional design of Mathematica 
+is a most satisfying intellectual activity. It’s incredibly diverse in
+subject matter. And in a sense always very pure.
+
+It’s about a huge range of fundamental ideas—and working out how to fit them
+all together to create a coherent system that all makes sense.
+
+It’s certainly as hard as anything I know about in science. But in many ways
+it’s more creative. One’s not trying to decode what exists in the world. One’s
+trying to create something from scratch—to build a world that one can then work
+within.
+```
+
+Established precedent as design default for many reasons:
+
+```markdown
+Often we’ll be talking quite a bit about precedents elsewhere in Mathematica.
+Because the more we can make what we’re designing now be like something we’ve
+done before in Mathematica, the better.
+
+For several reasons. First, because it means we’re using approaches that we’ve
+tested somewhere else before.
+
+Second, because it means that what we’re doing now will fit in better to what
+already exists.
+
+And third, because it means that people who are already familiar with other 
+things Mathematica does will have an easier time understanding the new things
+we’re adding.
+```
+
+So breaking away from established precedent needs reasons:
+
+```markdown
+But some of the most difficult design decisions have to do with when to break
+away from precedent. When is what we’re doing now really different from anything
+else that we’ve done before? When is it something sufficiently new—and big—that 
+it makes sense to create some major new structure for it?
+
+At least when we’re doing design reviews for Mathematica kernel functions, we 
+always have a very definite final objective for our meetings: we want to actually
+write the reference documentation—the “function pages”—for what we’ve been talking
+about.
+
+Because that documentation is what’s going to provide the specification for the 
+final implementation—as well as the final definition of the function.
+
+It always works pretty much the same way: I’ll be typing at my computer, and 
+everyone else will be watching my screen via screen-sharing. And I’ll actually be 
+writing the reference documentation for what each function does. And I’ll be asking 
+every sentence or so: “Is that really correct? Is that actually what it should do?”
+And people will be pointing out this or that problem with what we’re saying.
+
+It’s a good process, that I think does well at concentrating and capturing what we
+do in design analysis.
+```
