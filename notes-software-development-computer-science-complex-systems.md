@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 37,400*
+*[Word count](https://wordcounter.net/): 38,800*
 
 ## What is this?
 
@@ -76,6 +76,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	2. [Codebase as organism](#codebase-as-organism)
 	2. [Second-system effect, or well-intended redesign bloat](#Second-system-effect)
 	3. [Single-handedly designing large codebases](#Single-handedly-designing-large-codebases), Wolfram's 10,000 hours of design reviews
+	4. [No, you can't write a better Google in a weekend](#You-cannot-write-a-better-Google-in-a-weekend)
 2. [Systems galore: complex systems, complexity science, systems theory](#Complex-systems-and-systems-theory)		
 	1. [How complex systems fail](#How-complex-systems-fail)
 3. [The conservative-liberal axis in software development](#yegges-conservative-liberal-axis)   
@@ -3780,6 +3781,132 @@ things. You cut optional complexity by making context-dependent judgments about 
 features are worthwhile. You can only cut essential complexity by having an epiphany, 
 fundamentally redefining the problem you are addressing.
 ```
+
+<a name="#You-cannot-write-a-better-Google-in-a-weekend"></a>
+### You cannot write a better Google in a weekend
+([overview](#overview)) 
+
+From Dan Luu's essay [I could do that in a weekend!](https://danluu.com/sounds-easy/). Dan happens to be [the lemons guy](https://slatestarcodex.com/2017/11/30/book-review-inadequate-equilibria/) in Eliezer Yudkowsy's *Inadequate Equilibria*. Ties to software-at-scale, complex systems in general, and [reality being surprisingly detailed](https://github.com/monastri/monastri.github.io/blob/master/notes-philosophy-erisology-altruism-culture-spirituality.md#Reality-has-a-surprising-amount-of-detail). 
+
+Why are these people wrong?
+
+```markdown
+Businesses that actually care about turning a profit will spend a lot of time
+(hence, a lot of engineers) working on optimizing systems, even if an MVP for
+the system could have been built in a weekend. There's also a wide body of 
+research that's found that decreasing latency has a roughly linear effect on
+revenue over a pretty wide range of latencies for some businesses. Increasing
+performance also has the benefit of reducing costs. Businesses should keep 
+adding engineers to work on optimization until the cost of adding an engineer
+equals the revenue gain plus the cost savings at the margin. This is often 
+many more engineers than people realize.
+
+And that's just performance. Features also matter: when I talk to engineers 
+working on basically any product at any company, they'll often find that there
+are seemingly trivial individual features that can add integer percentage points
+to revenue. Just as with performance, people underestimate how many engineers 
+you can add to a product before engineers stop paying for themselves.
+
+Additionally, features are often much more complex than outsiders realize. If 
+we look at search, how do we make sure that different forms of dates and phone
+numbers give the same results? How about internationalization? Each language has
+unique quirks that have to be accounted for. In french, “l'foo” should often 
+match “un foo” and vice versa, but American search engines from the 90s didn't 
+actually handle that correctly. How about tokenizing Chinese queries, where words
+don't have spaces between them, and sentences don't have unique tokenizations? 
+How about Japanese, where queries can easily contain four different alphabets? How
+about handling Arabic, which is mostly read right-to-left, except for the bits 
+that are read left-to-right? And that's not even the most complicated part of 
+handling Arabic! It's fine to ignore this stuff for a weekend-project MVP, but 
+ignoring it in a real business means ignoring the majority of the market! Some of
+these are handled ok by open source projects, but many of the problems involve
+open research problems.
+
+There's also security! If you don't “bloat” your company by hiring security people,
+you'll end up like hotmail or yahoo, where your product is better known for how 
+often it's hacked than for any of its other features.
+
+Everything we've looked at so far is a technical problem. Compared to organizational
+problems, technical problems are straightforward. Distributed systems are considered
+hard because real systems might drop something like 0.1% of messages, corrupt an 
+even smaller percentage of messages, and see latencies in the microsecond to 
+millisecond range. When I talk to higher-ups and compare what they think they're 
+saying to what my coworkers think they're saying, I find that the rate of lost 
+messages is well over 50%, every message gets corrupted, and latency can be months
+or years. 
+
+	Recently, I was curious why an org that's notorious for producing unreliable
+	services produces so many unreliable services. When I asked around about why,
+	I found that that upper management were afraid of sending out any sort of 
+	positive message about reliability because they were afraid that people would
+	use that as an excuse to slip schedules. Upper management changed their 
+	message to include reliability about a year ago, but if you talk to individual
+	contributors, they still believe that the message is that features are the #1
+	priority and slowing down on features to make things more reliable is bad for
+	your career (and based on who's getting promoted the individual contributors 
+	appear to be right). Maybe in another year, the org will have really gotten 
+	the message through to the people who hand out promotions, and in another 
+	couple of years, enough software will have been written with reliability in
+	mind that they'll actually have reliable services. Maybe. That's just the first-
+	order effect. The second-order effect is that their policies have caused a lot 
+	of people who care about reliability to go to companies that care more about 
+	reliability and less about demo-ing shiny new features. They might be able to
+	fix that in a decade. Maybe. That's made harder by the fact that the org is in
+	a company that's well known for having PMs drive features above all else. If
+	that reputation is possible to change, it will probably take multiple decades.
+
+When people imagine how long it should take to build something, they're often 
+imagining a team that works perfectly and spends 100% of its time coding. But that's
+impossible to scale up. The question isn't whether or not there will inefficiencies,
+but how much inefficiency. A company that could eliminate organizational inefficiency
+would be a larger innovation than any tech startup, ever. But when doing the math on 
+how many employees a company “should” have, people usually assume that the company is
+an efficient organization.
+
+This post happens to use search as an example because I ran across some people who 
+claimed that Lucene was going to surpass Google's capabilities any day now, but there's
+nothing about this post that's unique to search. If you talk to people in almost any 
+field, you'll hear stories about how people wildly underestimate the complexity of the
+problems in the field. The point here isn't that it would be impossible for a small 
+team to build something better than Google search. It's entirely plausible that someone
+will have an innovation as great as PageRank, and that a small team could turn that into
+a viable company. But once that company is past the VC-funded hyper growth phase and 
+wants to maximize its profits, it will end up with a multi-thousand person platforms org,
+just like Google's, unless the company wants to leave hundreds of millions or billions
+of dollars a year on the table due to hardware and software inefficiency. And the company
+will want to handle languages like Thai, Arabic, Chinese, and Japanese, each of which is
+non-trivial. And the company will want to have relatively good security. And there are 
+the hundreds of little features that users don't even realize that are there, each of 
+which provides a noticeable increase in revenue. It's "obvious" that companies should 
+outsource their billing, except that when you talk to companies that handle their own
+billing, they can point to individual features that increase conversion by single or 
+double digit percentages that they can't get from Stripe or Braintree. That fifty person
+billing team is totally worth it, beyond a certain size. And then there's sales, which 
+most engineers don't even think of. 
+
+	For a lot of products, the sales team is more important than the engineering 
+	team. If we build out something rivaling Google search, we'll probably also 
+	end up with the infrastructure required to sell a competitive cloud offering.
+	Google actually tried to do that without having a serious enterprise sales
+	force and the result was that AWS and Azure basically split the enterprise 
+	market between them.
+
+The exact same line of reasoning that applies to optimization also applies to sales --
+as long as marginal benefit of adding another salesperson exceeds the cost, you should
+expect the company to keep adding salespeople, which can often result in a sales force
+that's larger than the engineering team. There's also research which, almost by
+definition, involves a lot of bets that don't pan out!
+
+It's not that all of those things are necessary to run a service at all; it's that 
+almost every large service is leaving money on the table if they don't seriously address
+those things. This reminds me of a common fallacy we see in unreliable systems, where 
+people build the happy path with the idea that the happy path is the “real” work, and
+that error handling can be tacked on later. For reliable systems, error handling is more
+work than the happy path. The same thing is true for large services -- all of this stuff
+that people don't think of as “real” work is more work than the core service.
+```
+
+Damn Dan, you wrote this stream-of-consciousness? You've got yourself a new fan. 
 
 <a name="#codebase-as-organism"></a>
 ### Codebase as organism
