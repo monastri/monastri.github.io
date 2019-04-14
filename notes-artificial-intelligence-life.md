@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 12,700*
+*[Word count](https://wordcounter.net/): 13,800*
 
 ## What is this?
 
@@ -53,6 +53,7 @@ Besides Gwern Branwen, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/)
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
 1. [Animals are not like us](#animals-are-not-like-us)
+2. [ChinAI](#ChinAI)
 2. [Digital evolution and artificial life](#Digital-evolution-and-artificial-life)
 	1. [The evolved radio](#The-evolved-radio)
 	2. [The evolved ear](#The-evolved-ear)
@@ -71,6 +72,114 @@ I've sorted the quotes below into the following categories. This is a provisiona
    
 ---------------------------------
 
+<a name="#ChinAI"></a>
+## ChinAI
+([overview](#overview))
+
+From Jeffrey Ding's [What I Learned from a Year of ChinAI](https://chinai.substack.com/). Jeff is a grad student at Oxford's Center for the Governance of AI, Future of Humanity Institute. 
+
+What is this? How and why did it start?
+
+```markdown
+These are Jeff Ding's (sometimes) weekly translations of writings on AI policy and
+strategy from Chinese thinkers. I'll also include general links to all things at the
+intersection of China and AI.
+
+I started ChinAI with an email to a small group of colleagues and friends with chapter
+translations of a book co-authored by Tencent and a Chinese gov’t think tank on a
+National Strategic Initiative on AI. ...
+
+...my hope is that other researchers and translators can use this as a platform to 
+share their work.
+```
+
+Apparently Ding's newsletter is affiliated with the Center for the Governance of AI at Oxford’s Future of Humanity Institute, and "has been pumped up" by Miles Brundage. 
+
+Key takeaways:
+
+1. There is a language asymmetry in the Chinese-speaking community’s understanding of the global AI landscape and that of the English-speaking community.
+2. Western observers consistently overinflate Chinese AI capabilities. While some of this exaggeration is a product of media sensationalism or deliberate overestimation on the part of interest groups to drive momentum for their own agenda, another significant factor behind the overinflation is a misunderstanding of what is happening at the technical level of AI development in Chinese companies.
+3. In addition to AI’s significance for economic growth and military security, the Chinese government sees AI as a tool to improve social governance, which makes public security applications a large driver of China’s AI development. This also means that some Chinese AI companies are complicit with China’s mass surveillance of Xinjiang, an effort that disproportionately targets ethnic Uyghurs.
+
+Language asymmetry in the Chinese-speaking community’s understanding of the global AI landscape and that of the English-speaking community:
+
+```markdown
+Big developments covered in Western outlets — the publication of the Malicious Use
+of AI report, any breakthrough made by Deepmind or OpenAI, an op-ed about human-
+centered AI by Fei-fei Li — are translated within a day or two and analyzed in Chinese
+outlets. This short turnaround time is a product of a China’s vigorously competitive
+and quickly expanding S&T (science and technology) media landscape. Many of my
+translations this year drew from outlets such as xinzhiyuan, Leiphone, and jiqizhixin,
+many of which are outpacing their Western outlets in terms of output of content and 
+scale.
+
+Andrew Ng referenced a similar language asymmetry with regards to AI technical research
+in an article in The Atlantic:
+
+	The language issue creates a kind of asymmetry: Chinese researchers usually
+	speak English so they have the benefit of access to all the work disseminated
+	in English. The English-speaking community, on the other hand, is much less
+	likely to have access to work within the Chinese AI community.
+	
+I think the growth of ChinAI in this past year is proof that there is a demand from the 
+English-speaking world for a deeper awareness of what’s happening in the Chinese-
+speaking world, and I hope more people and organizations work to rebalance this language
+asymmetry.	
+```
+
+Western observers consistently overinflate Chinese AI capabilities, due to media sensationalism or deliberate overestimation on the part of interest groups to drive momentum for their own agenda, also a misunderstanding of what is happening at the technical level of AI development in Chinese companies:
+
+```markdown
+In a year that featured the rise of the “AI arms race” meme and headlines like 
+“China’s tech giants spending more on AI than Silicon Valley,” few people dug 
+underneath the hood to see what China’s so-called AI giants, such as Tencent, were
+actually doing regarding AI at the technical level. One exception was a Chinese-
+language essay by Li Guofei, a widely respected thinker in China’s investment 
+community, which drew on interviews with Tencent insiders. It revealed that 
+Tecent’s algorithms “still give a very imprecise profile of users” because
+“Tencent’s customer data is scattered in various departments and has become the
+‘private property’ of departments” (e.g. WeChat’s advertising algorithms are not
+under the purview of the WeChat department but are actually under another
+department which does not have access to the data of the WeChat team). Moreover,
+the number of Tencent engineers solely dedicated to doing work on improving 
+algorithms is “pitifully few” according to Li, and each unit has its own algorithm
+engineers so there’s also a lot of low-level, redundant development of algorithms.
+
+Another piece by a writer for Huxiu, a Chinese-language platform for sharing news 
+and thinkpieces on S&T issues, argued that, “Only Baidu and Huawei are Really
+Doing AI.” It divided the 190 major AI companies that make up China’s AI ecosystem
+into three layers (application, technology, and foundation), but found that 
+China’s four tech giants (Baidu, Alibaba, Tencent, and Huawei) had promoted a top-
+heavy AI industry with few companies producing the foundational technologies (e.g.
+deep learning frameworks and chips) that underpin AI development.
+```
+
+In addition to AI’s significance for economic growth and military security, the Chinese government sees AI as a tool to improve social governance:
+
+```markdown
+According to a report by Yiou intelligence, a consulting firm that publishes reports 
+in Mandarin on China’s industry, security + AI companies accounted for the highest
+proportion of companies in Yiou’s list of top 100 AI companies. AI startups like 
+Mininglamp are positioning themselves as the “Palantir of China” by integrating their
+products with public security departments and collaborating with the police to crack
+cases related to the production and sales of fake vaccines.
+
+Two of China’s most successful facial recognition startups, Sensetime, and Megvii
+(Face++), are involved in China’s efforts to securitize Xinjiang. At the 2017 China-
+Eurasia Security Expo, Megvii (Face++) was announced as an official technical support
+unit of the Public Security Video Laboratory in Xinjiang. Under the backdrop of the
+“Silk Road Economic Belt,” expos like these enable the export of China’s surveillance
+technology to Central Asian countries and beyond, as nearly 100 government agencies, 
+experts, and procurement companies attended. The 2018 edition of expo featured the 
+announcement of a joint venture company called Tang Li Technology by Sensetime and 
+Leon Technology, a security systems integrator company that claims it is responsible 
+for 50% of "safe city" projects in Urumqi, the capital of Xinjiang, as well as the 
+maintenance of surveillance infrastructure for the border between Xinjiang and
+neighboring countries. It is also important to be precise about the technical 
+capabilities of the security systems actually in implementation, as there are limits
+to continuous real-time location tracking due to limitations of facial recognition 
+technology, camera costs, and constraints to compute power.
+```
 
 <a name="#Microbiology"></a>
 ## Microbiology
