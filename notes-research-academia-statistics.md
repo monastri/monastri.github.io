@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 18,400*
+*[Word count](https://wordcounter.net/): 19,400*
 
 ## What is this?
 
@@ -61,6 +61,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	1. [Structured procrastination](#Structured-procrastination)
 	2. [Tactical procrastination](#Tactical-procrastination)
 	2. [Batch low-intensity tasks](#Batch-low-intensity-tasks)
+	2. [Resize value batches](#Resize-value-batches) (Tiago Forte takes the obvious idea and runs away with it)
 	2. [Email](#email)
 2. [Research in industry](#research-in-industry)
 2. [Statistical literacy](#statistical-literacy)
@@ -72,7 +73,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 --------------------------------
 
 <a name="#distillation-and-research-debt"></a>
-### Distillation and research debt
+## Distillation and research debt
 ([overview](#overview))
 
 I keep coming back to Chris Olah and Shan Carter's essay [Research debt](https://distill.pub/2017/research-debt/), which in my eyes makes it an all-time great. The key terms are 'research debt', 'interpretive labor', and 'distillation'.
@@ -1170,6 +1171,132 @@ hope even to produce interesting mistakes.
 <a name="#Productivity"></a>
 ## Productivity
 ([overview](#overview)) 
+
+<a name="#Resize-value-batches"></a>
+### Resize value batches
+([overview](#overview))
+
+This complements [batching low-intensity tasks](#Batch-low-intensity-tasks). All this from productivity guru Tiago Forte's [Bending the curves of productivity](https://evernote.com/blog/bending-the-curves-of-productivity/). 
+
+Time (which costs money) passes at the same pace:
+
+![time](https://s24953.pcdn.co/blog/wp-content/uploads/2018/01/1_Bending_Productivity_graphs.001-e1484172491340.jpeg)
+
+Flow is preceded by struggle:
+
+![flow](https://s24953.pcdn.co/blog/wp-content/uploads/2018/01/1_Bending_Productivity_graphs.002-e1484172319804.jpeg)
+
+Energy level drops. Too low and you can't hop onto the flow plateau:
+
+![energy](https://s24953.pcdn.co/blog/wp-content/uploads/2018/01/1_Bending_Productivity_graphs.004-e1484172389812.jpeg)
+
+Value (in a single working session) is created towards the end -- e.g. one minute before you send that preprint for peer review, no value has been created:
+
+![value](https://s24953.pcdn.co/blog/wp-content/uploads/2018/01/1_Bending_Productivity_graphs.005-e1484172400609.jpeg)
+
+Tiago claims that "every school of productivity thought can be defined in terms of which curve it attempts to bend, and how":
+
+```markdown
+The “Energy School” offers a variety of ways to get that energy curve higher. Better
+diet, more or different exercises, stretching and yoga, better sleep. If you can just
+keep your energy level high enough, their argument goes, your productivity will be 
+great.
+
+The “Focus School” is all about getting into and staying in flow. Meditation, goal-
+setting exercises, prioritizing schemes, avoiding distractions, no-meeting or no-phone
+days, accountability mechanisms, noise-canceling headphones, and many others. They argue
+that the best strategy is to pick a task and then hammer away at it until it’s finished,
+extending that flow curve as long as possible.
+
+The “Efficiency School” is obsessed with the logistics of work. It advocates using 
+technology or other people to automate tasks, learning keyboard shortcuts, improving 
+reading and writing speed, ruthlessly cutting out all unnecessary activities, moving to
+Bali to cut down expenses, and other methods of cramming more productivity into the given
+amount of time and money represented by the time/money curve.
+```
+
+So far, so neat. I like systematizing models like that. 
+
+This is what happens when work gets interrupted constantly -- all struggle, no flow, and the impression that nothing got done despite a full day of work:
+
+![interrupt](https://s24953.pcdn.co/blog/wp-content/uploads/2018/01/1_Bending_Productivity_graphs.008-e1484172446152.jpeg)
+
+Tiago says "don't fight the interruptions, change the value curve shape/size to fit":
+
+![value change](https://s24953.pcdn.co/blog/wp-content/uploads/2018/01/1_Bending_Productivity_graphs.009-e1484172478278.jpeg)
+
+This is standard in manufacturing/software/startups:
+
+```markdown
+This idea, of course, isn’t new. In the world of manufacturing, it is the equivalent
+of small batch sizes, a key part of the Just-In-Time vision that has propelled Toyota
+through 7 decades of growth to become the world’s largest automaker. 
+
+In the world of software, it is known as continuous integration and deployment, a 
+practice that has revolutionized the speed and quality with which the software we use
+every day is developed. 
+
+In the startup world, Eric Ries has shown us in his book The Lean Startup how delivering
+value quickly in small chunks is essential for learning and innovation.
+```
+
+But how can individual employees resize value batches delivered? 
+
+```markdown
+Reducing our batch sizes requires changing not how we manage tasks and projects, but how 
+we manage the information content of those projects.
+
+We need to change our conception of what we are producing, from final deliverables to 
+what I will call “intermediate packets.” Instead of seeing the final product (the 
+deliverable we sell to the client) as the only repository of value, we package up all the
+intermediate steps — the research, notes, brainstorms, examples, outlines, prototypes, 
+drafts, and even crazy ideas we choose not to pursue — as reusable components for later
+consumption.
+
+At the end of the project, instead of making one final crazy all-night push to load every
+single part of the project into our brain for final delivery, our task is much easier: 
+final assembly of the previously built packets.
+```
+
+The benefit of modularizing is later reusability. Taken to its ultimate conclusion, you get what Tiago calls a "flywheel" (or productivity):
+
+```markdown
+After you’ve been working this way for awhile, there is a final benefit: you gain the
+ability to complete entire projects merely by assembling previously created packets. 
+There seems to be a critical mass in a given industry or area — once you reach that mass,
+each additional packet added creates exponential value in the connections it creates with
+others.
+
+This is the mythical productivity flywheel—a system that produces value almost on its own,
+while you take a back seat as curator, manager, and gatekeeper.
+```
+
+So like modules/packages in software development. The followup claim I'm less sure/convinced of:
+
+```markdown
+So what is required to make this new approach a reality? It requires us to get much, 
+much better at packaging our work mid-stream. Here’s what makes it difficult: we can’t
+afford to do this packaging during the project, because every spare moment is needed to
+race toward the deadline. And we can’t do it after the project ends, because by then 
+we’re already off to the next one. No, this packaging has to be embedded into the actual
+way we work moment to moment, so that it doesn’t take any extra time whatsoever.
+
+This need for a new way of defining, packaging, and delivering knowledge work is why I 
+believe the humble category of note-taking apps represents the next frontier of 
+productivity. Their purpose is much different from file storage services like Box, 
+Dropbox, and iCloud, as well as cloud-based suites like Google Drive and Microsoft Office
+360. They don’t optimize for finished documents ready to be printed, or for convenient 
+groupings of project files, or storage space or speed or collaboration or any of the other
+things one could optimize for. Instead, they optimize for *productive randomness*, for
+serendipity, for seemingly bizarre juxtapositions of apparently unconnected information to
+train our capacity for connecting it. Each person possesses a unique lifestream of 
+information from numerous sources, and success increasingly depends on curating, tweaking,
+redirecting, and capturing value from this stream to use in our work. Instead of hiding 
+our insights and learnings in neatly labeled folders and files, we want to expose them as
+intermediate packets of ever-evolving, intermediate work.
+```
+
+I think I'm mainly unconvinced because I'm unfamiliar enough with note-taking apps to see how they're qualitatively different from what I already do in this living document (aside from lower note-taking friction/activation energy). 
 
 <a name="#Batch-low-intensity-tasks"></a>
 ### Batch low-intensity tasks
