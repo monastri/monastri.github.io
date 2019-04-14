@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 20,100*
+*[Word count](https://wordcounter.net/): 23,200*
 
 ## What is this?
 
@@ -63,8 +63,10 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	2. [Important findings on learning](#important-findings-on-learning), ft. 25 principles by U of Missouri
 3. [Names matter](#names-matter)
 	1. [Concept handles](#Concept-handles)
+	2. [Naming functions in large versioned codebases](#Naming-functions-in-large-codebases), on Wolfram's 30+ year *Mathematica* odyssey
 3. [Polymathy, or being a generalist](#polymathy)
 	1. [Semicolon-shaped people](#Semicolon-shaped-people)
+	2. [Polymathy via designing knowledge-based programming languages](#polymathy-via-designing-general-programming-languages)
 2. [Procedural vs declarative memory](#procedural-vs-declarative-memory)
 4. [Steve Yegge on memory](#Yegge-on-memory)
 5. [Wisdom](#wisdom)
@@ -701,6 +703,41 @@ Continue until almost everything you encounter in Science and Nature makes sense
 a field you know something about.
 ```
 
+<a name="#polymathy-via-designing-general-programming-languages"></a>
+### Polymathy via designing general programming languages
+([overview](#overview))
+
+Big-picture generalist's wet dream quote from Stephen Wolfram's [Ten thousand hours of design reviews](https://blog.stephenwolfram.com/2008/01/ten-thousand-hours-of-design-reviews/) (for more on how this is done via design reviews see [Single-handedly designing large codebases](https://github.com/monastri/monastri.github.io/edit/master/notes-software-development-computer-science-complex-systems.md#Single-handedly-designing-large-codebases)).
+
+```markdown
+It’s sometimes a little weird. One hour I’ll be intensely thinking about 
+the higher mathematics of number theory functions. And the next hour I’ll
+be intensely focused on how we should handle data about cities around the 
+world. Or how we should set up the most general possible interfaces to 
+external control devices.
+
+But although the subject matter is very varied, the principles are at some
+level the same.
+
+I want to understand things at the most fundamental level—to see what the 
+essential primitives should be. Then I want to make sure those primitives
+are built so that they fit in as well as possible to the whole existing
+structure of Mathematica—and so they are as easy as possible for people to
+understand, and work with.
+
+Doing design reviews and nailing down the functional design of Mathematica 
+is a most satisfying intellectual activity. It’s incredibly diverse in
+subject matter. And in a sense always very pure.
+
+It’s about a huge range of fundamental ideas—and working out how to fit them
+all together to create a coherent system that all makes sense.
+
+It’s certainly as hard as anything I know about in science. But in many ways
+it’s more creative. One’s not trying to decode what exists in the world. One’s
+trying to create something from scratch—to build a world that one can then work
+within.
+```
+
 <a name="#Semicolon-shaped-people"></a>
 ### Semicolon-shaped people
 ([overview](#overview))
@@ -1155,6 +1192,347 @@ edifice of related ideas, you’ll sometimes link to the outgroup post and somet
 link to the classy post, and as a result I think some pieces of your arguments will
 be resting on solid foundations and some will be very shaky. Those shaky bits don’t
 deserve the apparent authority of a blue and underlined word or two.
+```
+
+<a name="#Naming-functions-in-large-codebases"></a>
+### Naming functions in large codebases
+([overview](#overview)) 
+
+A real-world still-in-action example of names mattering, from Stephen Wolfram's [Ten thousand hours of design reviews](https://blog.stephenwolfram.com/2008/01/ten-thousand-hours-of-design-reviews/) (for more on how this is done via design reviews see [Single-handedly designing large codebases](https://github.com/monastri/monastri.github.io/edit/master/notes-software-development-computer-science-complex-systems.md#Single-handedly-designing-large-codebases)).
+
+The importance of good naming:
+
+```markdown
+One of the things that happens in design reviews is that we finalize the 
+names for functions.
+
+Naming is a quintessential design review process. It involves drilling down
+to understand with as much as clarity as possible what a function really 
+does, and is really about. And then finding the perfect word or two that 
+captures the essence of it.
+
+The name has to be something that’s familiar enough to people who should be
+using the function that they’ll immediately have an idea of what the function
+does. But that’s general enough that it won’t restrict what people will think
+of doing with the function.
+
+Somehow the very texture of the name also has to communicate something about
+how broad the function is supposed to be. If it’s fairly specialized, it 
+should have a specialized-sounding name. If it’s very broad, then it can 
+have a much simpler name—often a much more common English word.
+```
+
+Expanding upon the latter points a bit more -- make every function as general as possible, and recognize that function names determine how people think about them, right down to the "texture" of the names:
+
+```markdown
+In building Mathematica, we’ve had the longstanding principle of always 
+trying to make every function as general as possible—so that it is applicable
+to as wide a range of situations as possible. Sometimes, though, a function 
+will have one particular, familiar, use. But if the name of the function 
+reflects only that use, one is shortchanging the function. For without a more
+general name, people will never think to apply it in other cases. (So, for 
+example, it’s List, not “vector”, and it’s Outer, not “outer product”.)
+
+And indeed, one of the responsibilities of function naming is that it is the
+names of functions that to a large extent directly determine how people will
+think about a function. If they are led in a particular direction by the name,
+that will be the direction in which they will go in using the function.
+
+And even the very “texture” of the name is important in getting people to think
+correctly about functions. A sophisticated function should have a sophisticated
+name (like DynamicModule or EventHandler).  A straightforward, common, function
+should have a simple name (like Length or Total). A function that does a clear 
+but unusual thing should have an unexpected name (like Thread or Through).
+```
+
+Test and criteria for good naming:
+
+```markdown
+I always have a test for candidate names. If I imagine making up a sentence 
+that explains what the function does, will the proposed name be something that
+fits into that sentence? Or will one end up always saying that the function 
+with name X does something that is described as Y?
+
+Sometimes it takes us days to come up with the right name for a function. But
+usually one knows when it’s right. It somehow just fits. And one can
+immediately remember it.
+
+I take great pains to name every new function in the best possible way.
+
+First, one must leverage on peoples’ existing knowledge and understanding. If 
+there is a familiar name that’s already widely used, then if at all possible
+one must use it.
+
+Of course, sometimes that name may only be familiar in some particular area. 
+And it may be very short—perhaps a single letter—and incomprehensible without 
+further context. And in that case, what we typically do in Mathematica is to 
+burn into the name some kind of stylized context. (So, for example, the Fresnel
+integral S(x) has the name FresnelS in Mathematica.)
+
+When one finds a good name for a function, one of the things that happens is
+that when people hear the name, they can successfully “unpack” it into a one-
+sentence description of what the function must do—often in effect just by using 
+the name of the function as the main part of a sentence. And indeed, when we’re
+stuck in trying to find a good name for a function, I’ll often suggest that we
+try to write a sentence that describes what the function does—that we can
+perhaps use in the Documentation Center for the function, but then condense 
+down into the nugget we need for the name itself.
+```
+
+Conventions develop:
+
+```markdown
+There are definite conventions about what particular kinds of names mean.
+(Functions that end in List generate lists; functions that begin with Image
+operate on images; functions that begin with Find involve some kind of 
+searching; and so on.) There are ways that names tend to appear together in
+typical usage of the language. And there are definite conceptual frameworks—and 
+metaphors—that have developed in the language and the system. (Nest refers to 
+repeated function application; Flat refers to flattening of nested structures;
+Dynamic refers to dynamic interactivity; and so on.)
+```
+
+Precedents (from previous codebase versions) matter:
+
+```markdown
+By now in Mathematica there are a great many precedents for how functions should
+be named. And we always try to follow these precedents whenever possible. First,
+because they often represent good solutions to the naming problems we’re now
+trying to solve. And second, because by following them one is maintaining a 
+certain consistency that makes it easier for the system to grow, and for people 
+to learn the system—and to guess about functionality they do not already know.
+```
+
+Names carve reality at the joints. It is impossible to carve perfectly:
+
+```markdown
+One of the painful aspects of function naming is that however clever you are about
+it, it can never be perfect. I often claim that the only language that is perfectly
+consistent is the one that does nothing. As soon as there is actual functionality 
+to represent, there are inevitably awkward cases and corners. For example, one 
+wants to maintain consistent simplicity in naming in each area of the system. But 
+then at the overlaps between these areas there are inconsistencies.
+```
+
+
+Contrasting names and word evolution in natural human languages and function names in codebases:
+
+```markdown
+In ordinary human languages, new words typically develop by some form of natural
+selection. Usually a word will be introduced—perhaps at first as a phrase—by 
+one person. And then it spreads, sometimes changing a bit, and either becomes
+popular enough to be widely understood and useful for general communication, or
+disappears.
+
+But for a computer language the pattern is necessarily different. For once a 
+function name—that corresponds to a “word” in the language—has been introduced, 
+it must immediately be a full, permanent, element of the language. For programs
+will be written that contain that name, and they would all have to be found and
+updated if that name was changed.
+
+There is also another difference between words in human languages and function 
+names in a computer language. In a human language, there is no ultimate,
+absolute, meaning defined for most words. Instead, the best we can do is—like
+in a dictionary—to define words by relating them to other words.
+
+But in a computer language, each function name ultimately refers to a particular
+piece of functionality that is defined in an absolute way, and can be implemented
+by a specific precise program.
+
+This doesn’t usually make it any easier to come up with function names, though.
+It just means that there’s a clearer notion of the “right name”: the name where
+a human has the best chance of correctly figuring out from it what the function
+does.
+
+Function names are in a sense ultimate points of human-machine communication. 
+They’re the places where all that internal computational activity has to be 
+connected with something that humans can understand. When the functionality is
+simple there are pictorial and other alternatives. But when the functionality 
+is diverse or sophisticated we don’t know any possibility other than to use 
+language—and the linguistic construct of names for things.
+
+The function names in Mathematica are ultimately based on English, and for the
+most part, they consist of ordinary English words. In ordinary natural human 
+languages, it is possible to introduce a completely new word, and have it
+gradually gain popularity and understanding. But in the dynamics of computer 
+languages—with their necessarily sudden introduction of new names—one has no 
+choice but to leverage on people’s existing understanding of a human language,
+like English.
+
+Still, when we come up with function names in Mathematica today, they are in a
+sense not based just on “raw English”. They also rely on the web of meaning 
+that has developed through the several thousand other functions that already 
+exist in Mathematica.
+```
+
+The problem with basing names on human language is that sometimes the latter is limited -- hence analogize:
+
+```markdown
+And sometimes one runs into limitations of English: there just isn’t any 
+familiar word or phrase for a concept, perhaps because that concept is 
+somehow new to our experience. And in such cases what one typically has to 
+do—just like in natural language—is to come up with an analogy.
+
+Some of the analogies and metaphors we consider start quite wild and 
+outlandish. But eventually they become tamer—like Sow and Reap or Throw and
+Catch—and an important way to extend the linguistic base for names in
+Mathematica.
+```
+
+Another problem is ambiguity in human languages, which needs resolving:
+
+```markdown
+It might be nice if English—like Mathematica—had the feature that a particular
+word meant only a particular thing, or at least a class of things. But that is
+not how it works. A single word can act as different parts of speech, and can
+have wildly different meanings. Usually in actual English usage, one can 
+disambiguate by context.
+
+But in the tiny length of a single function name, one does not have that option.
+And quite often that means one has to reject some wonderful word just in order 
+to avoid a possible misunderstanding from a different way it can be used in 
+English. (So, for example, “Live” or “Active” can’t be candidates for Dynamic—
+they’re just too easy to misunderstand.)
+
+If one is lucky, a thesaurus (these days in Wolfram|Alpha) will give one a word 
+that captures the same concept but avoids the potential misunderstanding. But 
+sometimes one has to rearrange the whole structure of the name to avoid the 
+possibility of misunderstanding.
+```
+
+Example of function naming:
+
+```markdown
+In Mathematica 6, a typical case of function naming was Manipulate.
+
+It took quite a while to come up with that name.
+
+We created this great function. But what should it be called? Interface? 
+Activate? Dynamic? Live?
+What?
+
+Interface might seem good, because, after all, it creates an interface. But 
+it’s a particular kind of interface, not a generic one.
+
+Activate might be good, because it makes things active. But again it’s too
+generic.
+
+Dynamic: again it sounds too general, and also a bit too technical. And 
+anyway we wanted to use that name for something else.
+
+Live… that’s a very confusing word. It’s even hard to parse when one reads it.
+Does it say “make it alive”, or “here’s something that is alive”, or what?
+
+Well, after a while one realizes that one has to understand with more clarity
+just what it is that this great new function is doing.
+
+Yes, it’s creating an interface. Yes, it’s making things active, dynamic,
+alive. But really, first and foremost, what it’s doing is to provide a way to 
+control something. It’s attaching knobs and switches and so on to let one 
+control almost anything.
+
+So what about a word like Control? Again, very hard to understand. Is the thing
+itself a control? Or is it exerting control?
+
+Handle? Again, too hard to understand.
+
+Harness? A little better. But again, some ambiguity. And definitely too much of
+a “horse” motif.
+
+Yoke? That one survived for several days. But finally the oxen jokes overwhelmed
+it.
+
+And then came Manipulate.
+
+At first, it was, “Oh, that’s too long a word for such a great and important 
+function.”
+
+But in my experience it often “feels right” to have a fairly long word for a 
+function that does so much. Of course there were jokes about it sounding 
+“manipulative”.
+
+But as we went on talking about the function, we started just calling it Manipulate
+among ourselves. And everyone who joined the conversation just knew what it meant.
+And as we went on developing all its detailed capabilities, it still seemed to fit.
+It gave the right sense of controlling something, and making something happen.
+
+So that’s how Manipulate got its name. It’s worked well.
+```
+
+The general experience of naming functions:
+
+```markdown
+n developing Mathematica 6, we had to name nearly 1000 functions. And each name has
+to last—just as the names in Mathematica 1 have lasted.
+
+Occasionally it was fairly obvious what a function should be called.
+
+Perhaps it had some standard name, say in mathematics or computing, such as Norm or
+StringSplit.
+
+Perhaps it fit into some existing family of names, like ContourPlot3D.
+
+But most of the time, each name took lots and lots of work to invent. Each one is
+sort of a minimal expression of a concept that a primitive in Mathematica implements.
+
+Unlike human languages that grow and mutate over time, Mathematica has to be defined
+once and for all. So that it can be implemented, and so that both the computers and 
+the people who use it can know what everything in it means.
+
+As the Mathematica system has grown, it’s in some ways become more and more difficult
+to do the design. Because every new thing that’s added has to fit in with more and 
+more that’s already there.
+
+But in some ways it’s also become easier. Because there are more precedents to draw
+on. But most importantly, because we’ve gotten (and I think I personally have 
+gotten) better and better at doing the design.
+
+It’s not so much that the quality of the results has changed. It’s more that we’ve
+gotten faster and faster at solving design problems.
+
+There are problems that come up today that I can solve in a few minutes—yet I 
+remember twenty years ago it taking hours to solve similar problems.
+
+Over the years, there’ve been quite a few “old chestnuts”: design problems that we 
+just couldn’t crack. Places where we just couldn’t see a clean way to add some 
+particular kind of functionality to Mathematica.
+
+But as we’ve gotten better and better at design, we’ve been solving more and more 
+of these. Dynamic interactivity was one big example. And in fact Mathematica 6 has
+a remarkable number of them solved.
+```
+
+Wolfram expands on this a bit more in a slighty later essay, [the poetry of function naming](https://blog.stephenwolfram.com/2010/10/the-poetry-of-function-naming/):
+
+```markdown
+The naming of functions is a strange and difficult art—a bit like an ultimately
+abstracted form of poetry. The goal is to take the concept and functionality
+of a function, and capture the essence of it in one, or two, or perhaps three,
+words (like Riffle, or DeleteCases, or FixedPointList)—chosen so that when
+someone sees those words, they immediately get the right idea about the
+function. In even the most succinct forms of ordinary poetry, you get at least
+a handful of words to communicate with. In function names, you typically get 
+at most perhaps three.
+
+With enough experience, it can sometimes be pretty easy to come up with that 
+little gem of a name for a function. Sometimes it can even seem quite obvious
+as soon as one thinks about the function. But sometimes it can take immense 
+amounts of time—wrestling with what can seem like an insoluble problem of 
+packing everything one needs to say about a function into that one little name.
+
+It’s an unforgiving and humbling activity. And the issue is almost always the 
+same. The reason you can’t find a good name is because you don’t really 
+understand with complete and ultimate clarity what the function does.
+
+And sometimes that’s because the function really isn’t designed quite right. 
+There’s something muddled about it, that has to be unmuddled before you’ll ever
+be able to find a good name.
+
+It’s very satisfying, though, when you finally crack it. These days I’m usually 
+working on design reviews with teams of people. And when we finally get the 
+right name, everyone on the call (yes, it’s essentially always a phone call) 
+immediately says “Oh yes, that’s it”. And we all feel a little stupid that we 
+just spent an hour, or however long, just coming up with one or two words.
 ```
 
 <a name="#cognitive-science"></a>
