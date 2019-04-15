@@ -12,8 +12,8 @@
 
 And then there's also the shift in who's responsible for knowledge management as the bulk of the world's information transitions from traditional media to the web:
 
-| | Traditional | Web |
-| --- | --- |
+| Attribute | Traditional | Web |
+| --- | --- | --- |
 | Cost of production | High | Low |
 | Cost of updating | Very high | Relatively low |
 | Cycle time | Years | Hours |
