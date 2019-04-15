@@ -57,6 +57,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Collective cognition](#Collective-cognition)
 2. [Externalizing the brain](#external-brain), e.g. Google, writing
 	1. [The social computational hindbrain and the planetwide metabrain](#Social-computational-hindbrain), e.g. newsletter/blog+commentariat
+	2. [Personal knowledge management: what, why, when, where, how](#Personal-knowledge-management) 
 2. [Learning](#learning)
 	1. [Errors vs bugs](#errors-vs-bugs)
 	2. [Learning as maximizing the throughput of assumptions invalidated](#maximizing-the-throughput-of-assumptions-invalidated)
@@ -74,6 +75,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	
 
 ----------------------------------
+
 
 <a name="#Learning"></a>
 ## Learning
@@ -1722,6 +1724,92 @@ play in cognition, the more they will see the importance of work in mathematical
 places physics in the most elegant possible notation. It’s not just theory addicts trying to 
 justify their work when they say that it aids in problem solving, it’s how cognition works.
 ```
+
+<a name="#[Personal-knowledge-management"></a>
+### Personal knowledge management
+([overview](#overview))
+
+From Carol Hixson and Jason Frand (of UCLA! Anderson School of Management! Woot woot)'s [eponymous working paper](https://scholarsbank.uoregon.edu/xmlui/handle/1794/24358) (here slide version).
+
+What is personal knowledge management, or PKM? 
+
+```markdown
+A conceptual framework to organize and integrate information that we, as individuals,
+feel is important so that it becomes part of our personal knowledge base
+
+A strategy for transforming what might be random pieces of information into something
+that is more systematic and expands our personal knowledge 
+```
+
+Why?
+
+```markdown
+**Information explosion**
+More than 30,000 new journals each year, more than 1000 new WWW sites each day
+Makes keeping track of information difficult
+Volume of information in the world degrades value due to redundancy and noise
+
+**Information chaos**
+Analogy -- if the WWW were compared to a library:
+- "books" on its shelves would keep changing their relative locations as well as
+their sizes and names
+- Individual "pages" in those publications would be shuffled ceaselessly
+- Much of the data on those pages would be revised, updated, extended, shortened 
+or even deleted without warning almost daily
+```
+
+And then there's also the shift in who's responsible for knowledge management as the bulk of the world's information transitions from traditional media to the web:
+
+| Attribute | Traditional | Web |
+| --- | --- | --- |
+| Cost of production | High | Low |
+| Cost of updating | Very high | Relatively low |
+| Cycle time | Years | Hours |
+| Distribution | Physical | Electronic |
+| Number of producers | Controlled | Unlimited |
+| Editorial review | Prior to publication | Essentially none |
+| Content evaluation | By professional | By users |
+
+When?
+
+```markdown
+Must become part of routine and used whenever working with information and knowledge:
+- creating
+- acquiring
+- evaluating/assessing
+- organizing/storing
+- cataloging/classifying/indexing
+- retrieving from personal memory (your mind or your hard disk) 
+```
+
+Where? 
+
+```markdown
+One schema for all:
+- Paper documents
+- Electronic documents
+- Web bookmarks
+- Personal home library
+```
+
+How?
+
+```markdown
+Create an organizational structure which facilitates your finding and relating 
+personal and professional information 
+
+Use technology as an organic tool, an extension of your own memory, enhancing
+natural abilities, skills, and talents for synthesis and processing of ideas 
+for more effective problem solving and decision making
+
+Use the hard disk of your computer as a tool for initiating these processes 
+```
+
+Three basic approaches to organizing knwoledge: when, what, how. Pros and cons:
+
+- When: easy to setup and maintain, but hard to search info (must think in terms of *when* get info, not what's *needed*)
+- What: easier to search, but gets harder to create/maintain categories and concepts can cross boundaries
+- How: easiest to search (because look for info in terms of context in which you need it), but hardest to figure out ontology and it changes
 
 <a name="#Social-computational-hindbrain"></a>
 ### Social computational hindbrain
