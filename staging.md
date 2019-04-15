@@ -39,262 +39,261 @@ Jives with my "recency-weighted biased training set" metaphor, but I like the "l
 
 From [this Twitter thread](https://twitter.com/visakanv/status/986554117790228480). 
 
-```markdown
-1/ Interesting conversation with a writer friend earlier about the fragmentation of information. We both agreed that fragmentation isn't actually a bad thing - what's missing & needed is better threading. Twitter threads are a specific instantiation of a solution to bigger problem
+	1/ Interesting conversation with a writer friend earlier about the fragmentation of information. We both agreed that fragmentation isn't actually a bad thing - what's missing & needed is better threading. Twitter threads are a specific instantiation of a solution to bigger problem
 
-2/ What would be ideal, I think, is if all information could be represented as "cards", and all cards could be easily threaded. Every book, every blogpost, every video, even songs, etc - all could be represented as "threaded cards". Some cards more valuable than others
+	2/ What would be ideal, I think, is if all information could be represented as "cards", and all cards could be easily threaded. Every book, every blogpost, every video, even songs, etc - all could be represented as "threaded cards". Some cards more valuable than others
 
-3/ In a way, a lot of what I've been trying to do with my personal knowledge management, notetaking, etc is to assemble an interesting, coherent, useful thread of thread of threads, of everything I care about. A personal web of data, w interesting trails& paths I can share w others
+	3/ In a way, a lot of what I've been trying to do with my personal knowledge management, notetaking, etc is to assemble an interesting, coherent, useful thread of thread of threads, of everything I care about. A personal web of data, w interesting trails& paths I can share w others
 
-4/ I have a huge, sprawling junkyard mess of Workflowy notes, Evernote cards, Google keep cards, Notes, blogposts, etc etc ad infinitum. Buried in there are entire books worth of interesting+useful information. But it suffers from bad or non-existent threading, constrained by memory
+	4/ I have a huge, sprawling junkyard mess of Workflowy notes, Evernote cards, Google keep cards, Notes, blogposts, etc etc ad infinitum. Buried in there are entire books worth of interesting+useful information. But it suffers from bad or non-existent threading, constrained by memory
 
-5/ When you use search, what you are doing, essentially, is creating an on-demand thread of results (result-fragments)
+	5/ When you use search, what you are doing, essentially, is creating an on-demand thread of results (result-fragments)
 
-6/ Good conversations with smart friends introduce useful filters & queries that inspire novel+useful threads. The eagerness to be useful to a friend can have this really great forcing function when "pulling" fragments from your mind. I excitedly share relevant Twitter threads IRL
+	6/ Good conversations with smart friends introduce useful filters & queries that inspire novel+useful threads. The eagerness to be useful to a friend can have this really great forcing function when "pulling" fragments from your mind. I excitedly share relevant Twitter threads IRL
 
-7/ One of my personal conclusions was that it's really helpful to always, always take notes after any noteworthy experience - whether watching a movie, talking with a friend or even just going about your daily life. (Seth Godin's observational blogposts come to mind)
+	7/ One of my personal conclusions was that it's really helpful to always, always take notes after any noteworthy experience - whether watching a movie, talking with a friend or even just going about your daily life. (Seth Godin's observational blogposts come to mind)
 
-8/ This habit yields insane benefits over time. You learn. You develop a fingertip feel for what is interesting+useful. You start to get better at processing all your experience and hanging all of that effectively onto your personal, shared web of knowledge
+	8/ This habit yields insane benefits over time. You learn. You develop a fingertip feel for what is interesting+useful. You start to get better at processing all your experience and hanging all of that effectively onto your personal, shared web of knowledge
 
-9/ You also start to look more and more like a genius because you can build off of past experiences, thoughts and insights to assemble really extensive, thoughtful responses to anything. Relevant links, studies, blogposts, etc are all just a quick search away, eager to contribute
+	9/ You also start to look more and more like a genius because you can build off of past experiences, thoughts and insights to assemble really extensive, thoughtful responses to anything. Relevant links, studies, blogposts, etc are all just a quick search away, eager to contribute
 
-10/ (Riffing)
+	10/ (Riffing)
 
-A life is a thread of experiences
+	A life is a thread of experiences
 
-A social graph is a thread of friends
+	A social graph is a thread of friends
 
-A sentence is a thread of words
+	A sentence is a thread of words
 
-Reality is a thread of cause-and-effect events
+	Reality is a thread of cause-and-effect events
 
-A worldview is a thread of beliefs
+	A worldview is a thread of beliefs
 
-A science is a thread of experiments
+	A science is a thread of experiments
 
-A scene is a thread of practitioners
+	A scene is a thread of practitioners
 
-11/ I find myself thinking here about some posts about bundling, unbundling, rebundling. Eg: an album is a thread of songs. Streaming has allowed for user-centric threading, so now people tend to prefer playlists to albums
+	11/ I find myself thinking here about some posts about bundling, unbundling, rebundling. Eg: an album is a thread of songs. Streaming has allowed for user-centric threading, so now people tend to prefer playlists to albums
 
-12/ If I were looking to be a musician in 2018, I would experiment with optimizing each song to fit into existing popular+actively-updated playlists. Once you do that well for a while, you develop currency and credibility as an artist
+	12/ If I were looking to be a musician in 2018, I would experiment with optimizing each song to fit into existing popular+actively-updated playlists. Once you do that well for a while, you develop currency and credibility as an artist
 
-13/ A thing that frustrates me about @Twitter is that I can't edit old threads. I don't actually need to edit individual tweets - I'd just like to be able to easily splice existing tweets into existing threads, move them about, reorder them, etc. Lots of potential value here
+	13/ A thing that frustrates me about @Twitter is that I can't edit old threads. I don't actually need to edit individual tweets - I'd just like to be able to easily splice existing tweets into existing threads, move them about, reorder them, etc. Lots of potential value here
 
-	a/ I write on many different mediums and over time my twitter style has
-	infected my other mediums, I now blog and Facebook like I’m tweeting.
-	I’ll now be able to find *this* tweet by searching “infected”. It’s 
-	actually modified the way I think to be search-friendly
-	
-	There are all these interesting things that a person could do with a 
-	Twitter account if you use search and threading well
-	
-		If you appreciate this well this will even shape your writing - 
-		because you'll write things anticipating the searches of 
-		future-you
-	
-	b/ twitter search has dramatically improved my experience of twitter +
-	gets me revisiting &reviewing my old tweets all the time, I think it's
-	now about 20-30% of what I do on twitter
-	
-		TIAGO: it’s good for brainstorming but u should make it into a
-		more durable format, like blog posts or ebooks. Twitter gives you
-		discoverability at the price of durability
-		
-	c/ quick sketch of my personal (ideal) style: move fast, hit hard, wipe
-	quick and move on to the next thing, but be micro-rigorous in making 
-	sure that each new thing quickly considers all past things, and is 
-	threaded accordingly	
-	
-	my biggest weakness at the moment is actually "wipe quick" – I sit 
-	with half-done things for too long, but the real problem isn't that
-	they're half-done, but that they're not properly threaded. properly-
-	threaded half-dones are *fine*. lingering on a half-done for too long
-	is not
-	
-	all of life is a set of projects, run in elaborate configurations of 
-	both series & parallel. there are many ways to play it. loosely it 
-	seems like the smart thing to do is to increase your output (empower 
-	yourself) & reduce net resistance (unshackle yourself), so you can do
-	more
-	
-	there IS a situation where increasing output or reducing resistance might not be the smart thing to do – it's when you're using that additional net power to do things you don't actually want to do. climbing the wrong trees, doing more projects that don't actually serve you
-	
-	(but usually that increased capacity / reduced resistance is something that serves you long term, so if you got stronger in order to achieve X, and X is stupid, you can still use your newfound strength to then achieve Y, which might be less stupid. don't overthink this
-	
-	shower thought: what's the single most important project in my life right now? and what came to mind was "unshackling myself further" (which is related to why I was reading Rousseau earlier, lol). what are the current shackles, & how do I break them? & what will I do after?
-	
-		classes of shackles:
+		a/ I write on many different mediums and over time my twitter style has
+		infected my other mediums, I now blog and Facebook like I’m tweeting.
+		I’ll now be able to find *this* tweet by searching “infected”. It’s 
+		actually modified the way I think to be search-friendly
 
-		- limiting beliefs & assumptions
-		- meatbag status (health)
-		- outdated habits & coping mechanisms
-		- immediate environment
-		- peer group
-		- financial situation
-		- information diet
-		- social reality
+		There are all these interesting things that a person could do with a 
+		Twitter account if you use search and threading well
 
-		they're all connected, which is why they're hard to break
-		
-		limiting beliefs are sometimes shackles that you can shake off
-		just by finding out what they are. Sometimes they wither away
-		upon contact with awareness. Sometimes they reveal themselves 
-		to be malignant and persistent, and may require invasive psycho-
-		surgery
-	
-14/ After a couple of years, I am extremely convinced: threading is a superpower. It doesn't actually require much intelligence or skill. You just need to ask, "is this thing relevant or related to any other thing?" – and if it is, you thread it. It takes minimal effort and yields 🔥
+			If you appreciate this well this will even shape your writing - 
+			because you'll write things anticipating the searches of 
+			future-you
 
-15/ My experience playing with threads on Twitter has bled over into several other aspects of my digital life. I now use FB cover photos to thread related FB statuses. I've casually begun sorting my iPhone photos into folders. My bookmarks, too. I'm a different person for it
+		b/ twitter search has dramatically improved my experience of twitter +
+		gets me revisiting &reviewing my old tweets all the time, I think it's
+		now about 20-30% of what I do on twitter
 
-16/ You don't have to use Twitter for this. The idea in the abstract is to develop a sense of the things that you're interested in— by collecting, comparing and ordering them. Once you've presented these things, people will even contribute to your collections!
+			TIAGO: it’s good for brainstorming but u should make it into a
+			more durable format, like blog posts or ebooks. Twitter gives you
+			discoverability at the price of durability
 
-17/ the idea of threading information is not a new one: It just occurred to me that palm leaf manuscripts are basically ancient twitter threads	
+		c/ quick sketch of my personal (ideal) style: move fast, hit hard, wipe
+		quick and move on to the next thing, but be micro-rigorous in making 
+		sure that each new thing quickly considers all past things, and is 
+		threaded accordingly	
 
-18/ the development of an idea over time on twitter
+		my biggest weakness at the moment is actually "wipe quick" – I sit 
+		with half-done things for too long, but the real problem isn't that
+		they're half-done, but that they're not properly threaded. properly-
+		threaded half-dones are *fine*. lingering on a half-done for too long
+		is not
 
-	an interesting thing about being a DIY twitter historian is that
-	you get to see how your own thoughts evolve over time. a thing i 
-	am slowly learning is that you don't need to be anxious about 
-	forgetting good ideas because they do keep coming back
-	
-	in my case, ideas tends to start out as simple observations and 
-	over time organically build out into more elaborate structures. 
-	I've seen this process happen several times with several different
-	ideas. I can afford to be even more chill than I already am
-	
-19/ While I originally joined twitter to follow other people (I think? It was a decade ago, and I was intermittently inactive for a few years) this is what I love abt it as a note-taking tool. Discrete bite-sized thoughts over time, threaded when inspired
+		all of life is a set of projects, run in elaborate configurations of 
+		both series & parallel. there are many ways to play it. loosely it 
+		seems like the smart thing to do is to increase your output (empower 
+		yourself) & reduce net resistance (unshackle yourself), so you can do
+		more
 
-20/ Another cool thing about threads that are built slowly @ organically over time is that both the tweets an the thread itself becomes more valuable over time, & become more deserving of re-examination with each new addition. The value of the chain increases the value of each tweet
+		there IS a situation where increasing output or reducing resistance might not be the smart thing to do – it's when you're using that additional net power to do things you don't actually want to do. climbing the wrong trees, doing more projects that don't actually serve you
 
-21/ The final form (as far as I can tell) is an organic web, a living digital mindcity
+		(but usually that increased capacity / reduced resistance is something that serves you long term, so if you got stronger in order to achieve X, and X is stupid, you can still use your newfound strength to then achieve Y, which might be less stupid. don't overthink this
 
-	My mind is on the verge of figuring out the next level of threading
-	and it is wild. Hint: all roads lead to Rome
-	
-	There are things about threads you only learn after you’ve made 500 
-	of them
-	
-	You cannot truly know the desire paths in advance
-	
-	Each tweet can function as a setup or a punchline for your other 
-	tweets (and for other people’s tweets)
-	
-	140char twitter: pithy aphorisms. Early stage 280chars + threads:
-	elaborate nuanceposting. the already-here-unevenly-distributed
-	future as I see it: aphorisms, but with nuance attached. All nuance
-	leads to aphorism, in a way that is generative and evocative, not 
-	diminishing
-	
-22/ In all my searching (and I do a lot of searching) I think there are less than 100 people I’ve encountered who truly, fully appreciate the raw power that Twitter affords you via threads. Wouldn’t be surprised if I’m the world #1 for longest thread-network
+		shower thought: what's the single most important project in my life right now? and what came to mind was "unshackling myself further" (which is related to why I was reading Rousseau earlier, lol). what are the current shackles, & how do I break them? & what will I do after?
 
-	twitter_rpg_strategy_guide.txt
-	
-	Twitter is a multiplayer real-time virtual world, primarily text-
-	based with limited multimedia support. It combines elements of 
-	role-playing games, hack and slash, player versus player, interactive 
-	fiction, and online chat.
-	
-	Players can read, view and contribute descriptions of objects, other
-	players, non-player characters, and actions performed in the virtual
-	world, as well as the “real” world. Players typically interact with 
-	each other by utilizing strings that resemble a natural language.
-	
-	While traditional MUDs typically implement RPGs set in distinct 
-	fantasy worlds populated by fictional races and monsters, with players
-	choosing classes in order to gain specific skills or powers, Twitter 
-	allows every player to project their own fantasy and define their own
-	game.
-	
-	The flexible nature of Twitter makes it difficult for any singular 
-	definition of “the game” to become canonical. Conflict between players
-	with different interpretations of Twitter is a key feature of Twitter
-	itself. Indeed, one of the most popular games is “hey, fuck that guy”.
-	
-	Unsurprisingly, few players put much thought into precisely defining
-	the game that they are playing. Most players “pick it up” organically
-	as they go along, inheriting the unwritten rules and norms of their 
-	peers via imitation and (limited) experimentation.
-	
-	The key feature of (public) Twitter is that any player can interact 
-	with any other player. Any player can reply to any other player’s 
-	tweets, or retweet it, or quote-tweet it. This bypasses traditional
-	limitations of both “real life” as well as older web mediums like “blogs”.
-	
-	Twitter is also searchable, and allows tweets to be “threaded” in chains. 
-	This allows skilled players to build incredibly complex tapestries of 
-	hypertext, consisting of thousands of tweets.
-	
-	Why would such prolific players choose Twitter as a medium, rather than
-	“websites” or “books”, which appear to be better suited to large volumes
-	of content? Because Twitter allows any player to interact with any other
-	player’s tweets.
-	
-	Most casual players do not appear to have caught on to the true potential
-	utility of Twitter, or perhaps they are indifferent to it. A web of 
-	tweets is a living entity that allows players to meet, interact and 
-	engage with 1000s of others *at the level of individual thoughts*.
-	
-	Properly constructed, a web of tweets allows you to:
+			classes of shackles:
 
-	- witness how other players discover your tweets, via their patterns of 
-	Likes, RTs, QTs
-	- connect each fragmented thought and experience into a part of a greater whole
-	- recognise and embellish patterns in your own play
-	
-	We have not yet even begun talking about relationships. Players can
-	build relationships with other players over time and shared interactions.
-	Through cooperation, multiple players can share and merge webs with one
-	another, helping each other find and share desired information
-	
-	Players observed to be “good” and “fun” have even been known to invite
-	each other to meetups, offer each other jobs, become “friends” outside
-	of Twitter. Twitter is a game with extremely real stakes and 
-	consequences, both good and bad.
-	
-	You are not limited to a single identity or account on Twitter. A single 
-	individual can play as many different players simultaneously. You can 
-	invent entirely different identities and have radically different 
-	experiences with each.
-	
-	Any player can significantly improve their experience of Twitter by 
-	examining their own usage and evaluating it against their own desires and
-	goals.
-	
-	At any moment, any player can completely change their experience of 
-	Twitter by deciding to play it differently.
-	
-	Who are you following? Why?
-	What are you tweeting? Why?
-	What experiences would you like to have? Why?
-	Who would you like to play with? How? Why?
-	
-	With a little introspection, Twitter can be a tool for self-inquiry,
-	making friends, testing ideas, messing around, finding information, 
-	practicing speech, and pretty much anything you like. It’s also, like 
-	everything else, just a game. Have fun!
-	
-	Honestly I’m still not done geeking out about how great Twitter is. 
-	Any tweet from any thread can be reused in any other thread,,, do you
-	guys realise how wild that is??? It allows you to create your own 
-	cinematic universe
-	
-	follow curiosity
-	develop taste
-	publish writing
-	make friends
-	
-23/ Twitter-enabled transhumanism:
+			- limiting beliefs & assumptions
+			- meatbag status (health)
+			- outdated habits & coping mechanisms
+			- immediate environment
+			- peer group
+			- financial situation
+			- information diet
+			- social reality
 
-	A very cool thing about having an elaborate 🕸 of threads on twitter 
-	is – when new people find and discover you, they start favoriting all
-	these old tweets, and you get to "feel" the paths of their choose-
-	their-own-adventure journeys. It feels a little transhuman
-	
-	every tweet that is on my web of threads is also somewhere in my brain.
-	every time one of you favorites one of those tweets, and I see it, it 
-	feels like that part of my brain lights up, too. it feels "percolate-y",
-	like little lights branching out and spreading around
-```
+			they're all connected, which is why they're hard to break
+
+			limiting beliefs are sometimes shackles that you can shake off
+			just by finding out what they are. Sometimes they wither away
+			upon contact with awareness. Sometimes they reveal themselves 
+			to be malignant and persistent, and may require invasive psycho-
+			surgery
+
+	14/ After a couple of years, I am extremely convinced: threading is a superpower. It doesn't actually require much intelligence or skill. You just need to ask, "is this thing relevant or related to any other thing?" – and if it is, you thread it. It takes minimal effort and yields 🔥
+
+	15/ My experience playing with threads on Twitter has bled over into several other aspects of my digital life. I now use FB cover photos to thread related FB statuses. I've casually begun sorting my iPhone photos into folders. My bookmarks, too. I'm a different person for it
+
+	16/ You don't have to use Twitter for this. The idea in the abstract is to develop a sense of the things that you're interested in— by collecting, comparing and ordering them. Once you've presented these things, people will even contribute to your collections!
+
+	17/ the idea of threading information is not a new one: It just occurred to me that palm leaf manuscripts are basically ancient twitter threads	
+
+	18/ the development of an idea over time on twitter
+
+		an interesting thing about being a DIY twitter historian is that
+		you get to see how your own thoughts evolve over time. a thing i 
+		am slowly learning is that you don't need to be anxious about 
+		forgetting good ideas because they do keep coming back
+
+		in my case, ideas tends to start out as simple observations and 
+		over time organically build out into more elaborate structures. 
+		I've seen this process happen several times with several different
+		ideas. I can afford to be even more chill than I already am
+
+	19/ While I originally joined twitter to follow other people (I think? It was a decade ago, and I was intermittently inactive for a few years) this is what I love abt it as a note-taking tool. Discrete bite-sized thoughts over time, threaded when inspired
+
+	20/ Another cool thing about threads that are built slowly @ organically over time is that both the tweets an the thread itself becomes more valuable over time, & become more deserving of re-examination with each new addition. The value of the chain increases the value of each tweet
+
+	21/ The final form (as far as I can tell) is an organic web, a living digital mindcity
+
+		My mind is on the verge of figuring out the next level of threading
+		and it is wild. Hint: all roads lead to Rome
+
+		There are things about threads you only learn after you’ve made 500 
+		of them
+
+		You cannot truly know the desire paths in advance
+
+		Each tweet can function as a setup or a punchline for your other 
+		tweets (and for other people’s tweets)
+
+		140char twitter: pithy aphorisms. Early stage 280chars + threads:
+		elaborate nuanceposting. the already-here-unevenly-distributed
+		future as I see it: aphorisms, but with nuance attached. All nuance
+		leads to aphorism, in a way that is generative and evocative, not 
+		diminishing
+
+	22/ In all my searching (and I do a lot of searching) I think there are less than 100 people I’ve encountered who truly, fully appreciate the raw power that Twitter affords you via threads. Wouldn’t be surprised if I’m the world #1 for longest thread-network
+
+		twitter_rpg_strategy_guide.txt
+
+		Twitter is a multiplayer real-time virtual world, primarily text-
+		based with limited multimedia support. It combines elements of 
+		role-playing games, hack and slash, player versus player, interactive 
+		fiction, and online chat.
+
+		Players can read, view and contribute descriptions of objects, other
+		players, non-player characters, and actions performed in the virtual
+		world, as well as the “real” world. Players typically interact with 
+		each other by utilizing strings that resemble a natural language.
+
+		While traditional MUDs typically implement RPGs set in distinct 
+		fantasy worlds populated by fictional races and monsters, with players
+		choosing classes in order to gain specific skills or powers, Twitter 
+		allows every player to project their own fantasy and define their own
+		game.
+
+		The flexible nature of Twitter makes it difficult for any singular 
+		definition of “the game” to become canonical. Conflict between players
+		with different interpretations of Twitter is a key feature of Twitter
+		itself. Indeed, one of the most popular games is “hey, fuck that guy”.
+
+		Unsurprisingly, few players put much thought into precisely defining
+		the game that they are playing. Most players “pick it up” organically
+		as they go along, inheriting the unwritten rules and norms of their 
+		peers via imitation and (limited) experimentation.
+
+		The key feature of (public) Twitter is that any player can interact 
+		with any other player. Any player can reply to any other player’s 
+		tweets, or retweet it, or quote-tweet it. This bypasses traditional
+		limitations of both “real life” as well as older web mediums like “blogs”.
+
+		Twitter is also searchable, and allows tweets to be “threaded” in chains. 
+		This allows skilled players to build incredibly complex tapestries of 
+		hypertext, consisting of thousands of tweets.
+
+		Why would such prolific players choose Twitter as a medium, rather than
+		“websites” or “books”, which appear to be better suited to large volumes
+		of content? Because Twitter allows any player to interact with any other
+		player’s tweets.
+
+		Most casual players do not appear to have caught on to the true potential
+		utility of Twitter, or perhaps they are indifferent to it. A web of 
+		tweets is a living entity that allows players to meet, interact and 
+		engage with 1000s of others *at the level of individual thoughts*.
+
+		Properly constructed, a web of tweets allows you to:
+
+		- witness how other players discover your tweets, via their patterns of 
+		Likes, RTs, QTs
+		- connect each fragmented thought and experience into a part of a greater whole
+		- recognise and embellish patterns in your own play
+
+		We have not yet even begun talking about relationships. Players can
+		build relationships with other players over time and shared interactions.
+		Through cooperation, multiple players can share and merge webs with one
+		another, helping each other find and share desired information
+
+		Players observed to be “good” and “fun” have even been known to invite
+		each other to meetups, offer each other jobs, become “friends” outside
+		of Twitter. Twitter is a game with extremely real stakes and 
+		consequences, both good and bad.
+
+		You are not limited to a single identity or account on Twitter. A single 
+		individual can play as many different players simultaneously. You can 
+		invent entirely different identities and have radically different 
+		experiences with each.
+
+		Any player can significantly improve their experience of Twitter by 
+		examining their own usage and evaluating it against their own desires and
+		goals.
+
+		At any moment, any player can completely change their experience of 
+		Twitter by deciding to play it differently.
+
+		Who are you following? Why?
+		What are you tweeting? Why?
+		What experiences would you like to have? Why?
+		Who would you like to play with? How? Why?
+
+		With a little introspection, Twitter can be a tool for self-inquiry,
+		making friends, testing ideas, messing around, finding information, 
+		practicing speech, and pretty much anything you like. It’s also, like 
+		everything else, just a game. Have fun!
+
+		Honestly I’m still not done geeking out about how great Twitter is. 
+		Any tweet from any thread can be reused in any other thread,,, do you
+		guys realise how wild that is??? It allows you to create your own 
+		cinematic universe
+
+		follow curiosity
+		develop taste
+		publish writing
+		make friends
+
+	23/ Twitter-enabled transhumanism:
+
+		A very cool thing about having an elaborate 🕸 of threads on twitter 
+		is – when new people find and discover you, they start favoriting all
+		these old tweets, and you get to "feel" the paths of their choose-
+		their-own-adventure journeys. It feels a little transhuman
+
+		every tweet that is on my web of threads is also somewhere in my brain.
+		every time one of you favorites one of those tweets, and I see it, it 
+		feels like that part of my brain lights up, too. it feels "percolate-y",
+		like little lights branching out and spreading around
+
 
 
 <a name="#Tools-shape-users"></a>
