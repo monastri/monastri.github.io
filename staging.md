@@ -10,17 +10,7 @@
 
 ![Tiago Forte productivity graph](https://s24953.pcdn.co/blog/wp-content/uploads/2018/01/1_Bending_Productivity_graphs.006-e1484172423880.jpeg)
 
-And then there's also the shift in who's responsible for knowledge management as the bulk of the world's information transitions from traditional media to the web:
 
-| Attribute | Traditional | Web |
-| --- | --- | --- |
-| Cost of production | High | Low |
-| Cost of updating | Very high | Relatively low |
-| Cycle time | Years | Hours |
-| Distribution | Physical | Electronic |
-| Number of producers | Controlled | Unlimited |
-| Editorial review | Prior to publication | Essentially none |
-| Content evaluation | By professional | By users |
 
 
 From John Backus' tweet:
