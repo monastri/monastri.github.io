@@ -40,6 +40,8 @@ ideas about what to do. So [keeping a blog] makes your brain more powerful in th
 a low-restriction exhaust system makes an engine more powerful.
 ```
 
+Relatedly, I aspire towards the vision Tiago Forte fleshes out in his [digital notes as second brain essay](https://github.com/monastri/monastri.github.io/edit/master/notes-memory-cognition-teaching-learning.md#Offload-thinking-to-second-brain).
+
 This is my first experiment in Gwern's vein. The quotes here have been collected over more than half a decade, albeit in different pages. I intend for them to shape my worldview; doing so like this allows, or so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping. (Or at least that was the original intent before I had to break up the notebook. Now I'm not so sure I can do this.)
 
 I also really, *really* hate experiences of the [Jeremy Bentham type](https://github.com/monastri/monastri.github.io/blob/master/notes-amazing-people.md#Jeremy-bentham). This document is intended to prevent them from happening again.
