@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 38,800*
+*[Word count](https://wordcounter.net/): 41,400*
 
 ## What is this?
 
@@ -54,6 +54,9 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 1. [Amazon vs Google comparison (2011)](#Amazon-vs-Google-2011)
 2. [CS is beyond the glass ceiling of popular science](#CS-is-beyond-the-glass-ceiling-of-pop-science)
+2. [Curse of the gifted programmer](#Curse-of-the-gifted-programmer)
+2. [Debugging](#Debugging)
+	1. [Systematic debugging is a fundamental skill](#Systematic-debugging-is-a-fundamental-skill)
 2. [Esolangs](#Esolangs)
 	1. [What esolangs are, and why](#What-are-esolangs)
 	1. [Daniel Temkin on code art](#Temkin-on-code-art)
@@ -84,6 +87,260 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Why platforms matter](#platforms)
 
 ---------------------------------------
+
+
+<a name="#Curse-of-the-gifted-programmer"></a>
+## Curse of the gifted programmer
+([overview](#overview))
+
+The go-to is Eric Raymond's email to Linus Torvalds, [Move of input drivers, some word needed from you](http://lwn.net/2000/0824/a/esr-sharing.php3). Always interesting to see two giants go at it; didn't know ESR and Linus are from two different generations.
+
+Key phrase -- "the scale of the problem always increases to the point where native talent alone doesn't cut it anymore":
+
+```markdown
+I'm not arguing that splitting a driver is always wrong -- I can
+easily imagine making that call myself in your shoes, and for the
+exact reasons you give.  I'm arguing that the perspective from which
+you approach this issue causes you to underweight the benefits of
+sharing code, and to not look for ways to do it as carefully and
+systematically as you ought.
+
+When you were in college, did you ever meet bright kids who graduated
+top of their class in high-school and then floundered freshman year 
+in college because they had never learned how to study?  It's a common
+trap.  A friend of mine calls it "the curse of the gifted" -- a tendency
+to lean on your native ability too much, because you've always been
+rewarded for doing that and self-discipline would take actual work.
+
+You are a brilliant implementor, more able than me and possibly (I say
+this after consideration, and in all seriousness) the best one in the
+Unix tradition since Ken Thompson himself.  As a consequence, you
+suffer the curse of the gifted programmer -- you lean on your ability
+so much that you've never learned to value certain kinds of coding
+self-discipline and design craftsmanship that lesser mortals *must*
+develop in order to handle the kind of problem complexity you eat for
+breakfast.
+
+Your tendency to undervalue modularization and code-sharing is one
+symptom.  Another is your refusal to use systematic version-control or
+release-engineering practices.  To you, these things seem mostly like
+overhead and a way of needlessly complicating your life.  And so far,
+your strategy has worked; your natural if relatively undisciplined
+ability has proved more than equal to the problems you have set it.
+That success predisposes you to relatively sloppy tactics like
+splitting drivers before you ought to and using your inbox as a patch
+queue.
+
+But you make some of your more senior colleagues nervous.  See, we've
+seen the curse of the gifted before.  Some of us were those kids in
+college.  We learned the hard way that the bill always comes due --
+the scale of the problems always increases to a point where your
+native talent alone doesn't cut it any more.  The smarter you are, the
+longer it takes to hit that crunch point -- and the harder the
+adjustment when you finally do.  And we can see that *you*, poor damn
+genius that you are, are cruising for a serious bruising.
+
+As Linux grows, there will come a time when your raw talent is not
+enough.  What happens then will depend on how much discipline about
+coding and release practices and fastidiousness about clean design you
+developed *before* you needed it, back when your talent was sufficient
+to let you get away without.  The code-sharing issue -- more
+specifically, your tendency to abandon modularization and re-use
+before you probably ought to -- is part of this.  Andy Tanenbaum's
+charge against you was not entirely without justice.
+
+The larger problem is a chronic topic of face-to-face conversation
+whenever two or more senior lkml people get together and you aren't
+around.  You're our chosen benevolent dictator and maybe the second
+coming of Ken, and we respect you and like you, but that doesn't mean
+we're willing to close our eyes.  And when you react to cogent and
+well-founded arguments like Rogier Wolff's as you have -- well, it
+makes us more nervous.
+
+I used to worry about what would happen if Linus got hit by a truck.
+With all respect, I still worry about what will happen if the
+complexity of the kernel exceeds the scope of your astonishing native
+talent before you grow up.
+```
+
+On a smaller scale is a phenomenon you see in college often. Dan Luu recounts one such personal anecdote in [Teach debugging](https://danluu.com/teach-debugging/#fn:2):
+
+```markdown
+In the fall of 2000, I took my first engineering class: ECE 352, an entry-level
+digital design class for first-year computer engineers. It was standing room 
+only, filled with waitlisted students who would find seats later in the 
+semester as people dropped out. We had been warned in orientation that half of
+us wouldn't survive the year. In class, We were warned again that half of us 
+were doomed to fail, and that ECE 352 was the weed-out class that would be
+responsible for much of the damage.
+
+The class moved briskly. The first lecture wasted little time on matters of the
+syllabus, quickly diving into the real course material. Subsequent lectures 
+built on previous lectures; anyone who couldn't grasp one had no chance at the 
+next. Projects began after two weeks, and also built upon their predecessors; 
+anyone who didn't finish one had no hope of doing the next.
+
+A friend of mine and I couldn't understand why some people were having so much
+trouble; the material seemed like common sense. The Feynman Method was the only
+tool we needed.
+
+Write down the problem
+Think real hard
+Write down the solution
+The Feynman Method failed us on the last project: the design of a divider, a
+real-world-scale project an order of magnitude more complex than anything we'd 
+been asked to tackle before. On the day he assigned the project, the professor
+exhorted us to begin early. Over the next few weeks, we heard rumors that some
+of our classmates worked day and night without making progress.
+
+But until 6pm the night before the project was due, my friend and I ignored all
+this evidence. It didn't surprise us that people were struggling because half 
+the class had trouble with all of the assignments. We were in the half that 
+breezed through everything. We thought we'd start the evening before the
+deadline and finish up in time for dinner.
+
+We were wrong.
+
+An hour after we thought we'd be done, we'd barely started; neither of us had a 
+working design. Our failures were different enough that we couldn't productively
+compare notes. The lab, packed with people who had been laboring for weeks 
+alongside those of us who waited until the last minute, was full of bad news:
+a handful of people had managed to produce a working division unit on the first
+try, but no one had figured how to convert an incorrect design into something
+that could do third-grade arithmetic.
+
+I proceeded to apply the only tool I had: thinking really hard. That method, 
+previously infallible, now yielded nothing but confusion because the project was
+too complex to visualize in its entirety. I tried thinking about the parts of 
+the design separately, but that only revealed that the problem was in some
+interaction between the parts; I could see nothing wrong with each individual 
+component. Thinking about the relationship between pieces was an exercise in
+frustration, a continual feeling that the solution was just out of reach, as 
+concentrating on one part would push some other critical piece of knowledge out 
+of my head. The following semester I would acquire enough experience in managing
+complexity and thinking about collections of components as black-box abstractions
+that I could reason about a design another order of magnitude more complicated 
+without problems -- but that was three long winter months of practice away, and 
+this night I was at a loss for how to proceed.
+
+By 10pm, I was starving and out of ideas. I rounded up people for dinner, hoping
+to get a break from thinking about the project, but all we could talk about was 
+how hopeless it was. How were we supposed to finish when the only approach was to
+flawlessly assemble thousands of parts without a single misstep? It was a tedious
+version of a deranged Atari game with no lives and no continues. Any mistake was 
+fatal.
+
+A number of people resolved to restart from scratch; they decided to work in pairs
+to check each other's work. I was too stubborn to start over and too inexperienced
+to know what else to try. After getting back to the lab, now half empty because so
+many people had given up, I resumed staring at my design, as if thinking about it 
+for a third hour would reveal some additional insight.
+
+It didn't. Nor did the fourth hour.
+
+And then, just after midnight, a number of our newfound buddies from dinner 
+reported successes. Half of those who started from scratch had working designs. 
+Others were despondent, because their design was still broken in some subtle, non-
+obvious way. As I talked with one of those students, I began poring over his design.
+And after a few minutes, I realized that the Feynman method wasn't the only way 
+forward: it should be possible to systematically apply a mechanical technique 
+repeatedly to find the source of our problems. Beneath all the abstractions, our 
+projects consisted purely of NAND gates (woe to those who dug around our toolbox
+enough to uncover dynamic logic), which outputs a 0 only when both inputs are 1. If
+the correct output is 0, both inputs should be 1. The input that isn't is in error,
+an error that is, itself, the output of a NAND gate where at least one input is 0 
+when it should be 1. We applied this method recursively, finding the source of all
+the problems in both our designs in under half an hour.
+
+We excitedly explained our newly discovered technique to those around us, walking
+them through a couple steps. No one had trouble; not even people who'd struggled with
+every previous assignment. Within an hour, the group of folks within earshot of us 
+had finished, and we went home.
+
+I understand now why half the class struggled with the earlier assignments. Without 
+an explanation of how to systematically approach problems, anyone who didn't 
+intuitively grasp the correct solution was in for a semester of frustration. People 
+who were, like me, above average but not great, skated through most of the class and
+either got lucky or wasted a huge chunk of time on the final project. I've even seen 
+people talented enough to breeze through the entire degree without ever running into
+a problem too big to intuitively understand; those people have a very bad time when
+they run into a 10 million line codebase in the real world. The more talented the 
+engineer, the more likely they are to hit a debugging wall outside of school.
+```
+
+<a name="#Debugging"></a>
+## Debugging
+([overview](#overview))
+
+<a name="#Systematic-debugging-is-a-fundamental-skill"></a>
+### Systematic debugging is a fundamental skill
+([overview](#overview))
+
+From Dan Luu's blog post [Teach debugging](https://danluu.com/teach-debugging/), recounting his experience taking a "weeder class" back in the day. Memorable for the last line -- "for all the high-level talk about how we need to plug the leaks in our STEM education pipeline, not only are we not plugging the holes, we're proud of how fast the pipeline is leaking":
+
+```markdown
+What I don't understand is why schools don't teach systematic debugging. It's one
+of the most fundamental skills in engineering: start at the symptom of a problem 
+and trace backwards to find the source. It takes, at most, half an hour to teach
+the absolute basics – and even that little bit would be enough to save a
+significant fraction of those who wash out and switch to non-STEM majors. Using 
+the standard engineering class sequence of progressively more complex problems, a
+focus on debugging could expand to fill up to a semester, which would be enough 
+to cover an obnoxious real-world bug: perhaps there's a system that crashes once
+a day when a Blu-ray DVD is repeatedly played using hardware acceleration with a
+specific video card while two webcams and record something with significant 
+motion, as long as an obscure benchmark from 1994 is running. 
+
+	This is an actual CPU bug I saw that took about a month to track down. And this
+	is the easy form of the bug, with a set of ingredients that causes the fail to
+	be reproduced about once a day -- the original form of the bug only failed once
+	every few days. I'm not picking this example because it's particularly hard, 
+	either: I can think of plenty of bugs that took longer to track down and had 
+	stranger symptoms, including a disastrous bug that took six months for our best
+	debugger to understand.
+	
+	For ASIC post-silicon debug folks out there, this chip didn't have anything 
+	close to full scan, and our only method of dumping state out of the chip
+	perturbed the state of the chip enough to make some bugs disappear. Good times.
+	On the bright side, after dealing with non-deterministic hardware bugs with 
+	poor state visibility, software bugs seem easy. At worst, they're boring and
+	tedious because debugging them is a matter of tracing things backwards to the 
+	source of the issue.
+	
+This dynamic isn't unique to ECE 352, or even Wisconsin – I saw the same thing when
+TA'ed EE 202, a second year class on signals and systems at Purdue. The problems 
+were FFTs and Laplace transforms instead of dividers and Boolean2, but the avoidance
+of teaching fundamental skills was the same. It was clear, from the questions 
+students asked me in office hours, that those who were underperforming weren't 
+struggling with the fundamental concepts in the class, but with algebra: the 
+problems were caused by not having an intuitive understanding of, for example, the
+difference between f(x+a) and f(x)+a.
+
+When I suggested to the professor that he spend half an hour reviewing algebra for 
+those students who never had the material covered cogently in high school, I was told
+in no uncertain terms that it would be a waste of time because some people just can't
+hack it in engineering. I was told that I wouldn't be so naive once the semester was 
+done, because some people just can't hack it in engineering. I was told that helping
+students with remedial material was doing them no favors; they wouldn't be able to 
+handle advanced courses anyway because some students just can't hack it in engineering.
+I was told that Purdue has a loose admissions policy and that I should expect a high 
+failure rate, because some students just can't hack it in engineering.
+
+I agreed that a few students might take an inordinately large amount of help, but it 
+would be strange if people who were capable of the staggering amount of memorization
+required to pass first year engineering classes plus calculus without deeply
+understanding algebra couldn't then learn to understand the algebra they had memorized. 
+I'm no great teacher, but I was able to get all but one of the office hour regulars up
+to speed over the course of the semester. An experienced teacher, even one who doesn't
+care much for teaching, could have easily taught the material to everyone.
+
+Why do we leave material out of classes and then fail students who can't figure out 
+that material for themselves? Why do we make the first couple years of an engineering 
+major some kind of hazing ritual, instead of simply teaching people what they need to
+know to be good engineers? For all the high-level talk about how we need to plug the 
+leaks in our STEM education pipeline, not only are we not plugging the holes, we're 
+proud of how fast the pipeline is leaking.	
+```
 
 
 <a name="#Perpetual-beta"></a>
