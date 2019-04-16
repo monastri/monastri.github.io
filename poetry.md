@@ -66,6 +66,53 @@ Poems and quotes listed in reverse order of inclusion below.
 6. [Zombies: The Movie](#zombies-the-movie), making fun of p-zombies, by Eliezer Yudkowsky
 
 
+<a name="#Execution-in-the-Kingdom-of-Nouns"></a>
+## Execution in the Kingdom of Nouns
+### by Steve Yegge
+([overview](#overview))
+
+From [the eponymous essay](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html#note1).
+
+```markdown
+Hello, world! Today we're going to hear the story of Evil King Java and his quest
+for worldwide verb stamp-outage.
+
+	Beginning with the verb "to stamp out", which is being replaced 
+	by a call to VerbEliminatorFactory.createVerbEliminator(currentContext).operate().
+	But that's getting waaaaay ahead of ourselves...
+	
+Before we begin the story, let's get some conceptual gunk out of the way.
+
+**The Garbage Overfloweth**
+
+All Java people love "use cases", so let's begin with a use case: namely, taking out
+the garbage. As in, "Johnny, take out that garbage! It's overflowing!"
+
+If you're a normal, everyday, garden-variety, English-speaking person, and you're 
+asked to describe the act of taking out the garbage, you probably think about it 
+roughly along these lines:	
+
+	*get* the garbage bag from under the sink
+	*carry* it out to the garage
+	*dump* it in the garbage can
+	*walk* back inside
+	*wash* your hands
+	*plop* back down on the couch
+	*resume* playing your video game (or whatever you were doing)
+	
+Even if you don't think in English, you still probably still thought of a similar 
+set of actions, except in your favorite language. Regardless of the language you 
+chose, or the exact steps you took, taking out the garbage is a series of actions 
+that terminates in the garbage being outside, and you being back inside, because 
+of the *actions* you took.	
+
+Our thoughts are filled with brave, fierce, passionate actions: we live, we breathe,
+we walk, we talk, we laugh, we cry, we hope, we fear, we eat, we drink, we stop, we
+go, we take out the garbage. Above all else, we are free to *do* and to *act*. If we 
+were all just rocks sitting in the sun, life might still be OK, but we wouldn't be
+free. Our freedom comes precisely from our ability to *do* things.
+```
+
 <a name="#Total-Eclipse"></a>
 ## Total Eclipse
 ### by Annie Dillard
