@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 40,400*
+*[Word count](https://wordcounter.net/): 40,800*
 
 <a name="#overview"></a>
 
@@ -19,7 +19,8 @@ Poems and quotes listed in reverse order of inclusion below.
 2. [Don't become a well-rounded person](#dont-become-a-well-rounded-person), by Bruce Sterling
 2. [Dover Beach, fourth stanza](#dover-beach-fourth-stanza), by Matthew Arnold
 2. [Five English translations of Baudelaire’s L’Albatros](#Five-English-translations-of-Baudelaires-LAlbatros), by Charles Baudelaire
-2. [Genesis I, alliterative version](#), by Doug (and computer program)
+2. [For the lack of a nail in the Kingdom of Nouns](#execution-in-the-kingdom-of-nouns), by Steve Yegge in *Execution in the Kingdom of Nouns*
+2. [Genesis I, alliterative version](#Genesis-I-alliterative-version), by Doug (and computer program)
 2. [GPT-2 samples](#gpt-2-samples), by lewisandquark
 2. [Gravity drowned](#gravity-drowned), by TALE-SPIN (an AI)
 2. [Ham radio](#ham-radio), by iceowl
@@ -66,51 +67,114 @@ Poems and quotes listed in reverse order of inclusion below.
 6. [Zombies: The Movie](#zombies-the-movie), making fun of p-zombies, by Eliezer Yudkowsky
 
 
-<a name="#Execution-in-the-Kingdom-of-Nouns"></a>
+<a name="#execution-in-the-kingdom-of-nouns"></a>
 ## Execution in the Kingdom of Nouns
 ### by Steve Yegge
 ([overview](#overview))
 
-From [the eponymous essay](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html#note1).
+There is an old children's proverb, [For want of a nail](https://en.wikipedia.org/wiki/For_Want_of_a_Nail), which has been passed down in numerous variations over the centuries. The "Message" variation goes like so:
 
 ```markdown
-Hello, world! Today we're going to hear the story of Evil King Java and his quest
-for worldwide verb stamp-outage.
+For want of a nail a horseshoe was lost,
+for want of a horseshoe a horse went lame,
+for want of a horse a rider never got through,
+for want of a rider a message never arrived,
+for want of a message an army was never sent,
+for want of an army a battle was lost,
+for want of a battle a war was lost,
+for want of a war a kingdom fell,
+and all for want of a nail.
+```
 
-	Beginning with the verb "to stamp out", which is being replaced 
-	by a call to VerbEliminatorFactory.createVerbEliminator(currentContext).operate().
-	But that's getting waaaaay ahead of ourselves...
-	
-Before we begin the story, let's get some conceptual gunk out of the way.
+Steve Yegge put his own spin on this proverb in [his spiel about noun overuse in Java](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html):
 
-**The Garbage Overfloweth**
+```markdown
+**Are Javalanders Happy?**
 
-All Java people love "use cases", so let's begin with a use case: namely, taking out
-the garbage. As in, "Johnny, take out that garbage! It's overflowing!"
+You might think daily life in Javaland would be at best a little strange, 
+and at worst grossly inefficient. But you can tell how happy a society is
+through their nursery rhymes, and Javaland's are whimsically poetic. For 
+instance, Javaland children oft recite the famous cautionary tale:
 
-If you're a normal, everyday, garden-variety, English-speaking person, and you're 
-asked to describe the act of taking out the garbage, you probably think about it 
-roughly along these lines:	
+	For the lack of a nail,
+		throw new HorseshoeNailNotFoundException("no nails!");
 
-	*get* the garbage bag from under the sink
-	*carry* it out to the garage
-	*dump* it in the garbage can
-	*walk* back inside
-	*wash* your hands
-	*plop* back down on the couch
-	*resume* playing your video game (or whatever you were doing)
-	
-Even if you don't think in English, you still probably still thought of a similar 
-set of actions, except in your favorite language. Regardless of the language you 
-chose, or the exact steps you took, taking out the garbage is a series of actions 
-that terminates in the garbage being outside, and you being back inside, because 
-of the *actions* you took.	
+	For the lack of a horseshoe,
+		EquestrianDoctor.getLocalInstance().getHorseDispatcher().shoot();
 
-Our thoughts are filled with brave, fierce, passionate actions: we live, we breathe,
-we walk, we talk, we laugh, we cry, we hope, we fear, we eat, we drink, we stop, we
-go, we take out the garbage. Above all else, we are free to *do* and to *act*. If we 
-were all just rocks sitting in the sun, life might still be OK, but we wouldn't be
-free. Our freedom comes precisely from our ability to *do* things.
+	For the lack of a horse,
+		RidersGuild.getRiderNotificationSubscriberList().getBroadcaster().run(
+		  new BroadcastMessage(StableFactory.getNullHorseInstance()));
+
+	For the lack of a rider,
+		MessageDeliverySubsystem.getLogger().logDeliveryFailure(
+		  MessageFactory.getAbstractMessageInstance(
+			new MessageMedium(MessageType.VERBAL),
+			new MessageTransport(MessageTransportType.MOUNTED_RIDER),
+			new MessageSessionDestination(BattleManager.getRoutingInfo(
+											BattleLocation.NEAREST))),
+		  MessageFailureReasonCode.UNKNOWN_RIDER_FAILURE);
+
+	For the lack of a message,
+		((BattleNotificationSender)
+		  BattleResourceMediator.getMediatorInstance().getResource(
+			BattleParticipant.PROXY_PARTICIPANT,
+			BattleResource.BATTLE_NOTIFICATION_SENDER)).sendNotification(
+			  ((BattleNotificationBuilder)
+				(BattleResourceMediator.getMediatorInstance().getResource(
+				BattleOrganizer.getBattleParticipant(Battle.Participant.GOOD_GUYS),
+				BattleResource.BATTLE_NOTIFICATION_BUILDER))).buildNotification(
+				  BattleOrganizer.getBattleState(BattleResult.BATTLE_LOST),
+				  BattleManager.getChainOfCommand().getCommandChainNotifier()));
+
+	For the lack of a battle,
+		try {
+			synchronized(BattleInformationRouterLock.getLockInstance()) {
+			  BattleInformationRouterLock.getLockInstance().wait();
+			}
+		} catch (InterruptedException ix) {
+		  if (BattleSessionManager.getBattleStatus(
+			   BattleResource.getLocalizedBattleResource(Locale.getDefault()),
+			   BattleContext.createContext(
+				 Kingdom.getMasterBattleCoordinatorInstance(
+				   new TweedleBeetlePuddlePaddleBattle()).populate(
+					 RegionManager.getArmpitProvince(Armpit.LEFTMOST)))) ==
+			  BattleStatus.LOST) {
+			if (LOGGER.isLoggable(Level.TOTALLY_SCREWED)) {
+			  LOGGER.logScrewage(BattleLogger.createBattleLogMessage(
+				BattleStatusFormatter.format(BattleStatus.LOST_WAR,
+											 Locale.getDefault())));
+			}
+		  }
+		}
+
+	For the lack of a war,
+		new ServiceExecutionJoinPoint(
+		  DistributedQueryAnalyzer.forwardQueryResult(
+			NotificationSchemaManager.getAbstractSchemaMapper(
+			  new PublishSubscribeNotificationSchema()).getSchemaProxy().
+				executePublishSubscribeQueryPlan(
+				  NotificationSchema.ALERT,
+				  new NotificationSchemaPriority(SchemaPriority.MAX_PRIORITY),
+				  new PublisherMessage(MessageFactory.getAbstractMessage(
+					MessageType.WRITTEN,
+					new MessageTransport(MessageTransportType.WOUNDED_SURVIVOR),
+					new MessageSessionDestination(
+					  DestinationManager.getNullDestinationForQueryPlan()))),
+				  DistributedWarMachine.getPartyRoleManager().getRegisteredParties(
+					PartyRoleManager.PARTY_KING ||
+					PartyRoleManager.PARTY_GENERAL ||
+					PartyRoleManager.PARTY_AMBASSADOR)).getQueryResult(),
+			PriorityMessageDispatcher.getPriorityDispatchInstance())).
+		  waitForService();
+
+	All for the lack of a horseshoe nail.
+
+It remains wonderful advice, even to this very day.
+
+Although the telling of the tale in Javaland differs in some ways from Ben
+Franklin's original, Javalanders feel their rendition has a distinct charm
+all its own.
 ```
 
 <a name="#Total-Eclipse"></a>
