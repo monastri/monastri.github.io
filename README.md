@@ -16,7 +16,7 @@ Our brain can only store a few thoughts at any one time.
 Our brain is for *having* ideas, not *storing* them.
 ```
 
-I'm also mainly inspired by what Gwern says here:
+I'm also mainly inspired by what Gwern says [here](https://www.gwern.net/About#long-content):
 
 ```markdown
 I have read blogs for many years and most blog posts are the triumph of the hare over the tortoise.
@@ -56,7 +56,7 @@ I also really, *really* hate experiences of the [Jeremy Bentham type](https://gi
 
 Besides Gwern Branwen and Garrett Lisi, [Cosma Shalizi's notebooks](http://bactra.org/notebooks/) (indeed his [entire oeuvre](http://bactra.org/)) are another major inspiration behind this document. 
 
-This is my first experiment in [personal knowledge management](https://github.com/monastri/monastri.github.io/blob/master/notes-memory-cognition-teaching-learning.md#Personal-knowledge-management). The quotes here have been collected over more than half a decade, over different blogs and notebooks and Word docs and so on. I intend for them to shape my worldview; doing so like this allows, so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping. 
+This is my first experiment in [centralized personal knowledge management](https://github.com/monastri/monastri.github.io/blob/master/notes-memory-cognition-teaching-learning.md#Personal-knowledge-management). The quotes here have been collected over more than half a decade, albeit sprawled over different blogs and notebooks and Word docs and so on. I intend for them to shape my worldview; doing so like this allows, so I hope, the shaping to be more fine-grained and guided than the recency-weighted randomness of normal worldview-shaping. 
 
 (Or at least that was the original intent before I had to break up the notebook into the separate sections you see below, because [the original single-page notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md) got so big (1.2 million char as of Apr 6, 2019, when that monorepo was last updated) that GitHub refused to render the whole page anymore. There were several reasons for wanting a single-page notebook: zero-latency clickthrough to make up for my working memory's sand-thru-sieve transience; lower activation energy for continuous document-wide organizational refactoring; partitioning makes it just a tad harder to draw cross-domain connections, which is an issue because [trivial inconveniences matter](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences).)
 
