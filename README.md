@@ -78,6 +78,8 @@ The sections below comprise a provisional taxonomy, subject to perpetual refacto
 12. [Technology and futurism](https://github.com/monastri/monastri.github.io/blob/master/notes-technology-futurism.md)
 13. [Trails, hiking and running mountains](https://github.com/monastri/monastri.github.io/blob/master/notes-trails-hiking-running-mountains.md)
 
+I have a special place in my heart for poetry, fiction, and wizardry with the written word. Snippets I've stumbled upon over the years, which I strongly want to keep with me for the rest of my life, can be found [here](https://github.com/monastri/monastri.github.io/blob/master/poetry.md).
+
 ## Who am I? 
 
 See [here](https://listsofnotes.quora.com/About-me-1).
