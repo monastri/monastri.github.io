@@ -2,8 +2,13 @@
  ---
 
 @import "{{ site.theme }}";
+<!DOCTYPE html>
+<html>
+<body>
 body
 {
     background-color: black; /* The page background will be black */
     color: white; /* The page text will be white */
 }
+</body>
+</html>
