@@ -81,3 +81,6 @@ I have a special place in my heart for poetry, fiction, and wizardry with the wr
 ## Who am I? 
 
 See [here](https://listsofnotes.quora.com/About-me-1).
+
+![nick-keller](https://payload.cargocollective.com/1/6/221619/5208254/Ascension_Fin_NK.jpg)
+*"Ascension", by Nick Keller, seems somehow fitting here...*
