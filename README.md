@@ -1,5 +1,3 @@
-[Link here](https://monastri.github.io/).
-
 ## What's this?
 
 A few analogies: think of it like an "external second brain", a "public Pensieve", a personal wiki *a la* a very rudimentary version of [Garrett Lisi's open notebook](http://deferentialgeometry.org/), a "living document" or "perpetual draft" in [the style of Gwern Branwen](https://www.gwern.net/About#long-content). 
