@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is the "artificial intelligence and life" section of [this notebook](https://github.com/monastri/monastri.github.io/blob/master/quotes.md). 
+This is the "artificial intelligence and life" section of [this notebook](https://monastri.github.io/). 
 
 <a name="#overview"></a>
 
