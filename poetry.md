@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 40,800*
+*[Word count](https://wordcounter.net/): 42,400*
 
 <a name="#overview"></a>
 
@@ -15,6 +15,7 @@ Poems and quotes listed in reverse order of inclusion below.
    2. [Elsewhere](#elsewhere)
 2. [Bistromathic Drive](#Bistromathic-Drive), by Douglas Adams
 2. [Capitalism's nightmare dance](#The-nightmare-dance-of-capitalism), by Francis Spufford in *Red Plenty*
+2. [Cuil theory: you ask me for a hamburger, and I give you a raccoon](#cuil-theory)
 2. [Daddy](#daddy), by Sylvia Plath
 2. [Don't become a well-rounded person](#dont-become-a-well-rounded-person), by Bruce Sterling
 2. [Dover Beach, fourth stanza](#dover-beach-fourth-stanza), by Matthew Arnold
@@ -54,6 +55,7 @@ Poems and quotes listed in reverse order of inclusion below.
    1. [Interlude מ: Miss American Pie](#Interlude-מ-Miss-American-Pie), from [*Unsong*](http://unsongbook.com/)
    2. [Get out of the car](#get-out-of-the-car), from *Universal Love, said the Cactus Person*
    3. [Universal basic income: a parable of two choices](#universal-basic-income-parable), from *SSC gives a graduation speech*
+2. [Theological engineering exam](#Theological-engineering-exam)   
 2. [The Contract Drafting Em](#the-contract-drafting-em), by Zack Davis
 2. [The greatest con ever botched](#The-greatest-con-ever-botched), by various authors 
 2. [The hare and the tortoise](#The-hare-and-the-tortoise), by Winston Rowntree
@@ -66,116 +68,6 @@ Poems and quotes listed in reverse order of inclusion below.
 5. [Why did the chicken cross the road?](#Why-did-the-chicken-cross-the-road), by Accenture Consulting
 6. [Zombies: The Movie](#zombies-the-movie), making fun of p-zombies, by Eliezer Yudkowsky
 
-
-<a name="#execution-in-the-kingdom-of-nouns"></a>
-## Execution in the Kingdom of Nouns
-### by Steve Yegge
-([overview](#overview))
-
-There is an old children's proverb, [For want of a nail](https://en.wikipedia.org/wiki/For_Want_of_a_Nail), which has been passed down in numerous variations over the centuries. The "Message" variation goes like so:
-
-```markdown
-For want of a nail a horseshoe was lost,
-for want of a horseshoe a horse went lame,
-for want of a horse a rider never got through,
-for want of a rider a message never arrived,
-for want of a message an army was never sent,
-for want of an army a battle was lost,
-for want of a battle a war was lost,
-for want of a war a kingdom fell,
-and all for want of a nail.
-```
-
-Steve Yegge put his own spin on this proverb in [his spiel about noun overuse in Java](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html):
-
-```markdown
-**Are Javalanders Happy?**
-
-You might think daily life in Javaland would be at best a little strange, 
-and at worst grossly inefficient. But you can tell how happy a society is
-through their nursery rhymes, and Javaland's are whimsically poetic. For 
-instance, Javaland children oft recite the famous cautionary tale:
-
-	For the lack of a nail,
-		throw new HorseshoeNailNotFoundException("no nails!");
-
-	For the lack of a horseshoe,
-		EquestrianDoctor.getLocalInstance().getHorseDispatcher().shoot();
-
-	For the lack of a horse,
-		RidersGuild.getRiderNotificationSubscriberList().getBroadcaster().run(
-		  new BroadcastMessage(StableFactory.getNullHorseInstance()));
-
-	For the lack of a rider,
-		MessageDeliverySubsystem.getLogger().logDeliveryFailure(
-		  MessageFactory.getAbstractMessageInstance(
-			new MessageMedium(MessageType.VERBAL),
-			new MessageTransport(MessageTransportType.MOUNTED_RIDER),
-			new MessageSessionDestination(BattleManager.getRoutingInfo(
-											BattleLocation.NEAREST))),
-		  MessageFailureReasonCode.UNKNOWN_RIDER_FAILURE);
-
-	For the lack of a message,
-		((BattleNotificationSender)
-		  BattleResourceMediator.getMediatorInstance().getResource(
-			BattleParticipant.PROXY_PARTICIPANT,
-			BattleResource.BATTLE_NOTIFICATION_SENDER)).sendNotification(
-			  ((BattleNotificationBuilder)
-				(BattleResourceMediator.getMediatorInstance().getResource(
-				BattleOrganizer.getBattleParticipant(Battle.Participant.GOOD_GUYS),
-				BattleResource.BATTLE_NOTIFICATION_BUILDER))).buildNotification(
-				  BattleOrganizer.getBattleState(BattleResult.BATTLE_LOST),
-				  BattleManager.getChainOfCommand().getCommandChainNotifier()));
-
-	For the lack of a battle,
-		try {
-			synchronized(BattleInformationRouterLock.getLockInstance()) {
-			  BattleInformationRouterLock.getLockInstance().wait();
-			}
-		} catch (InterruptedException ix) {
-		  if (BattleSessionManager.getBattleStatus(
-			   BattleResource.getLocalizedBattleResource(Locale.getDefault()),
-			   BattleContext.createContext(
-				 Kingdom.getMasterBattleCoordinatorInstance(
-				   new TweedleBeetlePuddlePaddleBattle()).populate(
-					 RegionManager.getArmpitProvince(Armpit.LEFTMOST)))) ==
-			  BattleStatus.LOST) {
-			if (LOGGER.isLoggable(Level.TOTALLY_SCREWED)) {
-			  LOGGER.logScrewage(BattleLogger.createBattleLogMessage(
-				BattleStatusFormatter.format(BattleStatus.LOST_WAR,
-											 Locale.getDefault())));
-			}
-		  }
-		}
-
-	For the lack of a war,
-		new ServiceExecutionJoinPoint(
-		  DistributedQueryAnalyzer.forwardQueryResult(
-			NotificationSchemaManager.getAbstractSchemaMapper(
-			  new PublishSubscribeNotificationSchema()).getSchemaProxy().
-				executePublishSubscribeQueryPlan(
-				  NotificationSchema.ALERT,
-				  new NotificationSchemaPriority(SchemaPriority.MAX_PRIORITY),
-				  new PublisherMessage(MessageFactory.getAbstractMessage(
-					MessageType.WRITTEN,
-					new MessageTransport(MessageTransportType.WOUNDED_SURVIVOR),
-					new MessageSessionDestination(
-					  DestinationManager.getNullDestinationForQueryPlan()))),
-				  DistributedWarMachine.getPartyRoleManager().getRegisteredParties(
-					PartyRoleManager.PARTY_KING ||
-					PartyRoleManager.PARTY_GENERAL ||
-					PartyRoleManager.PARTY_AMBASSADOR)).getQueryResult(),
-			PriorityMessageDispatcher.getPriorityDispatchInstance())).
-		  waitForService();
-
-	All for the lack of a horseshoe nail.
-
-It remains wonderful advice, even to this very day.
-
-Although the telling of the tale in Javaland differs in some ways from Ben
-Franklin's original, Javalanders feel their rendition has a distinct charm
-all its own.
-```
 
 <a name="#Total-Eclipse"></a>
 ## Total Eclipse
@@ -959,6 +851,280 @@ Or would you like to get a formal education?
 ```
 
 The last passage was a paean to the dream of central planning, which arguably failed due to [computational complexity constraints](http://crookedtimber.org/2012/05/30/in-soviet-union-optimization-problem-solves-you/).
+
+<a name="#Theological-engineering-exam"></a>
+## Cuil theory
+### by RedDyeNumber4
+([overview](#overview))
+
+One cuil is 'one level of abstraction away from the reality of a situation'. Building up on that, you get [Cuil Theory](http://cuiltheory.wikidot.com/what-is-cuil-theory), which is great fun to read. 
+
+Quoting directly from the main page:
+
+```markdown
+The idea was to lampoon the terrible search engine capabilities of the
+Cuil search engine, while providing a functionally stimulating idea about
+the interrelationship between tangential things.
+```
+
+I think the attribution is correct -- either RedDyeNumber4 or HalCion -- but I'm not sure, since it's a wiki project. 
+
+Here's the classic example:
+
+```markdown
+Example: You ask me for a Hamburger.
+
+**1 Cuil**: if you asked me for a hamburger, and I gave you a raccoon.
+
+**2 Cuils**: If you asked me for a hamburger, but it turns out I don't really 
+exist. Where I was originally standing, a picture of a hamburger rests on the
+ground.
+
+**3 Cuils**: You awake as a hamburger. You start screaming only to have special
+sauce fly from your lips. The world is in sepia.
+
+**4 Cuils**: Why are we speaking German? A mime cries softly as he cradles a 
+young cow. Your grandfather stares at you as the cow falls apart into patties.
+You look down only to see me with pickles for eyes, I am singing the song that
+gives birth to the universe.
+
+**5 Cuils**: You ask for a hamburger, I give you a hamburger. You raise it to 
+your lips and take a bite. Your eye twitches involuntarily. Across the street 
+a father of three falls down the stairs. You swallow and look down at the 
+hamburger in your hands. I give you a hamburger. You swallow and look down at 
+the hamburger in your hands. You cannot swallow. There are children at the top 
+of the stairs. A pickle shifts uneasily under the bun. I give you a hamburger.
+You look at my face, and I am pleading with you. The children are crying now. 
+You raise the hamburger to your lips, tears stream down your face as you take 
+a bite. I give you a hamburger. You are on your knees. You plead with me to go 
+across the street. I hear only children's laughter. I give you a hamburger. 
+You are screaming as you fall down the stairs. I am your child. You cannot see
+anything. You take a bite of the hamburger. The concrete rushes up to meet you.
+You awake with a start in your own bed. Your eye twitches involuntarily. I give
+you a hamburger. As you kill me, I do not make a sound. I give you a hamburger.
+
+**6 Cuils**: You ask me for a hamburger. My attempt to reciprocate is cut 
+brutally short as my body experiences a sudden lack of electrons. Across a 
+variety of hidden dimensions you are dismayed. John Lennon hands me an apple, 
+but it slips through my fingers. I am reborn as an ocelot. You disapprove. A
+crack echoes through the universe in defiance of conventional physics as 
+cosmological background noise shifts from randomness to a perfect A Flat. 
+Children everywhere stop what they are doing and hum along in perfect pitch with
+the background radiation. Birds fall from the sky as the sun engulfs the earth. 
+You hesitate momentarily before allowing yourself to assume the locus of all
+knowledge. Entropy crumbles as you peruse the information contained within the
+universe. A small library in Phoenix ceases to exist. You stumble under the
+weight of everythingness, Your mouth opens up to cry out, and collapses around
+your body before blinking you out of the spatial plane. You exist only within 
+the fourth dimension. The fountainhead of all knowledge rolls along the ground 
+and collides with a small dog. My head tastes sideways as spacetime is 
+reestablished, you blink back into the corporeal world disoriented, only for me
+to hand you a hamburger as my body collapses under the strain of reconstitution.
+The universe has reasserted itself. A particular small dog is fed steak for the
+rest of its natural life. You die in a freak accident moments later, and you 
+soul works at the returns desk for the Phoenix library. You disapprove. Your
+disapproval sends ripples through the inter-dimensional void between life and 
+death. A small child begins to cry as he walks toward the stairway where his 
+father stands.
+
+**7 Cuils**: I give you a hamburger. The universe is engulfed within itself. 
+A bus advertising hotdogs drives by a papillon. It disapproves. An unnatural 
+force reverses Earth's gravity. You ask for a hamburger. I reciprocate with a
+mildly convulsing potato. You disapprove. Your disapproval releases a cosmic 
+shift in the void between birth and life. You ask for a hamburger. A certain 
+small dog feasts on hamburger patties for the rest of its unnatural, eternal
+endurance. Your constant disapproval sends silence through everything. A 
+contrived beast becomes omnipotent. You ask for a hamburger. I give you a 
+hamburger your body becomes an unsettled blob of nothingness, then divides by
+three. The papillon barks. The universe realigns itself. You, the papillon, 
+and the hamburger disapprove. This condemnation stops the realignment. Hades 
+freezes over. A pig is launched is launched into the unoccupied existence
+between space and time with a specific hamburger. You ask for a hamburger. I 
+give you a hamburger. It screams as you lift it to your face. You laugh 
+maniacally as I plead with you. You devour the hamburger as it pleads for
+mercy. I disapprove and condemn you to an eternity in a certain void where a
+certain pig and its specific hamburger are located. The Universal Space-time
+Continuum Committee disapproves of my irrational decision. You are locked away
+and are fed hamburgers for the rest of your natural existence. A pickle 
+refuses to break down during the process of digestion. You die in a freak
+accident. A certain pickle lives the rest of its life in a comatose state. Your
+soul disapproves. Down the street a child cries as a hamburger gets stuck in, 
+and climbs back up, her esophagus. You ask again for a hamburger. I refuse to
+reciprocate. You demand a lawyer. I remind you harshly that this is the new 
+world order. Lawyers no longer exist. Only papillons. Your name is written on
+a list of sins. Blasphemy. You ask for a hamburger. The comatose pickle 
+vanquishes your soul from this universe. Realignment occurs. You beg for a 
+hamburger. A certain papillon's name is written on an obelisk in Egypt. Mumble.
+Peasants worship the obelisk. Your soulless corpse partakes in the festivity. 
+Hamburgers are banned universally. The sun implodes. All planets cease to have
+ever existed. Mercury. Venus. Earth. Mars. Jupiter. Saturn. Uranus. Neptune. 
+Pluto is the only mass in existence. Conveniently, you are on vacation here. 
+Your need for hamburgers re-establishes space-time. Earth is recreated under 
+your intergalactic rule. Hamburgers are your army. You wake up. Clowns. Clowns 
+everywhere. Your dream rushes to meet you. You are kidnapped. 
+You ask for a hamburger. They hand you a hotdog.
+```
+
+<a name="#Theological-engineering-exam"></a>
+## Theological engineering exam
+### by unknown author
+([overview](#overview))
+
+Found this in Danny Yee's [humor section](http://danny.oz.au/danny/humour/theology-exam), where he attributes it to "email, author unknown". The exam problems seem rather underspecified. 
+
+```markdown
+5 Questions, 60 Minutes.
+ 
+You may use a calculator, the Bible, the Koran, the Torah, and the
+Book of Mormon. The speed of light is c. Show all work. For all
+problems, assume a perfectly spherical Jesus of constant density D.
+No praying during the exam.
+  
+1. (20 pts.) Bob and Joe are standing on a street corner. God loves
+   each an equal amount L_0. Bob then accelerates to .9c. In Joe's
+   rest frame, how much does God now love Bob?
+  
+2. Sven, a Catholic, is in a state of grace. He then has sex with
+   sheep S. a. (8 pts.) What is Sven's atonement coefficient following
+   the act if the sheep was not willing? b. (12 pts.) What if the
+   sheep, while not technically being willing, could not be said to
+   mind either?
+  
+3. (20 pts.) Let the eternal, all abiding love of the Holy Spirit
+   be the xy plane. Let Sue's soul be at (0,0,5) at t = 0 sec.,
+   traveling at 5 m/s in the direction of the positive z axis.
+   Everything is in Cartesian coordinates bespeaking subscription to a
+   perfectly rational Enlightenment attitude towards the Universe. At
+   what time t will Sue be saved? (Hint: Assume a point soul.)
+  
+4. (20 pts.) Assume the Rapture occurs at time t. Cornelia, a saved
+   human weighing 90 kg, in a state of grace, has her head in the
+   closing jaws of an alligator at time t. What mass of meat will
+   remain to the alligator at time t + 10 sec.?
+  
+5. Stan is a frictionless, massless Mormon in a rest state. His sin
+   level for his faith is currently 11 McBeals. He eats .3 kg of pork,
+   and enjoys it very much. Assume that the Jews are right about,
+   well, pretty much everything. a. (10 pts.) What is Stan's sin level
+   now? b. (10 pts.) Stan is one of them Salt Lake City Mormons. He
+   ain't so damn smug now, is he?
+ 
+Extra Credit (10 pts): 25 grams of wafers and 20 ml of cheap wine
+   undergo transubstantiation and become the flesh and blood of our
+   Lord. How many Joules of heat are released by the transformation?
+  
+Hand in exam when done, and may God have mercy on your work.
+```
+
+<a name="#execution-in-the-kingdom-of-nouns"></a>
+## Execution in the Kingdom of Nouns
+### by Steve Yegge
+([overview](#overview))
+
+There is an old children's proverb, [For want of a nail](https://en.wikipedia.org/wiki/For_Want_of_a_Nail), which has been passed down in numerous variations over the centuries. The "Message" variation goes like so:
+
+```markdown
+For want of a nail a horseshoe was lost,
+for want of a horseshoe a horse went lame,
+for want of a horse a rider never got through,
+for want of a rider a message never arrived,
+for want of a message an army was never sent,
+for want of an army a battle was lost,
+for want of a battle a war was lost,
+for want of a war a kingdom fell,
+and all for want of a nail.
+```
+
+Steve Yegge put his own spin on this proverb in [his spiel about noun overuse in Java](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html):
+
+```markdown
+**Are Javalanders Happy?**
+
+You might think daily life in Javaland would be at best a little strange, 
+and at worst grossly inefficient. But you can tell how happy a society is
+through their nursery rhymes, and Javaland's are whimsically poetic. For 
+instance, Javaland children oft recite the famous cautionary tale:
+
+	For the lack of a nail,
+		throw new HorseshoeNailNotFoundException("no nails!");
+
+	For the lack of a horseshoe,
+		EquestrianDoctor.getLocalInstance().getHorseDispatcher().shoot();
+
+	For the lack of a horse,
+		RidersGuild.getRiderNotificationSubscriberList().getBroadcaster().run(
+		  new BroadcastMessage(StableFactory.getNullHorseInstance()));
+
+	For the lack of a rider,
+		MessageDeliverySubsystem.getLogger().logDeliveryFailure(
+		  MessageFactory.getAbstractMessageInstance(
+			new MessageMedium(MessageType.VERBAL),
+			new MessageTransport(MessageTransportType.MOUNTED_RIDER),
+			new MessageSessionDestination(BattleManager.getRoutingInfo(
+											BattleLocation.NEAREST))),
+		  MessageFailureReasonCode.UNKNOWN_RIDER_FAILURE);
+
+	For the lack of a message,
+		((BattleNotificationSender)
+		  BattleResourceMediator.getMediatorInstance().getResource(
+			BattleParticipant.PROXY_PARTICIPANT,
+			BattleResource.BATTLE_NOTIFICATION_SENDER)).sendNotification(
+			  ((BattleNotificationBuilder)
+				(BattleResourceMediator.getMediatorInstance().getResource(
+				BattleOrganizer.getBattleParticipant(Battle.Participant.GOOD_GUYS),
+				BattleResource.BATTLE_NOTIFICATION_BUILDER))).buildNotification(
+				  BattleOrganizer.getBattleState(BattleResult.BATTLE_LOST),
+				  BattleManager.getChainOfCommand().getCommandChainNotifier()));
+
+	For the lack of a battle,
+		try {
+			synchronized(BattleInformationRouterLock.getLockInstance()) {
+			  BattleInformationRouterLock.getLockInstance().wait();
+			}
+		} catch (InterruptedException ix) {
+		  if (BattleSessionManager.getBattleStatus(
+			   BattleResource.getLocalizedBattleResource(Locale.getDefault()),
+			   BattleContext.createContext(
+				 Kingdom.getMasterBattleCoordinatorInstance(
+				   new TweedleBeetlePuddlePaddleBattle()).populate(
+					 RegionManager.getArmpitProvince(Armpit.LEFTMOST)))) ==
+			  BattleStatus.LOST) {
+			if (LOGGER.isLoggable(Level.TOTALLY_SCREWED)) {
+			  LOGGER.logScrewage(BattleLogger.createBattleLogMessage(
+				BattleStatusFormatter.format(BattleStatus.LOST_WAR,
+											 Locale.getDefault())));
+			}
+		  }
+		}
+
+	For the lack of a war,
+		new ServiceExecutionJoinPoint(
+		  DistributedQueryAnalyzer.forwardQueryResult(
+			NotificationSchemaManager.getAbstractSchemaMapper(
+			  new PublishSubscribeNotificationSchema()).getSchemaProxy().
+				executePublishSubscribeQueryPlan(
+				  NotificationSchema.ALERT,
+				  new NotificationSchemaPriority(SchemaPriority.MAX_PRIORITY),
+				  new PublisherMessage(MessageFactory.getAbstractMessage(
+					MessageType.WRITTEN,
+					new MessageTransport(MessageTransportType.WOUNDED_SURVIVOR),
+					new MessageSessionDestination(
+					  DestinationManager.getNullDestinationForQueryPlan()))),
+				  DistributedWarMachine.getPartyRoleManager().getRegisteredParties(
+					PartyRoleManager.PARTY_KING ||
+					PartyRoleManager.PARTY_GENERAL ||
+					PartyRoleManager.PARTY_AMBASSADOR)).getQueryResult(),
+			PriorityMessageDispatcher.getPriorityDispatchInstance())).
+		  waitForService();
+
+	All for the lack of a horseshoe nail.
+
+It remains wonderful advice, even to this very day.
+
+Although the telling of the tale in Javaland differs in some ways from Ben
+Franklin's original, Javalanders feel their rendition has a distinct charm
+all its own.
+```
 
 <a name="#King-James-Programming"></a>
 ## King James Programming
