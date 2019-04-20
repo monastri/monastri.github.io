@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is the "psychology, anthropology, and linguistics" section of [this notebook](https://monastri.github.io/). 
+This is the "psychology, anthropology, linguistics and culture" section of [this notebook](https://monastri.github.io/). 
 
 <a name="#overview"></a>
 
