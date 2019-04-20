@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is the "philosophy, erisology, altruism, culture and spirituality" section of [this notebook](https://monastri.github.io/). 
+This is the "philosophy, erisology, altruism and spirituality" section of [this notebook](https://monastri.github.io/). 
 
 <a name="#overview"></a>
 
