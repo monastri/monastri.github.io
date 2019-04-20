@@ -68,7 +68,7 @@ The sections below comprise a provisional taxonomy, subject to perpetual refacto
 4. [Economics, globalization and political science](https://github.com/monastri/monastri.github.io/blob/master/notes-economics-political-science-globalization.md)
 5. [Math and physics](https://github.com/monastri/monastri.github.io/blob/master/notes-math-physics.md)
 6. [Memory, cognition, teaching and learning](https://github.com/monastri/monastri.github.io/blob/master/notes-memory-cognition-teaching-learning.md)
-7. [Philosophy, erisology, altruism, culture and spirituality](https://github.com/monastri/monastri.github.io/blob/master/notes-philosophy-erisology-altruism-spirituality.md)
+7. [Philosophy, erisology, altruism and spirituality](https://github.com/monastri/monastri.github.io/blob/master/notes-philosophy-erisology-altruism-spirituality.md)
 8. [Psychology, anthropology, linguistics and culture](https://github.com/monastri/monastri.github.io/blob/master/notes-psychology-anthropology-linguistics-culture.md)
 8. [Reading and writing](https://github.com/monastri/monastri.github.io/blob/master/notes-reading-writing.md)
 9. [Research, academia and statistics](https://github.com/monastri/monastri.github.io/blob/master/notes-research-academia-statistics.md)
