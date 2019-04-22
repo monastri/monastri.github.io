@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 41,400*
+*[Word count](https://wordcounter.net/): 42,400*
 
 ## What is this?
 
@@ -10,6 +10,7 @@ This is the "software development, computer science and complex systems" section
 
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
+1. [Advantages of monorepos](#Advantages-of-monorepos)
 1. [Amazon vs Google comparison (2011)](#Amazon-vs-Google-2011)
 2. [CS is beyond the glass ceiling of popular science](#CS-is-beyond-the-glass-ceiling-of-pop-science)
 2. [Curse of the gifted programmer](#Curse-of-the-gifted-programmer)
@@ -46,6 +47,187 @@ I've sorted the quotes below into the following categories. This is a provisiona
 
 ---------------------------------------
 
+
+<a name="#Advantages-of-monorepos"></a>
+## Advantages of monorepos
+([overview](#overview))
+
+I was first primed to notice monorepos as a topic in the first place when I stumbled upon Potvin & Levenberg's [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext), via Richard Gabriel's visionary-sounding 150-page report [Ultra-Large-Scale
+Systems: The Software Challenge of the Future](https://resources.sei.cmu.edu/asset_files/Book/2006_014_001_30542.pdf). 
+
+Witness these figures and be awed -- I was, even though I didn't really understand the 'monorepo' notion back then:
+
+	The Google codebase includes approximately one billion files and has a 
+	history of approximately 35 million commits spanning Google's entire 
+	18-year existence. The repository contains 86TB of data, including
+	approximately two billion lines of code in nine million unique source 
+	files. The total number of files also includes source files copied into
+	release branches, files that are deleted at the latest revision, 
+	configuration files, documentation, and supporting data files...
+	
+	In 2014, approximately 15 million lines of code were changed in
+	approximately 250,000 files in the Google repository on a weekly basis.
+	The Linux kernel is a prominent example of a large open source software
+	repository containing approximately 15 million lines of code in 40,000 
+	files.
+	
+	Google's codebase is shared by more than 25,000 Google software 
+	developers from dozens of offices in countries around the world. On a 
+	typical workday, they commit 16,000 changes to the codebase, and another
+	24,000 changes are committed by automated systems. Each day the 
+	repository serves billions of file read requests, with approximately 
+	800,000 queries per second during peak traffic and an average of 
+	approximately 500,000 queries per second each workday. Most of this traffic
+	originates from Google's distributed build-and-test systems.
+	
+Today I came across Dan Luu's essay [Advantages of monorepos](https://danluu.com/monorepo/). (Aside: I like Dan. Cool guy.) 
+
+Dan was compelled to write it because of the following conversation he "kept having", which he wanted to avoid repeating because his explanation was a chore to retread:
+
+	Someone: Did you hear that Facebook/Google uses a giant monorepo? WTF!
+	
+	Me: Yeah! It's really convenient, don't you think?
+	
+	Someone: That's THE MOST RIDICULOUS THING I've ever heard. Don't FB and
+	Google know what a terrible idea it is to put all your code in a single repo?
+	
+	Me: I think engineers at FB and Google are probably familiar with using 
+	smaller repos, and they still prefer a single huge repo for [reasons].
+	
+	Someone: Oh that does sound pretty nice. I still think it's weird but I could 
+	see why someone would want that.
+	
+	“[reasons]” is pretty long, so I'm writing this down in order to avoid repeating
+	the same conversation over and over again.
+
+So: why monorepos? 
+
+Simplified organization:
+
+	With multiple repos, you typically either have one project per repo, or an
+	umbrella of related projects per repo, but that forces you to define what a
+	“project” is for your particular team or company, and it sometimes forces you
+	to split and merge repos for reasons that are pure overhead. For example, 
+	having to split a project because it's too big or has too much history for 
+	your VCS is not optimal.
+
+	With a monorepo, projects can be organized and grouped together in whatever way
+	you find to be most logically consistent, and not just because your version 
+	control system forces you to organize things in a particular way. Using a single
+	repo also reduces overhead from managing dependencies.
+
+	A side effect of the simplified organization is that it's easier to navigate 
+	projects. The monorepos I've used let you essentially navigate as if everything
+	is on a networked file system, re-using the idiom that's used to navigate within
+	projects. Multi repo setups usually have two separate levels of navigation -- the
+	filesystem idiom that's used inside projects, and then a meta-level for 
+	navigating between projects.
+
+	A side effect of that side effect is that, with monorepos, it's often the case that
+	it's very easy to get a dev environment set up to run builds and tests. If you 
+	expect to be able to navigate between projects with the equivalent of cd, you also
+	expect to be able to do cd; make. Since it seems weird for that to not work, it 
+	usually works, and whatever tooling effort is necessary to make it work gets done.
+	While it's technically possible to get that kind of ease in multiple repos, it's 
+	not as natural, which means that the necessary work isn't done as often.
+
+Simplified dependencies:
+
+	This probably goes without saying, but with multiple repos, you need to have some
+	way of specifying and versioning dependencies between them. That sounds like it
+	ought to be straightforward, but in practice, most solutions are cumbersome and
+	involve a lot of overhead.
+
+	With a monorepo, it's easy to have one universal version number for all projects.
+	Since atomic cross-project commits are possible, the repository can always be in 
+	a consistent state -- at commit #X, all project builds should work.
+	
+Tooling is easier:
+
+	The simplification of navigation and dependencies makes it much easier to 
+	write tools. Instead of having tools that must understand relationships
+	between repositories, as well as the nature of files within repositories,
+	tools basically just need to be able to read files (including some file 
+	format that specifies dependencies between units within the repo).
+
+	This sounds like a trivial thing but, take this example by Christopher Van 
+	Arsdale on how easy builds can become:
+
+		The build system inside of Google makes it incredibly easy to build
+		software using large modular blocks of code. You want a crawler? Add
+		a few lines here. You need an RSS parser? Add a few more lines. A 
+		large distributed, fault tolerant datastore? Sure, add a few more 
+		lines. These are building blocks and services that are shared by many
+		projects, and easy to integrate. … This sort of Lego-like development
+		process does not happen as cleanly in the open source world. … As a 
+		result of this state of affairs (more speculation), there is a 
+		complexity barrier in open source that has not changed significantly 
+		in the last few years. This creates a gap between what is easily
+		obtainable at a company like Google versus a[n] open sourced project.
+
+	The system that Arsdale is referring to is so convenient that, before it was 
+	open sourced, ex-Google engineers at Facebook and Twitter wrote their own 
+	versions of bazel in order to get the same benefits. ...
+	
+	Build systems aren't the only thing that benefit from running on a mono repo.
+	Just for example, static analysis can run across project boundaries without 
+	any extra work. Many other things, like cross-project integration testing and
+	code search are also greatly simplified.
+	
+Cross-project changes are easier:
+
+	With lots of repos, making cross-repo changes is painful. It typically involves
+	tedious manual coordination across each repo or hack-y scripts. And even if the
+	scripts work, there's the overhead of correctly updating cross-repo version
+	dependencies. Refactoring an API that's used across tens of active internal 
+	projects will probably a good chunk of a day. Refactoring an API that's used 
+	across thousands of active internal projects is hopeless.
+
+	With a monorepo, you just refactor the API and all of its callers in one commit.
+	That's not always trivial, but it's much easier than it would be with lots of 
+	small repos. I've seen APIs with thousands of usages across hundreds of projects
+	get refactored and with a monorepo setup it's so easy that it's no one even 
+	thinks twice.
+
+	Most people now consider it absurd to use a version control system like CVS, RCS,
+	or ClearCase, where it's impossible to do a single atomic commit across multiple
+	files, forcing people to either manually look at timestamps and commit messages 
+	or keep meta information around to determine if some particular set of cross-file
+	changes are “really” atomic. SVN, hg, git, etc solve the problem of atomic cross-
+	file changes; monorepos solve the same problem across projects.
+	
+Dan's page has links to lots of other discussion on monorepos. 
+
+The Google paper I mentioned earlier mentions these advantages, excluding the ones Dan already mentioned above:
+
+	Unified versioning, one source of truth;
+	Extensive code sharing and reuse;
+	Simplified dependency management;
+	Atomic changes;
+	Large-scale refactoring;
+	Collaboration across teams;
+	Flexible team boundaries and code ownership; and
+	Code visibility and clear tree structure providing implicit team namespacing.
+
+There's mention of the "diamond dependency problem" avoided with monorepos:
+
+	A depends on B and C, both B and C depend on D, but B requires version D.1 and C
+	requires version D.2. In most cases it is now impossible to build A. For the base
+	library D, it can become very difficult to release a new version without causing 
+	breakage, since all its callers must be updated at the same time. Updating is 
+	difficult when the library callers are hosted in different repositories.
+	
+	In the open source world, dependencies are commonly broken by library updates,
+	and finding library versions that all work together can be a challenge. Updating
+	the versions of dependencies can be painful for developers, and delays in 
+	updating create technical debt that can become very expensive.
+	
+	In contrast, with a monolithic source tree it makes sense, and is easier, for the
+	person updating a library to update all affected dependencies at the same time. 
+	The technical debt incurred by dependent systems is paid down immediately as 
+	changes are made. Changes to base libraries are instantly propagated through the
+	dependency chain into the final products that rely on the libraries, without 
+	requiring a separate sync or migration step.
 
 <a name="#Curse-of-the-gifted-programmer"></a>
 ## Curse of the gifted programmer
