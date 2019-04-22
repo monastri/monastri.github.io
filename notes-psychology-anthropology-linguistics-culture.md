@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 1,800*
+*[Word count](https://wordcounter.net/): 4,000*
 
 ## What is this?
 
@@ -10,9 +10,172 @@ This is the "psychology, anthropology, linguistics and culture" section of [this
 
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
-1. [Pirahã](#Pirahã) 
+1. [Pirahã](#Pirahã)
+2. [Trivial inconveniences](#Trivial-inconveniences) 
 	
 ----------------------------------------
+
+<a name="#Trivial-inconveniences"></a>
+## Trivial inconveniences
+([overview](#overview))
+
+From Scott Alexander's [original 2009 post](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences) introducing the idea. To quote [the wiki entry](https://wiki.lesswrong.com/wiki/Trivial_inconvenience), they're "inconveniences that take few resources to counteract but have a disproportionate impact on people deciding whether to take a course of action".
+
+Scott isn't sure how to explain it from a psychological standpoint:
+
+	I don't know of any unifying psychological theory that explains our problem 
+	with trivial inconveniences. It seems to have something to do with loss 
+	aversion, and with the brain's general use of emotion-based hacks instead of
+	serious cost-benefit analysis. It might be linked to akrasia; for example, 
+	you might not have enough willpower to go ahead with the unpleasant action 
+	of filling in a rebate form, and your brain may assign it low priority
+	because it's hard to imagine the connection between the action and the 
+	reward.
+
+It does seem to point at a real cluster of related phenomena though. 
+
+For instance, consider the Great Firewall of China:
+
+	The Great Firewall of China. A massive system of centralized censorship purging
+	the Chinese version of the Internet of all potentially subversive content. 
+	Generally agreed to be a great technical achievement and political success even
+	by the vast majority of people who find it morally abhorrent.
+
+	I spent a few days in China. I got around it at the Internet cafe by using a 
+	free online proxy. Actual Chinese people have dozens of ways of getting around
+	it with a minimum of technical knowledge or just the ability to read some 
+	instructions.
+
+	The Chinese government isn't losing any sleep over this (although they also don't 
+	lose any sleep over murdering political dissidents, so maybe they're just very
+	sound sleepers). Their theory is that by making it a little inconvenient and 
+	time-consuming to view subversive sites, they will discourage casual exploration.
+	No one will bother to circumvent it unless they already seriously distrust the
+	Chinese government and are specifically looking for foreign websites, and these 
+	people probably know what the foreign websites are going to say anyway.
+
+	Think about this for a second. The human longing for freedom of information is a
+	terrible and wonderful thing. It delineates a pivotal difference between mental 
+	emancipation and slavery. It has launched protests, rebellions, and revolutions. 
+	Thousands have devoted their lives to it, thousands of others have even died for
+	it. And it can be stopped dead in its tracks by requiring people to search for 
+	"how to set up proxy" before viewing their anti-government website.
+	
+Michael Vassar points out that it might be less trivial inconvenience and more Big Brother paranoia:
+
+	It seems to me that those Chinese who don't know that it's safe to go around 
+	the government firewall may have no good way of finding out that it's safe. 
+	Paranoia about how if they do they will get caught may be cultivated in them. 
+	How do they know what methods the government has. Also, they may be made to 
+	think that there is something dirty or illicit, wrong or ugly about going 
+	outside official sources.
+
+And public psychology is just different from what you'd expect sometimes, cf. Chen & Yang's ["The Impact of Media Censorship: Evidence from a Randomized Field Experiment in China"](https://stanford.edu/~dyang1/pdfs/1984bravenewworld_draft.pdf):
+
+	Media censorship is a hallmark of authoritarian regimes. We conduct a field 
+	experiment in China to measure the effects of providing citizens with access
+	to an uncensored Internet. We track subjects' media consumption, beliefs 
+	regarding the media, economic beliefs, political attitudes, and behaviors over
+	18 months. We find four main results:
+
+	1. free access alone does not induce subjects to acquire politically sensitive
+	information;
+	2. temporary encouragement leads to a persistent increase in acquisition, 
+	indicating that demand is not permanently low;
+	3. acquisition brings broad, substantial, and persistent changes to knowledge,
+	beliefs, attitudes, and intended behaviors; and
+	4. social transmission of information is statistically-significant but small
+	in magnitude.
+
+	We calibrate a simple model to show that the combination of low demand for
+	uncensored information and the moderate social transmission means China's 
+	censorship apparatus may remain robust to a large number of citizens receiving
+	access to an uncensored Internet.
+
+But I digress. Back to examples of trivial inconveniences. 
+
+Customer differentiation via price discrimination, in this case free rebates:
+
+	Companies frequently offer "free rebates". For example, an $800 television with a
+	$200 rebate. There are a few reasons companies like rebates, but one is that 
+	you'll be attracted to the television because it appears to have a net cost only
+	$600, but then filling out the paperwork to get the rebate is too inconvenient and
+	you won't get around to it. This is basically a free $200 for filling out an 
+	annoying form, but companies can predict that customers will continually fail to 
+	complete it. This might make some sense if you're a high-powered lawyer or someone
+	else whose time is extremely valuable, but most of us have absolutely no excuse.
+	
+This is in fact the core idea behind [revenue management](https://en.wikipedia.org/wiki/Revenue_management). For the airline industry, I like Peter Belobaba's [MIT OCW notes](https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/lecture-notes/MIT1_201JF08_lec17.pdf). 
+	
+Credit cards vs cash:
+
+	It's become a truism that people spend more when they use credit cards than when 
+	they use money. This particular truism happens to be true: in a study by Prelec 
+	and Simester1, auction participants bid twice as much for the same prize when
+	using credit than when using cash. The trivial step of getting the money and
+	handing it over has a major inhibitory effect on your spending habits.	
+	
+Trivial inconvenience can be a benefit. Whereas the Great Firewall is an example of "soft" oppression, 'opt-out' government policies can be seen as examples of (one aspect of) "soft paternalism":
+
+	For example, it would be nice if everyone put money into a pension scheme. Left
+	to their own devices, many ignorant or lazy people might never get around to 
+	starting a pension, and in order to prevent these people's financial ruin, 
+	there is strong a moral argument for a government-mandated pension scheme. But
+	there's also a strong libertarian argument against that idea; if someone for 
+	reasons of their own doesn't want a pension, or wants a different kind of
+	pension, their status as a free citizen should give them that right.
+
+	The "soft paternalist" solution is to have a government-mandated pension scheme,
+	but allow individuals to opt-out of it after signing the appropriate amount of
+	paperwork. Most people, the theory goes, would remain in the pension scheme, 
+	because they understand they're better off with a pension and it was only
+	laziness that prevented them from getting one before. And anyone who actually 
+	goes through the trouble of opting out of the government scheme would either be
+	the sort of intelligent person who has a good reason not to want a pension, or
+	else deserve what they get.
+	
+Jiro notes that between soft paternalism and outright bans there's a spectrum:
+
+	There's a gradual shading from "soft paternalist" solutions to bans. Making
+	someone take an extra 5 seconds to get their choice would probably not be 
+	considered a ban by many people. What about a minute? An hour? A week? What if 
+	it takes an hour, and you're a poor person who can't afford to get child care
+	for the hour, or pay the taxi fare to go to the banned store on the outskirts 
+	of town? What if buying and having the item increases your chance of being 
+	harassed by the police, without the item itself being a crime to buy or have? 
+	(This actually happens in some places with open carry of guns.) Or increases 
+	the chance of child services coming and requiring you to go through months of 
+	hearings to get your children back?
+	
+The major popular source on this subject is in fact Richard Thaler's [Nudge](http://www.nudges.org/), which I've seen in bookstores recently; given that the comment bringing it up was written in 2009, it seems prescient now.	
+
+Kieran Healy [presents evidence to the contrary](http://crookedtimber.org/2008/04/09/psychology-vs-organizations-in-organ-procurement/):
+
+	While opt-in vs. opt-out does make a difference to whether individuals agree to
+	donate, this doesn't necessarily translate into differences in actual organ 
+	procurement rates, and argues that the real bottlenecks in many countries are 
+	organizational/logistical:
+	
+		It is not at all clear that consent laws per se have any strong effect
+		on the procurement rate (as distinct from their effect on people’s
+		attitudes). Even if most people support organ donation, there are still
+		large logistical hurdles to be overcome at the point of procurement.
+		It is investment in the procurement infrastructure that really makes
+		the difference to rates of organ donation, even if default options to
+		opt-in or opt-out have large effects on people’s professed willingness 
+		to participate in the system.
+	
+	The apparent lesson: Don't assume that just by removing the obvious trivial
+	obstacles, the problem will be solved. There may be less trivial obstacles
+	lurking in the background.
+	
+Procedure can overcome trivial inconveniences. What Vladimir Nesov describes here is similar to my own process:
+
+	The solution is to sidestep the technical inconveniences and write the text 
+	using whatever tools you are most comfortable with, and then, after the text
+	is written, deal with the inconveniences. This way, the inconveniences are 
+	scheduled so that they don't stand between you and the important part of the
+	task. (I write my posts in LaTeX, for example.)
 
 <a name="#Pirahã"></a>
 ## Pirahã
