@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 9,800*
+*[Word count](https://wordcounter.net/): 13,500*
 
 ## What is this?
 
@@ -147,7 +147,7 @@ Maybe it's an illusion? Maybe adjusting for inflation is hard, maybe wrong stati
 	a fraction of what we currently do things for, probably we should be less reluctant 
 	to believe that the cost of everything is really inflated.
 	
-Maybe markets aren't efficient ("just don't work")?
+Maybe it's market failures ("markets just don't work")?
 
 	Suppose that people proved beyond a shadow of a doubt that Khan Academy could teach
 	you just as much as a normal college education, but for free. People would still ask
@@ -178,6 +178,21 @@ Maybe markets aren't efficient ("just don't work")?
 	them. More important, it doesn’t really seem like the average student is offered this 
 	choice.
 	
+Noah Smith echoes this argument in the second half of his comment, and says that the answer to market failures is government regulation:
+
+	The health-care market naturally has a lot of adverse selection — people with poor
+	health are more inclined to buy insurance. That means insurance companies, knowing 
+	its customers tend to be those with poorer health, charge higher prices. Also, 
+	hospitals could be local monopolies. And college education could be costly in part
+	because of asymmetric information — if Americans tend to vary more than people in 
+	other countries with respect to work ethnic and natural ability, they might have to
+	spend more on college to prove themselves. This is known as signaling.
+
+	When high costs are due to market failures, interventionist government can be the 
+	solution instead of the problem — provided the intervention is done right. So the 
+	more active governments of countries like Europe and Japan might be successfully 
+	holding down costs that would otherwise balloon to inefficient levels.	
+	
 Maybe (as the anecdotes above suggest) government is just inefficient relative to private industry?
 
 	I don’t think so. The government handles most primary education and subways, and has 
@@ -202,7 +217,108 @@ Maybe it's government regulation? That affects public and private companies both
 	sort of fail miserably at deregulating things.	
 	
 	what about pet health care? Veterinary care is much less regulated than human health 
-	care, yet its cost is rising as fast (or faster) than that of the human medical system
+	care, yet its cost is rising as fast (or faster) than that of the human medical system.
+	
+Noah Smith echoes the "government intervention can't be it" argument in the first half of his comment:
+
+	Another usual suspect is government intervention. The government subsidizes college 
+	through cheap loans, purchases infrastructure, restricts housing supply, and intervenes
+	heavily in the health-care market. It’s probably part of the problem in these areas,
+	especially in urban housing markets.
+
+	But again, government intervention struggles to explain the difference between the 
+	U.S. and other rich nations. In most countries, health care is mainly paid for by the
+	government — many countries have nationalized the industry outright. Yet their health
+	outcomes are broadly similar to those in the U.S., or even a little bit better. Other
+	countries have strong unions and high land acquisition costs — often stronger and 
+	higher than the U.S. — but their infrastructure is much cheaper. And there is no law 
+	or regulation propping up high wealth-management fees or real-estate commissions. In
+	general, lower-cost places like Japan and Europe have more regulation and more
+	interventionism than the U.S.
+	
+Megan McArdle (of the "I don't understand you = I am stupid" post) says it's partly the bad kind of government intervention:
+
+	It’s pretty easy to tell a libertarian story where markets work fine, but government
+	intrusions into these markets have rendered them so unfree that they no longer
+	function the way they’re supposed to. And I think that is at least part of the story
+	here. Yes, these things are often procured from private parties. But everywhere you
+	look you see the government: blocking new entry (through accreditation standards,
+	“certificate of need” laws, and zoning and building codes), while simultaneously 
+	subsidizing the purchases through artificially cheap loans and often, direct price 
+	subsidies. It would be sort of shocking if restricted supply combined with 
+	stimulated demand didn’t produce rapidly rising prices. Meanwhile, in areas that
+	the government largely leaves alone (such as Lasik), we pretty much see what you’d 
+	expect: falling prices and improving consumer service.
+	
+Apparently this is called the "Kling theory of public choice" in libertarianism. LukHamilton:
+
+	I think you gave short shrift to libertarian explanations of this phenomena. In
+	particular, the Kling Theory of Public Choice may explain a significant fraction 
+	of cost disease: public policy will always choose to subsidize demand and restrict
+	supply. If you restrict supply holding everything else equal, prices will go up.
+	If you subsidize demand holding everything else equal, prices will go up. If you 
+	do both, prices will really go up.
+
+	(1) Healthcare: The government restricts the supply of all healthcare professionals
+	(for example, doctors, nurses, CNAs, pharmacists, dentists, LPNs, etc.) via 
+	occupational licensing. (I should note that maybe everyone can get behind the simple
+	idea that the number of doctors per 10,000 people in the US should at least remain 
+	constant over time and not go down, as it has.) It restricts the supply of 
+	healthcare organizations (for example, hospitals, surgery centers, etc.) via onerous
+	regulations, like the very ridiculous “certificate-of-need“. You have already 
+	explained in previous posts how things like the FDA restrict the supply of generic
+	drugs. In terms of demand, the government subsidizes health insurance via the 
+	corporate income tax code, CHIP, the Obamacare marketplace, Medicaid, Medicare, etc.
+
+	(2) Education: I have done less investigation into this sector’s regulations. You
+	mentioned Title IX. David Friedman has some nice blog posts on how the American Bar
+	Association’s regulations on law schools make cheap law schools impossible. (This 
+	same concept also applies to healthcare-related professional schools, by the way.)
+	If Bryan Caplan is right about signaling, a lot of education involves negative 
+	externalities, so it should be taxed or limited by the government. Instead, it 
+	subsidizes demand via loans. K-12 education, meanwhile, receives massive subsidies
+	from the government; everyone can enjoy a totally free K-12 education.
+
+	(3) Real estate: Land-use regulations restrict the supply of housing. (Explanations
+	of this can be found by googling “Matt Yglesias housing”.) It also subsidizes
+	housing via Section 8, various other HUD programs, Freddie Mac, the mortgage-
+	interest tax deduction, etc.
+	
+Scott Sumner echoes Megan re: government-stimulated demand:
+
+	I do feel that much of the problem reflects the fact that governments often cover 
+	the cost of services in those three areas. This leads producers to spend more than
+	the socially optimal amount on these products. I’m going to provide some examples,
+	but before doing so recall that economic theory predicts that costs in those areas
+	should be wildly excessive. If the government paid 90% of the cost of any car you
+	bought, and that didn’t lead to lots more people buying Porsches and Ferraris, 
+	then we’d have a major puzzle on our hands.
+
+	Scott mentions that private for-profit hospitals are also quite expensive. But
+	even there, costs are largely paid for by the government. Close to half of all 
+	health care spending is directly paid for by the government (Medicare, Medicaid,
+	Veterans, government employees, etc.) and a large share of the rest is indirectly
+	paid for by taxpayers because health insurance is not just income tax free, but 
+	also payroll tax free. I’d be stunned if health care spending had not soared in 
+	recent decades.
+
+	A sizable share of my health care spending has been unneeded, and I’m fairly
+	healthy. I met one person in their 80s who had a normal cold and went to see the
+	doctor. They said it was probably just a normal cold, but let’s put you in the
+	hospital overnight and do some tests, just in case. There was nothing wrong, and
+	the bill the next day was something in the $5000 to $10,000 range, I forget the
+	exact amount. This must happen all the time. No way would they have opted for 
+	those services if Medicare weren’t picking up the tab.
+	
+But Sumner points out that this isn't an issue in other countries where the government also pays for healthcare "so don't take this as a screed against socialized medicine":
+
+	It’s likely the interaction of the US government picking up much of the tab, 
+	plus insurance regulations, plus American-style litigation, plus powerful 
+	provider lobbies that prevent European-style cost controls, etc., etc., lead
+	to our unusually high cost structure. So don’t take this as a screed against 
+	“socialized medicine.” I’m making a narrower point, that a country where the 
+	government picks up most of the costs, and doesn’t have effective regulations 
+	to hold down spending, is likely to end up with very expensive medicine.
 	
 Maybe the increased regulatory complexity isn't through literal regulations but fear of lawsuits? Scott says this is pretty convincing to him, since it jives with his professional experience:
 
@@ -230,6 +346,38 @@ Maybe the increased regulatory complexity isn't through literal regulations but 
 	This has nothing to do with government regulations (except insofar as these make lawsuits
 	easier or harder), but it sure can drive cost increases, and it might apply to fields 
 	outside medicine as well.	
+	
+Stupid example of fear of lawsuits is single-engine 4-seat Cessnas, via John Schilling:
+
+	[Fear of lawsuits] is well understood as the cause of the substantial rise in 
+	light airplane prices since 1970. A single-engine, four-seat Cessna 172 cost 
+	an inflation-adjusted $77,000 in 1970. A substantially identical airplane cost
+	$163,000 in 1986. And went out of production the next year, because people 
+	weren’t willing to pay that price. When congress passed laws relaxing the
+	manufacturer’s liability for older airplanes, Cessna was able to reinstate
+	production in 1996 at an inflation-adjusted $190,000. Today, the price seems
+	to literally be “if you have to ask, you can’t afford it”; the manufacturer 
+	only advertises fleet sales, but I’d estimate about $400,000 (of which ~$100K 
+	is fancy electronics that didn’t exist in 1986 and weren’t standard in 1996).
+
+	In this case it is particularly easy to pull out the lawsuit/liability effect 
+	because there aren’t many cofounders. The 1986 Cessna is so little changed from
+	the 1970 model that they sell at about the same price on the used market when 
+	controlled for condition and total flight time. And fear of lawsuits didn’t 
+	manifest as safety enhancements of inscrutable cost and value, because light 
+	airplane crashes are almost always due to Stupid Pilot Tricks and almost
+	everything that a manufacturer could do to mitigate that (e.g. tricycle landing 
+	gear) was standard in 1970. But the manufacturers still get sued, and have to
+	pay millions, so there’s nothing to be done but pay for liability insurance.
+	And, second-order effect, cut production when your customers start balking at
+	the increased prices, so you have to amortize the fixed costs of actually 
+	building airplanes over a smaller sales volume.
+
+	So, a doubling in price over fifteen or so years, a quadrupling over fifty years
+	in spite of Congress noticing the problem and trying to mitigate it, attributable
+	to safety/liability concerns but not resulting in actual safety improvements. I 
+	have no trouble believing something similar is happening in other industries but
+	is harder to discern because too many other things are happening at the same time.
 	
 Maybe our risk tolerance is lower?
 
@@ -261,9 +409,21 @@ Maybe our risk tolerance is lower?
 	becomes lower, this could shift the cost-risk tradeoff even if there isn’t a population-
 	level trend towards more risk-aversion.	
 	
+An example from the playground business, via Bkearns123:
+
+	Regarding the section on risk aversion, I happen to be in the playground business. 
+	The most common injury is broken bones from a fall. Consequently, our industry has
+	ended up with poured in place surfacing, which costs 10x as much as mulch or pea
+	gravel. It is wonderful stuff, but really increases the cost of the playground.
+	Again, no one pays directly for their playground, and the paying party cannot risk
+	not being in tune with the regulations.
+
+	Markets cannot function if the risk reward relationship is not direct.
+	
 Maybe things cost more for those who pay to compensate for those who don't pay?
 
-	This is somewhat true of colleges, where an increasing number of people are getting in on scholarships funded by the tuition of non-scholarship students.
+	This is somewhat true of colleges, where an increasing number of people are getting 
+	in on scholarships funded by the tuition of non-scholarship students.
 	
 	I haven’t been able to find great statistics on this, but one argument against: 
 	couldn’t a college just not fund scholarships, and offer much lower prices to its
@@ -284,7 +444,7 @@ Maybe things cost more for those who pay to compensate for those who don't pay?
 	dollars. The cost gets paid by a combination of taxpayers and other hospital patients
 	with good insurance who get big markups on their own bills.
 	
-This essay got over a thousand comments. Here are some of the interesting ones.
+This essay got over a thousand comments. Here are some of the interesting ones. (I've already mentioned some above actually, whenever they overlapped with Scott's guesses.)
 
 John Cochrane says the answer is administrative bloat:
 
@@ -334,6 +494,17 @@ How does bloat come about? Protected monopolies:
 	as it does on gadgets. We can indeed “forget” how those work. Like our ancestors peer at
 	the buildings, aqueducts, dams, roads, and bridges put up by our ancestors, whether Roman
 	or American, and wonder just how they did it.
+	
+But Scott isn't entirely convinced:
+
+	Any explanation of the form “administrative bloat” or “inefficiency” has to explain
+	why non-bloated alternatives don’t pop up or become popular. I’m sure the CEO of Ford
+	would love to just stop doing his job and approve every single funding request that
+	passes his desk and pay for it by jacking up the price of cars, but at some point if
+	he did that too much we’d all just buy Toyotas instead. Although there are some
+	barriers to competition in the hospital market, there are fewer such barriers in the 
+	college, private school, and ambulatory clinic market. Why hasn’t competition 
+	discouraged administrative bloat here the same way it does in other industries?
 	
 David "Goodhart's law" Manheim says the answer is superior goods and the sinkholes of unclear ROI around them:
 
@@ -385,6 +556,53 @@ David "Goodhart's law" Manheim says the answer is superior goods and the sinkhol
 	As long as we’re incentivized to improve things that we’re unsure how to improve, the
 	incentives to pour money into them unwisely will continue, and costs will rise. 
 	
+Megan McArdle echoes the "sinkholes" argument re: homes, schooling and healthcare, and adds government regulation on top of it:
+
+	Agriculture is also the focus of a great deal of government intervention, as are
+	sundry things such as air travel, and we don’t see the same phenomenon there. So we 
+	need to dig a little deeper and describe what’s special about these three sectors 
+	(we’ll leave public transportation out of it, because there, the answer is pretty 
+	much “union featherbedding combined with increasingly dysfunctional procurement and
+	regulatory processes”).
+
+	First, and most obviously, they involve vital purchases made on long time horizons,
+	and with considerable uncertainty. Food is more vital than health care to our well-
+	being, but its price and quality are really easy to assess: if you buy a piece of 
+	fruit, you know pretty quickly whether you liked it or not. This is a robust market,
+	and it’s going to take communist-level intervention to fundamentally mess it up so 
+	that food is both scarce and not very good.
+
+	Homes, schooling and health care, on the other hand, are more complicated products.
+	You don’t know when you buy them how much value they will be to you, and it is often
+	difficult for a lay person to assess the quality of the product. You can read hospital
+	rankings and pay a home inspector, but these things only go so far.
+
+	The fact that these are expensive purchases that can go terribly wrong creates a great
+	deal of pressure for the government to intervene. As ours has, over and over, in all 
+	sorts of ways.
+	
+Megan adds another wrinkle: America is just richer than most other countries:
+
+	Part of that is just that we’re richer than most of those other countries. We were
+	going to spend the portion of our budgets no longer needed for food somewhere, and
+	health care, education and housing are pretty good candidates. But that’s only part
+	of the story. A big part of the story is that America just isn’t very good at 
+	regulation. When you talk to people who live elsewhere about what their government 
+	does, one thing that really strikes you about those conversations is how much more 
+	competent other rich industrial governments seem to be at regulating things and 
+	delivering services. Their bureaucracies are not perfect, but they are better than
+	ours.
+	
+But Scott isn't convinced:
+
+	I think any explanation that starts with “well, we have so much money now that we 
+	have to spend it on something…” ignores that many people do not have so much money, 
+	and in fact are really poor, but they get the same education and health care as the 
+	rest of us. If the problem were just “rich people looking for places to throw their
+	money away”, there would be other options for poor people who don’t want to do that,
+	the same way rich people have fancy restaurants where they can throw their money 
+	away and poor people have McDonalds.
+	
 Anon reader says the answer is box-checking due to low institutional risk tolerance (in hedge funds at least), plus organizational complexity scaling quadratically with size (cf. HR department needing its own HR department):
 
 	In the business I know – hedge funds – I am aware of tiny operators running perfectly 
@@ -406,6 +624,131 @@ Anon reader says the answer is box-checking due to low institutional risk tolera
 	being so large, has >75% of its personal doing effectively administrative/logistical 
 	things, and that you could probably find funny examples of organizational-overhead-
 	proliferation like an HR department so big it needed its own (meta-)HR department.
+	
+Noah Smith says the answer (along with market failures) is deceit and mistakes -- in other words, it's an informational problem; since markets aren't perfectly efficient, costs don't implicitly convey perfect information:
+
+	There is almost certainly some level of pure trickery in the economy — people paying
+	more than they should, because they don’t have the time or knowledge to look for
+	better prices, or because they trust people they shouldn’t trust.
+
+	This is the thesis of the book “Phishing for Phools,” by Nobel-winning economists
+	George Akerlof and Robert Shiller. The authors advance the disturbing thesis that
+	sellers will continually look for ways to dupe customers into paying more than they
+	should, and that these efforts will always be partially successful. In Akerlof and
+	Shiller’s reckoning, markets don’t just sometimes fail — they are inherently subject 
+	to both deceit and mistakes.
+
+	That could explain a number of unsettling empirical results in the economics 
+	literature. For example, transparency reduces prices substantially in health-care 
+	equipment markets. More complex and opaque mortgage-backed securities failed at higher
+	rates in the financial crisis. In these and other cases, buyers paid too much because
+	they didn’t know what they were buying. Whether that’s due to trickery, or to the 
+	difficulty of gathering accurate information, it’s not good — in an efficient economy,
+	everyone will know what they’re buying.
+
+	So it’s possible that many of those anomalously high U.S. costs are due to the natural
+	informational problems of markets.	
+	
+Fc123 says the answer is the resources sinkholed in each industry shifted to servicing, hence extending the definition of, the marginal customer -- from 80/20 to say 95/80. This admittedly hit me personally w.r.t. programming:
+
+	40 years ago hospitals received 100 customers. Ranked, patients 1-20 died. And no
+	one really tried to save them (some comfort but that was it). Today they are trying
+	(are obliged) to try to save patients no 5-15 (the 85 year old with triple bypass,
+	20 week premie). The total no of staff needed for this task swamps increases in 
+	individual productivity. You just need more people, even if they each are more
+	productive or trained than in the pasts. So salaries for each does not go up that 
+	much, there are just more of them, total cost go up, and outcomes over the patients
+	treated are somewhat but not much better (some now make it but some fraction still
+	die). Hence medical curve shows some improvement but not 1:1 with cost.
+
+	In education, in the 1950-1970s we could afford to socially promote non-academically
+	inclined students, not really expend effort on them as long as they kept quiet in 
+	class, then have them leave at age 16 to go work at Ford. Universities could count
+	on getting the higher performing students. Today, we have to deliver much weaker 
+	students all the way to the end of high school, also force many into college. And 
+	ALL the extra resources go to get this new lower end close to what used to be the 
+	minimal university student performance. The top cohort gets little extra resources
+	and has not really improved. Hence, the scores across the new ‘extended’ student 
+	population stays flat.
+
+	I base this partly on what I have seen from my wife (engineering professor at top
+	university), resources are heavily consumed by the lower performing students, top
+	students have better opportunities than 20 years ago but in general the resources
+	are much less focused on them than on the marginal students.
+
+	So if you assume these industries for whatever reason shifted focus to servicing
+	deeper into the tail of the population aptitude/effort over the years (I am not 
+	saying this is good/bad, was for social reasons, for humanistic reasons or making
+	any comment), this would very much explain the overall cost rise, coupled with the
+	lack of desired improvement in statistics measured across the population that now
+	gets services as a whole.
+
+	In short, in the US we define policies that drive costs based on the tail of the 
+	population, but we experience performance on the average. As an immigrant from a
+	third world country I think this is a big difference often invisible to the US-born
+	citizens I talk to. Maybe why this is a great country and I am here. All I can say 
+	is that it is a world view that is not common world wide. Where I grew up, No Child
+	Left Behind law would have been designed as 1 Child Left Behind. There just were not
+	the resources, but more important, it was just more socially acceptable to just halve
+	the no of slots halfway through an academic program, for example.
+
+	So I guess the question is why are we so focused on pushing services into the tails 
+	and will we continue to do so? Does society really benefit from having a larger 
+	fraction of the population capable of doing crappy algebra? Clearly there will be 
+	some point where the cost becomes prohibitive and it will stop: maybe that is what 
+	we are seeing now. But it is stunning that this was a 50 year process — if the dynamics
+	in social policy “markets” are that slow it is going to be really difficult to manage.
+	
+BenWave says the answer is just capitalism: the money is going to the superrich:
+
+	A large majority of the odd features you have picked out about these services are 
+	acting exactly as predicted in Das Kapital volume 2, where Marx studies the process
+	of realisation of invested capital (ie, money spent on labour, materials, tools etc)
+	as the principal plus surplus value in money form. In particular, some of his predictions
+	were:
+
+	1. Gains made by workers through collective action in sites of production can be taken 
+	away again by the landlord, the grocer, the financier etc.
+
+	2. The difficulty in the realisation of capital will incentivise businesses to strive 
+	for monopoly positions (whether by government mandate, mutual cooperations, quasi-
+	monopolies such as real estate, branding and advertising).
+
+	3. The tensions between the production of surplus value and the realisation of surplus 
+	value will tend to set certain sectors of capital against one another – for example 
+	landlords would prefer if workers were well paid, but had to spend larger amounts of
+	money on rent whereas factory owners would prefer to pay workers as little as possible,
+	and that includes low housing costs.
+
+	Later analysis in the tradition of Marx have noticed that financial capital these days
+	is doing very very well compared to workers, but also compared to traditional 
+	industrialists. And four out of the five of your examples are fields in which debt
+	and financing plays a very large role. It’s pretty easy to see that financial 
+	capital would be incentivised to make these things more expensive so that they can
+	extract more money through larger loans and financing. (I’m not certain about subways.
+	Are they typically debt-financed?).
+
+	Financial capital certainly has the economic and political power to push for this, 
+	and they don’t particularly care if they squeeze other holders of capital along they
+	way. They are debt-financed fields in which large monopoly powers exist for one reason
+	or another. And while I acknowledge that bureacratic bloat is certainly playing its
+	role, I’m baffled by the relative lack of consideration of normal capitalist 
+	tendencies on this thread. As far as I can see it is the single most important factor
+	driving up the costs of these services. 
+	
+But Scott isn't convinced:
+
+	Any explanation of the form “evil capitalists are scamming the rest of us for profit”
+	has to explain why the cost increases are in the industries least exposed to evil 
+	capitalists. K-12 education is entirely nonprofit. Colleges are a mix but generally
+	not owned by a single rich guy who gets all the money. My hospital is owned by an
+	order of nuns; studies show that government hospitals have higher costs than for-
+	profit ones. Meanwhile, the industries with the actual evil capitalists – tech, 
+	retail, restaurants, natural resources – seem mostly immune to the cost disease. 
+	This is not promising. Also, this wouldn’t explain why so much of the money seems 
+	to be going to administrators/bells-and-whistles. If prices increase by $100,000,
+	and the money goes to hiring two extra $50,000/year administrators, how does this
+	help the capitalist profiting off it all?	
 	
 Scott ties this back to a lot of politically contentious topics -- college tuition, teacher's unions, healthcare, public housing etc -- with a parable:
 
