@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 5,900*
+*[Word count](https://wordcounter.net/): 9,800*
 
 ## What is this?
 
@@ -11,10 +11,423 @@ This is the "economics, globalization and political science" section of [this no
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
 1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
+2. [Cost disease](#Cost-disease)
 2. [Critique of Freakonomics](#critique-of-freakonomics)
 3. [Framing globalization and modernity in terms of corporations instead of nation-states](#Framing-globalization-and-modernity-in-terms-of-corporations)
 
 ------------------------------------------------
+
+<a name="#Cost-disease"></a>
+## Cost disease
+([overview](#overview))
+
+I was finally moved to start this subsection by public transit nerd Alon over at [Pedestrian Observations](https://pedestrianobservations.com/about/), in particular his [cost disease essay](https://pedestrianobservations.com/2019/03/03/why-american-costs-are-so-high-work-in-progress/). But as with all things, my awareness of the phenomenon really began with Scott Alexander, in this case [his own cost disease essay](https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/). 
+
+The original use of the term comes from [Baumol's cost disease](https://en.wikipedia.org/wiki/Baumol's_cost_disease), which is much more specific:
+
+	the rise of salaries in jobs that have experienced no or low increase of labor
+	productivity, in response to rising salaries in other jobs that have experienced
+	higher labor productivity growth.
+	
+	For instance, if the retail sector pays its managers 19th-century-style salaries,
+	the managers may decide to quit to get a job at an automobile factory, where 
+	salaries are higher because of high labor productivity. Thus, managers' salaries
+	are increased not by labor productivity increases in the retail sector but by 
+	productivity and corresponding wage increases in other industries.
+	
+The original study talked about the performing arts:
+
+	the same number of musicians is needed to play a Beethoven string quartet today as 
+	was needed in the 19th century; the productivity of classical music performance has
+	not increased. On the other hand, the real wages of musicians (as in all other 
+	professions) have increased greatly since the 19th century.
+	
+This applies to other labor-intensive non-routine interaction jobs:
+
+	In a range of businesses, such as the car manufacturing sector and other activities 
+	that involve routine tasks, workers are continually becoming more productive by
+	technological innovations to their tools and equipment. In contrast, in some labor-
+	intensive sectors that rely heavily on non-routine human interaction or activities,
+	such as nursing, education, or the performing arts, there is little or no growth in 
+	productivity over time. As with the string quartet example, it takes nurses the same
+	amount of time to change a bandage or college professors the same amount of time to
+	mark an essay in 2006 as it did in 1966, as those types of activities rely on the 
+	movements of the human body, which cannot be engineered to perform more quickly, 
+	accurately, or efficiently in the same way that a machine, such as a computer, can.
+	
+But that's not what we care about. Scott notes that Tyler Cowen used it to describe a much wider range of civilizational inadequacies, which he introduces then summarizes as
+
+	in the past fifty years, education costs have doubled, college costs have dectupled,
+	health insurance costs have dectupled, subway costs have at least dectupled, and
+	housing costs have increased by about fifty percent. US health care costs about 
+	four times as much as equivalent health care in other First World countries; US 
+	subways cost about eight times as much as equivalent subways in other First World 
+	countries.
+
+	I worry that people don’t appreciate how weird this is. I didn’t appreciate it for a
+	long time. I guess I just figured that Grandpa used to talk about how back in his day
+	movie tickets only cost a nickel; that was just the way of the world. But all of the
+	numbers above are inflation-adjusted. These things have dectupled in cost even after
+	you adjust for movies costing a nickel in Grandpa’s day. They have really, genuinely
+	dectupled in cost, no economic trickery involved.
+
+	And this is especially strange because we expect that improving technology and 
+	globalization ought to cut costs. In 1983, the first mobile phone cost $4,000 – about
+	$10,000 in today’s dollars. It was also a gigantic piece of crap. Today you can get a
+	much better phone for $100. This is the right and proper way of the universe. It’s why
+	we fund scientists, and pay businesspeople the big bucks.
+
+	But things like college and health care have still had their prices dectuple. Patients
+	can now schedule their appointments online; doctors can send prescriptions through the
+	fax, pharmacies can keep track of medication histories on centralized computer systems
+	that interface with the cloud, nurses get automatic reminders when they’re giving two
+	drugs with a potential interaction, insurance companies accept payment through credit
+	cards – and all of this costs ten times as much as it did in the days of punch cards
+	and secretaries who did calculations by hand.
+
+	It’s actually even worse than this, because we take so many opportunities to save money
+	that were unavailable in past generations. Underpaid foreign nurses immigrate to 
+	America and work for a song. Doctors’ notes are sent to India overnight where they’re
+	transcribed by sweatshop-style labor for pennies an hour. Medical equipment gets 
+	manufactured in goodness-only-knows which obscure Third World country. And it still 
+	costs ten times as much as when this was all made in the USA – and that back when 
+	minimum wages were proportionally higher than today.
+
+	And it’s actually even worse than this. A lot of these services have decreased in 
+	quality, presumably as an attempt to cut costs even further. Doctors used to make house
+	calls; even when I was young in the ’80s my father would still go to the houses of 
+	difficult patients who were too sick to come to his office. This study notes that for 
+	women who give birth in the hospital, “the standard length of stay was 8 to 14 days in 
+	the 1950s but declined to less than 2 days in the mid-1990s”. The doctors I talk to say
+	this isn’t because modern women are healthier, it’s because they kick them out as soon 
+	as it’s safe to free up beds for the next person. Historic records of hospital care
+	generally describe leisurely convalescence periods and making sure somebody felt 
+	absolutely well before letting them go; this seems bizarre to anyone who has 
+	participated in a modern hospital, where the mantra is to kick people out as soon as 
+	they’re “stable” ie not in acute crisis.
+
+	If we had to provide the same quality of service as we did in 1960, and without the 
+	gains from modern technology and globalization, who even knows how many times more health
+	care would cost? Fifty times more? A hundred times more?
+
+	And the same is true for colleges and houses and subways and so on.
+	
+Why isn't this due to the Baumol effect introduced above?
+
+	health care and education aren’t paying their workers more; in fact, quite the opposite.
+	
+	Teacher salaries are relatively flat adjusting for inflation. But salaries for other jobs
+	are increasing modestly relative to inflation. So teacher salaries relative to other 
+	occupations’ salaries are actually declining.
+	
+	Professor salaries are going up a little, but again, they’re probably losing position 
+	relative to the average occupation. Also, note that although the average salary of each
+	type of faculty is stable or increasing, the average salary of all faculty is going down.
+	No mystery here – colleges are doing everything they can to switch from tenured
+	professors to adjuncts, who complain of being overworked and abused while making about 
+	the same amount as a Starbucks barista.
+	
+The part where adjuncts make about the same as a barista at Starbucks is striking. 
+
+Why cost disease? Scott forwards some guesses, then criticizes them.
+
+Maybe it's an illusion? Maybe adjusting for inflation is hard, maybe wrong statistics?
+
+	I don’t think this is true. The last time I talked about this problem, someone 
+	mentioned they’re running a private school which does just as well as public schools
+	but costs only $3000/student/year, a fourth of the usual rate. Marginal Revolution
+	notes that India has a private health system that delivers the same quality of care
+	as its public system for a quarter of the cost. Whenever the same drug is provided
+	by the official US health system and some kind of grey market supplement sort of 
+	thing, the grey market supplement costs between a fifth and a tenth as much; for 
+	example, Google’s first hit for Deplin®, official prescription L-methylfolate, costs
+	$175 for a month’s supply; unregulated L-methylfolate supplement delivers the same 
+	dose for about $30. And this isn’t even mentioning things like the $1 bag of saline
+	that costs $700 at hospitals. Since it seems like it’s not too hard to do things for
+	a fraction of what we currently do things for, probably we should be less reluctant 
+	to believe that the cost of everything is really inflated.
+	
+Maybe markets aren't efficient ("just don't work")?
+
+	Suppose that people proved beyond a shadow of a doubt that Khan Academy could teach
+	you just as much as a normal college education, but for free. People would still ask
+	questions like – will employers accept my Khan Academy degree? Will it look good on
+	a resume? Will people make fun of me for it? The same is true of community colleges,
+	second-tier colleges, for-profit colleges, et cetera. I got offered a free
+	scholarship to a mediocre state college, and I turned it down on the grounds that I
+	knew nothing about anything and maybe years from now I would be locked out of some 
+	sort of Exciting Opportunity because my college wasn’t prestigious enough. Assuming
+	everyone thinks like this, can colleges just charge whatever they want?
+
+	Likewise, my workplace offered me three different health insurance plans, and I chose 
+	the middle-expensiveness one, on the grounds that I had no idea how health insurance 
+	worked but maybe if I bought the cheap one I’d get sick and regret my choice, and 
+	maybe if I bought the expensive one I wouldn’t be sick and regret my choice. I am a 
+	doctor, my employer is a hospital, and the health insurance was for treatment in my 
+	own health system. The moral of the story is that I am an idiot. The second moral of
+	the story is that people probably are not super-informed health care consumers.
+
+	This can’t be pure price-gouging, since corporate profits haven’t increased nearly
+	enough to be where all the money is going. But a while ago a commenter linked me to
+	the Delta Cost Project, which scrutinizes the exact causes of increasing college
+	tuition. Some of it is the administrative bloat that you would expect. But a lot of it
+	is fun “student life” types of activities like clubs, festivals, and paying Milo
+	Yiannopoulos to speak and then cleaning up after the ensuing riots. These sorts of 
+	things improve the student experience, but I’m not sure that the average student would 
+	rather go to an expensive college with clubs/festivals/Milo than a cheap college without
+	them. More important, it doesn’t really seem like the average student is offered this 
+	choice.
+	
+Maybe (as the anecdotes above suggest) government is just inefficient relative to private industry?
+
+	I don’t think so. The government handles most primary education and subways, and has 
+	its hand in health care. But we know that for-profit hospitals aren’t much cheaper 
+	than government hospitals, and that private schools usually aren’t much cheaper (and 
+	are sometimes more expensive) than government schools. And private colleges cost more
+	than government-funded ones.
+	
+(That was a bit confusing, because some of it conflicted with the previous anecdotes.)
+
+Maybe it's government regulation? That affects public and private companies both.
+
+	his seems to be at least part of the story in health care, given how much money you
+	can save by grey-market practices that avoid the FDA. It’s harder to apply it to 
+	colleges, though some people have pointed out regulations like Title IX that affect 
+	the educational sector.
+
+	One factor that seems to speak out against this is that starting with Reagan in 1980,
+	and picking up steam with Gingrich in 1994, we got an increasing presence of 
+	Republicans in government who declared war on overregulation – but the cost disease
+	proceeded unabated. This is suspicious, but in fairness to the Republicans, they did
+	sort of fail miserably at deregulating things.	
+	
+	what about pet health care? Veterinary care is much less regulated than human health 
+	care, yet its cost is rising as fast (or faster) than that of the human medical system
+	
+Maybe the increased regulatory complexity isn't through literal regulations but fear of lawsuits? Scott says this is pretty convincing to him, since it jives with his professional experience:
+
+	That is, might institutions add extra layers of administration and expense not because
+	they’re forced to, but because they fear being sued if they don’t and then something 
+	goes wrong?
+
+	I see this all the time in medicine. A patient goes to the hospital with a heart attack.
+	While he’s recovering, he tells his doctor that he’s really upset about all of this. 
+	Any normal person would say “You had a heart attack, of course you’re upset, get over 
+	it.” But if his doctor says this, and then a year later he commits suicide for some 
+	unrelated reason, his family can sue the doctor for “not picking up the warning signs”
+	and win several million dollars. So now the doctor consults a psychiatrist, who does an
+	hour-long evaluation, charges the insurance company $500, and determines using her 
+	immense clinical expertise that the patient is upset because he just had a heart attack.
+
+	Those outside the field have no idea how much of medicine is built on this principle. 
+	People often say that the importance of lawsuits to medical cost increases is overrated
+	because malpractice insurance doesn’t cost that much, but the situation above would never
+	look lawsuit-related; the whole thing only works because everyone involved documents it 
+	as well-justified psychiatric consult to investigate depression. Apparently some studies
+	suggest this isn’t happening, but all they do is survey doctors, and with all due respect
+	all the doctors I know say the opposite.
+
+	This has nothing to do with government regulations (except insofar as these make lawsuits
+	easier or harder), but it sure can drive cost increases, and it might apply to fields 
+	outside medicine as well.	
+	
+Maybe our risk tolerance is lower?
+
+	That is, might increased caution be due not purely to lawsuitphobia, but to really 
+	caring more about whether or not people are protected? I read stuff every so often
+	about how playgrounds are becoming obsolete because nobody wants to let kids run 
+	around unsupervised on something with sharp edges. Suppose that one in 10,000 kids
+	get a horrible playground-related injury. Is it worth making playgrounds cost twice 
+	as much and be half as fun in order to decrease that number to one in 100,000? This
+	isn’t a rhetorical question; I think different people can have legitimately different
+	opinions here (though there are probably some utilitarian things we can do to improve
+	them).
+
+	To bring back the lawsuit point, some of this probably relates to a difference between
+	personal versus institutional risk tolerance. Every so often, an elderly person 
+	getting up to walk to the bathroom will fall and break their hip. This is a fact of
+	life, and elderly people deal with it every day. Most elderly people I know don’t spend
+	thousands of dollars fall-proofing the route from their bed to their bathroom, or
+	hiring people to watch them at every moment to make sure they don’t fall, or buy a 
+	bedside commode to make bathroom-related falls impossible. This suggests a revealed 
+	preference that elderly people are willing to tolerate a certain fall probability in
+	order to save money and convenience. Hospitals, which face huge lawsuits if any elderly
+	person falls on the premises, are not willing to tolerate that probability. They put
+	rails on elderly people’s beds, place alarms on them that will go off if the elderly 
+	person tries to leave the bed without permission, and hire patient care assistants who 
+	among other things go around carefully holding elderly people upright as they walk to 
+	the bathroom (I assume this job will soon require at least a master’s degree). As more 
+	things become institutionalized and the level of acceptable institutional risk tolerance
+	becomes lower, this could shift the cost-risk tradeoff even if there isn’t a population-
+	level trend towards more risk-aversion.	
+	
+Maybe things cost more for those who pay to compensate for those who don't pay?
+
+	This is somewhat true of colleges, where an increasing number of people are getting in on scholarships funded by the tuition of non-scholarship students.
+	
+	I haven’t been able to find great statistics on this, but one argument against: 
+	couldn’t a college just not fund scholarships, and offer much lower prices to its
+	paying students? I get that scholarships are good and altruistic, but it would be 
+	surprising if every single college thought of its role as an altruistic institution,
+	and cared about it more than they cared about providing the same service at a better 
+	price. I guess this is related to my confusion about why more people don’t open up
+	colleges. Maybe this is the “smart people are rightly too scared and confused to go
+	to for-profit colleges, and there’s not enough ability to discriminate between the 
+	good and the bad ones to make it worthwhile to found a good one” thing again.
+
+	This also applies in health care. Our hospital (and every other hospital in the 
+	country) has some “frequent flier” patients who overdose on meth at least once a week.
+	They comes in, get treated for their meth overdose (we can’t legally turn away 
+	emergency cases), get advised to get help for their meth addiction (without the 
+	slightest expectation that they will take our advice) and then get discharged. Most 
+	of them are poor and have no insurance, but each admission costs a couple of thousand
+	dollars. The cost gets paid by a combination of taxpayers and other hospital patients
+	with good insurance who get big markups on their own bills.
+	
+This essay got over a thousand comments. Here are some of the interesting ones.
+
+John Cochrane says the answer is administrative bloat:
+
+	Things cost 10 times as much, 10 times more than they used to and 10 times more 
+	than in other countries. It’s not going to wages. It’s not going to profits. So 
+	where is it going?
+
+	The unavoidable answer: The number of people it takes to produce these goods is 
+	skyrocketing. Labor productivity — number of people per quality adjusted output —
+	declined by a factor of 10 in these areas. It pretty much has to be that: if the
+	money is not going to profits, to to each employee, it must be going to the number
+	of employees.
+
+	How can that happen? Our machines are better than ever, as Scott points out. Well,
+	we (and especially we economists) pay too much attention to snazzy gadgets. 
+	Productivity depends on organizations not just on gadgets. Southwest figured out
+	how to turn an airplane around in 20 minutes, and it still takes United an hour.
+
+	Contrariwise, I think we know where the extra people are. The ratio of teachers to
+	students hasn’t gone down a lot — but the ratio of administrators to students has 
+	shot up. Most large public school systems spend more than half their budget on
+	administrators. Similarly, class sizes at most colleges and universities haven’t 
+	changed that much — but administrative staff have exploded. There are 2.5 people 
+	handling insurance claims for every doctor. Construction sites have always had a 
+	lot of people standing around for every one actually working the machine. But now 
+	for every person operating the machine there is an army of planners, regulators, 
+	lawyers, administrative staff, consultants and so on.
+	
+Administrative bloat is an instance of a deeper issue arising in organic complex systems: technical debt. Or maybe it's related but not the same. Whatever. 
+
+How does bloat come about? Protected monopolies:
+
+	Regulations and law are, as Scott mentions, part of the problem. These are all 
+	areas either run by the government or with large government involvement. But the 
+	real key is, I think lack of competition. These are above all areas with not much
+	competition. In turn, however, they are not by a long shot “natural monopolies” or 
+	failure of some free market. The main effect of our regulatory and legal system is
+	not so much to directly raise costs, as it is to lessen competition (that is often
+	its purpose). The lack of competition leads to the cost disease.
+	
+	Everywhere we see businesses protected from competition, especially highly 
+	regulated businesses, we see the cost disease spreading. And it spreads largely by 
+	forcing companies to hire loads of useless people.
+
+	Yes, technical regress can happen. Productivity depends as much on the functioning of 
+	large organizations, and the overall legal and regulatory system in which they operate,
+	as it does on gadgets. We can indeed “forget” how those work. Like our ancestors peer at
+	the buildings, aqueducts, dams, roads, and bridges put up by our ancestors, whether Roman
+	or American, and wonder just how they did it.
+	
+David "Goodhart's law" Manheim says the answer is superior goods and the sinkholes of unclear ROI around them:
+
+	imagine a guy who makes $40,000/year and eats chicken for dinner 3 nights a week. 
+	He gets a huge 50% raise, to $60,000/year, and suddenly has extra money to spend —
+	his disposable income probably tripled or quadrupled. Before the hedonic treadmill
+	kicks in, and he decides to waste all the money on higher rent and nicer cars, he
+	changes his diet. But he won’t start eating chicken 10 times a week — he’ll start
+	eating steak. When people get more money, they replace cheap “inferior” goods with
+	expensive “superior” goods. And steak is a superior good.
+
+	But how many times a week will people eat steak? Two? Five? Americans as a whole
+	got really rich in the 1940s and 1950s, and needed someplace to start spending their
+	newfound wealth. What do people spend extra money on?
+	
+	There are only a few things that we have a limitless demand for, but very limited
+	ability to judge the impact of our spending. What are they?
+
+	I think this is one big missing piece of the puzzle; in both healthcare and 
+	education, we want improvements, and they are worth a ton, but we can’t figure out
+	how much the marginal spending improves things. So we pour money into these sectors.
+
+	Scott thinks this means that teachers’ and doctors’ wages should rise, but they 
+	don’t. I think it’s obvious why; they supply isn’t very limited. And the marginal
+	impact of two teachers versus one, or a team of doctors versus one, isn’t huge. 
+	(Class size matters, but we have tons of teachers — with no shortage in sight, there
+	is no price pressure.)
+
+	What sucks up the increased money? Dollars, both public and private, chasing hard to
+	find benefits.
+
+	I’d spend money to improve my health, both mental and physical, but how? Extra
+	medical diagnostics to catch problems, pricier but marginally more effective drugs,
+	chiropractors, probably useless supplements — all are exploding in popularity. How 
+	much do they improve health? I don’t really know — not much, but I’d probably try
+	something if it might be useful.
+
+	I’m spending a ton of money on preschool for my kids. Why? Because it helps, according
+	to the studies. How much better is the $15,000/year daycare versus the $8,000 a year
+	program a friend of mine runs in her house? Unclear, but I’m certainly not the only
+	one spending big bucks. Why spend less, if education is the most superior good around?
+
+	We pour money into schools and medicine in order to improve things, but where does the
+	money go? Into efforts to improve things, of course. But I’ve argued at length before
+	that bureaucracy is bad at incentivizing things, especially when goals are unclear. 
+	So the money goes to sinkholes like more bureaucrats and clever manipulation of the 
+	metrics that are used to allocate the money.
+
+	As long as we’re incentivized to improve things that we’re unsure how to improve, the
+	incentives to pour money into them unwisely will continue, and costs will rise. 
+	
+Anon reader says the answer is box-checking due to low institutional risk tolerance (in hedge funds at least), plus organizational complexity scaling quadratically with size (cf. HR department needing its own HR department):
+
+	In the business I know – hedge funds – I am aware of tiny operators running perfectly 
+	functional one-person shops on a shoestring, who take advantage of workarounds for 
+	legal and regulatory costs (like http://www.riainabox.com/). Then there are folks like
+	me who are trying to “be legit” and hope to attract the big money from pensions and 
+	big banks. Those folks’ decisions are all made across major principal/agent divides 
+	where agents are incentivized not to take risks. So, they force hedge funds into an 
+	arms race of insanely paranoid “best practices” to compete for their money. So… my set
+	up costs (which so far seem to have been too little rather than too much) were more 
+	than 10x what they could have been.
+
+	I guess this supports the “institutional risk tolerance” angle. There must be similar
+	massive unseen frictions probably in many industries that go into “checking boxes”.
+
+	Relatedly, a pet theory of mine is that “organizational complexity” imposes enormous 
+	and not fully appreciated costs, which probably grow quadratically with organization 
+	size. I’d predict, without Googling, that the the US military, just as a function of 
+	being so large, has >75% of its personal doing effectively administrative/logistical 
+	things, and that you could probably find funny examples of organizational-overhead-
+	proliferation like an HR department so big it needed its own (meta-)HR department.
+	
+Scott ties this back to a lot of politically contentious topics -- college tuition, teacher's unions, healthcare, public housing etc -- with a parable:
+
+	Imagine if tomorrow, the price of water dectupled. Suddenly people have to choose 
+	between drinking and washing dishes. Activists argue that taking a shower is a basic
+	human right, and grumpy talk show hosts point out that in their day, parents taught 
+	their children not to waste water. A coalition promotes laws ensuring government-
+	subsidized free water for poor families; a Fox News investigative report shows that
+	some people receiving water on the government dime are taking long luxurious showers.
+	Everyone gets really angry and there’s lots of talk about basic compassion and personal
+	responsibility and whatever but all of this is secondary to *why does water costs ten 
+	times what it used to?*
+	
+How this parable applies to soaring college tuition costs:
+
+	If we give everyone free college education, that solves a big social problem. It also 
+	locks in a price which is ten times too high for no reason. This isn’t fair to the 
+	government, which has to pay ten times more than it should. It’s not fair to the poor 
+	people, who have to face the stigma of accepting handouts for something they could 
+	easily have afforded themselves if it was at its proper price. And it’s not fair to 
+	future generations if colleges take this opportunity to increase the cost by twenty 
+	times, and then our children have to subsidize that.
 
 <a name="#Framing-globalization-and-modernity-in-terms-of-corporations"></a>
 ## Framing globalization and modernity in terms of corporations
