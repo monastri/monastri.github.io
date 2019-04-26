@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 15,100*
+*[Word count](https://wordcounter.net/): 15,900*
 
 ## What is this?
 
@@ -27,8 +27,185 @@ I've sorted the quotes below into the following categories. This is a provisiona
 	2. [Program synthesis](#Program-synthesis)
 3. [Why are we trichromats, and not say tetrachromats?](#why-we-are-trichromats)
 3. [Xenology](#Xenology)
+	1. [Do aliens get cancer?](#Do-aliens-get-cancer)
    
 ---------------------------------
+
+
+<a name="#Xenology"></a>
+## Xenology
+([overview](#overview))
+
+<a name="#Do-aliens-get-cancer"></a>
+## Do aliens get cancer
+([overview](#overview))
+
+Leheste et al's [An Evolutionary Perspective of Neoplastic Diseases in the Universe](https://www.cureus.com/articles/17482-an-evolutionary-perspective-of-neoplastic-diseases-in-the-universe) asks a question I didn't think to ask, embarrassingly enough, which merits it a spot here. 
+
+To answer a question I had while reading the paper: 
+
+	Neoplasm is a new and abnormal growth of tissue in a part of the body, especially 
+	as a characteristic of cancer.
+	
+Unfortunately the paper pontificates a lot and is needlessly verbose, which is irritating, so I'll liberally edit out large swathes of quotes -- feel free to read the original paper if you feel I've inadvertently taken things out of context as a result.
+
+Abstract:
+
+	If alien life does indeed exist elsewhere, would extraterrestrial life be burdened 
+	with earthly diseases? Given that the chemistry of the universe is subject to
+	specific rules, restraints, and predictable outcomes, we argue that cancer-signaling
+	pathways might be programmed into the life cycle of habitable exoplanets. This 
+	hypothetical prediction is also based on evolutionary convergence, the repeated 
+	emergence of biological similarity that occurs when disparate life-forms adapt to 
+	comparable selection pressures.
+	
+A bit more from the introduction:
+
+	Alien life might be burdened with Earthly molecular mechanisms (e.g., ligands,
+	receptors, a core set of transcription factors, and cis-regulatory elements) that
+	characterize particular diseases.
+	
+	Of all diseases afflicting life-forms on Earth, cancer is perhaps the most insidious
+	for several reasons: it is a disease widely diagnosed in invertebrate and vertebrate
+	taxa and one that emerged from the recesses of Earth’s most extreme environments
+	close to a billion years ago.
+	
+	If life exists elsewhere, therefore, cancer-signaling pathways would likely be general
+	features of alien life, given the constraints of biological material and the ability
+	of natural selection to favor similar solution outcomes to common environmental problems. 
+	
+A clue:
+
+	Cancer is also observed in a number of invertebrate species distantly related to humans,
+	e.g. marine bivalve mollusks and sponges. 
+	
+	Neoplasia in marine bivalves, for instance, follows a similar pattern of disease 
+	progression as documented in vertebrate cancers: excessive growth of aberrant cells,
+	dissemination of these cells through circulatory systems and infiltration and seeding 
+	of dominant sub-clones into organs. 
+	
+	Thus, it appears that cancer growth is usually driven by highly conserved signaling 
+	pathways present in extant invertebrate and vertebrate species. From this point of view, 
+	organisms with dissimilar genetic backgrounds have evolved chemical signals of similar
+	function via different evolutionary routes. This particular process is known as convergent
+	evolution and exemplifies the ability of distant populations to respond predictably to 
+	environmental challenges.
+	
+	The resemblance of cancer-related signaling pathways between animal taxa raises the
+	possibility of biased genetic constraints owing to similar natural selection pressures.
+	If this proves correct, the likelihood that this Earth-based strategy would be detected
+	elsewhere is relatively high, as both structurally and functionally neoplastic family
+	proteins represent some of the earliest forms of complex chemistry surviving Earth’s 
+	most extreme environments.	
+	
+It's that last sentence that sounds most convincing to me -- take that out and it sounds like they're just reaching. 
+
+The p53 signaling network's generality:
+
+	The p53 signaling network suppresses tumor progression in humans, and accordingly, 
+	mutations of this network often lead to cancer.
+	
+	It is also expressed in most invertebrate taxa, including sea anemones, clams, mussels 
+	and squid... 
+	
+	The prevalence of functionally analogous protein domains and mechanisms leading to 
+	tumor formation in mollusks and sponges suggests that the aforementioned proteins 
+	originally evolved to trigger apoptosis in damaged cells and to protect germ cells 
+	from the deleterious effects of ionizing and/or cosmic radiation. 
+	
+	In this context, ionizing radiation (radiation at the high-energy level of the 
+	electromagnetic spectrum) is a ubiquitous feature of the universe, having wide-ranging 
+	and profound effects on living organisms regardless of biochemistry and genetic background.
+	Ionizing radiation damages nucleic acids and proteins, and long-term exposure to solar 
+	flares and brightness produces high rates of cancer (e.g., skin cutaneous melanoma). Thus,
+	ionizing radiation is a strong selective pressure with a direct effect on life survival.
+	Because of this, it is likely that all domains of life must adapt to similar selective 
+	pressures by evolving analogous signaling pathways that reduce the ability of a tumor cell
+	to survive and proliferate its genome (i.e., to reduce the fitness landscape of tumors). 
+	
+Call it the "ionizing radiation" argument. 
+
+Body surface cancers as the common ancestor of the other 22 kinds of cancers:
+
+	Theoretically, radiation stressors in the range of 290-320 nm (and far ultraviolet
+	radiation, 180-280 nm) would have forced early life forms to evolve protective 
+	chemical and metabolic strategies against parts of the electromagnetic spectrum. 
+	Accordingly, lipid membranes, myelin phospholipids, calcium carbonate-containing
+	shells, melanic scales and feathers and much later the outer skin layers of
+	multicellular organisms would have been most affected by electromagnetic radiation 
+	and the most likely burdened with tumor formation. 
+	
+	This theoretical thinking resonates with and informs major themes in cancer biology.
+	For example, under this scenario, cancer of body surfaces (mucosal sites) would have
+	been the “first” oncogenic event associated with a defined exposure to a carcinogen:
+	ionizing radiation. 
+	
+	Additional cancers would have been derivatives from this “first” oncogenic event, 
+	including cancers associated with metabolism (e.g., pancreatic and kidney cancer) and
+	cancers associated with the release of burned material such as polycyclic aromatic
+	hydrocarbons (e.g., lung cancer). In this context, normal skin cells harbor a large 
+	degree of mutations, and accordingly, skin cutaneous melanoma has the highest 
+	mutational load among 23 human cancer types [28]. This may reflect the long
+	evolutionary trajectory this cancer type has endured, including its interplay with 
+	ancient environmental pressures, development of cell-specific fitness and transitions
+	from normal to malignant cell function.	
+	
+Cancer should be characteristic in aliens:
+
+	Our hypothesis that life-forms elsewhere would have features resembling Earthly
+	diseases such as cancer is based partly upon the following observations: 
+	
+	(i) Chemical elements used for life such as carbon, liquid water, nitrogen, 
+	phosphorus, sodium and other array of elements (e.g., sulfur and calcium) all 
+	linked by the unceasing flow of electrons and protons are widespread in the
+	universe. In addition, amino acids (the building blocks of proteins), constituents
+	of lipids and soluble carbohydrates (i.e., sugars) have been found in meteoritic
+	material. These data point to the universality of atomic elements from which 
+	signaling pathways can be built. 
+	
+	(ii) Chemistry all the way as far as we can see. The cycles and reaction chains 
+	of chemical products that give rise to signaling pathways are not random events 
+	but rather follow deterministic states. For example, atoms form chemical bonds 
+	(e.g., ionic, covalent, polar and non-polar covalent bonds and van der Waals forces)
+	that undergo specific and distinct arrangements to achieve lower potential energies
+	and separation of charge. All of these chemical properties limit or constrain the 
+	function of atoms or groups of atoms on Earth and elsewhere in the universe as far
+	as we can see. 
+	
+	(iii) As previously stated, evolutionary studies indicate that p53 and Mdm2 genes 
+	predated the appearance of cancer. Thus, it is thought that these genes evolved from 
+	unrelated functions to later assume a signaling role in preventing the formation of
+	tumors. The p53 family of genes including, p63 and p73 are ancient DNA sequences with
+	the earliest indication of function dating back to sea anemones (e.g., Nematostella 
+	vectensis), roundworms (e.g., Caenorhabditis elegans) and insects (e.g., Drosophila
+	melanogaster) over a billion years ago.
+	
+The xenological perspective on cancer (albeit terrestrial-biology informed):	
+	
+	Based upon the aforementioned data, it is likely that cancer is an ancient evolutionary 
+	innovation co-opted to evolve along group traits during the transition between 
+	unicellular and multicellular life over 600 million years ago. Indeed, several lines of 
+	evidence suggest that cancer is a breakdown of multicellularity, in which gene networks
+	revert back to a unicellular life by undoing the molecular constraints of cell-cell
+	adhesion, cell motility and cell replication. If this suggestion is sound, it implies 
+	that cancer is embedded in multicellular life, spontaneously arising during consecutive
+	bouts of cell replication across different anatomical sites in a highly non-linear manner.
+	
+My main reservation with the argument above is the lack of imagination, exemplified by the too-narrow conception of convergent evolution (not a feature of biologist thinking: Peter Watts does so much better it's awe-inspiring). For instance:
+
+	Constraints on chemical and biological materials and exposure to similar selective 
+	regimens will produce widespread convergent phenotypic outcomes. ... The chemistry 
+	and biology of alien life will most likely be the same as that of Earth, because there
+	is only one way to assemble living matter and evolution will ensure that life on 
+	exoplanets finds that way.
+	
+And yet they say 
+
+	The idea that cancer would be a feature of alien life is proposed with the intent of 
+	transcending the chemistry and biology as we know it and to anticipate the unexpected: 
+	the existence of diseases on exoplanets
+	
+Oh well...	
 
 <a name="#ChinAI"></a>
 ## ChinAI
