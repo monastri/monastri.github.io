@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 13,500*
+*[Word count](https://wordcounter.net/): 14,700*
 
 ## What is this?
 
@@ -13,9 +13,145 @@ I've sorted the quotes below into the following categories. This is a provisiona
 1. [Chinese perspective on Western elite](#chinese-perspective-on-western-elite)
 2. [Cost disease](#Cost-disease)
 2. [Critique of Freakonomics](#critique-of-freakonomics)
+3. [Economic rationality does not require minds](#Economic-rationality-does-not-require-minds)
 3. [Framing globalization and modernity in terms of corporations instead of nation-states](#Framing-globalization-and-modernity-in-terms-of-corporations)
+4. [Incentives](#Incentives)
+	1. [How incentives work in practice](#How-incentives-work-in-practice)
 
 ------------------------------------------------
+
+<a name="#Economic-rationality-does-not-require-minds"></a>
+## Economic rationality does not require minds
+([overview](#overview))
+
+From strangepoop's comment on Jacobjacob's essay [Unconscious Economies](https://www.lesswrong.com/posts/PrCmeuBPC4XLDQz8C/unconscious-economies), quoting David Friedman's [Price Theory](http://www.daviddfriedman.com/Academic/Price_Theory/PThy_ToC.html):
+
+	The second half of the assumption, that people tend to find the correct way
+	to achieve their objectives, is called rationality. This term is somewhat
+	deceptive, since it suggests that the way in which people find the correct 
+	way to achieve their objectives is by rational analysis--analyzing evidence,
+	using formal logic to deduce conclusions from assumptions, and so forth. No
+	such assumption about how people find the correct means to achieve their 
+	ends is necessary.
+
+	One can imagine a variety of other explanations for rational behavior. To 
+	take a trivial example, most of our objectives require that we eat occasionally, 
+	so as not to die of hunger (exception--if my objective is to be fertilizer).
+	Whether or not people have deduced this fact by logical analysis, those who
+	do not choose to eat are not around to have their behavior analyzed by economists.
+	More generally, evolution may produce people (and other animals) who behave
+	rationally without knowing why. The same result may be produced by a process
+	of trial and error; if you walk to work every day, you may by experiment find
+	the shortest route even if you do not know enough geometry to calculate it. 
+	Rationality in this sense does not necessarily require thought. In the final 
+	section of this chapter, I give two examples of things that have no minds and 
+	yet exhibit rationality.
+
+<a name="#Incentives"></a>
+## Incentives
+([overview](#overview))
+
+I debated for quite a while whether to put this under 'economics' or 'psych'. I would've clustered them together actually, if not for the feeling that econ clusters with globalization and polisci and psych with anthropology, linguistics, culture etc, and that these two clusters happen to be closest at econ/psych but would be more usefully understood as separate otherwise. This is one of the ways this first-try PKM scheme is breaking at the seams. 
+
+<a name="#How-incentives-work-in-practice"></a>
+### How incentives work in practice
+([overview](#overview))
+
+In his essay [Unconscious Economies](https://www.lesswrong.com/posts/PrCmeuBPC4XLDQz8C/unconscious-economies), Jacobjacob articulates a distinction I've vaguely thought about. He gives 3 examples for each stage, I'll just quote one:
+
+	There are at least three ways in which incentives affect behaviour: 
+
+	1) via consciously motivating agents, 
+	2) via unconsciously reinforcing certain behaviour, and 
+	3) via selection effects. 
+
+	I think perhaps 2) and probably 3) are more important, but much less 
+	talked about.
+
+	Example of 1):
+
+		When content creators get paid for the number of views their videos
+		have... they will deliberately try to maximise view-count, for 
+		example by crafting vague, clickbaity titles that many people will
+		click on.
+
+	One objection you might have to this is something like:
+
+		Look at those people without integrity, just trying so hard to 
+		optimise whatever their incentives tell them to! I myself, and indeed
+		most people, wouldn’t behave that way.
+
+		On the one hand, I would make videos I think are good. ... I’m not some
+		kind of microeconomic robot!
+
+		And on the other hand, even if things were not like this… it’s just 
+		really hard to creatively find ways of maximising a target. I don’t know
+		what appeals to ‘the kids’ on YouTube, and I don’t know how to find out
+		except by paying for some huge survey or something... human brains aren’t
+		really designed for doing maximising like that. I couldn’t optimise in 
+		all these clever ways even if I wanted to.
+
+	One response to this is:
+
+		Without engaging with your particular arguments, we know empirically that
+		the conclusion is false. There’s a wealth of econometrics and micro papers
+		showing how demand shifts in response to price changes. ...
+
+		There’s a $10,000/year daycare close to where I live, and when the moms 
+		there take their kids to the cinema, they’ll tell them to pretend they’re 
+		6 and not 7 years old just to get a $3 discount on the tickets. ...
+
+		All in all, if you give people an opportunity to earn some money or time… 
+		they’ll tend to take it!
+
+	This might or might not be a good reply.
+
+	However, by appealing to 2) and 3), we don’t have to make this response *at all*.
+	The effects of incentives on behaviour don’t have to be consciously mediated. Rather...	
+
+		When content creators get paid for the number of views their videos have, 
+		those whose natural way of writing titles is a bit more clickbait-y will 
+		tend to get more views, and so over time accumulate more influence and 
+		social capital in the YouTube community, which makes it harder for less 
+		clickbait-y content producers to compete. No one has to change their
+		behaviour/or their strategies that much -- rather, when changing incentives
+		you’re changing the rules of game, and so the winners will be different.
+		Even for those less fortunate producers, those of their videos which are 
+		on the clickbait end of things will tend to give them more views and money,
+		and insofar as they just “try to make videos they like, seeing what happens,
+		and then doing more of what worked”, they will be pushed in this direction.
+	
+Okay, if this is true and important, why don't standard econ textbooks explain it? Jacob2 offers three reasons: selection pressure for explanations needing fewer inferential steps (because undergrads), focus on mathematical modeling, and focus on the properties of equilibria rather than the processes by which systems attain equilibria. 
+
+JenniferRM quotes David Friedman's [Law's Order](https://www.amazon.com/Laws-Order-What-Economics-Matters/dp/0691090092), which "sort of explores how laws that ignore incentives or produce bad incentives tend to be predictably suboptimal", saying that 
+
+	much of how people decide what to do is based on people finding someone who seems 
+	to be "winning" at something and copy them.
+	
+	Friedman doesn't use the term "mimesis", but this is an extremely long-lived academic
+	keyword with many people who have embellished and refined related theories. For 
+	example, Peter Thiel has a mild obsession with Rene Girard who was obsessed with a 
+	specific theory of mimesis and how it causes human communities to work in predictable
+	ways. If you want the extremely pragmatic layman's version of the basic mimetic theory,
+	it is simply "monkey see, monkey do" 
+	
+	If you adopt mimesis as THE core process which causes human rationality, it predicts 
+	that no new things in the human behavioral range become seriously optimized in a 
+	widespread way until AFTER at least one (maybe many) rounds of behavioral mimetic 
+	selection on less optimized random human behavioral exploration, where an audience can 
+	watch who succeeds and who fails and copy the winners over and over. ...
+	
+	In reality, it does seem to me that mimesis is a BIG source of valid and useful
+	rationality for getting along in life, especially for humans who never enter Piaget's 
+	"Stage 4" and start applying formal operational reasoning to some things. It works
+	"good enough" a lot of the time that I could imagine it being a core part of any 
+	organism's epistemic repertoire?
+
+	Indeed, entire cultures seem to exist where the bulk of humans lack formal operational
+	reasoning. For example, anthropologists who study such things often find that
+	traditional farmers (which was basically ALL farmers, prior to the enlightenment)
+	with very clever farming practices don't actually know how or why their farming 
+	practices work. They just "do what everyone has always done", and it basically works...
 
 <a name="#Cost-disease"></a>
 ## Cost disease
