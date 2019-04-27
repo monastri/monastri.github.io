@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 35,100*
+*[Word count](https://wordcounter.net/): 35,200*
 
 ## What is this?
 
@@ -20,6 +20,7 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [ELI5](#ELI5)
 	1. [Grothendieck toposes](#Grothendieck-toposes)
 2. [Opinions and observations](#math-opinions)
+	1. [Applied math will become more declarative](#Applied-math-will-become-more-declarative)
 	1. [Defining combinatorics](##Defining-combinatorics)
 	2. [Expositions should solve problems terribly](#Solving-math-problems-terribly)
 	2. [Good mathematics](#good-mathematics)
@@ -2265,6 +2266,91 @@ you do need to be prepared. If I solve a problem using complex analysis and you 
 not know anything about complex analysis, it’s unlikely that you’ll learn a whole lot from 
 reading my answer.
 ```
+
+<a name="#Applied-math-will-become-more-declarative"></a>
+### Applied math will become more declarative
+([overview](#overview))
+
+Seems to be related to Alon Amit's [product manager perspective on teaching math](#product-management-of-math). LWer johnswentworth's essay [Declarative mathematics](https://www.lesswrong.com/posts/MHL4zzzzuDMjYNX7v/declarative-mathematics).
+
+What does John mean by 'declarative math'?
+
+	Programmers generally distinguish between “imperative” languages in which
+	you specify what to do (e.g. C) versus “declarative” languages in which you
+	specify what you want, and let the computer figure out how to do it (e.g. 
+	SQL). Over time, we generally expect programming to become more declarative,
+	as more of the details are left to the compiler/interpreter. Good examples
+	include the transition to automated memory management and, more recently,
+	high-level tools for concurrent/parallel programming.
+
+	It’s hard to say what programming languages will look like in twenty or 
+	fifty years, but it’s a pretty safe bet that they’ll be a lot more declarative.
+
+	I expect that applied mathematics will also become much more declarative, for 
+	largely the same reasons: as computers grow in power and software expands its
+	reach, there will be less and less need for (most) humans to worry about the
+	details of rote computation.
+
+	What does this look like? Well, let’s start with a few examples of “imperative”
+	mathematics:
+
+	1. Most grade-school arithmetic: it’s explicitly focused on computation, and 
+	even spells out the exact steps to follow (e.g. long division).
+
+	2. Gaussian reduction, as typically taught in a first-semester linear algebra 
+	class. It’s the undergrads’ version of grade-school arithmetic.
+
+	3. Most of the computation performed by hand in physics, engineering and upper-
+	level econ courses & research, i.e. algebra/DEs/PDEs.
+
+	Contrast to the declarative counterparts:
+
+	1. Figure out what arithmetic needs to be done (i.e. what numbers to plug in) 
+	and then use a calculator
+
+	2. Set up a system of linear equations, then have python or wolfram invert the 
+	matrix
+
+	3. Choose which phenomena to include in a model, set up the governing equations,
+	then use either numerical simulation (for pretty graphs) or a computer algebra
+	system (for asymptotics and scaling relations).
+
+	In the declarative case, most of the work is in formulating the problem, figuring 
+	out what questions to ask, and translating it all into a language which a computer
+	can work with - numbers, or matrices, or systems of equations.
+	
+So far so standard. What got me excited was that John's vision for declarative math isn't at the level of education (as current), but at the level of 'shaping the goals of applied math':
+
+	For the past century, the main objectives of mathematical research programs would
+	be things like existence & uniqueness, or exhaustive classification of some objects,
+	or algorithms for solving some problem (a.k.a. constructive solution/proof). With 
+	the shift toward declarative mathematics, there will be more focus on building
+	declarative frameworks for solving various kinds of problems.
+
+	The best example I know of is convex analysis, in the style taught by Stephen Boyd
+	(course, book). Boyd’s presentation is the user’s guide to convex optimization: it
+	addresses what kinds of questions can be asked/answered, how to recognize relevant
+	applications in the wild, how to formulate problems, what guarantees are offered 
+	in terms of solutions, and of course a firehose of examples from a wide variety of
+	fields. In short, it includes exactly the pieces needed to use the tools of convex
+	analysis as a declarative framework. By contrast, the internals of optimization 
+	algorithms are examined only briefly, with little depth and a focus on things which
+	a user might need to tweak. Complicated proofs are generally omitted altogether, 
+	the relevant results simply stated as tools available for use.
+
+	This is what a mature declarative mathematical framework looks like: it provides a
+	set of tools for practitioners to employ on practical problems. Users don’t need to
+	know what’s going on under the hood; the algorithms and proofs generally “just work”
+	without the user needing to worry about the details. The user’s job is to understand
+	the language of the framework, the interface, and translate their own problems into
+	that language. Once they’ve expressed what they want, the tools take over and handle
+	the rest.
+
+	That’s the big goal of future mathematical disciplines: provide a practical framework
+	which practitioners can use to solve real-world problems in the wild, without having
+	to know all the little details and gotchas under the hood.
+	
+A lot of this seems to tie in with what Wolfram's been trying to do his whole life. 	
 
 <a name="#product-management-of-math"></a>
 ### Product management of math
