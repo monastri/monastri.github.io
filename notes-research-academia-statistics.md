@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 19,400*
+*[Word count](https://wordcounter.net/): 21,900*
 
 ## What is this?
 
@@ -13,6 +13,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
 1. [Advice and tactics](#research-tactics)
 	1. [Using Anki to read a paper in an unfamiliar field thoroughly](#anki-in-research)
 2. [Debt, interpretive labor, distillation](#distillation-and-research-debt)
+2. [Doing science better](#Doing-science-better)
+	1. [Science should be more like open-source software](#Science-should-be-more-like-open-source-software)
 1. [General statistics](#general-statistics)
 2. [Mindset](#research-mindset)
 2. [Productivity](#Productivity)
@@ -29,6 +31,356 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Why I left academia](#Why-I-left-academia)
 
 --------------------------------
+
+<a name="#Doing-science-better"></a>
+## Doing science better
+([overview](#overview))
+
+Honestly most of the "research" part of this sub-notebook is about how to do science better. 
+
+<a name="#Science-should-be-more-like-open-source-software"></a>
+### Science should be more like open-source software
+([overview](#overview))
+
+Brian Armstrong's essay [Ideas on how to improve scientific research: bridging the gap from scientific discovery to new products](https://medium.com/@barmstrong/ideas-on-how-to-improve-scientific-research-9e2e56474132) argues that science should be more like open-source software. Brian, it turns out, doesn't waste words at all, so I had difficulty not just quoting his entire essay. I like this no-BS, every-sentence-is-here-for-a-reason style, even though I don't necessarily aspire to it (except in certain contexts, like convincing no-BS people I have something interesting to say). 
+
+Academic research, Brian claims, is inefficient in terms of
+
+	prioritization of what to work on
+	reproducibility of results
+	alignment to market incentives
+	access to funding
+	cost and delays from academic journals	
+	
+These are depressingly familiar themes. I still like Brian's short-n-sweet executive summary of each.
+
+For instance, here's the reproducibility issue:
+
+	In some fields, more than 50% of experiments are not able to be reproduced.
+	Many papers do not include the underlying datasets. Researchers sometimes
+	have an incentive to hide key details in their paper to stay one step ahead 
+	of competing labs. In addition, negative results⁵ are less likely to be published.
+	
+Prioritization (see also GiveWell on [cause prioritization](https://causeprioritization.org/Cause_prioritization)):	
+
+	We often don’t fund or pursue work that would do the most good⁶. While it can
+	be difficult to tell what a line of inquiry will eventually lead to (many 
+	great discoveries happened while looking at something unrelated), it would be
+	nice if there was a better feedback mechanism from private industry about the
+	most important challenges they are facing. This ties into “market incenives” 
+	below. One scientist I spoke with while writing this post shared an anecdote 
+	that “In my field of [redacted], I see >70% of publications being on technology
+	that will never come close to commercialization. [a recent big push of $100M 
+	in funding] yielded, in my opinion, nothing.”
+	
+Market incentives:
+
+	Research seems too disconnected from the real world at times, perhaps because 
+	scientists don’t often capture the financial upside of their work. Instead, they 
+	use alternate currencies (like citations). Perhaps licensing⁷ could be simplified
+	to align research more with market incentives and help scientists capture more 
+	upside form their inventions.
+	
+Funding:
+
+	It can take a huge amount of time for researchers to apply for grants and receive
+	funding⁸. They often have to alter their ideas⁹ to fit them into grant proposals
+	(i.e. could I argue that this is somehow relevant to defense spending?¹⁰) and a 
+	lot of money goes to running the university itself (about 50% at Stanford, for
+	instance). In addition, a lot of NIH/NSF funding is arguably too conservative.
+	The people writing the grants are trying to minimize downside, not maximize 
+	upside, which means they are likely to overlook (contrarian) breakthrough ideas.
+	
+Speed:
+
+	Making a new discovery is difficult enough, but once one is made, it can still
+	be many years before it sees the light of day. The process of applying to 
+	journals and peer review adds a lot of delay. In addition, people are hesitant 
+	to publish in-progress or half finished work (although “pre-print” servers have
+	helped with this), so there is a tendency to wait until something is “done” to 
+	share it.
+	
+Comprehensibility, which ties in to [research debt](#distillation-and-research-debt) and [terrible academic writing being the norm](#why-academic-writing-sucks):
+
+	Academic papers use a lot of jargon that is only decipherable by other people
+	in the field. Some of this is unavoidable (research is about complex topics),
+	but it also makes it less likely that people outside the field will understand
+	the potential of a new discovery.
+	
+Volume:
+
+	There are a large number of papers published, some without much original content.
+	This can make it difficult to wade through all the material out there to see what
+	might be relevant to you.
+	
+Cost/accessibility, i.e. "goddamn paywalls":
+
+	There are a large number of papers published, some without much original content.
+	This can make it difficult to wade through all the material out there to see what 
+	might be relevant to you.
+	
+	The academic journals seem to slow things down in terms of time and money, in
+	exchange for providing some curation and credentialing. The aggregate revenue of 
+	the academic journals is about $20B annually, for little value add.
+	
+What Brian calls the "ivory tower", which sounds to me more like fragmentation due to balkanization and this-is-my-turfing:
+
+	Research can take place anywhere from CERN’s Large Hadron Collider to a garage, 
+	and be done by anyone from tenured professors to hobbyists (or even anonymous
+	people). It can also take place in private companies, and in any language 
+	(right now there is a barrier between machine learning papers published in 
+	Chinese and English). It would be nice to see a wider definition of research
+	come together all in one community.
+	
+Brian wants research to be "more like open-source software" (yay!) and "more aligned with market incentives (not sure about this, sounds like a potential failure mode). He wants "prioritization like Reddit, comments like Google Docs, and pull requests like GitHub" (also yay!). 
+
+His proposed solution? 
+
+	an app or website that brings together a community of researchers in a novel
+	way. It attempts to improve the quality and speed at which research gets done,
+	how it gets communicated to entrepreneurs and business people, and how scientists
+	could get funding and upside.
+
+	This is idea is not very new, I just don’t think it’s been executed on yet.
+
+	You’ll see elements of Reddit, Github, Wikipedia, StackExchange, RapGenius, and 
+	Kickstarter present. Part of this is really just taking the best of what is 
+	already working online.
+
+	The other part of this is providing a viable alternative to scientific journals.
+	To do this we need to replicate the positive aspects of journals (curation of
+	content and status/reputation for those getting published) and eliminate the 
+	negative aspects (cost and delays).
+	
+How to solve prioritization? PageRank-style:
+
+	The sheer volume of papers published every day is overwhelming. If we can get 
+	trusted people to rate papers, we can turn this into rankings or leaderboards. 
+	Imagine being able to see the “top papers in biology this year/month/week” based 
+	on crowd sourced votes from knowledgeable people. If you only have a few hours 
+	to read papers in a month (like me), this would help a lot.
+
+	Perhaps out of some sense of politeness, people in academia seem to be reluctant
+	to give a thumbs up/down to their colleagues work in a public forum. Journals 
+	often don’t publish the identity of the people doing the peer review. This strikes
+	me as a key part of the problem.
+
+	The ratings could be similar to Google’s Page Rank algorithm, meaning they are 
+	weighted by how knowledgeable or trusted the rater is.
+
+	I could imagine research being rated across a handful of metrics:
+
+	1. Originality: Is there a genuine breakthrough here that added a branch on the 
+	tree of knowledge?
+
+	2. Reproducibility: Does the paper contain sufficient detail for others to reproduce
+	the work, and how many other people/labs have actually been able to do so?
+
+	3. Commercial viability: Could this research plausibly lead to something that would
+	benefit people?
+
+	These ratings could be aggregated into an overall score for each paper, possibly
+	eventually incorporating hundreds of variables (like Page Rank). There are some
+	basic rankings today, such as the H-Index, which looks at how often a paper is cited.
+
+	It would be interesting to try aggregating papers into meta studies as well, to
+	generate a “confidence” score on a particular conclusion, and see how it has changed
+	over time.
+
+	There should be some way to clearly mark research as “in progress” as well to prevent
+	people getting negative ratings before it is really “finished”. In theory, all
+	research is “in progress”, so the idea of a static PDF seems woefully outdated.
+	
+Of course I agree with the last part by the way. It's [the entire reason this notebook exists](https://github.com/monastri/monastri.github.io/blob/master/README.md).	
+
+I also approve of Brian's sketch at a score for meta-analyses. 
+
+How to gain trust, so people use the platform? Reputation like Reddit/SE:
+
+	The reputation of the people doing the rating (and discussion) in the community is
+	the other key component here. For this site to be trusted, the people with real
+	knowledge of a field need to have their voice rise to the top, and not be drowned
+	out or bullied by the internet trolls. Similar to other online forums (Reddit, 
+	Hacker News, StackExchange) users should develop a reputation over time based on
+	their contributions. This can be derived from their comments, edits, original 
+	research, or it could be their reputation outside of the app (LinkedIn, more 
+	traditional academic credentials, etc) which could appear on a profile page. In
+	other words, traditional academic credentials shouldn’t be the only way to develop
+	a reputation in research. ...
+	
+	The most important reason to have reputation on the site is just to have sane 
+	discussion take place so that legitimate scientists feel they can interact with 
+	other rational people.
+	
+Should we allow anons? Yes, to allow dissent without repercussion:
+
+	It’s an interesting question about whether the site should allow anonymous users. 
+	My instinct is to say yes, and allow users to be anonymous if they want to. The
+	reason is simply that there are some fields where it is difficult to offer a 
+	dissenting opinion without repercussions. As Sam Altman points out, “nearly all 
+	ideas that turn out to be great breakthroughs start out sounding like terrible 
+	ideas”. Galileo was famously imprisoned for proposing the idea that the earth 
+	moved around the sun. Satoshi proposed the idea of Bitcoin under a pseudonym. 
+	I’ve heard stories from a handful of scientists who faced retaliation when their
+	research was contradictory or competitive with another well respected person in
+	the field.
+
+	Users who want to remain anonymous may not be able to bring their external 
+	reputation with them to the site (this is downside), but hopefully they can
+	speak freely and “crazy” ideas can be evaluated on their own merit.
+	
+How to align incentives, encourage participation? Incentivize community norms with money, e.g. an ICO:	
+
+	How do we align incentives amongst everyone in this community? We want to encourage
+	participation (submitting research, commenting/editing, etc) and also fund research 
+	that the community deems worthy.
+
+	One idea on this is to do an ICO of sorts, and give away a coin that incentivises 
+	the behavior the community needs to keep growing. People could potentially also 
+	apply for grants and get paid in this new coin.
+	
+How to capture commercial upside? By simplifying the hell out of licensing -- the dream is one-click a la Amazon:
+
+	Today, there is a ton of promising research that never gets commercialized.
+	When it does happen, a company or entrepreneur typically reaches out to the
+	tech transfer office of the university to try and license the technology. Or
+	in some cases, the researchers themselves try to spin out companies, with
+	varying degrees of success.
+
+	I wonder if the process of licensing technology from researchers could be made
+	much simpler. Imagine having a “License” button at the bottom of every research
+	paper profile page that hand holds you through the process. Or imagine having
+	standard licensing terms, similar to the YCombinator SAFE documents, but for 
+	licensing the technology. Ideally, people could license your technology in 5 
+	minutes, without ever having the pick up the phone.
+
+	Every piece of research published could be available under one of the following 
+	licenses (for instance):
+
+	1. Free, public domain: This could actually be a requirement depending on the 
+	source of funding.
+
+	2. “Standard” license terms: For instance, receive 1–5% of profit for any product
+	derived from it for the first 5 years. Non-exclusive license.
+
+	3. Custom: Contact the tech transfer office (or equivalent) to discuss a custom deal.
+	
+I'm never sure when it comes to aligning with market incentives, because the market is [Not Your Friend](https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/). 
+
+How to make research more comprehensible? Plain English summaries:
+
+	I find most academic papers to be fairly challenging to read, so it would be
+	great to see a “plain English” explanation of what each paper attempted to do,
+	and what it found. These summaries could be crowdsourced like Wikipedia or 
+	written by paying grad students, for instance.
+
+	Most papers contain an “abstract” and “conclusion” section that takes a good
+	step in this direction, but I don’t think it goes far enough.
+
+	I think summarizing research for a wider audience could be dramatically improved,
+	perhaps targeting a high school or bachelors level of reading, or limiting 
+	summaries to the N most common words in the English language. Wikipedia is a 
+	great example to follow here. They have some content on how to make technical 
+	articles more understandable and how to write clear articles in general. Their
+	guidelines suggest a “straightforward, just the facts” style that is free from
+	opinion and “available to the widest possible general audience”
+
+	I’ve wondered at times whether scientists are hesitant to explain things in plain
+	language for good reason. People may inappropriately act on what they are saying 
+	as medical advice, they may be misquoted or attacked by digital mobs, or they may
+	be accused of “hyping” their work instead of speaking in the precise language of 
+	science. Speaking in code helps ensure that only the people they want to speak with
+	can understand what they’re saying. This is a reasonable survival instinct, but it
+	also means that most research is happening in small closed groups. Wikipedia I
+	think demonstrates that it is possible to explain complex topics to a wide audience
+	while still getting into technical detail when necessary.
+	
+It's definitely [not this easy](#distillation-and-research-debt), but I applaud the spirit. 
+
+How to improve collaboration, discussion, editing? See Reddit/SE and Google Docs, as well as "perpetual drafts"/"perpetual beta":
+
+	It would be great to see modern tools in this area applied to research.
+
+	Sites like Reddit, Hacker News, and StackExchange have demonstrated 
+	how powerful nested and voted/sorted comments are. It’s surprising to me
+	that this hasn’t become ubiquitous on the internet. They are not terribly
+	difficult to implement, yet the vast majority of sites on the internet
+	still have comment section that are chronological and filled with low 
+	quality content. This includes every site I’ve seen where academic research
+	can be discussed.
+
+	It would also be interesting to try inline comments like on Genius.com or 
+	Google Docs to discuss specific lines in papers.
+
+	Discussion is just scratching the surface though. Why not allow people to 
+	submit pull requests to papers like on Github, or make suggested edits like
+	in Google Docs? Why not let people add collaborators (even if they’ve never
+	met in real life). Why not let people fork research and take it in a new 
+	direction?
+
+	One of the biggest issues with research today (at least in my view) is that
+	teams seem to work in isolation until something is “done” or ready for publication.
+	Of course, research (just like software) is rarely “done”; it is continually
+	being refined. I think open source software has
+	a much better model and culture here, where you make your very first commit 
+	public from day one and it is never “done”. It’s totally ok in open source 
+	to show work that is “in progress”. In fact, that is half the point because
+	you never know who might show up to help you along the way.
+	
+How to reduce siloing/balkanization? The above tools, as well as Reddit/SE/Google Docs, already allow for that, and we see this in practice already -- see also small research centers like Caltech and the Santa Fe Institute that are necessarily (sometimes gleefully) interdisciplinary. Brian doesn't have much to say here that I don't already know:
+
+	Many great innovations happen as a by product of trying to build something.
+	Bringing applied scientists, engineers, and researchers closer together in one
+	community could help a lot.
+
+	It could be great to see tenured professors and tinkerers commenting side by 
+	side. We could expand the number of people collaborating on a particular problem
+	by 10x.
+	
+How to encourage perpetual beta? Incentivize research in progress, refactor "the fundamental unit of science":
+
+	A paper implies a finished publication with a fixed set of contributors.
+
+	It would be great if people could post in progress research as well. Maybe just
+	a hypothesis (something you’d like to see tested in the future), or a dataset
+	(that you weren’t able to draw any conclusions from, but maybe someone else 
+	could). This could also take the form of a Jupyter notebook.
+
+	Maybe the more fundamental unit is really an experiment. What did you try? What
+	was the result? What does this imply? How sure are we that it is true/correct?
+	What are some examples where this could be useful?
+	
+What hacks and workarounds are people already using today, since Brian's dream app above doesn't exist yet? I liked this section as a resource. Basically 
+
+- networking/conferences/friends (problem: relies too much on happenstance)
+- Wikipedia (for plain language summaries)
+- GitHub (datasets)
+- Arxiv.org, PubMed, PubChem, Biorxiv, etc (goddamn paywalls)
+- Reddit/HackerNews/StackExchange (ranking and rep, plus filtering, subreddit-specific)
+- Sci-Hub (goddamn paywalls, and screw the guys who say it's illegal)
+- Google Scholar, ResearchGate
+- Meta.org, OccamszRazor (using NLP to make discovering related papers easier)
+- Center For Open Science (hell yeah open science!)
+- Experiment.com / ScienceExchange.com (crowdsourcing science!)
+
+Some other comments by scientists who read Brian's essay below. 
+
+- apparently there used to be greater information flow between scientists and businesspeople, but "the modern NSF/NIH grants system arose out of Vannevar Bush’s memos, which federalized scientific research and set up a division between scientists and businessmen"
+- publishing leading to additional grants being "the root of the problem":
+
+	Grants from the NIH are the lifeline of most academic labs, and they heavily 
+	weight prestigious publications i.e. Nature, Science, Cell. Many of the top
+	journals are for-profit, so they are optimizing for getting the hot science
+	stories first for readership (a la CRISPR), rather than reproducibility or 
+	commercialization. In addition the NIH is in reality, quite risk averse, and
+	skews towards funding already established investigators that are proposing 
+	incremental de-risked science. We often put famous investigators on our grant
+	because we knew it would increase our chances of getting grants. In my old 
+	lab (one of the most highly funded in California), our PI (boss) would actually
+	get grants for work he had already done and in reality use the grant for other
+	new work, which speaks to how risk averse the grant system is.
+	
+Way too many actually, check out the essay for more.	
 
 <a name="#distillation-and-research-debt"></a>
 ## Distillation and research debt
