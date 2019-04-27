@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 4,000*
+*[Word count](https://wordcounter.net/): 4,400*
 
 ## What is this?
 
@@ -10,10 +10,57 @@ This is the "psychology, anthropology, linguistics and culture" section of [this
 
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
+1. [Amish-inspired strategic norms around technology](#Amish-inspired-strategic-norms-around-technology)
 1. [Pirahã](#Pirahã)
 2. [Trivial inconveniences](#Trivial-inconveniences) 
 	
 ----------------------------------------
+
+<a name="#Amish-inspired-strategic-norms-around-technology)"></a>
+## Amish-inspired strategic norms around technology
+([overview](#overview))
+
+	Amish communities are not relics of a bygone era. Rather, they are 
+	demonstrations of a different form of modernity.
+
+From Raemon's [LW essay of essentially the same name](https://www.lesswrong.com/posts/36Dhz325MZNq3Cs6B/the-amish-and-strategic-norms-around-technology), reviewing David Friedman's [Legal Systems Very Different From Ours](http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/LegalSystemsDraft.html), in particular the chapter on the Amish:
+
+	The Amish relationship to technology is not "stick to technology from the 
+	1800s", but rather "carefully think about how technology will affect your
+	culture, and only include technology that does what you want."
+
+	So, electric heaters are fine. *Central* heating in a building is not. This
+	is because if there's a space-heater in the living room, this encourages 
+	the family to congregate together. Whereas if everyone has heating in their
+	room, they're more likely to spend time apart from each other.
+
+	Some communities allow tractors, but only if they don't have rubber tires.
+	This makes them good for tilling fields but bad for driving around.
+
+	Cars and telephones are particularly important not to allow, because easy 
+	transportation and communication creates a slippery slope to full-connection
+	to the outside world. And a lot of the Amish lifestyle depends on cutting 
+	themselves off from the various pressures and incentives present in the rest
+	of the world.
+
+	Some Amish communities allow people to borrow telephones or cars from non-
+	Amish neighbors. I might have considered this hypocritical. But in the 
+	context of "strategic norms of technology", it need not be. The important bit
+	is to *add friction* to transportation and communication.
+	
+The rest of Raemon's essay is about how they can apply it to their daily life in a modern world, but I'm more interested in David's book. Here's David reiterating the point above in a footnote:
+
+	A point several of the authors writing about the Amish emphasize is that they 
+	freely use quite a lot of modern technology. Their view is not that modern 
+	technology is wicked but that some specific technologies are likely to disrupt
+	their social system and should be rejected on that account. 
+	
+	Thus Amish use battery powered devices but refuse to connect to the power grid,
+	permit (in some affiliations) tractors but only if they have metal rather than
+	rubber wheels and so are not suitable for on road transportation, in some cases
+	use power hay bailers pulled through the fields on horse drawn wagons. The 
+	details of what technologies may be used in what way depend on the ordnung (their
+	own system of rules) of the particular congregation.
 
 <a name="#Trivial-inconveniences"></a>
 ## Trivial inconveniences
