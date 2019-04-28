@@ -34,6 +34,46 @@ Here's Frank R. Paul:
 
 ![city-frank-paul](https://davidszondy.com/futurepast/images/Futurecity-01.jpg)
 
+David comments:
+
+	The city is a massive pile of steel, plastic and glass put together in a way 
+	that not only has no past, but actively rejects it.  It is a place of heroic
+	technology with skyscrapers the size of whole districts, roof-top aerodromes,
+	wide pedestrian boulevards, and metal roadways strangely devoid of traffic. 
+	There are even urban space launch pads where giant rockets are winched upright
+	before blasting off to the heavens.  Noise regulations, Shmoise regulations.
+
+Why doesn't this make sense? Because most cities aren't like Brasilia or Putrajaya, they have pasts and local histories. That's what makes New York different from London different from Los Angeles different from Tokyo different from Moscow different from Dubai.
+
+The early artist-prophets were obsessed with gigantism, which I fully share. Here's a rather Brutalist depiction from the movie *Metropolis* (1926):
+
+![city-metropolis-1926](https://davidszondy.com/futurepast/images/Metropolis-01.jpg)
+
+This is New York 2032, one of my favorite future-city depictions of all time, from a 1932 edition of what's probably the precursor to *Popular Science*:
+
+![new-york-2032](https://davidszondy.com/futurepast/images/newyork_2032.jpg)
+
+David: 
+
+	Look at this prediction of a future New York City from 1932.  On the lower 
+	centre of the painting you can see a very small Empire State Building, which
+	was clearly preserved by the City Fathers to merely provide scale.  The 
+	building across the road is at least twice as tall and four by six city blocks
+	wide. The one behind it is even taller. Heck, the ornamental carvings holding
+	up the clock are nearly as tall as the Empire State Building! You'll also 
+	notice that not only are there sky bridges to keep the proles off the ground 
+	and aerodromes on top of various buildings, but one has a hanger big enough 
+	to hold several zeppelins!
+	
+	These people weren't thinking of buildings as buildings, but as little self-
+	contained cities where people would live out their lives for weeks at a time
+	without ever approaching the ground. 
+	
+*Love* the idea of self-contained-city-buildings. (Living in it? Different story...) A 1939 description of living in this sort of future city:
+
+![city-1939-gigantism](https://davidszondy.com/futurepast/files/tomorrowcity.jpg)
+
+
 
 <a name="#rhizomatic-frankenstack"></a>
 ## Rhizomatic frankenstack
