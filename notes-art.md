@@ -250,7 +250,55 @@ Lucifuge:
 
 Molars of the Leviathan:
 
-![molars leviathan](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdM1bmpWXRCeIeZhFmuy9glbL6sDCmKUp6R2H7QXR4QY25_pBAdg)
+![molars leviathan](http://www.cvltnation.com/wp-content/uploads/2015/03/11.jpg)
+
+War-horse:
+
+![warhorse](http://www.cvltnation.com/wp-content/uploads/2015/03/41.jpg)
+
+Agares:
+
+![Agares](https://www.cvltnation.com/wp-content/uploads/2015/03/42.jpg)
+
+Valefar:
+
+![valefar](https://www.cvltnation.com/wp-content/uploads/2015/03/71-700x514.jpg)
+
+A female soul:
+
+![female soul](https://www.cvltnation.com/wp-content/uploads/2015/03/23.jpg)
+
+Damnation:
+
+![damnation](https://www.cvltnation.com/wp-content/uploads/2015/03/33.jpg)
+
+Two demons:
+
+![two demons](http://1.bp.blogspot.com/_6zauHO1pJ1k/SYSmX2Ij2uI/AAAAAAAAARM/atRdLBaQVYc/s1600/8c871c6d1734f1c88ae9074be6efe116.jpg)
+
+Baron Faraii:
+
+![baron faraii](https://scontent.fkul1-1.fna.fbcdn.net/v/t1.0-9/31353928_809000292626215_6391581029223628800_n.jpg?_nc_cat=107&_nc_ht=scontent.fkul1-1.fna&oh=7ccdd7723ea37e381fdd6eaa59a8768d&oe=5D72AE28)
+
+Some flying creature:
+
+![flying creature](https://scontent-atl3-1.cdninstagram.com/vp/910ba3e14540f1d03c9f4bec909cd52b/5D3C919F/t51.2885-15/e35/56405604_1194723734021297_565923358397459215_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com)
+
+Some walking creature:
+
+![walking beast](https://scontent-frx5-1.cdninstagram.com/vp/aa49807a95587e95e3c7247a6178d37f/5D65FECE/t51.2885-15/e35/47343586_126399278380137_2235190339093272801_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&se=7&ig_cache_key=MTkzNzM5NTQwNTQ3MTIwMjIwOQ%3D%3D.2)
+
+Walking souls:
+
+![walking souls](http://vincent.j.michel.free.fr/Images/barlowe023.jpg)
+
+More walking beasts:
+
+![walking beasts many](https://img.fireden.net/tg/image/1455/83/1455831982928.jpg)
+
+The city:
+
+![barlowe city](http://vincent.j.michel.free.fr/Images/barlowe014.jpg)
 
 
 <a name="##How-people-thought-the-future-would-be-like"></a>
