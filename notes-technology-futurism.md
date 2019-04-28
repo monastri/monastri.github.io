@@ -10,16 +10,30 @@ This is the "technology and futurism" section of [this notebook](https://monastr
 
 I've sorted the quotes below into the following categories. This is a provisional taxonomy, subject to perpetual refactoring. The reason it has a [Borgesian flavor](https://github.com/monastri/monastri.github.io/blob/master/poetry.md#the-celestial-emporium-of-benevolent-knowledge) is that it's meant to aid recall and idea-building. The categories are ordered alphabetically; the actual quotes (the top-level categories that is) are chronologically added.
 
-1. [The Singularity](#the-singularity)
+1. [How people thought the future would be like](#How-people-thought-the-future-would-be-like)
+1. [Rambling and AI](#rambling-and-ai)
+2. [The Singularity](#the-singularity)
 	1. [The three main schools of thought](#Three-Singularity-schools)
 	2. [Replacing humans at every step of the economic chain](#replacing-humans-at-every-step-of-the-economic-chain)
 	2. [Disneyland with no children](#Disneyland-with-no-children)
 	3. [The Singularity has already happened](#the-singularity-has-happened)
 2. [The origins of information society](#Origins-of-information-society)
-3. [Rambling and AI](#rambling-and-ai)
 4. [The rhizomatic frankenstack of today's IT ecosystem](#rhizomatic-frankenstack)
 
 ---------------------------------------------------
+
+<a name="##How-people-thought-the-future-would-be-like"></a>
+## How people thought the future would be like
+([overview](#overview))
+
+From David S. Zondy's [Tales of Future Past](https://davidszondy.com/futurepast/index.html) website, which I loved as a kid.
+
+My favorite section was the one on cities. 
+
+Here's Frank R. Paul:
+
+![city-frank-paul](https://davidszondy.com/futurepast/images/Futurecity-01.jpg)
+
 
 <a name="#rhizomatic-frankenstack"></a>
 ## Rhizomatic frankenstack
