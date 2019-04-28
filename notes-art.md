@@ -37,6 +37,220 @@ Semjaza Rising:
 
 ![semjaza rising](https://waynebarlowe.files.wordpress.com/2011/06/semjaza-rising-small-copy.jpg)
 
+An Abyssal outside Adamantinarx:
+
+![abyssal](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_hells-first-born.jpg)
+
+Barlowe:
+
+	A giant Abyssal stands upon a scalding field outside the walls of Adamantinarx. 
+	Sharing the world of Hell, the demons and Abyssals co-exist in an uneasy
+	relationship with both sides preying upon each other. There is, however, an odd
+	mutual respect between them. Hunted for their skins and their usefulness as war-
+	beasts, many Abyssals evoke an attitude of savage respect from the demons, while, 
+	for their part, the more intelligent of the Abyssals keep their distance, 
+	understanding the innate superiority of the new-comers. This understanding 
+	doesn’t inhibit the native creatures one bit if the opportunity arises to waylay
+	a group of demons that might have lost their way in the wild Wastes.
+	
+The Wargate, the second-largest structure in Hell:	
+
+![wargate](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_wargate.jpg)
+
+Barlowe:
+
+	A massive procession snakes away from the second largest structure in Hell. 
+	Situated on the edge of a great lake of lava on the outskirts of Dis, the 
+	Wargate’s only rival in sheer scale is Beelzebub’s Keep itself. Built to 
+	commemorate those lost in the War with Heaven it also serves as the 
+	headquarters for Dis’ military. While most buildings in Dis are composed 
+	entirely of soul-bricks, the Wargate was erected around a natural volcanic 
+	plug, its outer surfaces smoothed by slave labor that took eons and countless 
+	souls to complete. Once the work-force was finished they were converted into
+	the buildings that now stand at its base.
+	
+Sargatanas and the Behemoths:	
+
+![sargatanas behemoths](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_sargatanas-before-behemoths.jpg)
+
+Barlowe:
+
+	Created primarily as siege weapons, the Behemoths can prove to be potent weapons
+	upon the battlefield as well. Equipped with two massive bone-hammers and a heavy
+	chin-blade these greatly enlarged souls are the once-cruel rulers of Asian 
+	empires transformed by the Demon Major Yen Wang to suit his needs. Donated to 
+	the Rebellion, they proved to be an invaluable military asset to Sargatanas.
+	
+Beelzebub’s Keep:	
+
+![bezzlebub's keep](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_beelzebubs-keep.jpg)
+
+Barlowe:
+
+	There is no single construct in Hell that typifies the monolithic evil of its
+	rulers more than this enormous edifice. Thousands of feet high, surrounded by
+	lava and blanketed in a thick mantle of necrotic flesh, the Keep is an 
+	artificial mountain that encompasses the infernal seat of power. Built above 
+	the living tomb of an imprisoned Watcher, it is a labyrinth of claustrophobic
+	tunnels and corridors that would take a lifetime to explore – if one had the 
+	courage. At its center rears Prince Beelzebub’s Dome, the largest domed 
+	structure in Hell, beneath which is its feared Rotunda, the Prince’s audience
+	chamber. Whispered rumors do not begin to tell of the horrors it has witnessed,
+	nor of the terrible orders which have issued from within its confines.
+	
+Caravan leaving Adamantinarx:	
+
+![caravan leaving adamantinarx](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_leaving-adamatinarx.jpg)
+
+Barlowe:
+
+	Caravans of all description cross the hostile Wastes, braving Abyssals, 
+	Salamandrine Men and marauding demons from enemy realms. Unless they are escorted
+	by significant numbers of armed demons they are frequently lost without a trace.
+	This party is fortunate in having a few important Demons Minor amongst their 
+	number and would probably be safe enough in any short journey within their own
+	kingdom. In the background lies Adamantinarx itself, that most un-Hellish of 
+	infernal cities.
+	
+Demolishers:	
+
+![demolishers](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_demolishers.jpg)
+
+Barlowe:
+
+	Part of the vanguard of Dis’ army is its intimidating force of various engineering
+	“vehicles”. Demolishers are among the largest soul-constructs found in Hell, each
+	massive creation composed of hundreds of compressed souls. So heavy that they need
+	supernatural augmentation to move, they are lumbering, building-crushing tanks
+	capable of chewing their way through soul-bricks and natural stone alike. Only the
+	thickest-built archiorganic structures can withstand the Demolishers which is why 
+	each is commanded by a powerful Demon Minor wise in the invocations necessary to 
+	further weaken them.
+	
+The Examination	
+
+![The Examination](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_examination.jpg)
+
+Barlowe:
+
+	While souls are treated as a resource by demons in an unthinkable number of ways in
+	Hell, a true understanding of them as once-living organisms on a physical level is 
+	absent. The fact that Lucifer went to war in large part because of them has created
+	a curiosity that many demons find irresistible.
+	
+Sargatanas descending:	
+
+![Sargatanas descending](https://waynebarlowe.files.wordpress.com/2011/06/sargatanas-descending-color-corrected-copy.jpg)
+
+Barlowe:
+
+	 Like all Demons Major, Sargatanas is a metamorphic being. Because distances between 
+	 cities in Hell are considerable – determined for the most part by where the most 
+	 influential demons Fell – the need to travel quickly between them is rare. Nonetheless,
+	 demons like Sargatanas are capable of sprouting great fan-like wings that bear some
+	 resemblance to their former seraphic or cherubic wings for just such journeys. Nearly 
+	 all semblance of anthropomorphism is lost in this demonic form. Here potent glyphs 
+	 stream away from the wings’ trailing edges, glyphs that not only keep the demon aloft 
+	 but also delineate territories and can carry commands to nearby airborne troops.
+	 
+The streets of Dis:	 
+
+![streets of dis](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_streets-of-dis.jpg)
+
+Barlowe:
+
+	Hell’s capital is a teeming metropolis of many millions. A tangle of streets beyond 
+	count, the city’s arteries are clogged with work-gangs of souls and demons of every 
+	description.
+	
+A Salamandrine Man:	
+
+![Salamandrine Man](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_salamandrine-man.jpg)
+
+Barlowe:
+
+	I discovered a reference to the Salamandrine Men or Men of Wrath in an old 
+	book and was immediately intrigued. I decided to transform them into the 
+	indigenous peoples of Hell, there long before the demons Fell and the Inferno
+	was populated by the damned. I see them as fierce fighters, tribal and semi-
+	nomadic, hunting Abyssals and waging a constant battle against not only the
+	extreme elements of the Wastes but, also, the demons and souls. Aware that 
+	their era is coming to a close, their heightened bitterness compels them to
+	acts of wanton aggression against any intruders who stray into their territories.
+
+Abaddon of the Pit:
+
+![abaddon](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_abaddon.jpg?w=226&h=300)
+
+Barlowe's Inferno:
+
+![Barlowe's Inferno](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_inferno.jpg)
+
+Barlowe:
+
+	The unpredictable chaos of Hell is present even in the most advanced of its 
+	cities. Dis, like all of its sister cities, suffers from wrenching, deafening 
+	upheavals that tear through the city breaking away and sending archi-organic 
+	buildings high into the air. These float about, sometimes leaving the city’s
+	wards entirely, making their way into the darkness of the Wastes where they 
+	are never seen again. Do they eventually land only to be in habited by 
+	Salamandrine Men or Abyssals? Few have ever found out and fewer still have 
+	survived to tell of it.
+
+Sargatanas:
+
+![sargatanas](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_sargatanas.jpg)
+
+Barlowe:
+
+	A former seraph and now a Brigadier General and Demon Major of enormous power, 
+	Sargatanas was a hero in Lucifer’s War with Heaven. Since his Fall, he has 
+	established himself as one of the few demons capable of rivaling the Prince for
+	control of Hell.
+
+Hannibal and his army:
+
+![hannibal army](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_hannibalarmy.jpg)
+
+Lilith:
+
+![lilith](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_lilith1.jpg)
+
+Moloch. So *this* is Moloch!
+
+![moloch](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_moloch.jpg)
+
+Decurion and steed:
+
+![decurion](https://waynebarlowe.files.wordpress.com/2011/06/decurion-and-steed-paint-sketch-copy.jpg?w=950&h=736)
+
+Faraii acquires his sword:
+
+![faraii](https://waynebarlowe.files.wordpress.com/2011/06/faraii-acquires-his-sword-copy.jpg?w=763&h=1024)
+
+Belial in the new world:
+
+![belial](https://waynebarlowe.files.wordpress.com/2011/06/wayne_barlowe_belial_in_the_new_world_sketch.jpg?w=768&h=1227)
+
+Watchtower:
+
+![watchtower](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_watchtower.jpg)
+
+Unholy communion:
+
+![unholy](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_holy-communion1.jpg)
+
+Succubus:
+
+![succubus](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_succubus.jpg)
+
+Lucifuge:
+
+![lucifuge](https://waynebarlowe.files.wordpress.com/2011/06/barlowe_lucifuge_rofocale.jpg)
+
+Molars of the Leviathan:
+
+![molars leviathan](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdM1bmpWXRCeIeZhFmuy9glbL6sDCmKUp6R2H7QXR4QY25_pBAdg)
 
 
 <a name="##How-people-thought-the-future-would-be-like"></a>
