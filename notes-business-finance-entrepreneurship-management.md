@@ -1,4 +1,4 @@
-*[Word count](https://wordcounter.net/): 22,000*
+*[Word count](https://wordcounter.net/): 22,900*
 
 ## What is this?
 
@@ -31,6 +31,8 @@ I've sorted the quotes below into the following categories. This is a provisiona
 2. [Venture capital](#venture-capital)
 	1. [Typical route to becoming a VC](#Typical-route-to-becoming-VC)
 3. [Work](#work)
+	1. [Future of work](#future-of-work)
+		1. [Jobs inside the API](#jobs-inside-the-api)
 	1. [Real work and bullshit jobs](#Real-work-and-bullshit-jobs) (long section)
 	2. [Don't do what you love, do what contributes](#Dont-do-what-you-love-do-what-contributes)
 	3. [The market doesn't give a shit how hard you worked](#The-market-doesnt-give-a-shit-how-hard-you-worked)
@@ -355,6 +357,164 @@ Some pushback in the comments by people whose experience was that the DMV is eff
 <a name="#Work"></a>
 ## Work
 ([overview](#overview)) 
+
+<a name="#future-of-work"></a>
+### Future of work
+([overview](#overview))
+
+<a name="#replacing-middle-management-with-apis"></a>
+### Replacing middle management with APIs
+([overview](#overview))
+
+<a name="#jobs-inside-the-api"></a>
+### Jobs inside the API
+([overview](#overview))
+
+From Peter Reinhardt's essay [Replacing middle management with APIs](https://rein.pk/replacing-middle-management-with-apis):
+
+	There’s a trend in Silicon Valley startups to create a software layer in industries
+	that were traditionally pure human services. Uber and Lyft have created software
+	layers in the taxi industry, 99designs Tasks in the visual design industry, Homejoy
+	in the cleaning industry, and so on. These new software services employ armies of 
+	human workers, optimizing their output, productivity and quality while driving price
+	down.
+
+	The software layer between the company and their armies of contractors eliminates a
+	huge amount of middle management, and creates a worrisome disconnect between jobs 
+	that will be automated, and jobs of increasing leverage and value.
+
+	This software layer generally has three parts: the user interface (UI) for the end 
+	customer, a programming interface (API) that actually dispatches a human worker, and
+	a second interface for the worker to execute the task efficiently. The API component
+	is the interesting and slightly disturbing part.
+	
+Uber as an example:	
+
+	Uber has a mobile app (UI) that talks to their servers (API). You can 
+	imagine that their servers effectively take three parameters: credit card, drive from,
+	and drive to… and they dispatch a human to do it.
+
+		uber.drive(card, pointA, pointB); // pseudocode obviously
+
+	What does that make the drivers? Cogs in a giant automated dispatching machine, 
+	controlled through clever programming optimizations like surge pricing? 
+
+	Drivers have often told me that the job grants them incredible autonomy: they can drive
+	whenever they feel like it, and they’ve stopped looking for jobs in finance or
+	construction because the daily freedom is so valuable to them. There’s liquidity in the 
+	marketplace that allows them to come and go as they see fit. 
+
+	But the actual driving is perfectly orchestrated by software, and it’s not a secret 
+	that Uber intends to eventually replace all their drivers with self-driving cars. I 
+	worry that the army of Lyft and Uber drivers is opting into an easy, and sometimes-
+	intended-to-be-temporary, dead-end career path. This may be ok at the moment for some
+	drivers who enjoy driving and the flexibility of the job. But driving as an occupation
+	will disappear practically overnight when self-driving cars hit the road.
+	
+Once you push jobs below the API, you'll want to automate them entirely to save costs:	
+	
+	What’s bizarre here is that these lines of code directly control real humans. The Uber
+	API dispatches a human to drive from point A to point B. And the 99designs Tasks API
+	dispatches a human to convert an image into a vector logo (black, white and color). 
+	Humans are on the verge of becoming literal cogs in a machine, completely anonymized
+	behind an API. And the companies that control those APIs have strong incentives to 
+	drive down the cost of executing those API methods.
+	
+	Economic incentives will push Above the API engineers to automate the jobs Below the
+	API: self-driving cars and drone delivery are certainly on the way. The gap in 
+	training and social groups above and below could mean that new automation technology
+	causes sudden, large-scale unemployment and a surge in demand for subsidized training. 
+
+Peter worries about mid-term prospects 5-20 years out. He thinks this software layer blocks upward career path:
+
+	Drivers are opting into a dichotomous workforce: the worker bees below the software 
+	layer have no opportunity for on-the-job training that advances their career, and
+	compassionate social connections don’t pierce the software layer either. The skills 
+	they develop in driving are not an investment in their future. Once you introduce the
+	software layer between “management” (Uber’s full-time employees building the app and
+	computer systems) and the human workers below the software layer (Uber’s drivers, 
+	Instacart’s delivery people), there’s no obvious path upwards. In fact, there’s a 
+	massive gap and no systems in place to bridge it.
+	
+You can combine these APIs -- this is great for any budding entrepreneur without a lot of resources to get started, but bad for the future of work in general:
+
+	I suspect these software layers will only get thicker. Entrepreneurial software 
+	developers will find ways to tie these APIs together, delivering products that 
+	combine several “human” APIs. Someone could use Mechanical Turk’s API to automate
+	sales prospect research, plug that data into 99designs Tasks’ API to prepare 
+	customized infographics for the prospect sent via email. Or someone could use
+	Redfin’s API to automatically purchase houses, and send a Zirtual assistant 
+	instructions via email on how to project-manage a renovation, flipping the house 
+	completely programmatically. These “real-world APIs” allow complex programs (or an
+	AI in the spooky storyline here), to affect and control things in the real-world.
+	It does seem apropos that we invest in AI safety now.
+	
+Anthony Kosner over at Forbes supplies a nice infographic:
+
+![jobs below api](https://mb21.github.io/blog/assets/2015-05-17-Jobs-below-the-API/above-and-below-the-api-jobs.png)
+
+Jacob Falkovich over at [Putanumonit](https://putanumonit.com) wrote up [a half-funny half-horrifying exchange](https://putanumonit.com/2018/08/09/jobs-inside-the-api/) between himself and an airport operations manager Below The API that you should totally check out. Jacob then asks:
+
+	Here’s what I wondered as the scene at the airport unfolded: why do the United
+	Airlines agents still have their jobs?
+
+	Everyone is constantly worrying about the future when more and more jobs are 
+	automated, and with good reason. But as far as I was concerned, the jobs of 
+	airline agents *have already been automated, and yet they still have their jobs*.
+
+	These agents are nothing but a stupid interface layer between me and the flight 
+	management system. Whatever else they do, like checking that the face on my head 
+	matches the face in the passport, can already be done better by machines. They 
+	are invariably slower than automated systems, more error-prone, and vastly more
+	annoying.
+
+	The immediate cause of these agents’ employment is the fact that many travelers
+	wouldn’t know how to use Google Flights or a similar system for booking flights
+	and tracking their luggage. But it’s more than that.
+
+	Air travel is frustrating. Flights get delayed, luggage gets lost, passengers get
+	dragged off planes. I suspect that many people not only want a human to interface
+	with the flight booking systems for them, they also want a human to yell at when
+	things go wrong. If you fly a lot you know that a big part of airline agents’ job
+	is to smile while being berated by angry passengers. I’m beginning to suspect that
+	it’s the main part.
+
+That last paragraph is Jacob's core insight, which I think is true (I certainly find myself drawn to it, since experienced humans tend to be more robust to outlier cases and ineptitude on my part than APIs). 
+
+Jacob thinks, and I agree, that customers are splitting into two kinds -- "those who prefer their commercial transactions automated, and ditto humanized":
+
+	It seems that customers are splitting into two kinds: those who prefer their 
+	commercial transactions automated, and those who prefer them humanized. I buy 
+	shoes from Zappos and soap from Amazon, but some people want a person to tell 
+	them that a shoe or soap matches their hair or whatever. I do my taxes online 
+	and never set foot in the bank or the post office, and yet there are always long
+	lines at both. The market keeps providing ever more algorithmic services for me,
+	and ever more human touches for those who want them.
+
+	But as the algorithmic services are becoming better and better, it doesn’t make 
+	sense to have humans doing the same thing but worse. Instead, there’s an
+	opportunity for future jobs to pop up in the interface between the robots and the
+	people who don’t want to deal with the robots directly.
+
+	That’s what tax preparers are – they use the exact same software that anyone can 
+	use at home, but they allow you to talk to a human (and blame a human) instead of
+	learning the software. That’s what the United agents do.
+
+	When everyone realizes that Zappos has more shoes, and at a lower price, than any
+	shoe store, I can imagine shoe stores being replaced by people sitting at screens.
+	You would talk to these people, they would ask about your day and measure your
+	feet, and then they would order you the shoes you want from Zappos. And if the 
+	shoes pinch, you would have someone to yell at while they smile.
+
+	You can already hire a personal assistant to interface between you and many 
+	algorithms, but each algorithm could have assistants interfacing between it and 
+	many customers. These jobs aren’t quite above or below the API, they’re part of 
+	the API.
+
+	I don’t just think that many future jobs might be of this kind, I think that a lot
+	of present jobs are becoming inside-the-API as algorithms do more and more of the
+	actual work.
+	
 
 <a name="#Real-work-and-bullshit-jobs"></a>
 ### Real work and bullshit jobs
